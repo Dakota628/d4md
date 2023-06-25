@@ -3,13 +3,13 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Undead Undone</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr><tr><td><b>szLabel</b></td><td><code>Desc</code></td></tr><tr><td><b>szText</b></td><td><code>Kill 666 Ghosts, Skeletons, or Zombies</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Desc</code></td></tr><tr><td><b>szText</b></td><td><code>Kill 666 Ghosts, Skeletons, or Zombies</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_235681</code></td></tr><tr><td><b>szText</b></td><td><code>Kill Ghosts</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034215978</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Kill Skeleton</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034215977</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_235680</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_235680</code></td></tr><tr><td><b>szText</b></td><td><code>Kill Skeleton</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034215977</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_235679</code></td></tr><tr><td><b>szText</b></td><td><code>Kill Zombie</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034215953</code></td></tr></table>

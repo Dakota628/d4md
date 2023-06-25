@@ -3,13 +3,13 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Light Bearer</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Description</code></td></tr><tr><td><b>szText</b></td><td><code>The reach of the Church is great, and this is in no small part due to the power and endurance of its warhorses.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2789670820</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2789670820</code></td></tr><tr><td><b>szLabel</b></td><td><code>Description</code></td></tr><tr><td><b>szText</b></td><td><code>The reach of the Church is great, and this is in no small part due to the power and endurance of its warhorses.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Quote</code></td></tr><tr><td><b>szText</b></td><td><code>Carrying the Light to the far corners of Sanctuary.</code></td></tr><tr><td><b>hLabel</b></td><td><code>138338510</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Carrying the Light to the far corners of Sanctuary.</code></td></tr><tr><td><b>hLabel</b></td><td><code>138338510</code></td></tr><tr><td><b>szLabel</b></td><td><code>Quote</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Prestige Mount & Mount Armor</code></td></tr><tr><td><b>hLabel</b></td><td><code>329595531</code></td></tr><tr><td><b>szLabel</b></td><td><code>Series</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Series</code></td></tr><tr><td><b>szText</b></td><td><code>Prestige Mount & Mount Armor</code></td></tr><tr><td><b>hLabel</b></td><td><code>329595531</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -3,13 +3,13 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line2.BAE4.Bar</code></td></tr><tr><td><b>szText</b></td><td><code>She was reborn from those growths. I must scour them all.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1997204231</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir2.BAE4.Bar</code></td></tr><tr><td><b>szText</b></td><td><code>Mild shock. Realizing what just happened.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2910535188</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2910535188</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir2.BAE4.Bar</code></td></tr><tr><td><b>szText</b></td><td><code>Mild shock. Realizing what just happened.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line2.BAE4.Dru</code></td></tr><tr><td><b>szText</b></td><td><code>She was reborn from those growths. I must scour them all.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1997206973</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>She was reborn from those growths. I must scour them all.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1997206973</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line2.BAE4.Dru</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir2.BAE4.Dru</code></td></tr><tr><td><b>szText</b></td><td><code>Mild shock. Realizing what just happened.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2910537930</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2910537930</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir2.BAE4.Dru</code></td></tr><tr><td><b>szText</b></td><td><code>Mild shock. Realizing what just happened.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line2.BAE4.Nec</code></td></tr><tr><td><b>szText</b></td><td><code>She came back against the Balance. I must destroy every shred of her work.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1997217416</code></td></tr></table>
@@ -24,7 +24,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir2.BAE4.Rog</code></td></tr><tr><td><b>szText</b></td><td><code>Mild shock. Realizing what just happened.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2910553063</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1997223206</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line2.BAE4.Sor</code></td></tr><tr><td><b>szText</b></td><td><code>She was reborn from those growths. I must scour them all.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line2.BAE4.Sor</code></td></tr><tr><td><b>szText</b></td><td><code>She was reborn from those growths. I must scour them all.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1997223206</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir2.BAE4.Sor</code></td></tr><tr><td><b>szText</b></td><td><code>Mild shock. Realizing what just happened.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2910554163</code></td></tr></table>

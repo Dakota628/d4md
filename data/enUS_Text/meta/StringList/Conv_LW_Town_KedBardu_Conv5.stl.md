@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.F8D69</code></td></tr><tr><td><b>szText</b></td><td><code>When can we go home? Ked Bardu smells like smoke, the food is too salty, and yak fur is itchy.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567399992</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.F8D6B</code></td></tr><tr><td><b>szText</b></td><td><code>Shush. This is home now.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150335971</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4150335971</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.F8D6B</code></td></tr><tr><td><b>szText</b></td><td><code>Shush. This is home now.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

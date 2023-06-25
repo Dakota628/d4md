@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"Why do you want the Woodsman's Axe?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.102113</code></td></tr><tr><td><b>szText</b></td><td><code>I don't, Parin does. He's a priest of sorts, but what he wants with it I don't know. I've done work for him in the past, always odd items or objects with a history. He pays well for them.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2394093775</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2394093775</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.102113</code></td></tr><tr><td><b>szText</b></td><td><code>I don't, Parin does. He's a priest of sorts, but what he wants with it I don't know. I've done work for him in the past, always odd items or objects with a history. He pays well for them.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.102113</code></td></tr><tr><td><b>szText</b></td><td><code>Matter of fact</code></td></tr><tr><td><b>hLabel</b></td><td><code>3739821212</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3739821212</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.102113</code></td></tr><tr><td><b>szText</b></td><td><code>Matter of fact</code></td></tr></table>
 
 
 </td></tr></table>

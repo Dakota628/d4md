@@ -27,7 +27,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>(scoff) Wise words...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1865035611</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>humorless, self-loathing</code></td></tr><tr><td><b>hLabel</b></td><td><code>3210763048</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.6D03F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>humorless, self-loathing</code></td></tr><tr><td><b>hLabel</b></td><td><code>3210763048</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>But I...</code></td></tr><tr><td><b>hLabel</b></td><td><code>153004253</code></td></tr></table>
@@ -36,16 +36,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>I have a promise to keep.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2735940191</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1023908833</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line17.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>(sigh) That’s why you must ride north, ahead of me. If the Cathedral doesn’t have her yet, Neyrelle might head for the Vault.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line17.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>(sigh) That’s why you must ride north, ahead of me. If the Cathedral doesn’t have her yet, Neyrelle might head for the Vault.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1023908833</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line21.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>(grunts)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1533805628</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir21.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>climbing up on horse exertion</code></td></tr><tr><td><b>hLabel</b></td><td><code>2879533065</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2879533065</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir21.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>climbing up on horse exertion</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Find her. Once you’re together, meet me at Donan’s Estate.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3606844771</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line19.6D03F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line19.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Find her. Once you’re together, meet me at Donan’s Estate.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3606844771</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

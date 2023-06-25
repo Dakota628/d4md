@@ -1,6 +1,6 @@
 <h1>data/base/meta/Storyboard/ShrineText.stb</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/Storyboard/ShrineText.stb</td></tr><tr><td><b>Type</b></td><td>StoryboardDefinition</td></tr><tr><td><b>SNO ID</b></td><td>404212</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_97f94e0</b></td><td><table><tr><th colspan="100%">Type_36030d2d</th></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_56dcc16f</th></tr><tr><td><b>dwType</b></td><td><code>1457308015</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>0</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_97f94e0</b></td><td><table><tr><th colspan="100%">Type_36030d2d</th></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_56dcc16f</th></tr><tr><td><b>dwType</b></td><td><code>1457308015</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>0</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0.4333333373069763</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>255</code></td></tr><tr><td><b>eEasing</b></td><td><code>30</code></td></tr></table>
@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>7</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>255</code></td></tr><tr><td><b>eEasing</b></td><td><code>30</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>tValue</b></td><td><code>0</code></td></tr><tr><td><b>eEasing</b></td><td><code>30</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>7.5</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>7.5</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>0</code></td></tr><tr><td><b>eEasing</b></td><td><code>30</code></td></tr></table>
 
 
 </td></tr><tr><td><b>unk_36cc429</b></td><td><code>0</code>
@@ -23,13 +23,33 @@
 
 </td></tr></table>
 
-</td></tr><tr><td><b>arChildControls</b></td><td><table><tr><th colspan="100%">Type_87385a6d</th></tr><tr><td><b>szTarget</b></td><td><code>shrine_description</code></td></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_56dcc16f</th></tr><tr><td><b>dwType</b></td><td><code>1457308015</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>0</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>arChildControls</b></td><td><table><tr><th colspan="100%">Type_87385a6d</th></tr><tr><td><b>szTarget</b></td><td><code>shrine_description</code></td></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_56dcc16f</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1457308015</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>0</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0.7333333492279053</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>0</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>1.5</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>255</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>255</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>1.5</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_36cc429</b></td><td><code>0</code>
+<code>1</code>
+<code>2</code>
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_77ed19a</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_87385a6d</th></tr><tr><td><b>szTarget</b></td><td><code>gizmo_background</code></td></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_16e3cafe</th></tr><tr><td><b>dwType</b></td><td><code>384027390</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>35</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0.5333333611488342</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>35</code></td></tr><tr><td><b>eEasing</b></td><td><code>30</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>0</code></td></tr><tr><td><b>eEasing</b></td><td><code>30</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>1.1666666269302368</code></td></tr></table>
 
 
 </td></tr><tr><td><b>unk_36cc429</b></td><td><code>0</code>
@@ -40,30 +60,10 @@
 </td></tr><tr><td><b>unk_77ed19a</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
 
 
-</td></tr></table>
+<table><tr><th colspan="100%">Type_56dcc16f</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1457308015</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>0</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_87385a6d</th></tr><tr><td><b>szTarget</b></td><td><code>gizmo_background</code></td></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_16e3cafe</th></tr><tr><td><b>dwType</b></td><td><code>384027390</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>unk_36cc429</b></td><td><code>0</code>
-<code>1</code>
-<code>2</code>
-</td></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>35</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>flTime</b></td><td><code>0.5333333611488342</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>35</code></td></tr><tr><td><b>eEasing</b></td><td><code>30</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>1.1666666269302368</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>0</code></td></tr><tr><td><b>eEasing</b></td><td><code>30</code></td></tr></table>
-
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_77ed19a</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_56dcc16f</th></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>0</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0.4000000059604645</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>0</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>0</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0.4000000059604645</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0.8999999761581421</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>255</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
@@ -74,7 +74,7 @@
 <code>2</code>
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_77ed19a</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1457308015</code></td></tr></table>
+</td></tr><tr><td><b>unk_77ed19a</b></td><td><code>0</code></td></tr></table>
 
 
 </td></tr></table>

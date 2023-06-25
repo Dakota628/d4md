@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>The Path Divided</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Meet your allies in Zarbinzet</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>Meet your allies in Zarbinzet</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BreadcrumbHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Meet your allies in Zarbinzet</code></td></tr><tr><td><b>hLabel</b></td><td><code>2596636736</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Meet your allies in Zarbinzet</code></td></tr><tr><td><b>hLabel</b></td><td><code>2596636736</code></td></tr><tr><td><b>szLabel</b></td><td><code>BreadcrumbHeader</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BreadcrumbDescription</code></td></tr><tr><td><b>szText</b></td><td><code>My allies prepare for a journey through the swamps of Hawezar. I should meet with them.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4222796379</code></td></tr></table>
@@ -15,13 +15,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase5Description</code></td></tr><tr><td><b>szText</b></td><td><code>My allies prepare for a journey through the swamps of Hawezar. I should meet with them.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3388789226</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Meet your allies in Zarbinzet</code></td></tr><tr><td><b>hLabel</b></td><td><code>2724380274</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase5OutsideSubzoneHeader</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2724380274</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase5OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Meet your allies in Zarbinzet</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3097634794</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback4Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Taissa</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback4Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Taissa</code></td></tr><tr><td><b>hLabel</b></td><td><code>3097634794</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase11Description</code></td></tr><tr><td><b>szText</b></td><td><code>My allies prepare for a journey through the swamps of Hawezar. I should meet with them.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1641010231</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1641010231</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase11Description</code></td></tr><tr><td><b>szText</b></td><td><code>My allies prepare for a journey through the swamps of Hawezar. I should meet with them.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase11OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Donan in Zarbinzet</code></td></tr><tr><td><b>hLabel</b></td><td><code>65382239</code></td></tr></table>

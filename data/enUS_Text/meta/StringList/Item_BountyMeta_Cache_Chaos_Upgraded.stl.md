@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Greater Collection of Chaos</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Description</code></td></tr><tr><td><b>szText</b></td><td><code>A cache of items as a reward for your efforts. Contains a random assortment and amount of items from all the other available collections.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2789670820</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>A cache of items as a reward for your efforts. Contains a random assortment and amount of items from all the other available collections.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2789670820</code></td></tr><tr><td><b>szLabel</b></td><td><code>Description</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Flavor</code></td></tr><tr><td><b>szText</b></td><td><code>The Tree leaves no debt unsettled. Some of the items inside smell faintly of decay, but the whispers assure you their value is undiminished.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4123507722</code></td></tr></table>

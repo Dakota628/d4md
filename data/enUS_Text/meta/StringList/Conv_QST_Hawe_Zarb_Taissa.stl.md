@@ -21,13 +21,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line17.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>What about Donan?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1023966536</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2369693973</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir17.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Donan is in a different part of the village at the moment--not near the group.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir17.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Donan is in a different part of the village at the moment--not near the group.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2369693973</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>He has his hands full with the soulstone. A heavy burden to bear alone. Might be wise to offer him assistance.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3606844771</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line19.6D03F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line19.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>He has his hands full with the soulstone. A heavy burden to bear alone. Might be wise to offer him assistance.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3606844771</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>[contemplative] </code></td></tr><tr><td><b>hLabel</b></td><td><code>657604912</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.6D03F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>[contemplative] </code></td></tr><tr><td><b>hLabel</b></td><td><code>657604912</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

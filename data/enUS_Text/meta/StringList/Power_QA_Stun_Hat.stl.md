@@ -7,8 +7,8 @@
 Swing wildly, hitting all enemies around you for {c_yellow}{payload:DAMAGE}{/c} damage.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><pre>{c_gold}Cooldown: {/c}{c_green}{Cooldown Time}{/c}
-Swing wildly, hitting all enemies around you for {c_yellow}{payload:DAMAGE}{/c} damage.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4074669608</code></td></tr><tr><td><b>szLabel</b></td><td><code>simple_desc</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>simple_desc</code></td></tr><tr><td><b>szText</b></td><td><pre>{c_gold}Cooldown: {/c}{c_green}{Cooldown Time}{/c}
+Swing wildly, hitting all enemies around you for {c_yellow}{payload:DAMAGE}{/c} damage.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4074669608</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

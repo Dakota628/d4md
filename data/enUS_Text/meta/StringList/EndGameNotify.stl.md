@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>LeaveNow</code></td></tr><tr><td><b>szText</b></td><td><code>Leave Now</code></td></tr><tr><td><b>hLabel</b></td><td><code>4115971201</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>You will be returned to the entrance in {s1}s</code></td></tr><tr><td><b>hLabel</b></td><td><code>3417462195</code></td></tr><tr><td><b>szLabel</b></td><td><code>ReturnToEntrance</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ReturnToEntrance</code></td></tr><tr><td><b>szText</b></td><td><code>You will be returned to the entrance in {s1}s</code></td></tr><tr><td><b>hLabel</b></td><td><code>3417462195</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KeyedDungeonFailureReason</code></td></tr><tr><td><b>szText</b></td><td><code>No more Revives available</code></td></tr><tr><td><b>hLabel</b></td><td><code>2537536754</code></td></tr></table>
@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KeyedDungeonFailure</code></td></tr><tr><td><b>szText</b></td><td><code>Nightmare Dungeon Failed</code></td></tr><tr><td><b>hLabel</b></td><td><code>743397930</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3811210692</code></td></tr><tr><td><b>szLabel</b></td><td><code>LeaveNow_Controller</code></td></tr><tr><td><b>szText</b></td><td><code>{icon:button4, 2.0} Leave Now</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>LeaveNow_Controller</code></td></tr><tr><td><b>szText</b></td><td><code>{icon:button4, 2.0} Leave Now</code></td></tr><tr><td><b>hLabel</b></td><td><code>3811210692</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KeyedDungeonComplete</code></td></tr><tr><td><b>szText</b></td><td><code>Nightmare Dungeon Complete</code></td></tr><tr><td><b>hLabel</b></td><td><code>817648507</code></td></tr></table>
@@ -24,7 +24,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>RewardsCompletion</code></td></tr><tr><td><b>szText</b></td><td><code>Completion Rewards</code></td></tr><tr><td><b>hLabel</b></td><td><code>1248862738</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>RewardsTrial</code></td></tr><tr><td><b>szText</b></td><td><code>Trial Rewards</code></td></tr><tr><td><b>hLabel</b></td><td><code>3385364660</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Trial Rewards</code></td></tr><tr><td><b>hLabel</b></td><td><code>3385364660</code></td></tr><tr><td><b>szLabel</b></td><td><code>RewardsTrial</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CellarComplete</code></td></tr><tr><td><b>szText</b></td><td><code>Cellar Complete</code></td></tr><tr><td><b>hLabel</b></td><td><code>1340594956</code></td></tr></table>

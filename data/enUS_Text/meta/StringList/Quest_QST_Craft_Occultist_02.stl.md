@@ -8,7 +8,7 @@
 Seek out Demyan in Kyovashad.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3916087103</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1910939449</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback21Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Demyan</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback21Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Demyan</code></td></tr><tr><td><b>hLabel</b></td><td><code>1910939449</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -6,6 +6,6 @@
 <code>1</code>
 <code>0</code>
 <code>1</code>
-</td></tr><tr><td><b>arAffixes</b></td><td><a href="..\ParagonGlyphAffix\VulnerableDamage_Dexterity_Magic_Side.gaf">[DT_SNO] ParagonGlyphAffix: "VulnerableDamage_Dexterity_Magic_Side"</a>
+</td></tr><tr><td><b>arAffixes</b></td><td><a href="..\ParagonGlyphAffix\VulnerableDamage_Dexterity_Magic_Side.gaf.md">[DT_SNO] ParagonGlyphAffix: "VulnerableDamage_Dexterity_Magic_Side"</a>
 </td></tr></table>
 

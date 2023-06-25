@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir17.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>In denial. Trying to "logic" his way out of this hopeless situation. Flustered.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2370947278</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line19.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>It will take time for Astaroth to overpower my boy. I taught him well. Even now, he is resisting the demon’s influence.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3608155779</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>It will take time for Astaroth to overpower my boy. I taught him well. Even now, he is resisting the demon’s influence.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3608155779</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line19.7FA05</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>In denial. Trying to "logic" his way out of this hopeless situation. Flustered.</code></td></tr><tr><td><b>hLabel</b></td><td><code>658915920</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.7FA05</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>In denial. Trying to "logic" his way out of this hopeless situation. Flustered.</code></td></tr><tr><td><b>hLabel</b></td><td><code>658915920</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line23.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>They'll be close by. Cerrigar, perhaps. All those innocents to burn will excite Astaroth...make him fight harder to...to take control...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4118052574</code></td></tr></table>
@@ -30,7 +30,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line25.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>I...I don’t know...</code></td></tr><tr><td><b>hLabel</b></td><td><code>2406021216</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Quiet, at a loss</code></td></tr><tr><td><b>hLabel</b></td><td><code>3751748653</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir25.7FA05</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir25.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Quiet, at a loss</code></td></tr><tr><td><b>hLabel</b></td><td><code>3751748653</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

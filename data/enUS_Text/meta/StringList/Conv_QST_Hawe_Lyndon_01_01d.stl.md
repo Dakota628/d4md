@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.124D40</code></td></tr><tr><td><b>szText</b></td><td><code>Fine, run your little errand. I'll be making sure Rodney's not flapping his mouth again.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2396593126</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>Good. Just don’t kill him.</code></td></tr><tr><td><b>hLabel</b></td><td><code>406649905</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>406649905</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>Good. Just don’t kill him.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.124D40</code></td></tr><tr><td><b>szText</b></td><td><code>Make things quieter…</code></td></tr><tr><td><b>hLabel</b></td><td><code>4041720558</code></td></tr></table>

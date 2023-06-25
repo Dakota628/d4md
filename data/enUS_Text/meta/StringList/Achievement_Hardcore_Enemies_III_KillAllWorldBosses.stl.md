@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Desc</code></td></tr><tr><td><b>szText</b></td><td><code>Kill every World Boss in Hardcore mode.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_234533</code></td></tr><tr><td><b>szText</b></td><td><code>Ashava Slain</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034178789</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1034178789</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_234533</code></td></tr><tr><td><b>szText</b></td><td><code>Ashava Slain</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_234535</code></td></tr><tr><td><b>szText</b></td><td><code>Avarice Slain</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034178791</code></td></tr></table>

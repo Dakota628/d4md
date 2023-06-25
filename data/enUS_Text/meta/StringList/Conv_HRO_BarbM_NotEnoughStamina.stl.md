@@ -3,13 +3,13 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.BAE4.Bar.M</code></td></tr><tr><td><b>szText</b></td><td><code>I'm out of stamina.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3155778761</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.BAE4.Bar.M</code></td></tr><tr><td><b>szText</b></td><td><code>I need more stamina.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4288645234</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4288645234</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.BAE4.Bar.M</code></td></tr><tr><td><b>szText</b></td><td><code>I need more stamina.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.BAE4.Bar.M</code></td></tr><tr><td><b>szText</b></td><td><code>My stamina is exhausted.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1636188980</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3278700022</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line15.BAE4.Bar.M</code></td></tr><tr><td><b>szText</b></td><td><code>I need a rest.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.BAE4.Bar.M</code></td></tr><tr><td><b>szText</b></td><td><code>I need a rest.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3278700022</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

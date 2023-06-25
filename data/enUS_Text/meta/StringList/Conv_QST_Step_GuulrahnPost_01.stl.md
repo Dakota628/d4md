@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Should have killed him when I had the chance...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094936268</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1662855929</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Musing, to himself. "Him" refers to Elias.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Musing, to himself. "Him" refers to Elias.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1662855929</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>We must hurry.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2382904910</code></td></tr></table>

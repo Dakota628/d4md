@@ -1,6 +1,6 @@
 <h1>data/base/meta/GameBalance/DungeonStates.gam</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/GameBalance/DungeonStates.gam</td></tr><tr><td><b>Type</b></td><td>GameBalanceDefinition</td></tr><tr><td><b>SNO ID</b></td><td>368485</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>eGameBalanceType</b></td><td><code>31</code></td></tr><tr><td><b>bIgnoreOnLoad</b></td><td><code>0</code></td></tr><tr><td><b>ptData</b></td><td><table><tr><th colspan="100%">DungeonStatesEntry_Table</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tEntries</b></td><td><table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_DailyDungeon_Saturday</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>551550647</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>eGameBalanceType</b></td><td><code>31</code></td></tr><tr><td><b>bIgnoreOnLoad</b></td><td><code>0</code></td></tr><tr><td><b>ptData</b></td><td><table><tr><th colspan="100%">DungeonStatesEntry_Table</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tEntries</b></td><td><table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_DailyDungeon_Saturday</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>551550647</code></td></tr></table>
 
 </td></tr></table>
 
@@ -10,7 +10,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_DailyDungeon_Sunday</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4113871838</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4113871838</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_DailyDungeon_Sunday</code></td></tr></table>
 
 </td></tr></table>
 
@@ -30,7 +30,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1941095180</code></td></tr><tr><td><b>szName</b></td><td><code>Dungeon_Event_Active</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Dungeon_Event_Active</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1941095180</code></td></tr></table>
 
 </td></tr></table>
 
@@ -40,22 +40,22 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2930911849</code></td></tr><tr><td><b>szName</b></td><td><code>DE_TolloftheDeep_Drowned</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DE_TolloftheDeep_Drowned</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2930911849</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DE_AltarOfBishibosh_Fallen</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>548742653</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>548742653</code></td></tr><tr><td><b>szName</b></td><td><code>DE_AltarOfBishibosh_Fallen</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1822689032</code></td></tr><tr><td><b>szName</b></td><td><code>DE_AltarOfRakanishu_Fallen</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DE_AltarOfRakanishu_Fallen</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1822689032</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DE_CorruptedShrine_Goatman</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>473046319</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>473046319</code></td></tr><tr><td><b>szName</b></td><td><code>DE_CorruptedShrine_Goatman</code></td></tr></table>
 
 </td></tr></table>
 
@@ -70,17 +70,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Maggot_Fire</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1716346411</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1716346411</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Maggot_Fire</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4212276934</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Woodwraith_Scos</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Woodwraith_Scos</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4212276934</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1811630338</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Maggot_Physical</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Maggot_Physical</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1811630338</code></td></tr></table>
 
 </td></tr></table>
 
@@ -95,7 +95,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1246965110</code></td></tr><tr><td><b>szName</b></td><td><code>KotH No Monsters in the ring</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>KotH No Monsters in the ring</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1246965110</code></td></tr></table>
 
 </td></tr></table>
 
@@ -105,7 +105,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Test_Encounter_Dungeon_Bandit</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>117957522</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>117957522</code></td></tr><tr><td><b>szName</b></td><td><code>Test_Encounter_Dungeon_Bandit</code></td></tr></table>
 
 </td></tr></table>
 
@@ -120,12 +120,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2847742323</code></td></tr><tr><td><b>szName</b></td><td><code>Test_Encounter_Dungeon_Drowned</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Test_Encounter_Dungeon_Drowned</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2847742323</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Test_Encounter_Dungeon_Fallen</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>274435794</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>274435794</code></td></tr><tr><td><b>szName</b></td><td><code>Test_Encounter_Dungeon_Fallen</code></td></tr></table>
 
 </td></tr></table>
 
@@ -150,7 +150,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Test_Encounter_Dungeon_Werewolf</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2269960939</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2269960939</code></td></tr><tr><td><b>szName</b></td><td><code>Test_Encounter_Dungeon_Werewolf</code></td></tr></table>
 
 </td></tr></table>
 
@@ -160,32 +160,32 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>TILESET_ARCHIVES_SAND</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4172970483</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4172970483</code></td></tr><tr><td><b>szName</b></td><td><code>TILESET_ARCHIVES_SAND</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>TILESET_CAVE_ROOT</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3013409723</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3013409723</code></td></tr><tr><td><b>szName</b></td><td><code>TILESET_CAVE_ROOT</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>TILESET_CRUS_FORT</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>933463696</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>933463696</code></td></tr><tr><td><b>szName</b></td><td><code>TILESET_CRUS_FORT</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2139599029</code></td></tr><tr><td><b>szName</b></td><td><code>TILESET_LAVI_RUINS</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>TILESET_LAVI_RUINS</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2139599029</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>557232491</code></td></tr><tr><td><b>szName</b></td><td><code>TILESET_PALE_RUINS</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>TILESET_PALE_RUINS</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>557232491</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>TILESET_PROTODUN_CRYPT</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1043302021</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1043302021</code></td></tr><tr><td><b>szName</b></td><td><code>TILESET_PROTODUN_CRYPT</code></td></tr></table>
 
 </td></tr></table>
 
@@ -195,7 +195,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>TILESET_ZAK_MONA</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1016306953</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1016306953</code></td></tr><tr><td><b>szName</b></td><td><code>TILESET_ZAK_MONA</code></td></tr></table>
 
 </td></tr></table>
 
@@ -210,7 +210,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>UNKNOWN3</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>255446819</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>255446819</code></td></tr><tr><td><b>szName</b></td><td><code>UNKNOWN3</code></td></tr></table>
 
 </td></tr></table>
 
@@ -225,7 +225,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2258305034</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Spider_physical</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Spider_physical</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2258305034</code></td></tr></table>
 
 </td></tr></table>
 
@@ -235,7 +235,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Fallen_fire</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2494985086</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2494985086</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Fallen_fire</code></td></tr></table>
 
 </td></tr></table>
 
@@ -245,12 +245,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3488478326</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Drowned_physical</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Drowned_physical</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3488478326</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2049288454</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Cultist_poison</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Cultist_poison</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2049288454</code></td></tr></table>
 
 </td></tr></table>
 
@@ -260,7 +260,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2501337020</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Bear_Frac</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Bear_Frac</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2501337020</code></td></tr></table>
 
 </td></tr></table>
 
@@ -280,7 +280,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Skeleton_cold</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1393070093</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1393070093</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Skeleton_cold</code></td></tr></table>
 
 </td></tr></table>
 
@@ -305,17 +305,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Vampire_lightning</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2027945182</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2027945182</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Vampire_lightning</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Knight_Lightning</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3578780335</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3578780335</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Knight_Lightning</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Knight_Fire</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1581157137</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1581157137</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Knight_Fire</code></td></tr></table>
 
 </td></tr></table>
 
@@ -340,7 +340,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3479435227</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Cannibal_physical</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Cannibal_physical</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3479435227</code></td></tr></table>
 
 </td></tr></table>
 
@@ -395,7 +395,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Cannibal_cold</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>652540960</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>652540960</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Cannibal_cold</code></td></tr></table>
 
 </td></tr></table>
 
@@ -420,42 +420,42 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Werewolf_lightning</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3956444245</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3956444245</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Werewolf_lightning</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2921078007</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Werewolf_fire</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Werewolf_fire</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2921078007</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2084627569</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Goatman_lightning</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Goatman_lightning</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2084627569</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Snake_poison</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1917201904</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1917201904</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Snake_poison</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2667116028</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Snake_lightning</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Snake_lightning</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2667116028</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2494883610</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Fallen_cold</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Fallen_cold</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2494883610</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>423636056</code></td></tr><tr><td><b>szName</b></td><td><code>DE_LastBreath_Goatman</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DE_LastBreath_Goatman</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>423636056</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3693104220</code></td></tr><tr><td><b>szName</b></td><td><code>DE_PotentBlood_Werewolf</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DE_PotentBlood_Werewolf</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3693104220</code></td></tr></table>
 
 </td></tr></table>
 
@@ -465,7 +465,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>978317540</code></td></tr><tr><td><b>szName</b></td><td><code>DE_LastBreath_Drowned</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DE_LastBreath_Drowned</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>978317540</code></td></tr></table>
 
 </td></tr></table>
 
@@ -485,7 +485,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3895120809</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_DailyDungeon_Tuesday</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_DailyDungeon_Tuesday</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3895120809</code></td></tr></table>
 
 </td></tr></table>
 
@@ -495,7 +495,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>706275422</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_DailyDungeon_Thursday</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_DailyDungeon_Thursday</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>706275422</code></td></tr></table>
 
 </td></tr></table>
 
@@ -525,7 +525,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DUNGEON_DICE_A</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1016274180</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1016274180</code></td></tr><tr><td><b>szName</b></td><td><code>DUNGEON_DICE_A</code></td></tr></table>
 
 </td></tr></table>
 
@@ -540,7 +540,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>785415187</code></td></tr><tr><td><b>szName</b></td><td><code>TILESET_STEP_GRASSLAND</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>TILESET_STEP_GRASSLAND</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>785415187</code></td></tr></table>
 
 </td></tr></table>
 
@@ -555,22 +555,22 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Zombie_physical</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2127407177</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2127407177</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Zombie_physical</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Zombie_poison</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1965882020</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1965882020</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Zombie_poison</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DE_LastBreath_DemonCore</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1645826317</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1645826317</code></td></tr><tr><td><b>szName</b></td><td><code>DE_LastBreath_DemonCore</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DPO_Frac_KorDraganBarracks_Encounter_A</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3498969553</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3498969553</code></td></tr><tr><td><b>szName</b></td><td><code>DPO_Frac_KorDraganBarracks_Encounter_A</code></td></tr></table>
 
 </td></tr></table>
 
@@ -585,7 +585,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3498969556</code></td></tr><tr><td><b>szName</b></td><td><code>DPO_Frac_KorDraganBarracks_Encounter_D</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DPO_Frac_KorDraganBarracks_Encounter_D</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3498969556</code></td></tr></table>
 
 </td></tr></table>
 
@@ -600,7 +600,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3516394848</code></td></tr><tr><td><b>szName</b></td><td><code>DE_TheNest_DemonFly</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DE_TheNest_DemonFly</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3516394848</code></td></tr></table>
 
 </td></tr></table>
 
@@ -620,12 +620,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1016274183</code></td></tr><tr><td><b>szName</b></td><td><code>DUNGEON_DICE_D</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DUNGEON_DICE_D</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1016274183</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>102024043</code></td></tr><tr><td><b>szName</b></td><td><code>DE_TidalOfferings_Drowned</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DE_TidalOfferings_Drowned</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>102024043</code></td></tr></table>
 
 </td></tr></table>
 
@@ -635,7 +635,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DE_LastBreath_Spider</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1655272632</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1655272632</code></td></tr><tr><td><b>szName</b></td><td><code>DE_LastBreath_Spider</code></td></tr></table>
 
 </td></tr></table>
 
@@ -645,7 +645,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>798216485</code></td></tr><tr><td><b>szName</b></td><td><code>Test_Encounter_Dungeon_Snakes</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Test_Encounter_Dungeon_Snakes</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>798216485</code></td></tr></table>
 
 </td></tr></table>
 
@@ -685,7 +685,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3021372332</code></td></tr><tr><td><b>szName</b></td><td><code>DGN_Frac_DefiledCatacomb_FinalEncounter_3D</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DGN_Frac_DefiledCatacomb_FinalEncounter_3D</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3021372332</code></td></tr></table>
 
 </td></tr></table>
 
@@ -705,7 +705,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DGN_Frac_DefiledCatacomb_FinalEncounter_1D</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3021372266</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3021372266</code></td></tr><tr><td><b>szName</b></td><td><code>DGN_Frac_DefiledCatacomb_FinalEncounter_1D</code></td></tr></table>
 
 </td></tr></table>
 
@@ -715,7 +715,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DGN_Frac_DefiledCatacomb_FinalEncounter_1B</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3021372264</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3021372264</code></td></tr><tr><td><b>szName</b></td><td><code>DGN_Frac_DefiledCatacomb_FinalEncounter_1B</code></td></tr></table>
 
 </td></tr></table>
 
@@ -735,7 +735,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3021372296</code></td></tr><tr><td><b>szName</b></td><td><code>DGN_Frac_DefiledCatacomb_FinalEncounter_2A</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DGN_Frac_DefiledCatacomb_FinalEncounter_2A</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3021372296</code></td></tr></table>
 
 </td></tr></table>
 
@@ -750,12 +750,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DE_CursedWell_Spider</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>222339240</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>222339240</code></td></tr><tr><td><b>szName</b></td><td><code>DE_CursedWell_Spider</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3380677717</code></td></tr><tr><td><b>szName</b></td><td><code>DE_EternalGuardians_Skeleton</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DE_EternalGuardians_Skeleton</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3380677717</code></td></tr></table>
 
 </td></tr></table>
 
@@ -765,7 +765,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Layout_NS</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>388701278</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>388701278</code></td></tr><tr><td><b>szName</b></td><td><code>Layout_NS</code></td></tr></table>
 
 </td></tr></table>
 
@@ -795,17 +795,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Layout_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>388699167</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>388699167</code></td></tr><tr><td><b>szName</b></td><td><code>Layout_02</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3408626879</code></td></tr><tr><td><b>szName</b></td><td><code>DE_BloodAltar_Vampire</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DE_BloodAltar_Vampire</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3408626879</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3414066582</code></td></tr><tr><td><b>szName</b></td><td><code>DE_CursedChest_Fallen</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DE_CursedChest_Fallen</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3414066582</code></td></tr></table>
 
 </td></tr></table>
 
@@ -820,17 +820,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3964899947</code></td></tr><tr><td><b>szName</b></td><td><code>Layout_First_Stair_E</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Layout_First_Stair_E</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3964899947</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DGN_Scos_JalalsVigil_Bear</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1631956602</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1631956602</code></td></tr><tr><td><b>szName</b></td><td><code>DGN_Scos_JalalsVigil_Bear</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DGN_Scos_JalalsVigil_Beast</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2314960463</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2314960463</code></td></tr><tr><td><b>szName</b></td><td><code>DGN_Scos_JalalsVigil_Beast</code></td></tr></table>
 
 </td></tr></table>
 
@@ -870,7 +870,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DE_CursedWell_Cultist</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4053390825</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4053390825</code></td></tr><tr><td><b>szName</b></td><td><code>DE_CursedWell_Cultist</code></td></tr></table>
 
 </td></tr></table>
 
@@ -885,7 +885,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2693628512</code></td></tr><tr><td><b>szName</b></td><td><code>DGN_Scos_TwistedHollow_Layout_EW</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DGN_Scos_TwistedHollow_Layout_EW</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2693628512</code></td></tr></table>
 
 </td></tr></table>
 
@@ -920,17 +920,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Campaign_Hell_Dungeon</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2617240787</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2617240787</code></td></tr><tr><td><b>szName</b></td><td><code>Campaign_Hell_Dungeon</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>TILESET_STEP_CANYON</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4159992764</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4159992764</code></td></tr><tr><td><b>szName</b></td><td><code>TILESET_STEP_CANYON</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>TILESET_HAWE_SWAMP</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>667508005</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>667508005</code></td></tr><tr><td><b>szName</b></td><td><code>TILESET_HAWE_SWAMP</code></td></tr></table>
 
 </td></tr></table>
 
@@ -950,7 +950,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3052411524</code></td></tr><tr><td><b>szName</b></td><td><code>TILESET_ZAK_PALACE</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>TILESET_ZAK_PALACE</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3052411524</code></td></tr></table>
 
 </td></tr></table>
 
@@ -970,7 +970,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>844697245</code></td></tr><tr><td><b>szName</b></td><td><code>Test_Primary_Objective</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Test_Primary_Objective</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>844697245</code></td></tr></table>
 
 </td></tr></table>
 
@@ -985,7 +985,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DGN_Kehj_AbandonedMineworks_State_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4219796884</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4219796884</code></td></tr><tr><td><b>szName</b></td><td><code>DGN_Kehj_AbandonedMineworks_State_01</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1010,7 +1010,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3921917438</code></td></tr><tr><td><b>szName</b></td><td><code>DGN_Kehj_SiroccoCaverns_State_02</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DGN_Kehj_SiroccoCaverns_State_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3921917438</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1025,12 +1025,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2847213334</code></td></tr><tr><td><b>szName</b></td><td><code>DGN_Scos_JalalsVigil_No_Bear</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DGN_Scos_JalalsVigil_No_Bear</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2847213334</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3763726955</code></td></tr><tr><td><b>szName</b></td><td><code>DGN_Scos_JalalsVigil_No_Beast</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DGN_Scos_JalalsVigil_No_Beast</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3763726955</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1045,12 +1045,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4066513971</code></td></tr><tr><td><b>szName</b></td><td><code>TILESET_PROTODUN_JAIL</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>TILESET_PROTODUN_JAIL</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4066513971</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1124888475</code></td></tr><tr><td><b>szName</b></td><td><code>DE_CursedWell_MaggotWasp</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DE_CursedWell_MaggotWasp</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1124888475</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1085,12 +1085,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Layout_Kehj_CursedRift_A_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>499733242</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>499733242</code></td></tr><tr><td><b>szName</b></td><td><code>Layout_Kehj_CursedRift_A_02</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Layout_Kehj_CursedRift_B_03</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>499769180</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>499769180</code></td></tr><tr><td><b>szName</b></td><td><code>Layout_Kehj_CursedRift_B_03</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1105,12 +1105,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2198924625</code></td></tr><tr><td><b>szName</b></td><td><code>Kehj_CursedRift_Monsters_Beta</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Kehj_CursedRift_Monsters_Beta</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2198924625</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Kehj_CursedRift_Monsters_Alpha</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3844097499</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3844097499</code></td></tr><tr><td><b>szName</b></td><td><code>Kehj_CursedRift_Monsters_Alpha</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1140,7 +1140,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>950640286</code></td></tr><tr><td><b>szName</b></td><td><code>DGN_Hawe_RuinsofEridu_ZombieLayout</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DGN_Hawe_RuinsofEridu_ZombieLayout</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>950640286</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1160,7 +1160,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2852209890</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Bear_Diseased</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Bear_Diseased</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2852209890</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1185,7 +1185,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Knight_Council_Brute_Melee_Mage</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1068280409</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1068280409</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Knight_Council_Brute_Melee_Mage</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1195,12 +1195,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3030718536</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Knight_Council_Melee_Healer_Mage</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Knight_Council_Melee_Healer_Mage</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3030718536</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Knight_Council_Brute_Melee_Healer</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3525057648</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3525057648</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Knight_Council_Brute_Melee_Healer</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1210,12 +1210,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DSH_Holdout_01_Kill</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3817345096</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3817345096</code></td></tr><tr><td><b>szName</b></td><td><code>DSH_Holdout_01_Kill</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DSH_Holdout_02_MiniBoss</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1868618625</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1868618625</code></td></tr><tr><td><b>szName</b></td><td><code>DSH_Holdout_02_MiniBoss</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1225,7 +1225,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3402078874</code></td></tr><tr><td><b>szName</b></td><td><code>DSH_Holdout_04_Structure_Barrels</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DSH_Holdout_04_Structure_Barrels</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3402078874</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1255,12 +1255,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1107825768</code></td></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_Ancients_Flooded</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_Ancients_Flooded</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1107825768</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2397714204</code></td></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_Ancients_Ruins</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_Ancients_Ruins</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2397714204</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1270,7 +1270,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_Cave_Flooded</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2994885554</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2994885554</code></td></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_Cave_Flooded</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1300,12 +1300,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3974223235</code></td></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_Hawe_Swamp</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_Hawe_Swamp</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3974223235</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_Kehj_Oasis</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1940315447</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1940315447</code></td></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_Kehj_Oasis</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1315,7 +1315,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_Pale_Frac</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>767407156</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>767407156</code></td></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_Pale_Frac</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1350,7 +1350,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1384697924</code></td></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_ProtoDun_South</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_ProtoDun_South</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1384697924</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1360,17 +1360,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_Step_City</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>317005995</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>317005995</code></td></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_Step_City</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1107948401</code></td></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_Step_Grassland</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_Step_Grassland</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1107948401</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_Temple_Triune</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2841225428</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2841225428</code></td></tr><tr><td><b>szName</b></td><td><code>DSH_Tileset_Temple_Triune</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1390,7 +1390,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Beast_Scos</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3044791437</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3044791437</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Beast_Scos</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1400,7 +1400,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4174603651</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Bloodhawk_Kehj</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Bloodhawk_Kehj</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4174603651</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1410,7 +1410,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Bloodhawk_Step</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4174907389</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4174907389</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Bloodhawk_Step</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1470,7 +1470,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3610627363</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Wasp_Kehj</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Wasp_Kehj</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3610627363</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1485,17 +1485,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4211879699</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Woodwraith_Hawe</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Woodwraith_Hawe</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4211879699</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Woodwraith_Charred</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1464344327</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1464344327</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Woodwraith_Charred</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Woodwraith_Frac</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4211825610</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4211825610</code></td></tr><tr><td><b>szName</b></td><td><code>DRLG_Spawner_Woodwraith_Frac</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1510,27 +1510,27 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>323437726</code></td></tr><tr><td><b>szName</b></td><td><code>Knight_Council_Monk_Flee_Yelled</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Knight_Council_Monk_Flee_Yelled</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>323437726</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>229675401</code></td></tr><tr><td><b>szName</b></td><td><code>OWC_Special</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>OWC_Special</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>229675401</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3715090513</code></td></tr><tr><td><b>szName</b></td><td><code>OWC_Normal</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>OWC_Normal</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3715090513</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>OWC_Event</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4266959434</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4266959434</code></td></tr><tr><td><b>szName</b></td><td><code>OWC_Event</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Layout_04</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>388699169</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>388699169</code></td></tr><tr><td><b>szName</b></td><td><code>Layout_04</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1565,7 +1565,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>SideQuestDungeon</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2636046535</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStatesEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2636046535</code></td></tr><tr><td><b>szName</b></td><td><code>SideQuestDungeon</code></td></tr></table>
 
 </td></tr></table>
 
@@ -1573,5 +1573,5 @@
 </td></tr><tr><td><b>dwType</b></td><td><code>4234742813</code></td></tr></table>
 
 
-</td></tr></table>
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr></table>
 

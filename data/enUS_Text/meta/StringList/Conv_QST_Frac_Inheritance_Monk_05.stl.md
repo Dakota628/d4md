@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.123EBF</code></td></tr><tr><td><b>szText</b></td><td><code>The woodsman's axe... I thought it dangerous, sure, but possessed by a fiend? Never would I have guessed.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2396559850</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3742287287</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.123EBF</code></td></tr><tr><td><b>szText</b></td><td><code>subsiding hysterical terror</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.123EBF</code></td></tr><tr><td><b>szText</b></td><td><code>subsiding hysterical terror</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742287287</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>There is little knowledge concerning such a blasphemous artifact. I'll need to visit my study to gather my thoughts.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734099884</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.123EBF</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.123EBF</code></td></tr><tr><td><b>szText</b></td><td><code>There is little knowledge concerning such a blasphemous artifact. I'll need to visit my study to gather my thoughts.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734099884</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

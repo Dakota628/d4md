@@ -10,9 +10,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStateSubcondition</th></tr><tr><td><b>dwType</b></td><td><code>3964094914</code></td></tr><tr><td><b>bNegate</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_b23f628</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>4011946769</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStateSubcondition</th></tr><tr><td><b>unk_b23f628</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>4011946769</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>dwType</b></td><td><code>3964094914</code></td></tr><tr><td><b>bNegate</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">DungeonStateSubcondition</th></tr><tr><td><b>dwType</b></td><td><code>3964094914</code></td></tr><tr><td><b>bNegate</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_b23f628</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>3402078874</code></td></tr></table>
@@ -30,9 +30,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStateSubcondition</th></tr><tr><td><b>unk_b23f628</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>1625776130</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStateSubcondition</th></tr><tr><td><b>bNegate</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_b23f628</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>1625776130</code></td></tr></table>
 
-</td></tr><tr><td><b>dwType</b></td><td><code>3964094914</code></td></tr><tr><td><b>bNegate</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>dwType</b></td><td><code>3964094914</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">DungeonStateSubcondition</th></tr><tr><td><b>dwType</b></td><td><code>3964094914</code></td></tr><tr><td><b>bNegate</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_b23f628</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>133438845</code></td></tr></table>

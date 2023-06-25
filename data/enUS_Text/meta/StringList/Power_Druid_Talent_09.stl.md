@@ -6,8 +6,8 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr><tr><td><b>szText</b></td><td><code>You gain {c_number}[{SF_0} * 100|%|]{/c} Damage Reduction for {c_number}{buffduration:DAMAGE_REDUCTION}{/c} seconds after using a {c_important}Defensive{/c} Skill.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><pre>
-{icon:bullet,1.2} Damage Reduction {icon:arrow,1.2} {c_number}[{SF_0}*100|%|]{/c}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr><tr><td><b>szText</b></td><td><pre>
+{icon:bullet,1.2} Damage Reduction {icon:arrow,1.2} {c_number}[{SF_0}*100|%|]{/c}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Vigilance</code></td></tr><tr><td><b>hLabel</b></td><td><code>309411509</code></td></tr></table>

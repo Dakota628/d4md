@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.14656B</code></td></tr><tr><td><b>szText</b></td><td><code>Let's see here... yes, yes, without a doubt, this is the Forgotten Codex. Finally! I am bound by my word, you shall know the magic secrets contained in this book.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2398985775</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.14656B</code></td></tr><tr><td><b>szText</b></td><td><code>We will work together! Come, I have prepared for this ritual.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1736525809</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1736525809</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.14656B</code></td></tr><tr><td><b>szText</b></td><td><code>We will work together! Come, I have prepared for this ritual.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

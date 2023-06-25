@@ -24,7 +24,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>712843907</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Said to youself. Many loud and discordant voices are screaming at you in your mind.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Cursed! Cursed!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1589044623</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line21.F52ED</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line21.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Cursed! Cursed!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1589044623</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir21.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Said to youself. Many loud and discordant voices are screaming at you in your mind.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2934772060</code></td></tr></table>
@@ -33,7 +33,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line23.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>The voices...so many...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4171980561</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir23.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Said to youself. Many loud and discordant voices are screaming at you in your mind.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1222740702</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Said to youself. Many loud and discordant voices are screaming at you in your mind.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1222740702</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir23.F52ED</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

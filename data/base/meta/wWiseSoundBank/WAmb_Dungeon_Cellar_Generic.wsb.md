@@ -1,8 +1,8 @@
 <h1>data/base/meta/wWiseSoundBank/WAmb_Dungeon_Cellar_Generic.wsb</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/wWiseSoundBank/WAmb_Dungeon_Cellar_Generic.wsb</td></tr><tr><td><b>Type</b></td><td>wWiseSoundBankDefinition</td></tr><tr><td><b>SNO ID</b></td><td>611860</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptContent</b></td><td><table><tr><th colspan="100%">Type_313c5815</th></tr><tr><td><b>dwType</b></td><td><code>826038293</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_ce10c35</b></td><td><table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>217218627</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1152612152</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptContent</b></td><td><table><tr><th colspan="100%">Type_313c5815</th></tr><tr><td><b>dwType</b></td><td><code>826038293</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_ce10c35</b></td><td><table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1152612152</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>217218627</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>789236405</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3365615336</code></td></tr></table>
@@ -10,9 +10,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>510882373</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>864785452</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>510882373</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>864785452</code></td></tr></table>
+</td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>1002768358</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2224506631</code></td></tr></table>

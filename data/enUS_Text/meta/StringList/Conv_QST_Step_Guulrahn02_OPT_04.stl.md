@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.EECAB</code></td></tr><tr><td><b>szText</b></td><td><code>(grunt) I can’t eat any more, but they won’t stop feeding us. Fruit and honey. Bread and wine. I try to resist, but they force it down my throat. Everything hurts.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567831607</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.EECAB</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, pained</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430718564</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Fearful, pained</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430718564</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.EECAB</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -1,6 +1,6 @@
 <h1>data/base/meta/AmbientSound/Wamb_FracPeaks_CathedralOfLight.ams</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/AmbientSound/Wamb_FracPeaks_CathedralOfLight.ams</td></tr><tr><td><b>Type</b></td><td>AmbientSoundDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1007087</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>tRandomSounds</b></td><td><table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_EMT_FracPeaks_ChurchBells_Indoor.snd">[DT_SNO] Sound: "Play_EMT_FracPeaks_ChurchBells_Indoor"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_Wamb_FracPeaks_Cathedral_Quad.snd.md">[DT_SNO] Sound: "Play_Wamb_FracPeaks_Cathedral_Quad"</a></td></tr><tr><td><b>tRandomSounds</b></td><td><table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_EMT_FracPeaks_ChurchBells_Indoor.snd.md">[DT_SNO] Sound: "Play_EMT_FracPeaks_ChurchBells_Indoor"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>15</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
@@ -25,5 +25,5 @@
 
 </td></tr><tr><td><b>unk_ce3c7b4</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_Wamb_FracPeaks_Cathedral_Quad.snd">[DT_SNO] Sound: "Play_Wamb_FracPeaks_Cathedral_Quad"</a></td></tr></table>
+</td></tr></table>
 

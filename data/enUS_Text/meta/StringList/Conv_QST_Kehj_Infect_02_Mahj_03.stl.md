@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"Mahjoob, are you alright?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.8C8DF</code></td></tr><tr><td><b>szText</b></td><td><code>My arm! Burning Hells, my arm!</code></td></tr><tr><td><b>hLabel</b></td><td><code>673219786</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>673219786</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.8C8DF</code></td></tr><tr><td><b>szText</b></td><td><code>My arm! Burning Hells, my arm!</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.8C8DF</code></td></tr><tr><td><b>szText</b></td><td><code>On the ground, clutching arm. Agony.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2536106743</code></td></tr></table>

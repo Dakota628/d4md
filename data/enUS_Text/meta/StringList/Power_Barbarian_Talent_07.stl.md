@@ -6,8 +6,8 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr><tr><td><b>szText</b></td><td><code>Gain {c_number}{SF_1}{/c} Thorns. Also gain {c_number}{SF_4}{/c} Thorns for each {c_number}{SF_5}{/c} bonus Maximum Life you have.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr><tr><td><b>szText</b></td><td><pre>
-{icon:bullet, 1.2} Thorns {icon:arrow,1.2} {c_number}{SF_1}{/c}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><pre>
+{icon:bullet, 1.2} Thorns {icon:arrow,1.2} {c_number}{SF_1}{/c}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

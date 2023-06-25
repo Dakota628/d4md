@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback31Header</code></td></tr><tr><td><b>szText</b></td><td><code>Report back your findings to the Guard Captain</code></td></tr><tr><td><b>hLabel</b></td><td><code>1579709466</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase36Description</code></td></tr><tr><td><b>szText</b></td><td><code>[PH]Aid in eradicating the wave of phantasmal forces that have been surging in the area.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4115577374</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>[PH]Aid in eradicating the wave of phantasmal forces that have been surging in the area.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4115577374</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase36Description</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback38Header</code></td></tr><tr><td><b>szText</b></td><td><code>Cleanse (AREA NAME) of surging Phantasmal Forces.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2030050657</code></td></tr></table>
@@ -18,10 +18,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback46Header</code></td></tr><tr><td><b>szText</b></td><td><code>Collect Phantasmal Residue {DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3410852032</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback55Header</code></td></tr><tr><td><b>szText</b></td><td><code>Eliminate Elite Apparitions {DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1788154080</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Eliminate Elite Apparitions {DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1788154080</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback55Header</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>[PH]Aid in suppressing  the cannibal forces that have been seen in the area.</code></td></tr><tr><td><b>hLabel</b></td><td><code>230391200</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase92Description</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>230391200</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase92Description</code></td></tr><tr><td><b>szText</b></td><td><code>[PH]Aid in suppressing  the cannibal forces that have been seen in the area.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback94Header</code></td></tr><tr><td><b>szText</b></td><td><code>Help suppress the Cannibal presence in (AREA NAME)</code></td></tr><tr><td><b>hLabel</b></td><td><code>3466733475</code></td></tr></table>
@@ -33,7 +33,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback96Header</code></td></tr><tr><td><b>szText</b></td><td><code>Eliminate Elite Cannibals {DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1754702117</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase97Description</code></td></tr><tr><td><b>szText</b></td><td><code>[PH]Aid in clearing the roaming bandits that have been seen in the area.</code></td></tr><tr><td><b>hLabel</b></td><td><code>41701509</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>41701509</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase97Description</code></td></tr><tr><td><b>szText</b></td><td><code>[PH]Aid in clearing the roaming bandits that have been seen in the area.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback99Header</code></td></tr><tr><td><b>szText</b></td><td><code>Help clear out Bandit presence in (AREA NAME)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1334138728</code></td></tr></table>
@@ -42,22 +42,22 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback100Header</code></td></tr><tr><td><b>szText</b></td><td><code>Collect some of the stolen goods{DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2122655623</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3414123592</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback101Header</code></td></tr><tr><td><b>szText</b></td><td><code>Eliminate Elite Bandits{DONE_OVER_NEEDED}</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback101Header</code></td></tr><tr><td><b>szText</b></td><td><code>Eliminate Elite Bandits{DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3414123592</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase102Description</code></td></tr><tr><td><b>szText</b></td><td><code>[PH]Aid in suppressing  the Vampiric forces that have been seen in the area.</code></td></tr><tr><td><b>hLabel</b></td><td><code>320051720</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>320051720</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase102Description</code></td></tr><tr><td><b>szText</b></td><td><code>[PH]Aid in suppressing  the Vampiric forces that have been seen in the area.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback104Header</code></td></tr><tr><td><b>szText</b></td><td><code>Help suppress the Vampiric presence in (AREA NAME)</code></td></tr><tr><td><b>hLabel</b></td><td><code>2993560203</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Collect Vampire trophies{DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>4285028172</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback105Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback105Header</code></td></tr><tr><td><b>szText</b></td><td><code>Collect Vampire trophies{DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>4285028172</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Eliminate Elite Vampires {DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1281528845</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback106Header</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase107Description</code></td></tr><tr><td><b>szText</b></td><td><code>[PH]Aid in suppressing  the Werewolf forces that have been seen in the area.</code></td></tr><tr><td><b>hLabel</b></td><td><code>131362029</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>[PH]Aid in suppressing  the Werewolf forces that have been seen in the area.</code></td></tr><tr><td><b>hLabel</b></td><td><code>131362029</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase107Description</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback109Header</code></td></tr><tr><td><b>szText</b></td><td><code>Help suppress the Werewolf presence in (AREA NAME)</code></td></tr><tr><td><b>hLabel</b></td><td><code>860965456</code></td></tr></table>
@@ -75,7 +75,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2662330220</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback114Header</code></td></tr><tr><td><b>szText</b></td><td><code>Help suppress the Skeleton presence in (AREA NAME)</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3953798189</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback115Header</code></td></tr><tr><td><b>szText</b></td><td><code>Collect Skeleton trophies{DONE_OVER_NEEDED}</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback115Header</code></td></tr><tr><td><b>szText</b></td><td><code>Collect Skeleton trophies{DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3953798189</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback116Header</code></td></tr><tr><td><b>szText</b></td><td><code>Eliminate Elite Skeletons{DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>950298862</code></td></tr></table>
@@ -93,7 +93,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback121Header</code></td></tr><tr><td><b>szText</b></td><td><code>Eliminate Elite Goatmen{DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2751663626</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase122Description</code></td></tr><tr><td><b>szText</b></td><td><code>[PH]Aid in suppressing  the Demonic forces that have been seen in the area.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2983308554</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>[PH]Aid in suppressing  the Demonic forces that have been seen in the area.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2983308554</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase122Description</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback124Header</code></td></tr><tr><td><b>szText</b></td><td><code>Help suppress the Demonic presence in (AREA NAME)</code></td></tr><tr><td><b>hLabel</b></td><td><code>2331100237</code></td></tr></table>
@@ -114,19 +114,19 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback130Header</code></td></tr><tr><td><b>szText</b></td><td><code>Collect Cultist trophies{DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1128965674</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback131Header</code></td></tr><tr><td><b>szText</b></td><td><code>Eliminate Elite Cultists {DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2420433643</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Eliminate Elite Cultists {DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2420433643</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback131Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase132Description</code></td></tr><tr><td><b>szText</b></td><td><code>[PH]Aid in suppressing  the Drowned forces that have been seen in the area.</code></td></tr><tr><td><b>hLabel</b></td><td><code>19969675</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Help suppress the Drowned presence in (AREA NAME)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1999870254</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback134Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback134Header</code></td></tr><tr><td><b>szText</b></td><td><code>Help suppress the Drowned presence in (AREA NAME)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1999870254</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback135Header</code></td></tr><tr><td><b>szText</b></td><td><code>Collect Drowned trophies{DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3291338223</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback136Header</code></td></tr><tr><td><b>szText</b></td><td><code>Eliminate Elite Drowned{DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>287838896</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>287838896</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback136Header</code></td></tr><tr><td><b>szText</b></td><td><code>Eliminate Elite Drowned{DONE_OVER_NEEDED}</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

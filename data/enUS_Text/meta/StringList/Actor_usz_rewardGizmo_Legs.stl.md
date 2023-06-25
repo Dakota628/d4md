@@ -4,7 +4,7 @@
 {c_gold}Requires{/c} {c_green}75{/c} {c_gold}cinders{/c}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>UIName</code></td></tr><tr><td><b>szText</b></td><td><code>Tortured Gift of Protection</code></td></tr><tr><td><b>hLabel</b></td><td><code>412457791</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Tortured Gift of Protection</code></td></tr><tr><td><b>hLabel</b></td><td><code>412457791</code></td></tr><tr><td><b>szLabel</b></td><td><code>UIName</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

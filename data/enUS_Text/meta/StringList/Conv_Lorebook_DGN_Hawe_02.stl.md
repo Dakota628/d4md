@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.BC3FF</code></td></tr><tr><td><b>szText</b></td><td><code>Feverish. Maddened.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3427036824</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.BC3FF</code></td></tr><tr><td><b>szText</b></td><td><code>In the scales are reflected faces I know. Villagers who scorned me. Cursed me. Laughed at me. Tongues flick in the darkness. Hear their words in my thoughts.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4147085805</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4147085805</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.BC3FF</code></td></tr><tr><td><b>szText</b></td><td><code>In the scales are reflected faces I know. Villagers who scorned me. Cursed me. Laughed at me. Tongues flick in the darkness. Hear their words in my thoughts.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.BC3FF</code></td></tr><tr><td><b>szText</b></td><td><pre>Each life is a sacrifice for us. Each life is a scale for your rebirth. 

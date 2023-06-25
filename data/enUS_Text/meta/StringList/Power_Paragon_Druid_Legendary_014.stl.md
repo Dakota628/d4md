@@ -5,13 +5,13 @@
 Casting an {c_important}Earth{/c} Skill increases the Critical Strike Damage of your next {c_important}Werebear{/c} Skill by {c_number}[{SF_1}*100|%x|]{/c}.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>270276116</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff1_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Storming Wolf</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Storming Wolf</code></td></tr><tr><td><b>hLabel</b></td><td><code>270276116</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff1_Name</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff1_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Your next {c_important}Werewolf{/c} Skill has increased Critical Strike Chance.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2005335447</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>309411509</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Earthen Bear</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Earthen Bear</code></td></tr><tr><td><b>hLabel</b></td><td><code>309411509</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Your next {c_important}Werebear{/c} Skill has increased Critical Strike Damage.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3336963864</code></td></tr></table>

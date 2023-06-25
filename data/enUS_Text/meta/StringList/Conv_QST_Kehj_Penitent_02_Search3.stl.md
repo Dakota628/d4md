@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.125DE8</code></td></tr><tr><td><b>szText</b></td><td><code>Afraid of the consequences of speaking, but unwilling to remain silent. Hoping the player can be trusted. </code></td></tr><tr><td><b>hLabel</b></td><td><code>3742358125</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.125DE8</code></td></tr><tr><td><b>szText</b></td><td><code>They have a house they’ve taken over, near the center of town. Hmm... You’ll never get in though, they guard it day and night.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1071710756</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1071710756</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.125DE8</code></td></tr><tr><td><b>szText</b></td><td><code>They have a house they’ve taken over, near the center of town. Hmm... You’ll never get in though, they guard it day and night.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

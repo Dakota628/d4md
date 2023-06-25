@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"Did they hurt you?”</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>No, I...I was looking for my brother. He’s sick too. I've not seen him in days—I was afraid he’d grown roots...</code></td></tr><tr><td><b>hLabel</b></td><td><code>3310825285</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line9.FEC80</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.FEC80</code></td></tr><tr><td><b>szText</b></td><td><code>No, I...I was looking for my brother. He’s sick too. I've not seen him in days—I was afraid he’d grown roots...</code></td></tr><tr><td><b>hLabel</b></td><td><code>3310825285</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.FEC80</code></td></tr><tr><td><b>szText</b></td><td><code>Winded/weak. Shaken. Scared. </code></td></tr><tr><td><b>hLabel</b></td><td><code>878744946</code></td></tr></table>

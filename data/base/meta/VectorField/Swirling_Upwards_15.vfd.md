@@ -1,6 +1,6 @@
 <h1>data/base/meta/VectorField/Swirling_Upwards_15.vfd</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/VectorField/Swirling_Upwards_15.vfd</td></tr><tr><td><b>Type</b></td><td>VectorFieldDefinition</td></tr><tr><td><b>SNO ID</b></td><td>478552</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wvExt</b></td><td>Vector(510.000000, 510.000000, 510.000000)</td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_7ed9e42</b></td><td><code>15</code></td></tr><tr><td><b>flMagMin</b></td><td><code>8.393902778625488</code></td></tr><tr><td><b>flMagMax</b></td><td><code>131.10324096679688</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wvExt</b></td><td>Vector(510.000000, 510.000000, 510.000000)</td></tr></table>
 
 </td></tr><tr><td><b>ptSamples</b></td><td>Vector(55.175175, -56.649487, 11.170147)
 Vector(-8.750120, -24.500076, 10.624051)
@@ -3377,5 +3377,5 @@ Vector(-9.035128, -4.386905, 8.706831)
 Vector(-7.563101, -2.248657, 7.683763)
 Vector(11.903070, -46.808846, 8.850428)
 Vector(37.245270, -10.810194, 9.493994)
-</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>15</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>15</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>15</code></td></tr><tr><td><b>flMagMin</b></td><td><code>8.393902778625488</code></td></tr><tr><td><b>flMagMax</b></td><td><code>131.10324096679688</code></td></tr></table>
+</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>15</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>15</code></td></tr></table>
 

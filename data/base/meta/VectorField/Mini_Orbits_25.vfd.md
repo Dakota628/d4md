@@ -1,6 +1,6 @@
 <h1>data/base/meta/VectorField/Mini_Orbits_25.vfd</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/VectorField/Mini_Orbits_25.vfd</td></tr><tr><td><b>Type</b></td><td>VectorFieldDefinition</td></tr><tr><td><b>SNO ID</b></td><td>479035</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_7ed9e41</b></td><td><code>25</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>25</code></td></tr><tr><td><b>flMagMin</b></td><td><code>0.000003000000106112566</code></td></tr><tr><td><b>flMagMax</b></td><td><code>26.12931251525879</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wvExt</b></td><td>Vector(510.000000, 510.000000, 510.000000)</td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_7ed9e42</b></td><td><code>25</code></td></tr><tr><td><b>flMagMin</b></td><td><code>0.000003000000106112566</code></td></tr><tr><td><b>flMagMax</b></td><td><code>26.12931251525879</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wvExt</b></td><td>Vector(510.000000, 510.000000, 510.000000)</td></tr></table>
 
 </td></tr><tr><td><b>ptSamples</b></td><td>Vector(5.015689, 5.015692, 5.015690)
 Vector(15.085759, 5.015692, 5.015690)
@@ -15627,5 +15627,5 @@ Vector(3.807085, -5.015679, -5.015679)
 Vector(-10.863269, -5.015679, -5.015679)
 Vector(-15.085765, -5.015679, -5.015679)
 Vector(-5.015678, -5.015679, -5.015679)
-</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>25</code></td></tr></table>
+</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>25</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>25</code></td></tr></table>
 

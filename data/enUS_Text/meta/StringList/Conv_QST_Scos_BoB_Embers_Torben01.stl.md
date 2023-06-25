@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.B20BA</code></td></tr><tr><td><b>szText</b></td><td><code>Aye. With their trap failed, they’ll only grow more persistent.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1562385550</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.B20BA</code></td></tr><tr><td><b>szText</b></td><td><code>earnest, blunt</code></td></tr><tr><td><b>hLabel</b></td><td><code>3425272507</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3425272507</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.B20BA</code></td></tr><tr><td><b>szText</b></td><td><code>earnest, blunt</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.B20BA</code></td></tr><tr><td><b>szText</b></td><td><code>The pyres prove they are still drawn to the demon’s work. The Scar to the east marks where Astaroth fell to the Heroes. I’d wager they’d find comfort in that cursed place.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145321488</code></td></tr></table>
@@ -15,7 +15,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.B20BA</code></td></tr><tr><td><b>szText</b></td><td><code>earnest, straightforward</code></td></tr><tr><td><b>hLabel</b></td><td><code>1713241149</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2433290130</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.B20BA</code></td></tr><tr><td><b>szText</b></td><td><code>I’ll join you there.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.B20BA</code></td></tr><tr><td><b>szText</b></td><td><code>I’ll join you there.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2433290130</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.B20BA</code></td></tr><tr><td><b>szText</b></td><td><code> straightforward</code></td></tr><tr><td><b>hLabel</b></td><td><code>1209791</code></td></tr></table>

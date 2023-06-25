@@ -6,9 +6,9 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>The city militia is bolstering its ranks with fresh blood.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><pre>Guard Boza has asked me to inspire the militia trainees near the eastern gatehouse in Kyovashad.
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><pre>Guard Boza has asked me to inspire the militia trainees near the eastern gatehouse in Kyovashad.
 
-A quick cheer should lift their spirits.</pre></td></tr></table>
+A quick cheer should lift their spirits.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback2Header</code></td></tr><tr><td><b>szText</b></td><td><code>Cheer at the training militia</code></td></tr><tr><td><b>hLabel</b></td><td><code>514698856</code></td></tr></table>

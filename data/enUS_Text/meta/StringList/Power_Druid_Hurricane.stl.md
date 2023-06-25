@@ -21,7 +21,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod1_Description</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}Hurricane{/c} has a {c_number}[{SF_9} * 100|%|]{/c} chance to make enemies {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_10}{/c} seconds.</code></td></tr><tr><td><b>hLabel</b></td><td><code>628601524</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Natural Hurricane</code></td></tr><tr><td><b>hLabel</b></td><td><code>2492006865</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod1_Name</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2492006865</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod1_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Natural Hurricane</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Enemies affected by {c_important}Hurricane{/c} deal {c_number}[{SF_11}*100|%|]{/c} less damage.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1960229941</code></td></tr></table>

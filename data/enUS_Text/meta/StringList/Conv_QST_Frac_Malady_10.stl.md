@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.128A6B</code></td></tr><tr><td><b>szText</b></td><td><code>I will shatter your bones!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734273757</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Hateful</code></td></tr><tr><td><b>hLabel</b></td><td><code>3080001194</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.128A6B</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.128A6B</code></td></tr><tr><td><b>szText</b></td><td><code>Hateful</code></td></tr><tr><td><b>hLabel</b></td><td><code>3080001194</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2439923909</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.FEF63</code></td></tr><tr><td><b>szText</b></td><td><code>Slay it quickly! Before it finds another host!</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.FEF63</code></td></tr><tr><td><b>szText</b></td><td><code>Slay it quickly! Before it finds another host!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2439923909</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.FEF63</code></td></tr><tr><td><b>szText</b></td><td><code>Projected</code></td></tr><tr><td><b>hLabel</b></td><td><code>7843570</code></td></tr></table>

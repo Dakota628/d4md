@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.AAE2D</code></td></tr><tr><td><b>szText</b></td><td><code>It seemed like all of my friends had these carvings. An old woodcutter used to make them from scraps by lamplight in the camp.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1562944804</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4145880742</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.AAE2D</code></td></tr><tr><td><b>szText</b></td><td><code>(sigh) One night, he disappeared into the forest. We searched for him with the other loggers, but we never found or buried him. Do you think he's still out there somewhere?</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.AAE2D</code></td></tr><tr><td><b>szText</b></td><td><code>(sigh) One night, he disappeared into the forest. We searched for him with the other loggers, but we never found or buried him. Do you think he's still out there somewhere?</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145880742</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.AAE2D</code></td></tr><tr><td><b>szText</b></td><td><code>Ah, sorry. You bring me a gift and I reward you with a dreadful tale. (laughs)</code></td></tr><tr><td><b>hLabel</b></td><td><code>2433849384</code></td></tr></table>

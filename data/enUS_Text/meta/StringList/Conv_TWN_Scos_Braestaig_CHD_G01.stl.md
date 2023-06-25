@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>(Listen)</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.13C006</code></td></tr><tr><td><b>szText</b></td><td><code>Momma says that tying our hair into the wards makes them stronger.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2399411332</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2399411332</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.13C006</code></td></tr><tr><td><b>szText</b></td><td><code>Momma says that tying our hair into the wards makes them stronger.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.13C006</code></td></tr><tr><td><b>szText</b></td><td><code>Eager. Trying to be helpful.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3745138769</code></td></tr></table>

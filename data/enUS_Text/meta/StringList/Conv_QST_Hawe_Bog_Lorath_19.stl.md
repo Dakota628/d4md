@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Groggy, under the effects of incense. Probably a slower read--not all there in the head.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2533760509</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.6D03F</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I don’t know, but...I see something.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094993971</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.6DE47</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4094993971</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>I don’t know, but...I see something.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Groggy, under the effects of incense. Probably a slower read--not all there in the head. But perking up when she sees something off screen.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1662913632</code></td></tr></table>

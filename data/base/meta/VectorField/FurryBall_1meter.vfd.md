@@ -1,6 +1,6 @@
 <h1>data/base/meta/VectorField/FurryBall_1meter.vfd</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/VectorField/FurryBall_1meter.vfd</td></tr><tr><td><b>Type</b></td><td>VectorFieldDefinition</td></tr><tr><td><b>SNO ID</b></td><td>184578</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_7ed9e42</b></td><td><code>20</code></td></tr><tr><td><b>flMagMin</b></td><td><code>0</code></td></tr><tr><td><b>flMagMax</b></td><td><code>1.3004374504089355</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-4.942692, -0.516693, 3.142300)</td></tr><tr><td><b>wvExt</b></td><td>Vector(91.393311, 96.489990, 91.589554)</td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>flMagMin</b></td><td><code>0</code></td></tr><tr><td><b>flMagMax</b></td><td><code>1.3004374504089355</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-4.942692, -0.516693, 3.142300)</td></tr><tr><td><b>wvExt</b></td><td>Vector(91.393311, 96.489990, 91.589554)</td></tr></table>
 
 </td></tr><tr><td><b>ptSamples</b></td><td>Vector(0.000000, 0.000000, 0.000000)
 Vector(0.000000, 0.000000, 0.000000)
@@ -8002,5 +8002,5 @@ Vector(0.000000, 0.000000, 0.000000)
 Vector(0.000000, 0.000000, 0.000000)
 Vector(0.000000, 0.000000, 0.000000)
 Vector(0.000000, 0.000000, 0.000000)
-</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>20</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>20</code></td></tr></table>
+</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>20</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>20</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>20</code></td></tr></table>
 

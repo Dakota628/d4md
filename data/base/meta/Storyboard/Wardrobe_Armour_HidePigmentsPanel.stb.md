@@ -2,10 +2,10 @@
 
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_97f94e0</b></td><td><table><tr><th colspan="100%">Type_36030d2d</th></tr><tr><td><b>arTracks</b></td><td></td></tr></table>
 
-</td></tr><tr><td><b>arChildControls</b></td><td><table><tr><th colspan="100%">Type_87385a6d</th></tr><tr><td><b>szTarget</b></td><td><code>Transmog_Pigment_Content</code></td></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_56dcc16f</th></tr><tr><td><b>dwType</b></td><td><code>1457308015</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>255</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>arChildControls</b></td><td><table><tr><th colspan="100%">Type_87385a6d</th></tr><tr><td><b>szTarget</b></td><td><code>Transmog_Pigment_Content</code></td></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_56dcc16f</th></tr><tr><td><b>dwType</b></td><td><code>1457308015</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>255</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>1</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>0</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>1</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>0</code></td></tr></table>
 
 
 </td></tr><tr><td><b>unk_36cc429</b></td><td><code>0</code>
@@ -18,12 +18,28 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_87385a6d</th></tr><tr><td><b>szTarget</b></td><td><code>Transmog_Variants</code></td></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_37227e2</th></tr><tr><td><b>dwType</b></td><td><code>57812962</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>370</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">Type_87385a6d</th></tr><tr><td><b>szTarget</b></td><td><code>Transmog_Variants</code></td></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_37227e2</th></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>unk_36cc429</b></td><td><code>0</code>
+<code>1</code>
+</td></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>370</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>1</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>557</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
 
 
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_77ed19a</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>57812962</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_87385a6d</th></tr><tr><td><b>szTarget</b></td><td><code>Transmog_Variant_Content</code></td></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_37227e2</th></tr><tr><td><b>dwType</b></td><td><code>57812962</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>370</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>557</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
+
+
 </td></tr><tr><td><b>unk_36cc429</b></td><td><code>0</code>
 <code>1</code>
 </td></tr></table>
@@ -34,23 +50,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_87385a6d</th></tr><tr><td><b>szTarget</b></td><td><code>Transmog_Variant_Content</code></td></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_37227e2</th></tr><tr><td><b>dwType</b></td><td><code>57812962</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>unk_36cc429</b></td><td><code>0</code>
-<code>1</code>
-</td></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>370</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>tValue</b></td><td><code>557</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_77ed19a</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_87385a6d</th></tr><tr><td><b>szTarget</b></td><td><code>Transmog_Items_ScrollPanel</code></td></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_37227e2</th></tr><tr><td><b>dwType</b></td><td><code>57812962</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>310</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">Type_87385a6d</th></tr><tr><td><b>szTarget</b></td><td><code>Transmog_Items_ScrollPanel</code></td></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_37227e2</th></tr><tr><td><b>dwType</b></td><td><code>57812962</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>310</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>tValue</b></td><td><code>497</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
@@ -66,17 +66,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_87385a6d</th></tr><tr><td><b>szTarget</b></td><td><code>Variant_Dim</code></td></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_37227e2</th></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>402</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>560</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_36cc429</b></td><td><code>0</code>
+<table><tr><th colspan="100%">Type_87385a6d</th></tr><tr><td><b>szTarget</b></td><td><code>Variant_Dim</code></td></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_37227e2</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>57812962</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>unk_36cc429</b></td><td><code>0</code>
 <code>1</code>
+</td></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>402</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>560</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr></table>
+
+
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_77ed19a</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>57812962</code></td></tr></table>
+</td></tr><tr><td><b>unk_77ed19a</b></td><td><code>0</code></td></tr></table>
 
 
 </td></tr></table>

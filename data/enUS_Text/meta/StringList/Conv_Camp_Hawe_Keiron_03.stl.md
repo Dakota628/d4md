@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.941B7</code></td></tr><tr><td><b>szText</b></td><td><code>You were all so scared... I cannot hate you for giving me to the pyre.</code></td></tr><tr><td><b>hLabel</b></td><td><code>672708932</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Weary. Gracious. Letting go.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2535595889</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.941B7</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.941B7</code></td></tr><tr><td><b>szText</b></td><td><code>Weary. Gracious. Letting go.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2535595889</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.941B7</code></td></tr><tr><td><b>szText</b></td><td><code>I forgive you.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3255644870</code></td></tr></table>

@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Bitter, a little sad</code></td></tr><tr><td><b>hLabel</b></td><td><code>3376613513</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.9118B</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4096662494</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.9118B</code></td></tr><tr><td><b>szText</b></td><td><code>I wish it would just let me go, but a pact made cannot be broken.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.9118B</code></td></tr><tr><td><b>szText</b></td><td><code>I wish it would just let me go, but a pact made cannot be broken.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4096662494</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.9118B</code></td></tr><tr><td><b>szText</b></td><td><code>A bit sad and forlorn. She isn't always happy with her fate.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1664582155</code></td></tr></table>

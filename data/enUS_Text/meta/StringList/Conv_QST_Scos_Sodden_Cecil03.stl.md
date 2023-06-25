@@ -18,7 +18,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>If you mean to help me, meet me at the Abandoned Coast. I could use you.</code></td></tr><tr><td><b>hLabel</b></td><td><code>741840861</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line27.A109C</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2087568298</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir27.A109C</code></td></tr><tr><td><b>szText</b></td><td><code>Clear, direct. </code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir27.A109C</code></td></tr><tr><td><b>szText</b></td><td><code>Clear, direct. </code></td></tr><tr><td><b>hLabel</b></td><td><code>2087568298</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

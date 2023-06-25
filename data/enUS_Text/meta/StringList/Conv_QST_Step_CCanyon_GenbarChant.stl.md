@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DisembodiedVoice</code></td></tr><tr><td><b>szText</b></td><td><code>Genbar</code></td></tr><tr><td><b>hLabel</b></td><td><code>155764431</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.371E1</code></td></tr><tr><td><b>szText</b></td><td><code>Oh Mother, thank you for opening my eyes. Your hatred fills my heart—I cannot stop my hands from working!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1506828088</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Oh Mother, thank you for opening my eyes. Your hatred fills my heart—I cannot stop my hands from working!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1506828088</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.371E1</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.371E1</code></td></tr><tr><td><b>szText</b></td><td><code>Praying to altar of Lilith (5ft away.) Empassioned. Feverish/madness.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3369715045</code></td></tr></table>

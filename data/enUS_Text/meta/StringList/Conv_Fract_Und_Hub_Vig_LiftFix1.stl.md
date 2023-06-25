@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Ahh, at last! Our ride out.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1512058033</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Oh, Hell. A demon? Here?</code></td></tr><tr><td><b>hLabel</b></td><td><code>2382962613</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2382962613</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Oh, Hell. A demon? Here?</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>horror, dismay</code></td></tr><tr><td><b>hLabel</b></td><td><code>4245849570</code></td></tr></table>

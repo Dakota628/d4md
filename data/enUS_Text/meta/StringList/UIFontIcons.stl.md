@@ -18,13 +18,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MapZoneBanner_DrySteppes</code></td></tr><tr><td><b>szText</b></td><td><code>{icon:Region_Icon_DrySteppes, 2.0}</code></td></tr><tr><td><b>hLabel</b></td><td><code>201328482</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>{icon:Region_Icon_Hawezar, 2.0}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1988754113</code></td></tr><tr><td><b>szLabel</b></td><td><code>MapZoneBanner_Hawezar</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MapZoneBanner_Hawezar</code></td></tr><tr><td><b>szText</b></td><td><code>{icon:Region_Icon_Hawezar, 2.0}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1988754113</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3611747600</code></td></tr><tr><td><b>szLabel</b></td><td><code>MapZoneBanner_Kehjistan</code></td></tr><tr><td><b>szText</b></td><td><code>{icon:Region_Icon_Kehjistan, 2.0}</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MapZoneBanner_Kehjistan</code></td></tr><tr><td><b>szText</b></td><td><code>{icon:Region_Icon_Kehjistan, 2.0}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3611747600</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>{icon:TooltipAffixReroll, .8}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3284369240</code></td></tr><tr><td><b>szLabel</b></td><td><code>ItemTooltipAffixReroll</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ItemTooltipAffixReroll</code></td></tr><tr><td><b>szText</b></td><td><code>{icon:TooltipAffixReroll, .8}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3284369240</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

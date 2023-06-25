@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback35Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the remaining enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>2450614046</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1248479483</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback41Header</code></td></tr><tr><td><b>szText</b></td><td><code>Massacre enough enemies</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Massacre enough enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>1248479483</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback41Header</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

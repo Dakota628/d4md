@@ -15,13 +15,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.B5F34.Nec</code></td></tr><tr><td><b>szText</b></td><td><code>Too much sitting inside... I think I'm getting fat.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2192595311</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2267745820</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.B5F34.Nec</code></td></tr><tr><td><b>szText</b></td><td><code>To Player. Winded from training. Shaking head.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.B5F34.Nec</code></td></tr><tr><td><b>szText</b></td><td><code>To Player. Winded from training. Shaking head.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2267745820</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.B5F34.Rog</code></td></tr><tr><td><b>szText</b></td><td><code>Too much sitting inside... I think I'm getting fat.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2192600001</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Too much sitting inside... I think I'm getting fat.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2192600001</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.B5F34.Rog</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2267750510</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.B5F34.Rog</code></td></tr><tr><td><b>szText</b></td><td><code>To Player. Winded from training. Shaking head.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.B5F34.Rog</code></td></tr><tr><td><b>szText</b></td><td><code>To Player. Winded from training. Shaking head.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2267750510</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.B5F34.Sor</code></td></tr><tr><td><b>szText</b></td><td><code>Too much sitting inside... I think I'm getting fat.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2192601101</code></td></tr></table>

@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback44Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the Languishing Corpses: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>827916094</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1698820674</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback48Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay all enemies in the Rotting Penitentiary {KAM_REVEALED_COUNT}</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback48Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay all enemies in the Rotting Penitentiary {KAM_REVEALED_COUNT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1698820674</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback54Header</code></td></tr><tr><td><b>szText</b></td><td><code>Travel to the {LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>496686111</code></td></tr></table>

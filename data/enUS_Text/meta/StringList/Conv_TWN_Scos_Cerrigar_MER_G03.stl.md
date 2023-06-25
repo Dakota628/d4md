@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.F738A</code></td></tr><tr><td><b>szText</b></td><td><code>Care for a piece of spice cake? (sigh) Of course not, why would you? All my wares taste of smoke.</code></td></tr><tr><td><b>hLabel</b></td><td><code>726184022</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>To Player. Depressed. Grief.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2589070979</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.F738A</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.F738A</code></td></tr><tr><td><b>szText</b></td><td><code>To Player. Depressed. Grief.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2589070979</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

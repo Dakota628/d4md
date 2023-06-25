@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.B6582</code></td></tr><tr><td><b>szText</b></td><td><code>Ahhhhh!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1915568591</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3261296028</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.B6582</code></td></tr><tr><td><b>szText</b></td><td><code>screams out in terror and exhaustion</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.B6582</code></td></tr><tr><td><b>szText</b></td><td><code>screams out in terror and exhaustion</code></td></tr><tr><td><b>hLabel</b></td><td><code>3261296028</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>No!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3253867193</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>No!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3253867193</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line9.6DE47</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.B6582</code></td></tr><tr><td><b>szText</b></td><td><code>(dying breaths)</code></td></tr><tr><td><b>hLabel</b></td><td><code>203537233</code></td></tr></table>

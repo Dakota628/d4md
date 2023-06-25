@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"What's for sale?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Overripe fruit, half price! Still waiting on a fresh shipment.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567317602</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.F78AE</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.F78AE</code></td></tr><tr><td><b>szText</b></td><td><code>Overripe fruit, half price! Still waiting on a fresh shipment.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567317602</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir24.D5161</code></td></tr><tr><td><b>szText</b></td><td><code>To bandit captive. Angry. Intimidating. </code></td></tr><tr><td><b>hLabel</b></td><td><code>2511834138</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line22.54239</code></td></tr><tr><td><b>szText</b></td><td><code>I've told everything, I swear!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2822364833</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2822364833</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line22.54239</code></td></tr><tr><td><b>szText</b></td><td><code>I've told everything, I swear!</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir22.54239</code></td></tr><tr><td><b>szText</b></td><td><code>Bruised. Begging. Desperate.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4168092270</code></td></tr></table>

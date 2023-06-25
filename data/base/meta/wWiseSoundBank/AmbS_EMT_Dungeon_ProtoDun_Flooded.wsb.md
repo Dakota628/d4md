@@ -1,6 +1,6 @@
 <h1>data/base/meta/wWiseSoundBank/AmbS_EMT_Dungeon_ProtoDun_Flooded.wsb</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/wWiseSoundBank/AmbS_EMT_Dungeon_ProtoDun_Flooded.wsb</td></tr><tr><td><b>Type</b></td><td>wWiseSoundBankDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1044165</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptContent</b></td><td><table><tr><th colspan="100%">Type_313c5815</th></tr><tr><td><b>dwType</b></td><td><code>826038293</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_ce10c35</b></td><td><table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>14721906</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>433848915</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptContent</b></td><td><table><tr><th colspan="100%">Type_313c5815</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_ce10c35</b></td><td><table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>14721906</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>433848915</code></td></tr></table>
 
 </td></tr></table>
 
@@ -20,9 +20,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>4266699201</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>47536210</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>4266699201</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>47536210</code></td></tr></table>
+</td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>58108298</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1151456895</code></td></tr></table>
@@ -45,14 +45,14 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>151066479</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>89252504</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>96876390</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3878892603</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>89252504</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>151066479</code></td></tr></table>
 
 </td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3878892603</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>96876390</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>112388315</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2396167466</code></td></tr></table>
@@ -145,14 +145,14 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1838623146</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>232565737</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>242055851</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>601139726</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>232565737</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1838623146</code></td></tr></table>
 
 </td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>601139726</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>242055851</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>260613411</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>4082747427</code></td></tr></table>
@@ -165,9 +165,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>268023865</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2611718643</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2611718643</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>268023865</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>270330106</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>685785826</code></td></tr></table>
@@ -195,9 +195,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>288332960</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>765062469</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>765062469</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>288332960</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>298954062</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1911594846</code></td></tr></table>
@@ -230,14 +230,14 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>383651845</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1410844455</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1410844455</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>383651845</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>388305141</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2371019130</code></td></tr></table>
 
 </td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2371019130</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>388305141</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>394533050</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>165048105</code></td></tr></table>
@@ -265,9 +265,9 @@
 </td></tr><tr><td><b>unk_d603308</b></td><td><code>430796774</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>433095645</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1817416508</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1817416508</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>433095645</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>433717812</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1542381520</code></td></tr></table>
@@ -295,9 +295,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>210014318</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>442784490</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>210014318</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>442784490</code></td></tr></table>
+</td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>448397702</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>850850285</code></td></tr></table>
@@ -320,9 +320,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>469995694</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>4246487660</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>4246487660</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>469995694</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>482313868</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2443878153</code></td></tr></table>
@@ -335,9 +335,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3958990452</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>498038679</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3958990452</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>498038679</code></td></tr></table>
+</td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>502926421</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>265675816</code></td></tr></table>
@@ -345,9 +345,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>510358921</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1267868205</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1267868205</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>510358921</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>513433288</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3628620138</code></td></tr></table>
@@ -355,9 +355,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>519825725</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3806874371</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3806874371</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>519825725</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>522623681</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3723033604</code></td></tr></table>
@@ -385,9 +385,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>535014914</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2070391865</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2070391865</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>535014914</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>552242462</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2427766869</code></td></tr></table>
@@ -400,9 +400,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>573844674</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2254343623</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2254343623</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>573844674</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>574358675</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2821670609</code></td></tr></table>
@@ -440,9 +440,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1881465399</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>624934164</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1881465399</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>624934164</code></td></tr></table>
+</td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>639696151</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3586605081</code></td></tr></table>
@@ -470,14 +470,14 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3444565196</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>667252857</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>668118158</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2198768830</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>667252857</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3444565196</code></td></tr></table>
 
 </td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2198768830</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>668118158</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>669959960</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3301758726</code></td></tr></table>
@@ -495,14 +495,14 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>339053144</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>684175170</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>339053144</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>684175170</code></td></tr></table>
+</td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>178495207</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>684739467</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>178495207</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>684739467</code></td></tr></table>
+</td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>695539259</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2809819837</code></td></tr></table>
@@ -515,9 +515,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>723246339</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1952493892</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1952493892</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>723246339</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>729164956</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>911123269</code></td></tr></table>
@@ -540,9 +540,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>739745829</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3443077458</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3443077458</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>739745829</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>742109907</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1872551665</code></td></tr></table>
@@ -550,9 +550,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>745301247</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2293073216</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2293073216</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>745301247</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>745558207</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>500615183</code></td></tr></table>
@@ -650,9 +650,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>816171730</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>859135417</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>816171730</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>859135417</code></td></tr></table>
+</td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>859446232</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>4227228173</code></td></tr></table>
@@ -670,14 +670,14 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>875469330</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>4204575771</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>4204575771</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>875469330</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>885342983</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>706718738</code></td></tr></table>
 
 </td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>706718738</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>885342983</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>885908220</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2921291858</code></td></tr></table>
@@ -690,9 +690,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>888921189</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>248639866</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>248639866</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>888921189</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>892064633</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>665657786</code></td></tr></table>
@@ -700,9 +700,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>70400973</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>892485644</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>70400973</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>892485644</code></td></tr></table>
+</td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>897791409</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1231675186</code></td></tr></table>
@@ -725,9 +725,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>538213006</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>911988252</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>538213006</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>911988252</code></td></tr></table>
+</td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>928634351</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1082073728</code></td></tr></table>
@@ -775,9 +775,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>982849496</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3809458040</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3809458040</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>982849496</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>989694090</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3361076859</code></td></tr></table>
@@ -790,9 +790,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1993113759</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>1002044638</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1993113759</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>1002044638</code></td></tr></table>
+</td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>1005978026</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2737340084</code></td></tr></table>
@@ -825,9 +825,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3985624444</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>1047829250</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3985624444</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>1047829250</code></td></tr></table>
+</td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>1056324207</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3272632110</code></td></tr></table>
@@ -855,11 +855,11 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>unk_43081cf</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>2048</code></td></tr><tr><td><b>dataSize</b></td><td><code>22710</code></td></tr></table>
+</td></tr><tr><td><b>unk_43081cf</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataSize</b></td><td><code>22710</code></td></tr><tr><td><b>dataOffset</b></td><td><code>2048</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>arMusicSegments</b></td><td></td></tr></table>
+</td></tr><tr><td><b>arMusicSegments</b></td><td></td></tr><tr><td><b>dwType</b></td><td><code>826038293</code></td></tr></table>
 
 
 </td></tr></table>

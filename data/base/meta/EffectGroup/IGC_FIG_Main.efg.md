@@ -1,6 +1,6 @@
 <h1>data/base/meta/EffectGroup/IGC_FIG_Main.efg</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/EffectGroup/IGC_FIG_Main.efg</td></tr><tr><td><b>Type</b></td><td>EffectGroupDefinition</td></tr><tr><td><b>SNO ID</b></td><td>881141</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_4f7a18a</b></td><td><code>231751133</code></td></tr><tr><td><b>dwEffectFlags</b></td><td><code>18658</code></td></tr><tr><td><b>unk_43960c1</b></td><td><code>0</code></td></tr><tr><td><b>unk_50a2c90</b></td><td><code>24</code>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>flDuration</b></td><td><code>124.56663513183594</code></td></tr><tr><td><b>unk_50a2c90</b></td><td><code>24</code>
 <code>25</code>
 <code>26</code>
 <code>23</code>
@@ -38,15 +38,48 @@
 <code>20</code>
 <code>21</code>
 <code>22</code>
-</td></tr><tr><td><b>ptEffects</b></td><td><table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1040.efg">[DT_SNO] EffectGroup: "IGC_FIG_1040"</a></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_4327903</b></td><td><code>1</code></td></tr><tr><td><b>unk_30364bd</b></td><td><code>2</code></td></tr><tr><td><b>unk_e8602d3</b></td><td><code>40</code></td></tr><tr><td><b>unk_19bdc57</b></td><td><code>5</code></td></tr><tr><td><b>unk_e5a6bb1</b></td><td><table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr><tr><td><b>dwMsgKey</b></td><td><code>0</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">TriggerEventNull</th></tr><tr><td><b>dwType</b></td><td><code>3281673073</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr></table>
+
 
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr></table>
+
+</td></tr><tr><td><b>unk_51077dd</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>fPlayedBit</b></td><td><code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>ptHardpoints</b></td><td></td></tr><tr><td><b>unk_4f7a18a</b></td><td><code>231751133</code></td></tr><tr><td><b>unk_adf7def</b></td><td><code>0</code></td></tr><tr><td><b>unk_7d5553e</b></td><td><code>160</code></td></tr><tr><td><b>unk_7c79fc2</b></td><td><code>120</code></td></tr><tr><td><b>unk_43960c1</b></td><td><code>0</code></td></tr><tr><td><b>dwEffectFlags</b></td><td><code>18658</code></td></tr><tr><td><b>unk_9cf7635</b></td><td><code>1</code></td></tr><tr><td><b>ptEffects</b></td><td><table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>tDelay</b></td><td><code>5.700000286102295</code></td></tr></table>
+
+</td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1040.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1040"</a></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
@@ -56,31 +89,19 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>5.700000286102295</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
 
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr></table>
 
 
 </td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>9.200000762939453</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
@@ -90,27 +111,35 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>9.200000762939453</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1050.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1050"</a></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
 
 </td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
 
-</td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1050.efg">[DT_SNO] EffectGroup: "IGC_FIG_1050"</a></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr></table>
+</td></tr></table>
 
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr></table>
 
-</td></tr></table>
 
-</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1060.efg">[DT_SNO] EffectGroup: "IGC_FIG_1060"</a></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>12.633334159851074</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1060.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1060"</a></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
@@ -120,21 +149,55 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>tDelay</b></td><td><code>12.633334159851074</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr></table>
-
+</td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr></table>
+</td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1070.efg">[DT_SNO] EffectGroup: "IGC_FIG_1070"</a></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>tDelay</b></td><td><code>16.33333396911621</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1070.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1070"</a></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
@@ -144,161 +207,33 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1080.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1080"</a></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>22.13333511352539</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
 
 </td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>16.33333396911621</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1080.efg">[DT_SNO] EffectGroup: "IGC_FIG_1080"</a></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-</td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>22.13333511352539</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>27.33333396911621</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1090.efg">[DT_SNO] EffectGroup: "IGC_FIG_1090"</a></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-</td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>32.43333435058594</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1100.efg">[DT_SNO] EffectGroup: "IGC_FIG_1100"</a></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-</td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1110.efg">[DT_SNO] EffectGroup: "IGC_FIG_1110"</a></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-</td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>tDelay</b></td><td><code>38.5333366394043</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr></table>
 
 
 </td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr></table>
 
-</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+</td></tr></table>
 
-</td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1090.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1090"</a></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
@@ -308,17 +243,17 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1120.efg">[DT_SNO] EffectGroup: "IGC_FIG_1120"</a></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
 
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>45.10000228881836</code></td></tr></table>
+</td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>tDelay</b></td><td><code>27.33333396911621</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr></table>
 
 
 </td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
@@ -326,7 +261,21 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1100.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1100"</a></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>32.43333435058594</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
@@ -335,76 +284,16 @@
 
 </td></tr></table>
 
-
-</td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1130.efg">[DT_SNO] EffectGroup: "IGC_FIG_1130"</a></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>52.23333740234375</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-</td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-</td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>56.70000457763672</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1140.efg">[DT_SNO] EffectGroup: "IGC_FIG_1140"</a></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
 
 </td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr></table>
 
 
 </td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr></table>
+</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1150.efg">[DT_SNO] EffectGroup: "IGC_FIG_1150"</a></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-</td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>60.866668701171875</code></td></tr></table>
-
-</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
@@ -414,63 +303,7 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1160.efg">[DT_SNO] EffectGroup: "IGC_FIG_1160"</a></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-</td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>67.86666870117188</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>74.00000762939453</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1170.efg">[DT_SNO] EffectGroup: "IGC_FIG_1170"</a></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1110.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1110"</a></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
 
@@ -478,19 +311,27 @@
 
 </td></tr></table>
 
+</td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>38.5333366394043</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr></table>
+
 </td></tr></table>
 
 
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
 
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1120.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1120"</a></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>tDelay</b></td><td><code>45.10000228881836</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
 
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
@@ -500,25 +341,59 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>79.03334045410156</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
 
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
 
-</td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1180.efg">[DT_SNO] EffectGroup: "IGC_FIG_1180"</a></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
+</td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
 </td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>52.23333740234375</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1130.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1130"</a></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr></table>
 
 
 </td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr></table>
 
-</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
@@ -528,189 +403,25 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1190.efg">[DT_SNO] EffectGroup: "IGC_FIG_1190"</a></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>85.83333587646484</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>56.70000457763672</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr></table>
+</td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1140.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1140"</a></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-</td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
 
 
 </td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1200.efg">[DT_SNO] EffectGroup: "IGC_FIG_1200"</a></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>89.9000015258789</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-</td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-</td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>tDelay</b></td><td><code>92.13333892822266</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1210.efg">[DT_SNO] EffectGroup: "IGC_FIG_1210"</a></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1220.efg">[DT_SNO] EffectGroup: "IGC_FIG_1220"</a></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-</td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>99.0666732788086</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr></table>
-
-</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>103.26667022705078</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-</td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1230.efg">[DT_SNO] EffectGroup: "IGC_FIG_1230"</a></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr></table>
-
-</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1240.efg">[DT_SNO] EffectGroup: "IGC_FIG_1240"</a></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-</td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>tDelay</b></td><td><code>105.63333892822266</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
@@ -720,35 +431,33 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
 
 </td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
 
-</td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1250.efg">[DT_SNO] EffectGroup: "IGC_FIG_1250"</a></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>110.20000457763672</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1150.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1150"</a></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>60.866668701171875</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr></table>
 
 
 </td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>120.33333587646484</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
 </td></tr></table>
 
-</td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
@@ -758,31 +467,361 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1160.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1160"</a></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1260.efg">[DT_SNO] EffectGroup: "IGC_FIG_1260"</a></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>tDelay</b></td><td><code>67.86666870117188</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr></table>
+
+</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1170.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1170"</a></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>74.00000762939453</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
 
-</td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr></table>
+
+</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1180.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1180"</a></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>79.03334045410156</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr></table>
 
 
 </td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
+</td></tr></table>
 
 
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">TriggerEventAddObject</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoname</b></td><td><a href="#UKNOWN">[DT_SNO_NAME] Sound: "Play_RTC_IGC_FIG_Main"</a></td></tr><tr><td><b>unk_af58166</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>fBillboard</b></td><td><code>0</code></td></tr><tr><td><b>idRActorAttachment</b></td><td><code>0</code></td></tr><tr><td><b>ptLightInstanceData</b></td><td></td></tr><tr><td><b>tCleanup</b></td><td><table><tr><th colspan="100%">TriggerCleanup</th></tr><tr><td><b>unk_c5ce3af</b></td><td><code>2</code></td></tr><tr><td><b>unk_80dc73</b></td><td><code>1</code></td></tr><tr><td><b>unk_f216739</b></td><td><code>0</code></td></tr><tr><td><b>unk_8047af2</b></td><td><code>0</code></td></tr><tr><td><b>unk_4690732</b></td><td><code>0</code></td></tr><tr><td><b>unk_2041ce1</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_e7c25e0</b></td><td><code>0</code></td></tr><tr><td><b>unk_9967c81</b></td><td></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>unk_fbdc534</b></td><td><code>0</code></td></tr><tr><td><b>nPriority</b></td><td><code>100</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>eAddType</b></td><td><code>0</code></td></tr><tr><td><b>fKeepOriginal</b></td><td><code>0</code></td></tr><tr><td><b>tDuration</b></td><td><code>0</code></td></tr><tr><td><b>unk_48fd494</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>dwType</b></td><td><code>568526390</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_62ab747</b></td><td><code>1</code></td></tr><tr><td><b>nLocalPlayerIndex</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_6b8bffc</b></td><td><code>0</code></td></tr><tr><td><b>unk_c7fa18a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_36bc3de</b></td><td><code>5</code></td></tr><tr><td><b>unk_beaacd1</b></td><td><code>0</code></td></tr><tr><td><b>unk_33e4eec</b></td><td><code>0</code></td></tr><tr><td><b>unk_e0d3870</b></td><td><code>0</code></td></tr><tr><td><b>nPermIndex</b></td><td><code>0</code></td></tr><tr><td><b>unk_a45e6bd</b></td><td><code>5</code></td></tr><tr><td><b>unk_245c537</b></td><td><table><tr><th colspan="100%">Type_f74028c3</th></tr><tr><td><b>unk_a253b80</b></td><td><table><tr><th colspan="100%">Type_9bdeeb8c</th></tr><tr><td><b>arEquipmentDyes</b></td><td></td></tr><tr><td><b>nHairColor</b></td><td><code>0</code></td></tr><tr><td><b>nSkinColor</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>85.83333587646484</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1190.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1190"</a></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>89.9000015258789</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1200.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1200"</a></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1210.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1210"</a></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>92.13333892822266</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr></table>
+
+</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1220.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1220"</a></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>tDelay</b></td><td><code>99.0666732788086</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1230.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1230"</a></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>tDelay</b></td><td><code>103.26667022705078</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>105.63333892822266</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1240.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1240"</a></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1250.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1250"</a></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>110.20000457763672</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>120.33333587646484</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>46</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1260.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1260"</a></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>80066341</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">TriggerEventAddObject</th></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>tDelay</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>fEnableMovement</b></td><td><code>0</code></td></tr><tr><td><b>unk_cb43646</b></td><td><code>0</code></td></tr><tr><td><b>nPermIndex</b></td><td><code>0</code></td></tr><tr><td><b>unk_36bc3de</b></td><td><code>5</code></td></tr><tr><td><b>unk_fbdc534</b></td><td><code>0</code></td></tr><tr><td><b>nLocalPlayerIndex</b></td><td><code>0</code></td></tr><tr><td><b>unk_9967c81</b></td><td></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>fKeepOriginal</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_a45e6bd</b></td><td><code>5</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_5490979</b></td><td><code>-1</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>snoname</b></td><td><a href="#UKNOWN">[DT_SNO_NAME] Sound: "Play_RTC_IGC_FIG_Main"</a></td></tr><tr><td><b>fRandomLook</b></td><td><code>0</code></td></tr><tr><td><b>unk_e7c25e0</b></td><td><code>0</code></td></tr><tr><td><b>unk_62ab747</b></td><td><code>1</code></td></tr><tr><td><b>unk_6b8bffc</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_48fd494</b></td><td><code>0</code></td></tr><tr><td><b>flScale</b></td><td><code>1</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_c7fa18a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_1426000</b></td><td><code>0</code></td></tr><tr><td><b>idRActorAttachment</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>tDuration</b></td><td><code>0</code></td></tr><tr><td><b>unk_beaacd1</b></td><td><code>0</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>unk_af58166</b></td><td><code>0</code></td></tr><tr><td><b>unk_3ed00d7</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_245c537</b></td><td><table><tr><th colspan="100%">Type_f74028c3</th></tr><tr><td><b>unk_a253b80</b></td><td><table><tr><th colspan="100%">Type_9bdeeb8c</th></tr><tr><td><b>arEquipmentDyes</b></td><td></td></tr><tr><td><b>nHairColor</b></td><td><code>0</code></td></tr><tr><td><b>nSkinColor</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>ptComponents</b></td><td><table><tr><th colspan="100%">ValidComponent</th></tr><tr><td><b>tComponent</b></td><td><code>0</code></td></tr></table>
 
@@ -798,13 +837,167 @@
 
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_49e9257</b></td><td><code>-1</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>tCleanup</b></td><td><table><tr><th colspan="100%">TriggerCleanup</th></tr><tr><td><b>unk_c5ce3af</b></td><td><code>2</code></td></tr><tr><td><b>unk_80dc73</b></td><td><code>1</code></td></tr><tr><td><b>unk_f216739</b></td><td><code>0</code></td></tr><tr><td><b>unk_8047af2</b></td><td><code>0</code></td></tr><tr><td><b>unk_4690732</b></td><td><code>0</code></td></tr><tr><td><b>unk_2041ce1</b></td><td><code>1</code></td></tr></table>
 
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+</td></tr><tr><td><b>unk_49e9257</b></td><td><code>-1</code></td></tr><tr><td><b>dwID</b></td><td><code>666</code></td></tr><tr><td><b>fBillboard</b></td><td><code>0</code></td></tr><tr><td><b>eAddType</b></td><td><code>0</code></td></tr><tr><td><b>dwSegmentsStep</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>568526390</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>nPriority</b></td><td><code>100</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
 
 </td></tr><tr><td><b>tLookLink</b></td><td><table><tr><th colspan="100%">LookLink</th></tr><tr><td><b>dwLookHash</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>dwID</b></td><td><code>666</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>ptLightInstanceData</b></td><td></td></tr><tr><td><b>unk_773852b</b></td><td><code>1</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_33e4eec</b></td><td><code>0</code></td></tr><tr><td><b>unk_e0d3870</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_1824fd95</th></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_6f68ae7</b></td><td><table><tr><th colspan="100%">Type_1d0f43e</th></tr><tr><td><b>tGroup</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>877642339</code></td></tr></table>
+
+</td></tr><tr><td><b>tValue</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>728939322</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwType</b></td><td><code>405077397</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>-4.300000190734863</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_1eb0f5e6</th></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>8192</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>-4.300000190734863</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>tDuration</b></td><td><code>120.33333587646484</code></td></tr><tr><td><b>tCleanup</b></td><td><table><tr><th colspan="100%">TriggerCleanup</th></tr><tr><td><b>unk_80dc73</b></td><td><code>1</code></td></tr><tr><td><b>unk_f216739</b></td><td><code>0</code></td></tr><tr><td><b>unk_8047af2</b></td><td><code>0</code></td></tr><tr><td><b>unk_4690732</b></td><td><code>0</code></td></tr><tr><td><b>unk_2041ce1</b></td><td><code>1</code></td></tr><tr><td><b>unk_c5ce3af</b></td><td><code>4</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_49e9257</b></td><td><code>-1</code></td></tr><tr><td><b>unk_5490979</b></td><td><code>-1</code></td></tr><tr><td><b>dwType</b></td><td><code>514913766</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>tDelay</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1020.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_1020"</a></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_ce82d1b6</th></tr><tr><td><b>unk_49e9257</b></td><td><code>-1</code></td></tr><tr><td><b>unk_5490979</b></td><td><code>-1</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>tDuration</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>3464679862</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>tCleanup</b></td><td><table><tr><th colspan="100%">TriggerCleanup</th></tr><tr><td><b>unk_8047af2</b></td><td><code>0</code></td></tr><tr><td><b>unk_4690732</b></td><td><code>0</code></td></tr><tr><td><b>unk_2041ce1</b></td><td><code>1</code></td></tr><tr><td><b>unk_c5ce3af</b></td><td><code>4</code></td></tr><tr><td><b>unk_80dc73</b></td><td><code>1</code></td></tr><tr><td><b>unk_f216739</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>snoMusic</b></td><td><a href="..\Music\Music_IGC_RTC_FIG.mus.md">[DT_SNO] Music: "Music_IGC_RTC_FIG"</a></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>tDelay</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_e1829be</b></td><td><code>-1</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">TriggerEventAddObject</th></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>tDuration</b></td><td><code>11.066667556762695</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_5490979</b></td><td><code>-1</code></td></tr><tr><td><b>unk_beaacd1</b></td><td><code>0</code></td></tr><tr><td><b>fBillboard</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>231751133</code></td></tr><tr><td><b>nPermIndex</b></td><td><code>0</code></td></tr><tr><td><b>unk_1426000</b></td><td><code>0</code></td></tr><tr><td><b>fRandomLook</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>21.366668701171875</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>8192</code></td></tr><tr><td><b>dwID</b></td><td><code>654978</code></td></tr><tr><td><b>unk_e7c25e0</b></td><td><code>0</code></td></tr><tr><td><b>unk_a45e6bd</b></td><td><code>5</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>eAddType</b></td><td><code>1</code></td></tr><tr><td><b>unk_e0d3870</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>568526390</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>nPriority</b></td><td><code>100</code></td></tr><tr><td><b>unk_62ab747</b></td><td><code>1</code></td></tr><tr><td><b>unk_9967c81</b></td><td><table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\barbarianF.acr.md">[DT_SNO] Actor: "barbarianF"</a></td></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\barF_igc_FIG.ans.md">[DT_SNO] AnimSet: "barF_igc_FIG"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\barbarianM.acr.md">[DT_SNO] Actor: "barbarianM"</a></td></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\barM_igc_FIG.ans.md">[DT_SNO] AnimSet: "barM_igc_FIG"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\druidF.acr.md">[DT_SNO] Actor: "druidF"</a></td></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\druF_igc_FIG.ans.md">[DT_SNO] AnimSet: "druF_igc_FIG"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\druidM.acr.md">[DT_SNO] Actor: "druidM"</a></td></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\druM_igc_FIG.ans.md">[DT_SNO] AnimSet: "druM_igc_FIG"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\necromancerF.acr.md">[DT_SNO] Actor: "necromancerF"</a></td></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\necF_igc_FIG.ans.md">[DT_SNO] AnimSet: "necF_igc_FIG"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\necromancerM.acr.md">[DT_SNO] Actor: "necromancerM"</a></td></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\necM_igc_FIG.ans.md">[DT_SNO] AnimSet: "necM_igc_FIG"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\rogueF.acr.md">[DT_SNO] Actor: "rogueF"</a></td></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\rogF_igc_FIG.ans.md">[DT_SNO] AnimSet: "rogF_igc_FIG"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\rogueM.acr.md">[DT_SNO] Actor: "rogueM"</a></td></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\rogM_igc_FIG.ans.md">[DT_SNO] AnimSet: "rogM_igc_FIG"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\sorF_igc_FIG.ans.md">[DT_SNO] AnimSet: "sorF_igc_FIG"</a></td></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\sorcererF.acr.md">[DT_SNO] Actor: "sorcererF"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\sorcererM.acr.md">[DT_SNO] Actor: "sorcererM"</a></td></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\sorM_igc_FIG.ans.md">[DT_SNO] AnimSet: "sorM_igc_FIG"</a></td></tr></table>
+
+
+</td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>idRActorAttachment</b></td><td><code>0</code></td></tr><tr><td><b>unk_33e4eec</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_af58166</b></td><td><code>0</code></td></tr><tr><td><b>fEnableMovement</b></td><td><code>0</code></td></tr><tr><td><b>tLookLink</b></td><td><table><tr><th colspan="100%">LookLink</th></tr><tr><td><b>dwLookHash</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_36bc3de</b></td><td><code>5</code></td></tr><tr><td><b>unk_245c537</b></td><td><table><tr><th colspan="100%">Type_f74028c3</th></tr><tr><td><b>unk_a253b80</b></td><td><table><tr><th colspan="100%">Type_9bdeeb8c</th></tr><tr><td><b>arEquipmentDyes</b></td><td></td></tr><tr><td><b>nHairColor</b></td><td><code>0</code></td></tr><tr><td><b>nSkinColor</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ptComponents</b></td><td><table><tr><th colspan="100%">ValidComponent</th></tr><tr><td><b>tComponent</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">ValidComponent</th></tr><tr><td><b>tComponent</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">ValidComponent</th></tr><tr><td><b>tComponent</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">ValidComponent</th></tr><tr><td><b>tComponent</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_fbdc534</b></td><td><code>1</code></td></tr><tr><td><b>unk_49e9257</b></td><td><code>-1</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
@@ -814,382 +1007,189 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>unk_5490979</b></td><td><code>-1</code></td></tr><tr><td><b>unk_1426000</b></td><td><code>0</code></td></tr><tr><td><b>unk_3ed00d7</b></td><td><code>0</code></td></tr><tr><td><b>unk_773852b</b></td><td><code>1</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_cb43646</b></td><td><code>0</code></td></tr><tr><td><b>flScale</b></td><td><code>1</code></td></tr><tr><td><b>fEnableMovement</b></td><td><code>0</code></td></tr><tr><td><b>fRandomLook</b></td><td><code>0</code></td></tr><tr><td><b>dwSegmentsStep</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_1824fd95</th></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>-4.300000190734863</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr></table>
-
-</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_6f68ae7</b></td><td><table><tr><th colspan="100%">Type_1d0f43e</th></tr><tr><td><b>tGroup</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>877642339</code></td></tr></table>
-
-</td></tr><tr><td><b>tValue</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>728939322</code></td></tr></table>
+</td></tr><tr><td><b>fKeepOriginal</b></td><td><code>0</code></td></tr><tr><td><b>unk_773852b</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>dwType</b></td><td><code>405077397</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr></table>
-
-</td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_1eb0f5e6</th></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>tDuration</b></td><td><code>120.33333587646484</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>8192</code></td></tr><tr><td><b>unk_49e9257</b></td><td><code>-1</code></td></tr><tr><td><b>unk_5490979</b></td><td><code>-1</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>-4.300000190734863</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>tCleanup</b></td><td><table><tr><th colspan="100%">TriggerCleanup</th></tr><tr><td><b>unk_4690732</b></td><td><code>0</code></td></tr><tr><td><b>unk_2041ce1</b></td><td><code>1</code></td></tr><tr><td><b>unk_c5ce3af</b></td><td><code>4</code></td></tr><tr><td><b>unk_80dc73</b></td><td><code>1</code></td></tr><tr><td><b>unk_f216739</b></td><td><code>0</code></td></tr><tr><td><b>unk_8047af2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>514913766</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>unk_3ed00d7</b></td><td><code>0</code></td></tr><tr><td><b>nLocalPlayerIndex</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
 
-</td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>tCleanup</b></td><td><table><tr><th colspan="100%">TriggerCleanup</th></tr><tr><td><b>unk_80dc73</b></td><td><code>1</code></td></tr><tr><td><b>unk_f216739</b></td><td><code>1</code></td></tr><tr><td><b>unk_8047af2</b></td><td><code>1</code></td></tr><tr><td><b>unk_4690732</b></td><td><code>1</code></td></tr><tr><td><b>unk_2041ce1</b></td><td><code>1</code></td></tr><tr><td><b>unk_c5ce3af</b></td><td><code>2</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_cb43646</b></td><td><code>0</code></td></tr><tr><td><b>unk_48fd494</b></td><td><code>0</code></td></tr><tr><td><b>unk_c7fa18a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
-
-<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_1020.efg">[DT_SNO] EffectGroup: "IGC_FIG_1020"</a></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_ce82d1b6</th></tr><tr><td><b>dwType</b></td><td><code>3464679862</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_e1829be</b></td><td><code>-1</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr></table>
-
-</td></tr><tr><td><b>tDuration</b></td><td><code>0</code></td></tr><tr><td><b>unk_5490979</b></td><td><code>-1</code></td></tr><tr><td><b>snoMusic</b></td><td><a href="..\Music\Music_IGC_RTC_FIG.mus">[DT_SNO] Music: "Music_IGC_RTC_FIG"</a></td></tr><tr><td><b>unk_49e9257</b></td><td><code>-1</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>tCleanup</b></td><td><table><tr><th colspan="100%">TriggerCleanup</th></tr><tr><td><b>unk_f216739</b></td><td><code>0</code></td></tr><tr><td><b>unk_8047af2</b></td><td><code>0</code></td></tr><tr><td><b>unk_4690732</b></td><td><code>0</code></td></tr><tr><td><b>unk_2041ce1</b></td><td><code>1</code></td></tr><tr><td><b>unk_c5ce3af</b></td><td><code>4</code></td></tr><tr><td><b>unk_80dc73</b></td><td><code>1</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">TriggerEventAddObject</th></tr><tr><td><b>dwID</b></td><td><code>654978</code></td></tr><tr><td><b>tLookLink</b></td><td><table><tr><th colspan="100%">LookLink</th></tr><tr><td><b>dwLookHash</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>8192</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_c7fa18a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_e7c25e0</b></td><td><code>0</code></td></tr><tr><td><b>unk_6b8bffc</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>21.366668701171875</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>tCleanup</b></td><td><table><tr><th colspan="100%">TriggerCleanup</th></tr><tr><td><b>unk_80dc73</b></td><td><code>1</code></td></tr><tr><td><b>unk_f216739</b></td><td><code>1</code></td></tr><tr><td><b>unk_8047af2</b></td><td><code>1</code></td></tr><tr><td><b>unk_4690732</b></td><td><code>1</code></td></tr><tr><td><b>unk_2041ce1</b></td><td><code>1</code></td></tr><tr><td><b>unk_c5ce3af</b></td><td><code>2</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_49e9257</b></td><td><code>-1</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-</td></tr><tr><td><b>unk_33e4eec</b></td><td><code>0</code></td></tr><tr><td><b>unk_a45e6bd</b></td><td><code>5</code></td></tr><tr><td><b>unk_3ed00d7</b></td><td><code>0</code></td></tr><tr><td><b>unk_773852b</b></td><td><code>0</code></td></tr><tr><td><b>unk_62ab747</b></td><td><code>1</code></td></tr><tr><td><b>dwSegmentsStep</b></td><td><code>0</code></td></tr><tr><td><b>fBillboard</b></td><td><code>0</code></td></tr><tr><td><b>fKeepOriginal</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>231751133</code></td></tr><tr><td><b>unk_245c537</b></td><td><table><tr><th colspan="100%">Type_f74028c3</th></tr><tr><td><b>unk_a253b80</b></td><td><table><tr><th colspan="100%">Type_9bdeeb8c</th></tr><tr><td><b>nSkinColor</b></td><td><code>0</code></td></tr><tr><td><b>arEquipmentDyes</b></td><td></td></tr><tr><td><b>nHairColor</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>ptComponents</b></td><td><table><tr><th colspan="100%">ValidComponent</th></tr><tr><td><b>tComponent</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">ValidComponent</th></tr><tr><td><b>tComponent</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">ValidComponent</th></tr><tr><td><b>tComponent</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">ValidComponent</th></tr><tr><td><b>tComponent</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>flScale</b></td><td><code>1</code></td></tr><tr><td><b>dwType</b></td><td><code>568526390</code></td></tr><tr><td><b>unk_fbdc534</b></td><td><code>1</code></td></tr><tr><td><b>unk_48fd494</b></td><td><code>0</code></td></tr><tr><td><b>nLocalPlayerIndex</b></td><td><code>0</code></td></tr><tr><td><b>fRandomLook</b></td><td><code>0</code></td></tr><tr><td><b>nPermIndex</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>tDuration</b></td><td><code>11.066667556762695</code></td></tr><tr><td><b>unk_af58166</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_1426000</b></td><td><code>0</code></td></tr><tr><td><b>unk_9967c81</b></td><td><table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\barbarianF.acr">[DT_SNO] Actor: "barbarianF"</a></td></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\barF_igc_FIG.ans">[DT_SNO] AnimSet: "barF_igc_FIG"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\barbarianM.acr">[DT_SNO] Actor: "barbarianM"</a></td></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\barM_igc_FIG.ans">[DT_SNO] AnimSet: "barM_igc_FIG"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\druF_igc_FIG.ans">[DT_SNO] AnimSet: "druF_igc_FIG"</a></td></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\druidF.acr">[DT_SNO] Actor: "druidF"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\druidM.acr">[DT_SNO] Actor: "druidM"</a></td></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\druM_igc_FIG.ans">[DT_SNO] AnimSet: "druM_igc_FIG"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\necromancerF.acr">[DT_SNO] Actor: "necromancerF"</a></td></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\necF_igc_FIG.ans">[DT_SNO] AnimSet: "necF_igc_FIG"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\necromancerM.acr">[DT_SNO] Actor: "necromancerM"</a></td></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\necM_igc_FIG.ans">[DT_SNO] AnimSet: "necM_igc_FIG"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\rogF_igc_FIG.ans">[DT_SNO] AnimSet: "rogF_igc_FIG"</a></td></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\rogueF.acr">[DT_SNO] Actor: "rogueF"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\rogueM.acr">[DT_SNO] Actor: "rogueM"</a></td></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\rogM_igc_FIG.ans">[DT_SNO] AnimSet: "rogM_igc_FIG"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\sorcererF.acr">[DT_SNO] Actor: "sorcererF"</a></td></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\sorF_igc_FIG.ans">[DT_SNO] AnimSet: "sorF_igc_FIG"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_a4f1387e</th></tr><tr><td><b>snoPlayerActor</b></td><td><a href="..\Actor\sorcererM.acr">[DT_SNO] Actor: "sorcererM"</a></td></tr><tr><td><b>snoAnimSetOverride</b></td><td><a href="..\AnimSet\sorM_igc_FIG.ans">[DT_SNO] AnimSet: "sorM_igc_FIG"</a></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_beaacd1</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_e0d3870</b></td><td><code>0</code></td></tr><tr><td><b>nPriority</b></td><td><code>100</code></td></tr><tr><td><b>ptLightInstanceData</b></td><td></td></tr><tr><td><b>unk_5490979</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>eAddType</b></td><td><code>1</code></td></tr><tr><td><b>idRActorAttachment</b></td><td><code>0</code></td></tr><tr><td><b>unk_36bc3de</b></td><td><code>5</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>fEnableMovement</b></td><td><code>0</code></td></tr><tr><td><b>unk_cb43646</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_58ae46c5</th></tr><tr><td><b>tDuration</b></td><td><code>0</code></td></tr><tr><td><b>unk_9209538</b></td><td><code>7</code></td></tr><tr><td><b>unk_396c7d1</b></td><td><code>4.5333333015441895</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_12c22c8</b></td><td><code>100</code></td></tr><tr><td><b>unk_386656b</b></td><td><code>0.5</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>654978</code></td></tr><tr><td><b>unk_9b2ead</b></td><td><code>1</code></td></tr><tr><td><b>unk_84dd910</b></td><td><code>0</code></td></tr><tr><td><b>unk_5ed01be</b></td><td><code>0</code></td></tr><tr><td><b>flAnimSpeedScale</b></td><td><code>1</code></td></tr><tr><td><b>eAnimLoopMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_515279b</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_49e9257</b></td><td><code>-1</code></td></tr><tr><td><b>unk_5490979</b></td><td><code>-1</code></td></tr><tr><td><b>dwType</b></td><td><code>1487816389</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_a5153a1</b></td><td><code>0</code></td></tr><tr><td><b>unk_32a328c</b></td><td><code>0</code></td></tr><tr><td><b>szLocatorName</b></td><td><code>0</code></td></tr><tr><td><b>tCleanup</b></td><td><table><tr><th colspan="100%">TriggerCleanup</th></tr><tr><td><b>unk_80dc73</b></td><td><code>1</code></td></tr><tr><td><b>unk_f216739</b></td><td><code>1</code></td></tr><tr><td><b>unk_8047af2</b></td><td><code>1</code></td></tr><tr><td><b>unk_4690732</b></td><td><code>1</code></td></tr><tr><td><b>unk_2041ce1</b></td><td><code>1</code></td></tr><tr><td><b>unk_c5ce3af</b></td><td><code>2</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_4d01218</b></td><td><code>0</code></td></tr><tr><td><b>unk_701a0bf</b></td><td><code>1</code></td></tr><tr><td><b>unk_bcac396</b></td><td><a href="#UKNOWN">[DT_SNO_NAME] Power: "AnimKey_IGC_fig1080"</a></td></tr><tr><td><b>unk_85269a4</b></td><td><code>0</code></td></tr><tr><td><b>unk_c86af88</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>21.46666717529297</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_f3d6423</b></td><td><code>2</code></td></tr><tr><td><b>nPermutationIndex</b></td><td><code>-1</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_478755b</b></td><td><code>2</code></td></tr><tr><td><b>eAnimLayerMode</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_58ae46c5</th></tr><tr><td><b>unk_f3d6423</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>654978</code></td></tr><tr><td><b>unk_386656b</b></td><td><code>0.5</code></td></tr><tr><td><b>tDuration</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_5490979</b></td><td><code>-1</code></td></tr><tr><td><b>unk_5ed01be</b></td><td><code>0</code></td></tr><tr><td><b>unk_478755b</b></td><td><code>0</code></td></tr><tr><td><b>unk_84dd910</b></td><td><code>0</code></td></tr><tr><td><b>unk_9209538</b></td><td><code>7</code></td></tr><tr><td><b>unk_12c22c8</b></td><td><code>100</code></td></tr><tr><td><b>eAnimLoopMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_515279b</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_a5153a1</b></td><td><code>0</code></td></tr><tr><td><b>unk_32a328c</b></td><td><code>0</code></td></tr><tr><td><b>unk_bcac396</b></td><td><a href="#UKNOWN">[DT_SNO_NAME] Power: "AnimKey_IGC_fig1090"</a></td></tr><tr><td><b>unk_85269a4</b></td><td><code>0</code></td></tr><tr><td><b>unk_701a0bf</b></td><td><code>1</code></td></tr><tr><td><b>unk_396c7d1</b></td><td><code>0</code></td></tr><tr><td><b>szLocatorName</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1487816389</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>27.33333396911621</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>eAnimLayerMode</b></td><td><code>0</code></td></tr><tr><td><b>tCleanup</b></td><td><table><tr><th colspan="100%">TriggerCleanup</th></tr><tr><td><b>unk_4690732</b></td><td><code>1</code></td></tr><tr><td><b>unk_2041ce1</b></td><td><code>1</code></td></tr><tr><td><b>unk_c5ce3af</b></td><td><code>2</code></td></tr><tr><td><b>unk_80dc73</b></td><td><code>1</code></td></tr><tr><td><b>unk_f216739</b></td><td><code>1</code></td></tr><tr><td><b>unk_8047af2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_49e9257</b></td><td><code>-1</code></td></tr><tr><td><b>unk_4d01218</b></td><td><code>0</code></td></tr><tr><td><b>nPermutationIndex</b></td><td><code>-1</code></td></tr><tr><td><b>flAnimSpeedScale</b></td><td><code>1</code></td></tr><tr><td><b>unk_c86af88</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_9b2ead</b></td><td><code>1</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_ac84a430</th></tr><tr><td><b>dwActorID</b></td><td><code>654978</code></td></tr><tr><td><b>unk_d5acde2</b></td><td><code>1</code></td></tr><tr><td><b>dwType</b></td><td><code>2894373936</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>21.500001907348633</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_279aa5a</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_801e77f4</th></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_279aa5a</b></td><td><code>0</code></td></tr><tr><td><b>unk_a8ee95c</b></td><td><code>1</code></td></tr><tr><td><b>unk_4bec6d2</b></td><td><code>1</code></td></tr><tr><td><b>bHideSheathed</b></td><td><code>1</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>21.500001907348633</code></td></tr></table>
-
-</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>2149480436</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>654978</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_ac84a430</th></tr><tr><td><b>unk_d5acde2</b></td><td><code>1</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>1</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_279aa5a</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>106</code></td></tr><tr><td><b>dwType</b></td><td><code>2894373936</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_801e77f4</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>dwActorID</b></td><td><code>106</code></td></tr><tr><td><b>unk_a8ee95c</b></td><td><code>1</code></td></tr><tr><td><b>unk_4bec6d2</b></td><td><code>1</code></td></tr><tr><td><b>dwType</b></td><td><code>2149480436</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_279aa5a</b></td><td><code>0</code></td></tr><tr><td><b>bHideSheathed</b></td><td><code>1</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_7903361</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_13ae9a0c</th></tr><tr><td><b>unk_54489ef</b></td><td><code>150</code></td></tr><tr><td><b>dwType</b></td><td><code>330209804</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>tDelay</b></td><td><code>21.500001907348633</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>654978</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr></table>
-
-</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_58ae46c5</th></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>flAnimSpeedScale</b></td><td><code>1</code></td></tr><tr><td><b>eAnimLoopMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_49e9257</b></td><td><code>-1</code></td></tr><tr><td><b>unk_5ed01be</b></td><td><code>0</code></td></tr><tr><td><b>nPermutationIndex</b></td><td><code>-1</code></td></tr><tr><td><b>szLocatorName</b></td><td><code>0</code></td></tr><tr><td><b>tDuration</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>tCleanup</b></td><td><table><tr><th colspan="100%">TriggerCleanup</th></tr><tr><td><b>unk_80dc73</b></td><td><code>1</code></td></tr><tr><td><b>unk_f216739</b></td><td><code>1</code></td></tr><tr><td><b>unk_8047af2</b></td><td><code>1</code></td></tr><tr><td><b>unk_4690732</b></td><td><code>1</code></td></tr><tr><td><b>unk_2041ce1</b></td><td><code>1</code></td></tr><tr><td><b>unk_c5ce3af</b></td><td><code>2</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_84dd910</b></td><td><code>0</code></td></tr><tr><td><b>unk_9209538</b></td><td><code>7</code></td></tr><tr><td><b>unk_a5153a1</b></td><td><code>0</code></td></tr><tr><td><b>unk_4d01218</b></td><td><code>0</code></td></tr><tr><td><b>unk_c86af88</b></td><td><code>0</code></td></tr><tr><td><b>unk_386656b</b></td><td><code>0.5</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_5490979</b></td><td><code>-1</code></td></tr><tr><td><b>unk_32a328c</b></td><td><code>0</code></td></tr><tr><td><b>unk_12c22c8</b></td><td><code>100</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>22.13333511352539</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_478755b</b></td><td><code>2</code></td></tr><tr><td><b>unk_9b2ead</b></td><td><code>1</code></td></tr><tr><td><b>unk_396c7d1</b></td><td><code>0</code></td></tr><tr><td><b>unk_515279b</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1487816389</code></td></tr><tr><td><b>unk_bcac396</b></td><td><a href="#UKNOWN">[DT_SNO_NAME] Power: "AnimKey_IGC_fig1080"</a></td></tr><tr><td><b>unk_85269a4</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_f3d6423</b></td><td><code>2</code></td></tr><tr><td><b>dwActorID</b></td><td><code>654978</code></td></tr><tr><td><b>eAnimLayerMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_701a0bf</b></td><td><code>1</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_13ae9a0c</th></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwType</b></td><td><code>330209804</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>27.33333396911621</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_85269a4</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>654978</code></td></tr><tr><td><b>unk_54489ef</b></td><td><code>150</code></td></tr></table>
+</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>0</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>unk_6b8bffc</b></td><td><code>0</code></td></tr><tr><td><b>flScale</b></td><td><code>1</code></td></tr><tr><td><b>ptLightInstanceData</b></td><td></td></tr><tr><td><b>unk_85269a4</b></td><td><code>1</code></td></tr><tr><td><b>dwSegmentsStep</b></td><td><code>0</code></td></tr></table>
 
 
 </td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr></table>
 
-</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_58ae46c5</th></tr><tr><td><b>unk_701a0bf</b></td><td><code>1</code></td></tr><tr><td><b>unk_c86af88</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_4d01218</b></td><td><code>0</code></td></tr><tr><td><b>tDuration</b></td><td><code>0</code></td></tr><tr><td><b>unk_49e9257</b></td><td><code>-1</code></td></tr><tr><td><b>unk_32a328c</b></td><td><code>0</code></td></tr><tr><td><b>unk_396c7d1</b></td><td><code>4.5333333015441895</code></td></tr><tr><td><b>szLocatorName</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1487816389</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_84dd910</b></td><td><code>0</code></td></tr><tr><td><b>eAnimLayerMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_a5153a1</b></td><td><code>0</code></td></tr><tr><td><b>tCleanup</b></td><td><table><tr><th colspan="100%">TriggerCleanup</th></tr><tr><td><b>unk_80dc73</b></td><td><code>1</code></td></tr><tr><td><b>unk_f216739</b></td><td><code>1</code></td></tr><tr><td><b>unk_8047af2</b></td><td><code>1</code></td></tr><tr><td><b>unk_4690732</b></td><td><code>1</code></td></tr><tr><td><b>unk_2041ce1</b></td><td><code>1</code></td></tr><tr><td><b>unk_c5ce3af</b></td><td><code>2</code></td></tr></table>
 
-</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>21.500001907348633</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_5490979</b></td><td><code>-1</code></td></tr><tr><td><b>unk_9b2ead</b></td><td><code>1</code></td></tr><tr><td><b>flAnimSpeedScale</b></td><td><code>1</code></td></tr><tr><td><b>eAnimLoopMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_478755b</b></td><td><code>2</code></td></tr><tr><td><b>dwActorID</b></td><td><code>654978</code></td></tr><tr><td><b>unk_9209538</b></td><td><code>7</code></td></tr><tr><td><b>unk_5ed01be</b></td><td><code>0</code></td></tr><tr><td><b>nPermutationIndex</b></td><td><code>-1</code></td></tr><tr><td><b>unk_515279b</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>0</code></td></tr><tr><td><b>unk_386656b</b></td><td><code>0.5</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_f3d6423</b></td><td><code>2</code></td></tr><tr><td><b>unk_12c22c8</b></td><td><code>100</code></td></tr><tr><td><b>unk_bcac396</b></td><td><a href="#UKNOWN">[DT_SNO_NAME] Power: "AnimKey_IGC_fig1080"</a></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>21.46666717529297</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+</td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>654978</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_Hero_Cloth_Override.efg">[DT_SNO] EffectGroup: "IGC_FIG_Hero_Cloth_Override"</a></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>0</code></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
 </td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_58ae46c5</th></tr><tr><td><b>unk_84dd910</b></td><td><code>0</code></td></tr><tr><td><b>unk_f3d6423</b></td><td><code>0</code></td></tr><tr><td><b>unk_c86af88</b></td><td><code>0</code></td></tr><tr><td><b>szLocatorName</b></td><td><code>0</code></td></tr><tr><td><b>tDuration</b></td><td><code>0</code></td></tr><tr><td><b>eAnimLayerMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_32a328c</b></td><td><code>0</code></td></tr><tr><td><b>flAnimSpeedScale</b></td><td><code>1</code></td></tr><tr><td><b>unk_386656b</b></td><td><code>0.5</code></td></tr><tr><td><b>tCleanup</b></td><td><table><tr><th colspan="100%">TriggerCleanup</th></tr><tr><td><b>unk_4690732</b></td><td><code>1</code></td></tr><tr><td><b>unk_2041ce1</b></td><td><code>1</code></td></tr><tr><td><b>unk_c5ce3af</b></td><td><code>2</code></td></tr><tr><td><b>unk_80dc73</b></td><td><code>1</code></td></tr><tr><td><b>unk_f216739</b></td><td><code>1</code></td></tr><tr><td><b>unk_8047af2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_9209538</b></td><td><code>7</code></td></tr><tr><td><b>unk_bcac396</b></td><td><a href="#UKNOWN">[DT_SNO_NAME] Power: "AnimKey_IGC_fig1090"</a></td></tr><tr><td><b>unk_85269a4</b></td><td><code>0</code></td></tr><tr><td><b>unk_396c7d1</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>tDelay</b></td><td><code>27.33333396911621</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_701a0bf</b></td><td><code>1</code></td></tr><tr><td><b>unk_12c22c8</b></td><td><code>100</code></td></tr><tr><td><b>dwType</b></td><td><code>1487816389</code></td></tr><tr><td><b>unk_49e9257</b></td><td><code>-1</code></td></tr><tr><td><b>unk_5490979</b></td><td><code>-1</code></td></tr><tr><td><b>unk_4d01218</b></td><td><code>0</code></td></tr><tr><td><b>unk_a5153a1</b></td><td><code>0</code></td></tr><tr><td><b>unk_5ed01be</b></td><td><code>0</code></td></tr><tr><td><b>eAnimLoopMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_515279b</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_478755b</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>654978</code></td></tr><tr><td><b>unk_9b2ead</b></td><td><code>1</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>nPermutationIndex</b></td><td><code>-1</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_ac84a430</th></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_279aa5a</b></td><td><code>0</code></td></tr><tr><td><b>unk_d5acde2</b></td><td><code>1</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>21.500001907348633</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>2894373936</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwActorID</b></td><td><code>654978</code></td></tr></table>
 
 
 </td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
+</td></tr></table>
 
 
-</td></tr><tr><td><b>unk_e7c25e0</b></td><td><code>0</code></td></tr><tr><td><b>fPlayedBit</b></td><td><code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>flDuration</b></td><td><code>124.56663513183594</code></td></tr><tr><td><b>unk_4327903</b></td><td><code>1</code></td></tr><tr><td><b>unk_9cf7635</b></td><td><code>1</code></td></tr><tr><td><b>ptHardpoints</b></td><td></td></tr><tr><td><b>unk_19bdc57</b></td><td><code>5</code></td></tr><tr><td><b>nEffectWeightMethod</b></td><td><code>2</code></td></tr><tr><td><b>unk_7c79fc2</b></td><td><code>120</code></td></tr><tr><td><b>unk_e5a6bb1</b></td><td><table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>0</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">TriggerEventNull</th></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwType</b></td><td><code>3281673073</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_801e77f4</th></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>654978</code></td></tr><tr><td><b>unk_a8ee95c</b></td><td><code>1</code></td></tr><tr><td><b>bHideSheathed</b></td><td><code>1</code></td></tr><tr><td><b>dwType</b></td><td><code>2149480436</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_279aa5a</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bec6d2</b></td><td><code>1</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>21.500001907348633</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_ac84a430</th></tr><tr><td><b>dwType</b></td><td><code>2894373936</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_279aa5a</b></td><td><code>0</code></td></tr><tr><td><b>unk_d5acde2</b></td><td><code>1</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwActorID</b></td><td><code>106</code></td></tr></table>
 
 
 </td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr></table>
+</td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr></table>
 
-</td></tr><tr><td><b>unk_51077dd</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_adf7def</b></td><td><code>0</code></td></tr><tr><td><b>unk_30364bd</b></td><td><code>2</code></td></tr><tr><td><b>unk_e8602d3</b></td><td><code>40</code></td></tr><tr><td><b>unk_7d5553e</b></td><td><code>160</code></td></tr></table>
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_801e77f4</th></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_4bec6d2</b></td><td><code>1</code></td></tr><tr><td><b>bHideSheathed</b></td><td><code>1</code></td></tr><tr><td><b>dwType</b></td><td><code>2149480436</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_279aa5a</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>106</code></td></tr><tr><td><b>unk_a8ee95c</b></td><td><code>1</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_13ae9a0c</th></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>0</code></td></tr><tr><td><b>unk_54489ef</b></td><td><code>150</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>21.500001907348633</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>654978</code></td></tr><tr><td><b>dwType</b></td><td><code>330209804</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_58ae46c5</th></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>eAnimLayerMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_c86af88</b></td><td><code>0</code></td></tr><tr><td><b>unk_515279b</b></td><td><code>0</code></td></tr><tr><td><b>unk_386656b</b></td><td><code>0.5</code></td></tr><tr><td><b>dwType</b></td><td><code>1487816389</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>tCleanup</b></td><td><table><tr><th colspan="100%">TriggerCleanup</th></tr><tr><td><b>unk_80dc73</b></td><td><code>1</code></td></tr><tr><td><b>unk_f216739</b></td><td><code>1</code></td></tr><tr><td><b>unk_8047af2</b></td><td><code>1</code></td></tr><tr><td><b>unk_4690732</b></td><td><code>1</code></td></tr><tr><td><b>unk_2041ce1</b></td><td><code>1</code></td></tr><tr><td><b>unk_c5ce3af</b></td><td><code>2</code></td></tr></table>
+
+</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>tDuration</b></td><td><code>0</code></td></tr><tr><td><b>unk_5490979</b></td><td><code>-1</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>0</code></td></tr><tr><td><b>unk_701a0bf</b></td><td><code>1</code></td></tr><tr><td><b>dwActorID</b></td><td><code>654978</code></td></tr><tr><td><b>unk_9209538</b></td><td><code>7</code></td></tr><tr><td><b>unk_9b2ead</b></td><td><code>1</code></td></tr><tr><td><b>unk_32a328c</b></td><td><code>0</code></td></tr><tr><td><b>szLocatorName</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>22.13333511352539</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>unk_a5153a1</b></td><td><code>0</code></td></tr><tr><td><b>unk_5ed01be</b></td><td><code>0</code></td></tr><tr><td><b>nPermutationIndex</b></td><td><code>-1</code></td></tr><tr><td><b>unk_f3d6423</b></td><td><code>2</code></td></tr><tr><td><b>unk_bcac396</b></td><td><a href="#UKNOWN">[DT_SNO_NAME] Power: "AnimKey_IGC_fig1080"</a></td></tr><tr><td><b>flAnimSpeedScale</b></td><td><code>1</code></td></tr><tr><td><b>eAnimLoopMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_396c7d1</b></td><td><code>0</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_84dd910</b></td><td><code>0</code></td></tr><tr><td><b>unk_12c22c8</b></td><td><code>100</code></td></tr><tr><td><b>unk_49e9257</b></td><td><code>-1</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_478755b</b></td><td><code>2</code></td></tr><tr><td><b>unk_4d01218</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr></table>
+
+</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_13ae9a0c</th></tr><tr><td><b>dwType</b></td><td><code>330209804</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>27.33333396911621</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>654978</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_54489ef</b></td><td><code>150</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">EffectItem</th></tr><tr><td><b>snoSurfaces</b></td><td></td></tr><tr><td><b>unk_7903361</b></td><td></td></tr><tr><td><b>unk_d5fd413</b></td><td></td></tr><tr><td><b>dwWeight</b></td><td><code>0</code></td></tr><tr><td><b>unk_ae86ed6</b></td><td></td></tr><tr><td><b>arTopology</b></td><td></td></tr><tr><td><b>unk_43e7b5a</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>tMsgTriggeredEvents</b></td><td><table><tr><th colspan="100%">MsgTriggeredEvent</th></tr><tr><td><b>dwMsgKey</b></td><td><code>5000</code></td></tr><tr><td><b>ptTriggerEvent</b></td><td><table><tr><th colspan="100%">Type_528bfa99</th></tr><tr><td><b>unk_ab8c139</b></td><td><code>0</code></td></tr><tr><td><b>fOverrideHardpoint</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_2130773</b></td><td><code>0</code></td></tr><tr><td><b>unk_10405ce</b></td><td><code>0</code></td></tr><tr><td><b>dwUniqueID</b></td><td><code>0</code></td></tr><tr><td><b>unk_6cba752</b></td><td><code>0</code></td></tr><tr><td><b>unk_f50537b</b></td><td><code>0</code></td></tr><tr><td><b>unk_e312e34</b></td><td><code>0</code></td></tr><tr><td><b>unk_30e0427</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLinks</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_96134cc</b></td><td><code>0</code></td></tr><tr><td><b>dwActorID</b></td><td><code>654978</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="IGC_FIG_Hero_Cloth_Override.efg.md">[DT_SNO] EffectGroup: "IGC_FIG_Hero_Cloth_Override"</a></td></tr><tr><td><b>unk_315ce85</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_1149cd2</b></td><td><code>0</code></td></tr><tr><td><b>unk_498cae5</b></td><td><code>0</code></td></tr><tr><td><b>tConditions</b></td><td><table><tr><th colspan="100%">TriggerConditions</th></tr><tr><td><b>unk_1db3ba0</b></td><td><code>0</code></td></tr><tr><td><b>unk_f0d960e</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwConditionFlags</b></td><td><code>1038</code></td></tr><tr><td><b>ePlayerCountCondition</b></td><td><code>0</code></td></tr><tr><td><b>unk_b51df67</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>flChance</b></td><td><code>1</code></td></tr><tr><td><b>bMute</b></td><td><code>0</code></td></tr><tr><td><b>eMaterial</b></td><td><code>0</code></td></tr><tr><td><b>tDelay</b></td><td><code>21.500001907348633</code></td></tr><tr><td><b>unk_1dcbf67</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_6fd6f47</b></td><td><code>0</code></td></tr><tr><td><b>unk_f22bb26</b></td><td><code>0</code></td></tr><tr><td><b>unk_4102322</b></td><td><code>0</code></td></tr><tr><td><b>unk_9a2c9a0</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0f4eeb</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>fGenerated</b></td><td><code>0</code></td></tr><tr><td><b>unk_85269a4</b></td><td><code>0</code></td></tr><tr><td><b>unk_b9368ac</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>unk_a936bd9</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1384905369</code></td></tr><tr><td><b>unk_edec5ed</b></td><td><code>0</code></td></tr><tr><td><b>vecScalar</b></td><td>Vector(1.000000, 1.000000)</td></tr><tr><td><b>unk_e560b0b</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwTriggerFlags</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tCooldown</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>nEffectWeightMethod</b></td><td><code>2</code></td></tr><tr><td><b>unk_e7c25e0</b></td><td><code>0</code></td></tr></table>
 

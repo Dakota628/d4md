@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.1025D2</code></td></tr><tr><td><b>szText</b></td><td><code>out of breath, wounded, grateful </code></td></tr><tr><td><b>hLabel</b></td><td><code>3739827250</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.1025D2</code></td></tr><tr><td><b>szText</b></td><td><code>I need to return to Kyovashad and request a knight escort. Please, take the Tithing Demands to the Merchant Lord Talgun in Menestad.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1731639847</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I need to return to Kyovashad and request a knight escort. Please, take the Tithing Demands to the Merchant Lord Talgun in Menestad.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1731639847</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.1025D2</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

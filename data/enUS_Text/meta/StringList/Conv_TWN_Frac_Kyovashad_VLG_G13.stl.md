@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.FB72F</code></td></tr><tr><td><b>szText</b></td><td><code>Father Inarius sacrificed himself to defeat Lilith, to save us all from damnation! Will he return?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1568860254</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3431747211</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.FB72F</code></td></tr><tr><td><b>szText</b></td><td><code>Very pious, excited. Telling a grand tale about her benefactor, the angel Inarius.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.FB72F</code></td></tr><tr><td><b>szText</b></td><td><code>Very pious, excited. Telling a grand tale about her benefactor, the angel Inarius.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3431747211</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.FB72F</code></td></tr><tr><td><b>szText</b></td><td><code>That depends if you continue indulging in sin or stay true to the Light!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4151796192</code></td></tr></table>

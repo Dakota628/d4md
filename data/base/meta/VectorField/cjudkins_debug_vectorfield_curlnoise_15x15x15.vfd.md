@@ -1,6 +1,6 @@
 <h1>data/base/meta/VectorField/cjudkins_debug_vectorfield_curlnoise_15x15x15.vfd</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/VectorField/cjudkins_debug_vectorfield_curlnoise_15x15x15.vfd</td></tr><tr><td><b>Type</b></td><td>VectorFieldDefinition</td></tr><tr><td><b>SNO ID</b></td><td>337323</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_7ed9e41</b></td><td><code>15</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>15</code></td></tr><tr><td><b>flMagMin</b></td><td><code>0.05806504935026169</code></td></tr><tr><td><b>flMagMax</b></td><td><code>2.511199951171875</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wvExt</b></td><td>Vector(60.000004, 60.000004, 60.000004)</td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_7ed9e40</b></td><td><code>15</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>15</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>15</code></td></tr><tr><td><b>flMagMin</b></td><td><code>0.05806504935026169</code></td></tr><tr><td><b>flMagMax</b></td><td><code>2.511199951171875</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wvExt</b></td><td>Vector(60.000004, 60.000004, 60.000004)</td></tr></table>
 
 </td></tr><tr><td><b>ptSamples</b></td><td>Vector(-0.194814, -0.170067, -0.074602)
 Vector(-0.237573, 0.213624, 0.123276)
@@ -3377,5 +3377,5 @@ Vector(-0.112328, 0.142934, -0.963432)
 Vector(-0.046520, -0.013491, -0.784566)
 Vector(-0.259823, -0.437391, -1.220747)
 Vector(-0.310410, -0.396612, -1.381968)
-</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>15</code></td></tr></table>
+</td></tr></table>
 

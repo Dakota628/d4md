@@ -1,15 +1,15 @@
 <h1>data/base/meta/AmbientSound/WAmb_Dungeon_ProtoDun_South.ams</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/AmbientSound/WAmb_Dungeon_ProtoDun_South.ams</td></tr><tr><td><b>Type</b></td><td>AmbientSoundDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1308941</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_WAmb_Kehj_Elias_Palace.snd">[DT_SNO] Sound: "Play_WAmb_Kehj_Elias_Palace"</a></td></tr><tr><td><b>tRandomSounds</b></td><td><table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_WAmb_Kehj_Elias_Palace.snd.md">[DT_SNO] Sound: "Play_WAmb_Kehj_Elias_Palace"</a></td></tr><tr><td><b>tRandomSounds</b></td><td><table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>25</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Kehj_Elias_Palace_Monster_Summoning_OneShot.snd">[DT_SNO] Sound: "Play_AmbS_EMT_Kehj_Elias_Palace_Monster_Summoning_OneShot"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr></table>
-
-</td></tr></table>
+</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Kehj_Elias_Palace_Monster_Summoning_OneShot.snd.md">[DT_SNO] Sound: "Play_AmbS_EMT_Kehj_Elias_Palace_Monster_Summoning_OneShot"</a></td></tr></table>
 
 
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Kehj_Elias_Palace_Rock_Movements.snd">[DT_SNO] Sound: "Play_AmbS_EMT_Kehj_Elias_Palace_Rock_Movements"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr></table>
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Kehj_Elias_Palace_Rock_Movements.snd.md">[DT_SNO] Sound: "Play_AmbS_EMT_Kehj_Elias_Palace_Rock_Movements"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
@@ -18,31 +18,31 @@
 </td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>15</code></td></tr></table>
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Kehj_Elias_Palace_Scream_Washes.snd.md">[DT_SNO] Sound: "Play_AmbS_EMT_Kehj_Elias_Palace_Scream_Washes"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>15</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>20</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>25</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Kehj_Elias_Palace_Scream_Washes.snd">[DT_SNO] Sound: "Play_AmbS_EMT_Kehj_Elias_Palace_Scream_Washes"</a></td></tr></table>
+</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Elias_Palace_Dry_Air_Sand_Draft.snd">[DT_SNO] Sound: "Play_AmbS_EMT_Elias_Palace_Dry_Air_Sand_Draft"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>15</code></td></tr></table>
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Elias_Palace_Dry_Air_Sand_Draft.snd.md">[DT_SNO] Sound: "Play_AmbS_EMT_Elias_Palace_Dry_Air_Sand_Draft"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>15</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>8</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>7</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr></table>
+</td></tr></table>
 
 
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Elias_Palace_Sand_Trickle.snd">[DT_SNO] Sound: "Play_AmbS_EMT_Elias_Palace_Sand_Trickle"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>15</code></td></tr></table>
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Elias_Palace_Sand_Trickle.snd.md">[DT_SNO] Sound: "Play_AmbS_EMT_Elias_Palace_Sand_Trickle"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>15</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>12</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>3</code></td></tr></table>
+</td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>3</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>12</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr></table>
+</td></tr></table>
 
 
 </td></tr><tr><td><b>tDynamicGameParameter</b></td><td><table><tr><th colspan="100%">DynamicGameParameter</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>0</code></td></tr></table>

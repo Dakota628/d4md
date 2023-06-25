@@ -21,7 +21,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback67Header</code></td></tr><tr><td><b>szText</b></td><td><code>Enter the Alabaster Monastery</code></td></tr><tr><td><b>hLabel</b></td><td><code>4039860035</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I have entered the Alabaster Monastery. Whatever fate I am to receive awaits me there.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1362529346</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase85Description</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase85Description</code></td></tr><tr><td><b>szText</b></td><td><code>I have entered the Alabaster Monastery. Whatever fate I am to receive awaits me there.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1362529346</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase85OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Climb the stairs of the Hall of Ascension</code></td></tr><tr><td><b>hLabel</b></td><td><code>1791990730</code></td></tr></table>
@@ -30,13 +30,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback87Header</code></td></tr><tr><td><b>szText</b></td><td><code>Climb the stairs of the Hall of Ascension</code></td></tr><tr><td><b>hLabel</b></td><td><code>3377400069</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3704102975</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase91Description</code></td></tr><tr><td><b>szText</b></td><td><code>I have entered the Alabaster Monastery. Whatever fate I am to receive awaits me there.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase91Description</code></td></tr><tr><td><b>szText</b></td><td><code>I have entered the Alabaster Monastery. Whatever fate I am to receive awaits me there.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3704102975</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2571631719</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase91OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Enter the Portal of Father's Radiance to submit to Inarius</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase91OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Enter the Portal of Father's Radiance to submit to Inarius</code></td></tr><tr><td><b>hLabel</b></td><td><code>2571631719</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback93Header</code></td></tr><tr><td><b>szText</b></td><td><code>Enter the Portal of Father's Radiance to submit to Inarius</code></td></tr><tr><td><b>hLabel</b></td><td><code>2175265506</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2175265506</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback93Header</code></td></tr><tr><td><b>szText</b></td><td><code>Enter the Portal of Father's Radiance to submit to Inarius</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

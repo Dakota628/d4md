@@ -6,13 +6,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback51Header</code></td></tr><tr><td><b>szText</b></td><td><code>Talk to the Wanderer</code></td></tr><tr><td><b>hLabel</b></td><td><code>917249500</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback27Header</code></td></tr><tr><td><b>szText</b></td><td><code>Protect the Wanderer</code></td></tr><tr><td><b>hLabel</b></td><td><code>1069812671</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1069812671</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback27Header</code></td></tr><tr><td><b>szText</b></td><td><code>Protect the Wanderer</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback7Header</code></td></tr><tr><td><b>szText</b></td><td><code>Survive the enemy waves: {LEFT} left</code></td></tr><tr><td><b>hLabel</b></td><td><code>2677071405</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback78Header</code></td></tr><tr><td><b>szText</b></td><td><code>Enter {EVENT_LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>705130725</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>705130725</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback78Header</code></td></tr><tr><td><b>szText</b></td><td><code>Enter {EVENT_LEVELAREA}</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

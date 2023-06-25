@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.B2A25</code></td></tr><tr><td><b>szText</b></td><td><code>Monsters seems a more accurate term, and what monstrosities they are! I have encountered a great snake-like thing from the waist down, but from the waist up: a woman! Or like a woman I suppose.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145373221</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>She’d bitten my left arm and the swelling--well. A matter for when I reach town. The encyclopedia will be sensational if I continue recording these discoveries.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2433341863</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.B2A25</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2433341863</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.B2A25</code></td></tr><tr><td><b>szText</b></td><td><code>She’d bitten my left arm and the swelling--well. A matter for when I reach town. The encyclopedia will be sensational if I continue recording these discoveries.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

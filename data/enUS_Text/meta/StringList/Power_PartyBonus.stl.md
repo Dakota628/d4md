@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Gain {c_yellow}5%{/c} bonus experience for being near another player, double this effect if they are your party member.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3336963864</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff7_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Nearby Player Bonus</code></td></tr><tr><td><b>hLabel</b></td><td><code>505088474</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Nearby Player Bonus</code></td></tr><tr><td><b>hLabel</b></td><td><code>505088474</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff7_Name</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Gain {c_yellow}5%{/c} bonus experience for being near another player, double this effect if they are your party member.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1405171357</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff7_Description</code></td></tr></table>

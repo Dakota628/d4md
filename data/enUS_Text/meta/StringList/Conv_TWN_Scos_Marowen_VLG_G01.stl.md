@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.100940</code></td></tr><tr><td><b>szText</b></td><td><code>That’s stupid. They're not real.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1731570743</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.100940</code></td></tr><tr><td><b>szText</b></td><td><code>annoyed</code></td></tr><tr><td><b>hLabel</b></td><td><code>3077298180</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>annoyed</code></td></tr><tr><td><b>hLabel</b></td><td><code>3077298180</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.100940</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.100941</code></td></tr><tr><td><b>szText</b></td><td><code>Hush. (sigh) Spirits, where did I go wrong with these two?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1069110778</code></td></tr></table>

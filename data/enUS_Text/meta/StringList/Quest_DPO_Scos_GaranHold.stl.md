@@ -9,13 +9,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Destroy the Idols: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3168955455</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback63Header</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback92Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay Keeper Xor'lim and collect {ITEM}</code></td></tr><tr><td><b>hLabel</b></td><td><code>883797537</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>883797537</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback92Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay Keeper Xor'lim and collect {ITEM}</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback83Header</code></td></tr><tr><td><b>szText</b></td><td><code>Use Garan's Key to open the {GIZMO}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2506495489</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3377400069</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback87Header</code></td></tr><tr><td><b>szText</b></td><td><code>Travel to the {LEVELAREA}</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback87Header</code></td></tr><tr><td><b>szText</b></td><td><code>Travel to the {LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3377400069</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

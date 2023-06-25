@@ -16,5 +16,5 @@
 
 </td></tr><tr><td><b>ptGameParameters</b></td><td></td></tr><tr><td><b>unk_6e07e26</b></td><td><table><tr><th colspan="100%">MusicTransition</th></tr><tr><td><b>unk_cc9e7d</b></td><td><code>0</code></td></tr><tr><td><b>unk_647bd69</b></td><td><code>1</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_1a7272c</b></td><td><a href="..\Sound\Play_Music_Kehjistan.snd">[DT_SNO] Sound: "Play_Music_Kehjistan"</a></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>flCooldownDuration</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_1a7272c</b></td><td><a href="..\Sound\Play_Music_Kehjistan.snd.md">[DT_SNO] Sound: "Play_Music_Kehjistan"</a></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>flCooldownDuration</b></td><td><code>0</code></td></tr></table>
 

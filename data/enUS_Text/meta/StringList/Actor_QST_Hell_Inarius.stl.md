@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlavorText</code></td></tr><tr><td><b>szText</b></td><td><code>The remnants of the angel's armor. </code></td></tr><tr><td><b>hLabel</b></td><td><code>3426486927</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>NoticeSignText</code></td></tr><tr><td><b>szText</b></td><td><code>Broken, crumpled, and devoid of Light. </code></td></tr><tr><td><b>hLabel</b></td><td><code>4073325784</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4073325784</code></td></tr><tr><td><b>szLabel</b></td><td><code>NoticeSignText</code></td></tr><tr><td><b>szText</b></td><td><code>Broken, crumpled, and devoid of Light. </code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

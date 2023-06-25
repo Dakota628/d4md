@@ -1,6 +1,6 @@
 <h1>data/base/meta/AmbientSound/WAmb_Dungeon_GaleValley_HoradricVault_Lobby.ams</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/AmbientSound/WAmb_Dungeon_GaleValley_HoradricVault_Lobby.ams</td></tr><tr><td><b>Type</b></td><td>AmbientSoundDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1110976</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_WAmb_GaleValley_HoradricVault_Lobby.snd">[DT_SNO] Sound: "Play_WAmb_GaleValley_HoradricVault_Lobby"</a></td></tr><tr><td><b>tRandomSounds</b></td><td><table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_GaleValley_HoradricVault_OS_RocksFall.snd">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_GaleValley_HoradricVault_OS_RocksFall"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_WAmb_GaleValley_HoradricVault_Lobby.snd.md">[DT_SNO] Sound: "Play_WAmb_GaleValley_HoradricVault_Lobby"</a></td></tr><tr><td><b>tRandomSounds</b></td><td><table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_GaleValley_HoradricVault_OS_RocksFall.snd.md">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_GaleValley_HoradricVault_OS_RocksFall"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
@@ -11,7 +11,7 @@
 
 </td></tr><tr><td><b>tDynamicGameParameter</b></td><td><table><tr><th colspan="100%">DynamicGameParameter</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>tRadius</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>tRadius</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>bInvert</b></td><td><code>0</code></td></tr></table>
 

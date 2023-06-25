@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir21.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>He might suspect who this Pale Man is... but he isn't giving it away</code></td></tr><tr><td><b>hLabel</b></td><td><code>2879533065</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1865035611</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>But first I need you to retrieve something of mine while I finish my negotiations. A merchant in the center of the city has it. Just tell him I sent you.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>But first I need you to retrieve something of mine while I finish my negotiations. A merchant in the center of the city has it. Just tell him I sent you.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1865035611</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.6D03F</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

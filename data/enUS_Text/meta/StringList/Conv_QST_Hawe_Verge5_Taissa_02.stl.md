@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>Swamp Taissa</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1511616375</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>Good. Make haste, the Horadrim tires of waiting. Set the swamp's gift in the pot to brew a tea.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>Good. Make haste, the Horadrim tires of waiting. Set the swamp's gift in the pot to brew a tea.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1511616375</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>I simply think this is a waste of your time, and mine.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4096247276</code></td></tr></table>

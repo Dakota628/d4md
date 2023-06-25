@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>2_instruction</code></td></tr><tr><td><b>szText</b></td><td><code>Seeds of Hatred can be obtained from monsters, events, and chests. Dropped seeds can be picked up by anyone. Seeds are dropped upon death and completely purged when leaving the PvP area.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3687248435</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>3_instruction</code></td></tr><tr><td><b>szText</b></td><td><code>Turn Seeds of Hatred into permanent Red Dust by performing {c_highlight}Purification Rituals{/c}. Red Dust is used at various vendors within town.</code></td></tr><tr><td><b>hLabel</b></td><td><code>723909556</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Turn Seeds of Hatred into permanent Red Dust by performing {c_highlight}Purification Rituals{/c}. Red Dust is used at various vendors within town.</code></td></tr><tr><td><b>hLabel</b></td><td><code>723909556</code></td></tr><tr><td><b>szLabel</b></td><td><code>3_instruction</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>0_instruction</code></td></tr><tr><td><b>szText</b></td><td><code>{c_highlight}Mark for Blood{/c} by pressing {hotkey:SOCIAL_WHEEL} and scrolling through the wheel options. Once Bloodmarked, you can attack other players.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1023991601</code></td></tr></table>

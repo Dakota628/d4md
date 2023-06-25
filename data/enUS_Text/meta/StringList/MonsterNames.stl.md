@@ -1,12 +1,12 @@
 <h1>data/enUS_Text/meta/StringList/MonsterNames.stl</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/enUS_Text/meta/StringList/MonsterNames.stl</td></tr><tr><td><b>Type</b></td><td>StringListDefinition</td></tr><tr><td><b>SNO ID</b></td><td>125915</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FrozenSuffix004</code></td></tr><tr><td><b>szText</b></td><td><code> Frostburn</code></td></tr><tr><td><b>hLabel</b></td><td><code>2024473309</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2024473309</code></td></tr><tr><td><b>szLabel</b></td><td><code>FrozenSuffix004</code></td></tr><tr><td><b>szText</b></td><td><code> Frostburn</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Boltrend</code></td></tr><tr><td><b>hLabel</b></td><td><code>30970260</code></td></tr><tr><td><b>szLabel</b></td><td><code>ElectricLanceSuffix001</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ElectricLanceSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Boltrend</code></td></tr><tr><td><b>hLabel</b></td><td><code>30970260</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Flamefinger</code></td></tr><tr><td><b>hLabel</b></td><td><code>2448873718</code></td></tr><tr><td><b>szLabel</b></td><td><code>FireEnchantedSuffix001</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FireEnchantedSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Flamefinger</code></td></tr><tr><td><b>hLabel</b></td><td><code>2448873718</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ColdEnchantedSuffix005</code></td></tr><tr><td><b>szText</b></td><td><code> Icelust</code></td></tr><tr><td><b>hLabel</b></td><td><code>2793036694</code></td></tr></table>
@@ -21,7 +21,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ShadowEnchantedSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Nightrend</code></td></tr><tr><td><b>hLabel</b></td><td><code>317131318</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampiricEnrageSuffix003</code></td></tr><tr><td><b>szText</b></td><td><code> Bloodrazor</code></td></tr><tr><td><b>hLabel</b></td><td><code>135979029</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Bloodrazor</code></td></tr><tr><td><b>hLabel</b></td><td><code>135979029</code></td></tr><tr><td><b>szLabel</b></td><td><code>VampiricEnrageSuffix003</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MortarSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Firemaw</code></td></tr><tr><td><b>hLabel</b></td><td><code>16691707</code></td></tr></table>
@@ -33,16 +33,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Rothusk</code></td></tr><tr><td><b>hLabel</b></td><td><code>1025074984</code></td></tr><tr><td><b>szLabel</b></td><td><code>PoisonEnchantedSuffix001</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>135979030</code></td></tr><tr><td><b>szLabel</b></td><td><code>VampiricEnrageSuffix004</code></td></tr><tr><td><b>szText</b></td><td><code> Bloodfang</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Bloodfang</code></td></tr><tr><td><b>hLabel</b></td><td><code>135979030</code></td></tr><tr><td><b>szLabel</b></td><td><code>VampiricEnrageSuffix004</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SummonerSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Blightcall</code></td></tr><tr><td><b>hLabel</b></td><td><code>407543100</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>407543100</code></td></tr><tr><td><b>szLabel</b></td><td><code>SummonerSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Blightcall</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Doomcaller</code></td></tr><tr><td><b>hLabel</b></td><td><code>407543101</code></td></tr><tr><td><b>szLabel</b></td><td><code>SummonerSuffix002</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>407543101</code></td></tr><tr><td><b>szLabel</b></td><td><code>SummonerSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Doomcaller</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>PoisonEnchantedSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Pusblister</code></td></tr><tr><td><b>hLabel</b></td><td><code>1025074985</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1025074985</code></td></tr><tr><td><b>szLabel</b></td><td><code>PoisonEnchantedSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Pusblister</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ShadowEnchantedSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Shadowtouch</code></td></tr><tr><td><b>hLabel</b></td><td><code>317131319</code></td></tr></table>
@@ -51,16 +51,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampiricEnrageSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Gorethief</code></td></tr><tr><td><b>hLabel</b></td><td><code>135979027</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampiricEnrageSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Razorpulse</code></td></tr><tr><td><b>hLabel</b></td><td><code>135979028</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Razorpulse</code></td></tr><tr><td><b>hLabel</b></td><td><code>135979028</code></td></tr><tr><td><b>szLabel</b></td><td><code>VampiricEnrageSuffix002</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MultishotSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Deadshot</code></td></tr><tr><td><b>hLabel</b></td><td><code>251386544</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>251386545</code></td></tr><tr><td><b>szLabel</b></td><td><code>MultishotSuffix003</code></td></tr><tr><td><b>szText</b></td><td><code> Raplikashu</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MultishotSuffix003</code></td></tr><tr><td><b>szText</b></td><td><code> Raplikashu</code></td></tr><tr><td><b>hLabel</b></td><td><code>251386545</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FrozenSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Hoarfrost</code></td></tr><tr><td><b>hLabel</b></td><td><code>2024473307</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2024473307</code></td></tr><tr><td><b>szLabel</b></td><td><code>FrozenSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Hoarfrost</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FrozenSuffix003</code></td></tr><tr><td><b>szText</b></td><td><code> Frostbite</code></td></tr><tr><td><b>hLabel</b></td><td><code>2024473308</code></td></tr></table>
@@ -72,16 +72,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MortarSuffix003</code></td></tr><tr><td><b>szText</b></td><td><code> Flaregut</code></td></tr><tr><td><b>hLabel</b></td><td><code>16691709</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1206415540</code></td></tr><tr><td><b>szLabel</b></td><td><code>ChaosSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Mindbreaker</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Mindbreaker</code></td></tr><tr><td><b>hLabel</b></td><td><code>1206415540</code></td></tr><tr><td><b>szLabel</b></td><td><code>ChaosSuffix001</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1206415541</code></td></tr><tr><td><b>szLabel</b></td><td><code>ChaosSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Dreadlust</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ChaosSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Dreadlust</code></td></tr><tr><td><b>hLabel</b></td><td><code>1206415541</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ChaosSuffix003</code></td></tr><tr><td><b>szText</b></td><td><code> Dreadtouch</code></td></tr><tr><td><b>hLabel</b></td><td><code>1206415542</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Dreadtouch</code></td></tr><tr><td><b>hLabel</b></td><td><code>1206415542</code></td></tr><tr><td><b>szLabel</b></td><td><code>ChaosSuffix003</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Gustraze</code></td></tr><tr><td><b>hLabel</b></td><td><code>39695138</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>39695138</code></td></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Gustraze</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Bitewind</code></td></tr><tr><td><b>hLabel</b></td><td><code>39695139</code></td></tr></table>
@@ -96,13 +96,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ElectricLanceSuffix003</code></td></tr><tr><td><b>szText</b></td><td><code> Shockweaver</code></td></tr><tr><td><b>hLabel</b></td><td><code>30970262</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2448873719</code></td></tr><tr><td><b>szLabel</b></td><td><code>FireEnchantedSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Burntfist</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FireEnchantedSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Burntfist</code></td></tr><tr><td><b>hLabel</b></td><td><code>2448873719</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Flamemaw</code></td></tr><tr><td><b>hLabel</b></td><td><code>2448873720</code></td></tr><tr><td><b>szLabel</b></td><td><code>FireEnchantedSuffix003</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FireOrbsSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Blisterskin</code></td></tr><tr><td><b>hLabel</b></td><td><code>2665585474</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Blisterskin</code></td></tr><tr><td><b>hLabel</b></td><td><code>2665585474</code></td></tr><tr><td><b>szLabel</b></td><td><code>FireOrbsSuffix001</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FireOrbsSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Infernum</code></td></tr><tr><td><b>hLabel</b></td><td><code>2665585475</code></td></tr></table>
@@ -123,28 +123,28 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>LightningEnchantedSuffix004</code></td></tr><tr><td><b>szText</b></td><td><code> Deathflash</code></td></tr><tr><td><b>hLabel</b></td><td><code>3920636215</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Skystriker</code></td></tr><tr><td><b>hLabel</b></td><td><code>3920636216</code></td></tr><tr><td><b>szLabel</b></td><td><code>LightningEnchantedSuffix005</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>LightningEnchantedSuffix005</code></td></tr><tr><td><b>szText</b></td><td><code> Skystriker</code></td></tr><tr><td><b>hLabel</b></td><td><code>3920636216</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Sparktouch</code></td></tr><tr><td><b>hLabel</b></td><td><code>3920636212</code></td></tr><tr><td><b>szLabel</b></td><td><code>LightningEnchantedSuffix001</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3920636212</code></td></tr><tr><td><b>szLabel</b></td><td><code>LightningEnchantedSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Sparktouch</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>LightningEnchantedSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Sparkfist</code></td></tr><tr><td><b>hLabel</b></td><td><code>3920636213</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3920636214</code></td></tr><tr><td><b>szLabel</b></td><td><code>LightningEnchantedSuffix003</code></td></tr><tr><td><b>szText</b></td><td><code> Sparklasher</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>LightningEnchantedSuffix003</code></td></tr><tr><td><b>szText</b></td><td><code> Sparklasher</code></td></tr><tr><td><b>hLabel</b></td><td><code>3920636214</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>LightningTotemsSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Meatcrisper</code></td></tr><tr><td><b>hLabel</b></td><td><code>529774950</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Meatcrisper</code></td></tr><tr><td><b>hLabel</b></td><td><code>529774950</code></td></tr><tr><td><b>szLabel</b></td><td><code>LightningTotemsSuffix001</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Stormkiller</code></td></tr><tr><td><b>hLabel</b></td><td><code>529774951</code></td></tr><tr><td><b>szLabel</b></td><td><code>LightningTotemsSuffix002</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>LightningTotemsSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Stormkiller</code></td></tr><tr><td><b>hLabel</b></td><td><code>529774951</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>LightningTotemsSuffix003</code></td></tr><tr><td><b>szText</b></td><td><code> Stormbender</code></td></tr><tr><td><b>hLabel</b></td><td><code>529774952</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1829835413</code></td></tr><tr><td><b>szLabel</b></td><td><code>PlaguebearerSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Bilespew</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>PlaguebearerSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Bilespew</code></td></tr><tr><td><b>hLabel</b></td><td><code>1829835413</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>PlaguebearerSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Wormgut</code></td></tr><tr><td><b>hLabel</b></td><td><code>1829835414</code></td></tr></table>
@@ -156,22 +156,22 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>PoisonEnchantedSuffix003</code></td></tr><tr><td><b>szText</b></td><td><code> Sloughskin</code></td></tr><tr><td><b>hLabel</b></td><td><code>1025074986</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SummonerSuffix003</code></td></tr><tr><td><b>szText</b></td><td><code> Doomspawn</code></td></tr><tr><td><b>hLabel</b></td><td><code>407543102</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>407543102</code></td></tr><tr><td><b>szLabel</b></td><td><code>SummonerSuffix003</code></td></tr><tr><td><b>szText</b></td><td><code> Doomspawn</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>590096204</code></td></tr><tr><td><b>szLabel</b></td><td><code>SuppressorSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Blockheart</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SuppressorSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Blockheart</code></td></tr><tr><td><b>hLabel</b></td><td><code>590096204</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SuppressorSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Peacestopper</code></td></tr><tr><td><b>hLabel</b></td><td><code>590096205</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Evershift</code></td></tr><tr><td><b>hLabel</b></td><td><code>3604801260</code></td></tr><tr><td><b>szLabel</b></td><td><code>TeleporterSuffix001</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TeleporterSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Evershift</code></td></tr><tr><td><b>hLabel</b></td><td><code>3604801260</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TeleporterSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Blinkswift</code></td></tr><tr><td><b>hLabel</b></td><td><code>3604801261</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TeleporterSuffix003</code></td></tr><tr><td><b>szText</b></td><td><code> Thunderstroke</code></td></tr><tr><td><b>hLabel</b></td><td><code>3604801262</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Thunderstroke</code></td></tr><tr><td><b>hLabel</b></td><td><code>3604801262</code></td></tr><tr><td><b>szLabel</b></td><td><code>TeleporterSuffix003</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TetherSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Cagemaster</code></td></tr><tr><td><b>hLabel</b></td><td><code>2419652978</code></td></tr></table>
@@ -183,13 +183,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TetherSuffix003</code></td></tr><tr><td><b>szText</b></td><td><code> Chainbinder</code></td></tr><tr><td><b>hLabel</b></td><td><code>2419652980</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Coldshank</code></td></tr><tr><td><b>hLabel</b></td><td><code>3962816910</code></td></tr><tr><td><b>szLabel</b></td><td><code>VortexSuffix001</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VortexSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Coldshank</code></td></tr><tr><td><b>hLabel</b></td><td><code>3962816910</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Snowblast</code></td></tr><tr><td><b>hLabel</b></td><td><code>3962816911</code></td></tr><tr><td><b>szLabel</b></td><td><code>VortexSuffix002</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VortexSuffix002</code></td></tr><tr><td><b>szText</b></td><td><code> Snowblast</code></td></tr><tr><td><b>hLabel</b></td><td><code>3962816911</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VortexSuffix003</code></td></tr><tr><td><b>szText</b></td><td><code> Coldclaw</code></td></tr><tr><td><b>hLabel</b></td><td><code>3962816912</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Coldclaw</code></td></tr><tr><td><b>hLabel</b></td><td><code>3962816912</code></td></tr><tr><td><b>szLabel</b></td><td><code>VortexSuffix003</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WallerSuffix001</code></td></tr><tr><td><b>szText</b></td><td><code> Earthshaker</code></td></tr><tr><td><b>hLabel</b></td><td><code>3588457901</code></td></tr></table>
@@ -201,25 +201,25 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WallerSuffix003</code></td></tr><tr><td><b>szText</b></td><td><code> Doomtrap</code></td></tr><tr><td><b>hLabel</b></td><td><code>3588457903</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix004</code></td></tr><tr><td><b>szText</b></td><td><code> Windshifter</code></td></tr><tr><td><b>hLabel</b></td><td><code>39695141</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Windshifter</code></td></tr><tr><td><b>hLabel</b></td><td><code>39695141</code></td></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix004</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix005</code></td></tr><tr><td><b>szText</b></td><td><code> Windbender</code></td></tr><tr><td><b>hLabel</b></td><td><code>39695142</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix006</code></td></tr><tr><td><b>szText</b></td><td><code> Windweaver</code></td></tr><tr><td><b>hLabel</b></td><td><code>39695143</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>39695143</code></td></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix006</code></td></tr><tr><td><b>szText</b></td><td><code> Windweaver</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>LightningTotemsSuffix006</code></td></tr><tr><td><b>szText</b></td><td><code> Stormeye</code></td></tr><tr><td><b>hLabel</b></td><td><code>529774955</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TeleporterSuffix004</code></td></tr><tr><td><b>szText</b></td><td><code> Thunderfist</code></td></tr><tr><td><b>hLabel</b></td><td><code>3604801263</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3604801263</code></td></tr><tr><td><b>szLabel</b></td><td><code>TeleporterSuffix004</code></td></tr><tr><td><b>szText</b></td><td><code> Thunderfist</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TeleporterSuffix005</code></td></tr><tr><td><b>szText</b></td><td><code> Thundershifter</code></td></tr><tr><td><b>hLabel</b></td><td><code>3604801264</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TeleporterSuffix006</code></td></tr><tr><td><b>szText</b></td><td><code> Thunderdancer</code></td></tr><tr><td><b>hLabel</b></td><td><code>3604801265</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Thunderdancer</code></td></tr><tr><td><b>hLabel</b></td><td><code>3604801265</code></td></tr><tr><td><b>szLabel</b></td><td><code>TeleporterSuffix006</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>LightningEnchantedSuffix006</code></td></tr><tr><td><b>szText</b></td><td><code> Sparkburn</code></td></tr><tr><td><b>hLabel</b></td><td><code>3920636217</code></td></tr></table>
@@ -228,13 +228,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>LightningEnchantedSuffix007</code></td></tr><tr><td><b>szText</b></td><td><code> Sparkcall</code></td></tr><tr><td><b>hLabel</b></td><td><code>3920636218</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>LightningEnchantedSuffix008</code></td></tr><tr><td><b>szText</b></td><td><code> Sparkspawn</code></td></tr><tr><td><b>hLabel</b></td><td><code>3920636219</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3920636219</code></td></tr><tr><td><b>szLabel</b></td><td><code>LightningEnchantedSuffix008</code></td></tr><tr><td><b>szText</b></td><td><code> Sparkspawn</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>LightningTotemsSuffix004</code></td></tr><tr><td><b>szText</b></td><td><code> Stormlasher</code></td></tr><tr><td><b>hLabel</b></td><td><code>529774953</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Stormlasher</code></td></tr><tr><td><b>hLabel</b></td><td><code>529774953</code></td></tr><tr><td><b>szLabel</b></td><td><code>LightningTotemsSuffix004</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Colenzo</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382030</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Colenzo</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382030</code></td></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix001</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Syn</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382031</code></td></tr></table>
@@ -249,19 +249,19 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>PoisonEnchantedSuffix005</code></td></tr><tr><td><b>szText</b></td><td><code> Wretchbane</code></td></tr><tr><td><b>hLabel</b></td><td><code>1025074988</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Glacium</code></td></tr><tr><td><b>hLabel</b></td><td><code>3962816913</code></td></tr><tr><td><b>szLabel</b></td><td><code>VortexSuffix004</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VortexSuffix004</code></td></tr><tr><td><b>szText</b></td><td><code> Glacium</code></td></tr><tr><td><b>hLabel</b></td><td><code>3962816913</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Plaguespew</code></td></tr><tr><td><b>hLabel</b></td><td><code>1829835416</code></td></tr><tr><td><b>szLabel</b></td><td><code>PlaguebearerSuffix004</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1829835416</code></td></tr><tr><td><b>szLabel</b></td><td><code>PlaguebearerSuffix004</code></td></tr><tr><td><b>szText</b></td><td><code> Plaguespew</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Doomblood</code></td></tr><tr><td><b>hLabel</b></td><td><code>135979032</code></td></tr><tr><td><b>szLabel</b></td><td><code>VampiricEnrageSuffix006</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampiricEnrageSuffix006</code></td></tr><tr><td><b>szText</b></td><td><code> Doomblood</code></td></tr><tr><td><b>hLabel</b></td><td><code>135979032</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>529774954</code></td></tr><tr><td><b>szLabel</b></td><td><code>LightningTotemsSuffix005</code></td></tr><tr><td><b>szText</b></td><td><code> Stormfeast</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Stormfeast</code></td></tr><tr><td><b>hLabel</b></td><td><code>529774954</code></td></tr><tr><td><b>szLabel</b></td><td><code>LightningTotemsSuffix005</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Sir Giles</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471617</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Sir Giles</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471617</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix001</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Roulf</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471618</code></td></tr></table>
@@ -273,25 +273,25 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Commander Roulf</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471620</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Captain Roulf</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471621</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix005</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471621</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Captain Roulf</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Lord Roulf</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471622</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix006</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix006</code></td></tr><tr><td><b>szText</b></td><td><code>Lord Roulf</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471622</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471623</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix007</code></td></tr><tr><td><b>szText</b></td><td><code>Lieutenant Roulf</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Lieutenant Roulf</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471623</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix007</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix008</code></td></tr><tr><td><b>szText</b></td><td><code>Sir Frederic</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471624</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471625</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Sir Jurdi</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Sir Jurdi</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471625</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Sir Hughoc</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471649</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471650</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Sir Evrat</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Sir Evrat</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471650</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Sir Bertelemi</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471651</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix012</code></td></tr></table>
@@ -300,13 +300,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Adinet</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471652</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Evrat</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471653</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Evrat</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471653</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix014</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Bertelemi</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471654</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471654</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Bertelemi</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Fouques</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471655</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix016</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Fouques</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471655</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Isemberd</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471656</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix017</code></td></tr></table>
@@ -318,13 +318,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Jurdi</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471658</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Gylbard</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471682</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471682</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Gylbard</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix021</code></td></tr><tr><td><b>szText</b></td><td><code>Gualtier</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471683</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Barnabas</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471684</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix022</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix022</code></td></tr><tr><td><b>szText</b></td><td><code>Barnabas</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471684</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix023</code></td></tr><tr><td><b>szText</b></td><td><code>Odinel</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471685</code></td></tr></table>
@@ -336,13 +336,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix025</code></td></tr><tr><td><b>szText</b></td><td><code>Houdouyn</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471687</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix026</code></td></tr><tr><td><b>szText</b></td><td><code>Yda</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471688</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Yda</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471688</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix026</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix027</code></td></tr><tr><td><b>szText</b></td><td><code>Cedany</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471689</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471690</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix028</code></td></tr><tr><td><b>szText</b></td><td><code>Commander Frederic</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix028</code></td></tr><tr><td><b>szText</b></td><td><code>Commander Frederic</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471690</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix029</code></td></tr><tr><td><b>szText</b></td><td><code>Commander Jurdi</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471691</code></td></tr></table>
@@ -351,10 +351,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix030</code></td></tr><tr><td><b>szText</b></td><td><code>Commander Adinet</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471715</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Commander Evrat</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471716</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix031</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix031</code></td></tr><tr><td><b>szText</b></td><td><code>Commander Evrat</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471716</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Commander Bertelemi</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471717</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix032</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix032</code></td></tr><tr><td><b>szText</b></td><td><code>Commander Bertelemi</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471717</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix036</code></td></tr><tr><td><b>szText</b></td><td><code>Commander Gylbard</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471721</code></td></tr></table>
@@ -372,16 +372,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix035</code></td></tr><tr><td><b>szText</b></td><td><code>Commander Isemberd</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471720</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix038</code></td></tr><tr><td><b>szText</b></td><td><code>Captain Jurdi</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471723</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471723</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix038</code></td></tr><tr><td><b>szText</b></td><td><code>Captain Jurdi</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix039</code></td></tr><tr><td><b>szText</b></td><td><code>Captain Adinet</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471724</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Captain Adinet</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471724</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix039</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix040</code></td></tr><tr><td><b>szText</b></td><td><code>Captain Evrat</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471748</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471748</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix040</code></td></tr><tr><td><b>szText</b></td><td><code>Captain Evrat</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471749</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix041</code></td></tr><tr><td><b>szText</b></td><td><code>Captain Bertelemi</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix041</code></td></tr><tr><td><b>szText</b></td><td><code>Captain Bertelemi</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471749</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix042</code></td></tr><tr><td><b>szText</b></td><td><code>Captain Fouques</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471750</code></td></tr></table>
@@ -396,10 +396,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix045</code></td></tr><tr><td><b>szText</b></td><td><code>Captain Gylbard</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471753</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix046</code></td></tr><tr><td><b>szText</b></td><td><code>Lord Frederic</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471754</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471754</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix046</code></td></tr><tr><td><b>szText</b></td><td><code>Lord Frederic</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471755</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix047</code></td></tr><tr><td><b>szText</b></td><td><code>Lord Jurdi</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix047</code></td></tr><tr><td><b>szText</b></td><td><code>Lord Jurdi</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471755</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix048</code></td></tr><tr><td><b>szText</b></td><td><code>Lord Adinet</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471756</code></td></tr></table>
@@ -423,34 +423,34 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix054</code></td></tr><tr><td><b>szText</b></td><td><code>Lord Gylbard</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471785</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix055</code></td></tr><tr><td><b>szText</b></td><td><code>Lord Gualtier</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471786</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Lord Gualtier</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471786</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix055</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471787</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix056</code></td></tr><tr><td><b>szText</b></td><td><code>Lieutenant Frederic</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix056</code></td></tr><tr><td><b>szText</b></td><td><code>Lieutenant Frederic</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471787</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Lieutenant Hervoet</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471788</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix057</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix057</code></td></tr><tr><td><b>szText</b></td><td><code>Lieutenant Hervoet</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471788</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix058</code></td></tr><tr><td><b>szText</b></td><td><code>Lieutenant Jurdi</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471789</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Lieutenant Jurdi</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471789</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix058</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471790</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix059</code></td></tr><tr><td><b>szText</b></td><td><code>Lieutenant Adinet</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix059</code></td></tr><tr><td><b>szText</b></td><td><code>Lieutenant Adinet</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471790</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix060</code></td></tr><tr><td><b>szText</b></td><td><code>Lieutenant Evrat</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471814</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471815</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix061</code></td></tr><tr><td><b>szText</b></td><td><code>Lieutenant Bertelemi</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix061</code></td></tr><tr><td><b>szText</b></td><td><code>Lieutenant Bertelemi</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471815</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix062</code></td></tr><tr><td><b>szText</b></td><td><code>Lieutenant Fouques</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471816</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Lieutenant Fouques</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471816</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix062</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix063</code></td></tr><tr><td><b>szText</b></td><td><code>Lieutenant Hughoc</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471817</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471817</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix063</code></td></tr><tr><td><b>szText</b></td><td><code>Lieutenant Hughoc</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix064</code></td></tr><tr><td><b>szText</b></td><td><code>Lieutenant Isemberd</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471818</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471818</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix064</code></td></tr><tr><td><b>szText</b></td><td><code>Lieutenant Isemberd</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix065</code></td></tr><tr><td><b>szText</b></td><td><code>Lieutenant Gylbard</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471819</code></td></tr></table>
@@ -465,19 +465,19 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix068</code></td></tr><tr><td><b>szText</b></td><td><code>Folcard</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471822</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Dowd</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471823</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix069</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix069</code></td></tr><tr><td><b>szText</b></td><td><code>Dowd</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471823</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix070</code></td></tr><tr><td><b>szText</b></td><td><code>Hervoet</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471847</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471847</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix070</code></td></tr><tr><td><b>szText</b></td><td><code>Hervoet</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix003</code></td></tr><tr><td><b>szText</b></td><td><code>Gurkag</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382032</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3587382033</code></td></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Darzach</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Darzach</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382033</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3587382034</code></td></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Velpez</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Velpez</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382034</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix006</code></td></tr><tr><td><b>szText</b></td><td><code>Xirgirosh</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382035</code></td></tr></table>
@@ -489,13 +489,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix008</code></td></tr><tr><td><b>szText</b></td><td><code>Mal'gushu</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382037</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Kargrosh</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382038</code></td></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix009</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Kargrosh</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382038</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3587382062</code></td></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Elvumoz</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Elvumoz</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382062</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3587382063</code></td></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Xazzonnosh</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Xazzonnosh</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382063</code></td></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix011</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Tralmaxish</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382064</code></td></tr></table>
@@ -507,37 +507,37 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Rishikana</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382066</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Kozinishu</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382067</code></td></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix015</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Kozinishu</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382067</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix071</code></td></tr><tr><td><b>szText</b></td><td><code>Damreus</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471848</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471848</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix071</code></td></tr><tr><td><b>szText</b></td><td><code>Damreus</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ElectricLanceSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Shocking</code></td></tr><tr><td><b>hLabel</b></td><td><code>1239052912</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>LightningTotemsSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Stormy</code></td></tr><tr><td><b>hLabel</b></td><td><code>633273922</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>633273922</code></td></tr><tr><td><b>szLabel</b></td><td><code>LightningTotemsSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Stormy</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2043574216</code></td></tr><tr><td><b>szLabel</b></td><td><code>TeleporterSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Thundering</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TeleporterSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Thundering</code></td></tr><tr><td><b>hLabel</b></td><td><code>2043574216</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FireOrbsSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Scorching</code></td></tr><tr><td><b>hLabel</b></td><td><code>1374492702</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FrozenSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Shattering</code></td></tr><tr><td><b>hLabel</b></td><td><code>2030219190</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Shattering</code></td></tr><tr><td><b>hLabel</b></td><td><code>2030219190</code></td></tr><tr><td><b>szLabel</b></td><td><code>FrozenSingleAffixElitePrefix001</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Windy</code></td></tr><tr><td><b>hLabel</b></td><td><code>1063055358</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VortexSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Snowy</code></td></tr><tr><td><b>hLabel</b></td><td><code>3263848042</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Snowy</code></td></tr><tr><td><b>hLabel</b></td><td><code>3263848042</code></td></tr><tr><td><b>szLabel</b></td><td><code>VortexSingleAffixElitePrefix001</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WallerSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Grave</code></td></tr><tr><td><b>hLabel</b></td><td><code>4103370889</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Grave</code></td></tr><tr><td><b>hLabel</b></td><td><code>4103370889</code></td></tr><tr><td><b>szLabel</b></td><td><code>WallerSingleAffixElitePrefix001</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3507478255</code></td></tr><tr><td><b>szLabel</b></td><td><code>VampiricEnrageSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Bloodthirsty</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampiricEnrageSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Bloodthirsty</code></td></tr><tr><td><b>hLabel</b></td><td><code>3507478255</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SuppressorSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Blocking</code></td></tr><tr><td><b>hLabel</b></td><td><code>240285736</code></td></tr></table>
@@ -561,10 +561,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ColdEnchantedSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Shivering</code></td></tr><tr><td><b>hLabel</b></td><td><code>3608967278</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Nightmare</code></td></tr><tr><td><b>hLabel</b></td><td><code>3334074130</code></td></tr><tr><td><b>szLabel</b></td><td><code>ShadowEnchantedSingleAffixElitePrefix001</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ShadowEnchantedSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Nightmare</code></td></tr><tr><td><b>hLabel</b></td><td><code>3334074130</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1278036496</code></td></tr><tr><td><b>szLabel</b></td><td><code>LightningEnchantedSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Sparking</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>LightningEnchantedSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Sparking</code></td></tr><tr><td><b>hLabel</b></td><td><code>1278036496</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FireEnchantedSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Burning</code></td></tr><tr><td><b>hLabel</b></td><td><code>4212080082</code></td></tr></table>
@@ -573,7 +573,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>PlaguebearerSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Tainted</code></td></tr><tr><td><b>hLabel</b></td><td><code>2194593137</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MortarSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Fiery</code></td></tr><tr><td><b>hLabel</b></td><td><code>652902615</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>652902615</code></td></tr><tr><td><b>szLabel</b></td><td><code>MortarSingleAffixElitePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Fiery</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Rosaline</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847243</code></td></tr></table>
@@ -585,13 +585,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix003</code></td></tr><tr><td><b>szText</b></td><td><code>Mahault</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847245</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Hawys</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847246</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4254847246</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Hawys</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Caria</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847247</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix006</code></td></tr><tr><td><b>szText</b></td><td><code>Fiona</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847248</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Fiona</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847248</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix006</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Warde</code></td></tr><tr><td><b>hLabel</b></td><td><code>2238368032</code></td></tr></table>
@@ -606,7 +606,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Torne</code></td></tr><tr><td><b>hLabel</b></td><td><code>2238368035</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Emelote</code></td></tr><tr><td><b>hLabel</b></td><td><code>274317798</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostCasterPrefix001</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostCasterPrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Emelote</code></td></tr><tr><td><b>hLabel</b></td><td><code>274317798</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostCasterPrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Flaym</code></td></tr><tr><td><b>hLabel</b></td><td><code>274317799</code></td></tr></table>
@@ -618,7 +618,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Kul'gi</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382068</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2474471849</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix072</code></td></tr><tr><td><b>szText</b></td><td><code>Eriac</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix072</code></td></tr><tr><td><b>szText</b></td><td><code>Eriac</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471849</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix073</code></td></tr><tr><td><b>szText</b></td><td><code>Hewwes</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471850</code></td></tr></table>
@@ -627,7 +627,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Mariela</code></td></tr><tr><td><b>hLabel</b></td><td><code>690161048</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Harvine</code></td></tr><tr><td><b>hLabel</b></td><td><code>690161049</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix002</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Harvine</code></td></tr><tr><td><b>hLabel</b></td><td><code>690161049</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix003</code></td></tr><tr><td><b>szText</b></td><td><code>Ayanna</code></td></tr><tr><td><b>hLabel</b></td><td><code>690161050</code></td></tr></table>
@@ -636,7 +636,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Katerina</code></td></tr><tr><td><b>hLabel</b></td><td><code>690161051</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Stefan</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601453</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix001</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Stefan</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601453</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Bronwen</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601454</code></td></tr></table>
@@ -645,25 +645,25 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix003</code></td></tr><tr><td><b>szText</b></td><td><code>Corin</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601455</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Nigel</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601456</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1284601456</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Nigel</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Lyndon</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601457</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Lyndon</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601457</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix005</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>904566220</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Eudeline</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Eudeline</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566220</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Madlen</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566221</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix003</code></td></tr><tr><td><b>szText</b></td><td><code>Ysabell</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566222</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Ysabell</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566222</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix003</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>904566223</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Emlin</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Emlin</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566223</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Gabriela</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566224</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix005</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>904566224</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Gabriela</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix006</code></td></tr><tr><td><b>szText</b></td><td><code>Uvarotia</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566225</code></td></tr></table>
@@ -675,7 +675,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix008</code></td></tr><tr><td><b>szText</b></td><td><code>Egiviah</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566227</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Ozavash</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566228</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix009</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Ozavash</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566228</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Ochroroti</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566252</code></td></tr></table>
@@ -693,16 +693,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericMalePrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Ogier</code></td></tr><tr><td><b>hLabel</b></td><td><code>34564516</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericMalePrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Hubard</code></td></tr><tr><td><b>hLabel</b></td><td><code>34564517</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Hubard</code></td></tr><tr><td><b>hLabel</b></td><td><code>34564517</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericMalePrefix005</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericMalePrefix006</code></td></tr><tr><td><b>szText</b></td><td><code>Wrouthik</code></td></tr><tr><td><b>hLabel</b></td><td><code>34564518</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Xobrum</code></td></tr><tr><td><b>hLabel</b></td><td><code>34564519</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericMalePrefix007</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericMalePrefix007</code></td></tr><tr><td><b>szText</b></td><td><code>Xobrum</code></td></tr><tr><td><b>hLabel</b></td><td><code>34564519</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Edothum</code></td></tr><tr><td><b>hLabel</b></td><td><code>34564520</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericMalePrefix008</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>34564520</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericMalePrefix008</code></td></tr><tr><td><b>szText</b></td><td><code>Edothum</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericMalePrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Zrixius</code></td></tr><tr><td><b>hLabel</b></td><td><code>34564521</code></td></tr></table>
@@ -726,10 +726,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Marlowe</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401256</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix003</code></td></tr><tr><td><b>szText</b></td><td><code>Rynders</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401257</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1775401257</code></td></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix003</code></td></tr><tr><td><b>szText</b></td><td><code>Rynders</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Aluxious</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401258</code></td></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix004</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Aluxious</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401258</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Kirnon</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401259</code></td></tr></table>
@@ -738,10 +738,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Zachariah</code></td></tr><tr><td><b>hLabel</b></td><td><code>3108823376</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Lucas</code></td></tr><tr><td><b>hLabel</b></td><td><code>3108823377</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3108823377</code></td></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Lucas</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix003</code></td></tr><tr><td><b>szText</b></td><td><code>Dorian</code></td></tr><tr><td><b>hLabel</b></td><td><code>3108823378</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3108823378</code></td></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix003</code></td></tr><tr><td><b>szText</b></td><td><code>Dorian</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Orsova</code></td></tr><tr><td><b>hLabel</b></td><td><code>3108823379</code></td></tr></table>
@@ -753,13 +753,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix006</code></td></tr><tr><td><b>szText</b></td><td><code>Dragos</code></td></tr><tr><td><b>hLabel</b></td><td><code>3108823381</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix007</code></td></tr><tr><td><b>szText</b></td><td><code>Damian</code></td></tr><tr><td><b>hLabel</b></td><td><code>3108823382</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Damian</code></td></tr><tr><td><b>hLabel</b></td><td><code>3108823382</code></td></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix007</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix008</code></td></tr><tr><td><b>szText</b></td><td><code>Desmond</code></td></tr><tr><td><b>hLabel</b></td><td><code>3108823383</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Desmond</code></td></tr><tr><td><b>hLabel</b></td><td><code>3108823383</code></td></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix008</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Vladimir</code></td></tr><tr><td><b>hLabel</b></td><td><code>317813845</code></td></tr><tr><td><b>szLabel</b></td><td><code>VampireCasterPrefix001</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampireCasterPrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Vladimir</code></td></tr><tr><td><b>hLabel</b></td><td><code>317813845</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Khem</code></td></tr><tr><td><b>hLabel</b></td><td><code>1047425684</code></td></tr></table>
@@ -777,22 +777,22 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Losgof</code></td></tr><tr><td><b>hLabel</b></td><td><code>1047425688</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix006</code></td></tr><tr><td><b>szText</b></td><td><code>Maulk</code></td></tr><tr><td><b>hLabel</b></td><td><code>1047425689</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Maulk</code></td></tr><tr><td><b>hLabel</b></td><td><code>1047425689</code></td></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix006</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix007</code></td></tr><tr><td><b>szText</b></td><td><code>Bhul</code></td></tr><tr><td><b>hLabel</b></td><td><code>1047425690</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1047425690</code></td></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix007</code></td></tr><tr><td><b>szText</b></td><td><code>Bhul</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix008</code></td></tr><tr><td><b>szText</b></td><td><code>Scolad</code></td></tr><tr><td><b>hLabel</b></td><td><code>1047425691</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Ashot</code></td></tr><tr><td><b>hLabel</b></td><td><code>1047425692</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Ashot</code></td></tr><tr><td><b>hLabel</b></td><td><code>1047425692</code></td></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix009</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1148143535</code></td></tr><tr><td><b>szLabel</b></td><td><code>DrownedGenericPrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Cleavant</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DrownedGenericPrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Cleavant</code></td></tr><tr><td><b>hLabel</b></td><td><code>1148143535</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1148143536</code></td></tr><tr><td><b>szLabel</b></td><td><code>DrownedGenericPrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Nayte</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DrownedGenericPrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Nayte</code></td></tr><tr><td><b>hLabel</b></td><td><code>1148143536</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Orson</code></td></tr><tr><td><b>hLabel</b></td><td><code>1148143537</code></td></tr><tr><td><b>szLabel</b></td><td><code>DrownedGenericPrefix003</code></td></tr></table>
@@ -819,7 +819,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Ecthrois</code></td></tr><tr><td><b>hLabel</b></td><td><code>169837327</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix003</code></td></tr><tr><td><b>szText</b></td><td><code>Sybil</code></td></tr><tr><td><b>hLabel</b></td><td><code>169837328</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>169837328</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix003</code></td></tr><tr><td><b>szText</b></td><td><code>Sybil</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Velorina</code></td></tr><tr><td><b>hLabel</b></td><td><code>169837329</code></td></tr></table>
@@ -834,7 +834,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix007</code></td></tr><tr><td><b>szText</b></td><td><code>Llayla</code></td></tr><tr><td><b>hLabel</b></td><td><code>169837332</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4131659363</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Trik</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Trik</code></td></tr><tr><td><b>hLabel</b></td><td><code>4131659363</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Zeph</code></td></tr><tr><td><b>hLabel</b></td><td><code>4131659364</code></td></tr></table>
@@ -846,7 +846,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Heinrik</code></td></tr><tr><td><b>hLabel</b></td><td><code>4131659366</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4131659367</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Rumlar</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Rumlar</code></td></tr><tr><td><b>hLabel</b></td><td><code>4131659367</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix006</code></td></tr><tr><td><b>szText</b></td><td><code>Sceledrus</code></td></tr><tr><td><b>hLabel</b></td><td><code>4131659368</code></td></tr></table>
@@ -858,22 +858,22 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix008</code></td></tr><tr><td><b>szText</b></td><td><code>Ulysson</code></td></tr><tr><td><b>hLabel</b></td><td><code>4131659370</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Dextaro</code></td></tr><tr><td><b>hLabel</b></td><td><code>4131659371</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4131659371</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Dextaro</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Oswell</code></td></tr><tr><td><b>hLabel</b></td><td><code>4131659395</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4131659395</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Oswell</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Vravak</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094503</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Vravak</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094503</code></td></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix001</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Voduk</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094504</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix003</code></td></tr><tr><td><b>szText</b></td><td><code>Xazeus</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094505</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Xazeus</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094505</code></td></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix003</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Garafrad</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094506</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2106094506</code></td></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Garafrad</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Balam</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094507</code></td></tr></table>
@@ -897,25 +897,25 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Eloain</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094536</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Mosuk</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094537</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2106094537</code></td></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Mosuk</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Odrazad</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999201</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix003</code></td></tr><tr><td><b>szText</b></td><td><code>Crokhar</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999203</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Crokhar</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999203</code></td></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix003</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Xopent</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999202</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3197999204</code></td></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Zreilak</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Zreilak</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999204</code></td></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix004</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Odrekar</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999205</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix006</code></td></tr><tr><td><b>szText</b></td><td><code>Gixius</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999206</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Gixius</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999206</code></td></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix006</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix007</code></td></tr><tr><td><b>szText</b></td><td><code>Rauffe</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999207</code></td></tr></table>
@@ -948,7 +948,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Lacluarm</code></td></tr><tr><td><b>hLabel</b></td><td><code>2003183471</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Jrampa</code></td></tr><tr><td><b>hLabel</b></td><td><code>2003183472</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Jrampa</code></td></tr><tr><td><b>hLabel</b></td><td><code>2003183472</code></td></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix005</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix006</code></td></tr><tr><td><b>szText</b></td><td><code>Eeclops</code></td></tr><tr><td><b>hLabel</b></td><td><code>2003183473</code></td></tr></table>
@@ -963,19 +963,19 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Knosr</code></td></tr><tr><td><b>hLabel</b></td><td><code>2003183476</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2003183500</code></td></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Teeveja</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Teeveja</code></td></tr><tr><td><b>hLabel</b></td><td><code>2003183500</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WildlifeQuillratPrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Deathquill</code></td></tr><tr><td><b>hLabel</b></td><td><code>4120830365</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Spineshank</code></td></tr><tr><td><b>hLabel</b></td><td><code>4120830366</code></td></tr><tr><td><b>szLabel</b></td><td><code>WildlifeQuillratPrefix002</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WildlifeQuillratPrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Spineshank</code></td></tr><tr><td><b>hLabel</b></td><td><code>4120830366</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WildlifeWoodwraithPrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Treehead</code></td></tr><tr><td><b>hLabel</b></td><td><code>172444119</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>172444120</code></td></tr><tr><td><b>szLabel</b></td><td><code>WildlifeWoodwraithPrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Woodfist</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Woodfist</code></td></tr><tr><td><b>hLabel</b></td><td><code>172444120</code></td></tr><tr><td><b>szLabel</b></td><td><code>WildlifeWoodwraithPrefix002</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WildlifeWoodwraithPrefix003</code></td></tr><tr><td><b>szText</b></td><td><code>Treefist</code></td></tr><tr><td><b>hLabel</b></td><td><code>172444121</code></td></tr></table>
@@ -987,7 +987,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Kreqzokaax</code></td></tr><tr><td><b>hLabel</b></td><td><code>3363069347</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3363069348</code></td></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Recikrex</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Recikrex</code></td></tr><tr><td><b>hLabel</b></td><td><code>3363069348</code></td></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix002</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix003</code></td></tr><tr><td><b>szText</b></td><td><code>Iavaq'zat</code></td></tr><tr><td><b>hLabel</b></td><td><code>3363069349</code></td></tr></table>
@@ -1002,7 +1002,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Krelrichiaq</code></td></tr><tr><td><b>hLabel</b></td><td><code>3363069352</code></td></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix006</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix007</code></td></tr><tr><td><b>szText</b></td><td><code>Zraarzur</code></td></tr><tr><td><b>hLabel</b></td><td><code>3363069353</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Zraarzur</code></td></tr><tr><td><b>hLabel</b></td><td><code>3363069353</code></td></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix007</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix008</code></td></tr><tr><td><b>szText</b></td><td><code>Szikees</code></td></tr><tr><td><b>hLabel</b></td><td><code>3363069354</code></td></tr></table>
@@ -1014,7 +1014,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Szaqilrai</code></td></tr><tr><td><b>hLabel</b></td><td><code>3363069379</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Shix'k</code></td></tr><tr><td><b>hLabel</b></td><td><code>3363069380</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3363069380</code></td></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Shix'k</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Thosz</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120942</code></td></tr></table>
@@ -1026,25 +1026,25 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix003</code></td></tr><tr><td><b>szText</b></td><td><code>Utszucci</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120944</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1105120945</code></td></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Jutrazisk</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Jutrazisk</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120945</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1105120946</code></td></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Drox</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Drox</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120946</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Uathru</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120947</code></td></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix006</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix006</code></td></tr><tr><td><b>szText</b></td><td><code>Uathru</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120947</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix007</code></td></tr><tr><td><b>szText</b></td><td><code>Akxoazk</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120948</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix008</code></td></tr><tr><td><b>szText</b></td><td><code>Stigzas</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120949</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Stigzas</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120949</code></td></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix008</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Czisauc</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120950</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Drenlisa</code></td></tr><tr><td><b>hLabel</b></td><td><code>4038080473</code></td></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix001</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Drenlisa</code></td></tr><tr><td><b>hLabel</b></td><td><code>4038080473</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Kylraya</code></td></tr><tr><td><b>hLabel</b></td><td><code>4038080474</code></td></tr></table>
@@ -1071,7 +1071,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Vyoras</code></td></tr><tr><td><b>hLabel</b></td><td><code>4038080481</code></td></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix009</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Alassrix</code></td></tr><tr><td><b>hLabel</b></td><td><code>4038080505</code></td></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix010</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Alassrix</code></td></tr><tr><td><b>hLabel</b></td><td><code>4038080505</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Astroiss</code></td></tr><tr><td><b>hLabel</b></td><td><code>4038080506</code></td></tr></table>
@@ -1095,10 +1095,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Dharlyx</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674225</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Igararax</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674226</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Igararax</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674226</code></td></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix005</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix006</code></td></tr><tr><td><b>szText</b></td><td><code>Suryxir</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674227</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Suryxir</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674227</code></td></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix006</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix007</code></td></tr><tr><td><b>szText</b></td><td><code>Az'skaron</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674228</code></td></tr></table>
@@ -1107,22 +1107,22 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix008</code></td></tr><tr><td><b>szText</b></td><td><code>Hegelb</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674229</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Gorash</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674230</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3539674230</code></td></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Gorash</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Zephyretes</code></td></tr><tr><td><b>hLabel</b></td><td><code>39695144</code></td></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix007</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix007</code></td></tr><tr><td><b>szText</b></td><td><code> Zephyretes</code></td></tr><tr><td><b>hLabel</b></td><td><code>39695144</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix008</code></td></tr><tr><td><b>szText</b></td><td><code> Galebringer</code></td></tr><tr><td><b>hLabel</b></td><td><code>39695145</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix009</code></td></tr><tr><td><b>szText</b></td><td><code> Windburn</code></td></tr><tr><td><b>hLabel</b></td><td><code>39695146</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Windburn</code></td></tr><tr><td><b>hLabel</b></td><td><code>39695146</code></td></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix009</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Hazemaw</code></td></tr><tr><td><b>hLabel</b></td><td><code>39695170</code></td></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix010</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix010</code></td></tr><tr><td><b>szText</b></td><td><code> Hazemaw</code></td></tr><tr><td><b>hLabel</b></td><td><code>39695170</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>30970263</code></td></tr><tr><td><b>szLabel</b></td><td><code>ElectricLanceSuffix004</code></td></tr><tr><td><b>szText</b></td><td><code> Shockblade</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ElectricLanceSuffix004</code></td></tr><tr><td><b>szText</b></td><td><code> Shockblade</code></td></tr><tr><td><b>hLabel</b></td><td><code>30970263</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FireOrbsSuffix004</code></td></tr><tr><td><b>szText</b></td><td><code> Scorchmaw</code></td></tr><tr><td><b>hLabel</b></td><td><code>2665585477</code></td></tr></table>
@@ -1131,7 +1131,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FireOrbsSuffix005</code></td></tr><tr><td><b>szText</b></td><td><code> Infernostrife</code></td></tr><tr><td><b>hLabel</b></td><td><code>2665585478</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FrozenSuffix005</code></td></tr><tr><td><b>szText</b></td><td><code> Shatterstrike</code></td></tr><tr><td><b>hLabel</b></td><td><code>2024473310</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Shatterstrike</code></td></tr><tr><td><b>hLabel</b></td><td><code>2024473310</code></td></tr><tr><td><b>szLabel</b></td><td><code>FrozenSuffix005</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MortarSuffix004</code></td></tr><tr><td><b>szText</b></td><td><code> Firestarter</code></td></tr><tr><td><b>hLabel</b></td><td><code>16691710</code></td></tr></table>
@@ -1164,10 +1164,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ShadowEnchantedSuffix005</code></td></tr><tr><td><b>szText</b></td><td><code> Nightfist</code></td></tr><tr><td><b>hLabel</b></td><td><code>317131322</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TetherSuffix004</code></td></tr><tr><td><b>szText</b></td><td><code> Doombind</code></td></tr><tr><td><b>hLabel</b></td><td><code>2419652981</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Doombind</code></td></tr><tr><td><b>hLabel</b></td><td><code>2419652981</code></td></tr><tr><td><b>szLabel</b></td><td><code>TetherSuffix004</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3588457904</code></td></tr><tr><td><b>szLabel</b></td><td><code>WallerSuffix004</code></td></tr><tr><td><b>szText</b></td><td><code> Deathtrap</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WallerSuffix004</code></td></tr><tr><td><b>szText</b></td><td><code> Deathtrap</code></td></tr><tr><td><b>hLabel</b></td><td><code>3588457904</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TetherSuffix005</code></td></tr><tr><td><b>szText</b></td><td><code> Doomfetter</code></td></tr><tr><td><b>hLabel</b></td><td><code>2419652982</code></td></tr></table>
@@ -1188,10 +1188,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DrownedGenericPrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Ivagont</code></td></tr><tr><td><b>hLabel</b></td><td><code>1148143543</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Aglaya</code></td></tr><tr><td><b>hLabel</b></td><td><code>2003183501</code></td></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix011</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Aglaya</code></td></tr><tr><td><b>hLabel</b></td><td><code>2003183501</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Fitret</code></td></tr><tr><td><b>hLabel</b></td><td><code>2003183502</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Fitret</code></td></tr><tr><td><b>hLabel</b></td><td><code>2003183502</code></td></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix012</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Raphpuph</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382069</code></td></tr></table>
@@ -1200,19 +1200,19 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Chomz</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382070</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>690161052</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Elevendra</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Elevendra</code></td></tr><tr><td><b>hLabel</b></td><td><code>690161052</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix005</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix074</code></td></tr><tr><td><b>szText</b></td><td><code>Thrayn</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471851</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Thrayn</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471851</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix074</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DrownedGenericPrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Begulboorih</code></td></tr><tr><td><b>hLabel</b></td><td><code>1148143567</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Sephuz</code></td></tr><tr><td><b>hLabel</b></td><td><code>4131659396</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4131659396</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Sephuz</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Tyrius</code></td></tr><tr><td><b>hLabel</b></td><td><code>3108823408</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3108823408</code></td></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Tyrius</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Hecate</code></td></tr><tr><td><b>hLabel</b></td><td><code>2238368036</code></td></tr></table>
@@ -1221,10 +1221,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Habohet</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094538</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Jafix</code></td></tr><tr><td><b>hLabel</b></td><td><code>1047425716</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1047425716</code></td></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Jafix</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3587382071</code></td></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Kaze</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Kaze</code></td></tr><tr><td><b>hLabel</b></td><td><code>3587382071</code></td></tr><tr><td><b>szLabel</b></td><td><code>FallenGenericPrefix019</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1284601458</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix006</code></td></tr><tr><td><b>szText</b></td><td><code>Diwen</code></td></tr></table>
@@ -1236,19 +1236,19 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Recov</code></td></tr><tr><td><b>hLabel</b></td><td><code>3108823409</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Thraxi</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120974</code></td></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix010</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Thraxi</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120974</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix006</code></td></tr><tr><td><b>szText</b></td><td><code>Wodin</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401260</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Alaurei</code></td></tr><tr><td><b>hLabel</b></td><td><code>169837333</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix008</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix008</code></td></tr><tr><td><b>szText</b></td><td><code>Alaurei</code></td></tr><tr><td><b>hLabel</b></td><td><code>169837333</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3539674254</code></td></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Arzun</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Arzun</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674254</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MortarSuffix006</code></td></tr><tr><td><b>szText</b></td><td><code> Fireborn</code></td></tr><tr><td><b>hLabel</b></td><td><code>16691712</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>16691712</code></td></tr><tr><td><b>szLabel</b></td><td><code>MortarSuffix006</code></td></tr><tr><td><b>szText</b></td><td><code> Fireborn</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix007</code></td></tr><tr><td><b>szText</b></td><td><code>Garan</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601459</code></td></tr></table>
@@ -1260,7 +1260,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Gromath</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674255</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Nubarb</code></td></tr><tr><td><b>hLabel</b></td><td><code>1047425717</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1047425717</code></td></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Nubarb</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Teosum</code></td></tr><tr><td><b>hLabel</b></td><td><code>3108823410</code></td></tr></table>
@@ -1269,7 +1269,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Kyo</code></td></tr><tr><td><b>hLabel</b></td><td><code>3108823411</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Fryzoh</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674256</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Fryzoh</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674256</code></td></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix012</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Styhlez</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674257</code></td></tr></table>
@@ -1296,16 +1296,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Janae</code></td></tr><tr><td><b>hLabel</b></td><td><code>690161082</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>690161083</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Brionna</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Brionna</code></td></tr><tr><td><b>hLabel</b></td><td><code>690161083</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Ryleigh</code></td></tr><tr><td><b>hLabel</b></td><td><code>690161084</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix014</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Ryleigh</code></td></tr><tr><td><b>hLabel</b></td><td><code>690161084</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Kaylyn</code></td></tr><tr><td><b>hLabel</b></td><td><code>690161085</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Idina</code></td></tr><tr><td><b>hLabel</b></td><td><code>690161086</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix016</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Idina</code></td></tr><tr><td><b>hLabel</b></td><td><code>690161086</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Miah</code></td></tr><tr><td><b>hLabel</b></td><td><code>690161087</code></td></tr></table>
@@ -1314,7 +1314,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Yuliana</code></td></tr><tr><td><b>hLabel</b></td><td><code>690161088</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>690161089</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Ashi</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Ashi</code></td></tr><tr><td><b>hLabel</b></td><td><code>690161089</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Maci</code></td></tr><tr><td><b>hLabel</b></td><td><code>690161113</code></td></tr></table>
@@ -1323,25 +1323,25 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix008</code></td></tr><tr><td><b>szText</b></td><td><code>Whitlock</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601460</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Rawson</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601461</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Rawson</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601461</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix009</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Stroud</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601485</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix010</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Stroud</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601485</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Rycroft</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601486</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix011</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Rycroft</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601486</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Norwyn</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601487</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix012</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Norwyn</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601487</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Wallach</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601488</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1284601488</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Wallach</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Gilford</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601489</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix014</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1284601489</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Gilford</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Maitland</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601490</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Maitland</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601490</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix015</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Cael</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601491</code></td></tr></table>
@@ -1353,13 +1353,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Wardell</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601493</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Morven</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601494</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1284601494</code></td></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Morven</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericMalePrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Alvertos</code></td></tr><tr><td><b>hLabel</b></td><td><code>1284601518</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Dhalk</code></td></tr><tr><td><b>hLabel</b></td><td><code>1047425718</code></td></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix012</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Dhalk</code></td></tr><tr><td><b>hLabel</b></td><td><code>1047425718</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Giyvid</code></td></tr><tr><td><b>hLabel</b></td><td><code>1047425719</code></td></tr></table>
@@ -1377,10 +1377,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Hralk</code></td></tr><tr><td><b>hLabel</b></td><td><code>1047425723</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Bemkeilr</code></td></tr><tr><td><b>hLabel</b></td><td><code>1047425724</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1047425724</code></td></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Bemkeilr</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1047425725</code></td></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Vodgudr</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Vodgudr</code></td></tr><tr><td><b>hLabel</b></td><td><code>1047425725</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CannibalGenericPrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Bhasgar</code></td></tr><tr><td><b>hLabel</b></td><td><code>1047425749</code></td></tr></table>
@@ -1392,16 +1392,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Diamanda</code></td></tr><tr><td><b>hLabel</b></td><td><code>169837358</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Sephiran</code></td></tr><tr><td><b>hLabel</b></td><td><code>169837359</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Sephiran</code></td></tr><tr><td><b>hLabel</b></td><td><code>169837359</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix011</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Maggart</code></td></tr><tr><td><b>hLabel</b></td><td><code>169837360</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Maggart</code></td></tr><tr><td><b>hLabel</b></td><td><code>169837360</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix012</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>169837361</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Valaine</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Cordelia</code></td></tr><tr><td><b>hLabel</b></td><td><code>169837362</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix014</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>169837362</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Cordelia</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>169837363</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Viessa</code></td></tr></table>
@@ -1416,16 +1416,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Severina</code></td></tr><tr><td><b>hLabel</b></td><td><code>169837366</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Xylia</code></td></tr><tr><td><b>hLabel</b></td><td><code>169837367</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix019</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>169837367</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Xylia</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Kolfinna</code></td></tr><tr><td><b>hLabel</b></td><td><code>169837391</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix020</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Kolfinna</code></td></tr><tr><td><b>hLabel</b></td><td><code>169837391</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Venkalth</code></td></tr><tr><td><b>hLabel</b></td><td><code>4131659397</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix012</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Venkalth</code></td></tr><tr><td><b>hLabel</b></td><td><code>4131659397</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Zeidan</code></td></tr><tr><td><b>hLabel</b></td><td><code>4131659398</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4131659398</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Zeidan</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Zayin</code></td></tr><tr><td><b>hLabel</b></td><td><code>4131659399</code></td></tr></table>
@@ -1440,13 +1440,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Yulis</code></td></tr><tr><td><b>hLabel</b></td><td><code>4131659402</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4131659403</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Cyran</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Cyran</code></td></tr><tr><td><b>hLabel</b></td><td><code>4131659403</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Oklarth</code></td></tr><tr><td><b>hLabel</b></td><td><code>4131659404</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Scias</code></td></tr><tr><td><b>hLabel</b></td><td><code>4131659428</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix020</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericMalePrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Scias</code></td></tr><tr><td><b>hLabel</b></td><td><code>4131659428</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Qheslyss</code></td></tr><tr><td><b>hLabel</b></td><td><code>4038080511</code></td></tr></table>
@@ -1455,10 +1455,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Zrixyss</code></td></tr><tr><td><b>hLabel</b></td><td><code>4038080512</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Urileli</code></td></tr><tr><td><b>hLabel</b></td><td><code>4038080513</code></td></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix018</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Urileli</code></td></tr><tr><td><b>hLabel</b></td><td><code>4038080513</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Briznys</code></td></tr><tr><td><b>hLabel</b></td><td><code>4038080514</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Briznys</code></td></tr><tr><td><b>hLabel</b></td><td><code>4038080514</code></td></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix019</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Vhesrya</code></td></tr><tr><td><b>hLabel</b></td><td><code>4038080538</code></td></tr></table>
@@ -1467,28 +1467,28 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix021</code></td></tr><tr><td><b>szText</b></td><td><code>Xentora</code></td></tr><tr><td><b>hLabel</b></td><td><code>4038080539</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4038080540</code></td></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix022</code></td></tr><tr><td><b>szText</b></td><td><code>Yserrahne</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix022</code></td></tr><tr><td><b>szText</b></td><td><code>Yserrahne</code></td></tr><tr><td><b>hLabel</b></td><td><code>4038080540</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4038080541</code></td></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix023</code></td></tr><tr><td><b>szText</b></td><td><code>Xyltyse</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix023</code></td></tr><tr><td><b>szText</b></td><td><code>Xyltyse</code></td></tr><tr><td><b>hLabel</b></td><td><code>4038080541</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix024</code></td></tr><tr><td><b>szText</b></td><td><code>Sharysha</code></td></tr><tr><td><b>hLabel</b></td><td><code>4038080542</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Mazrahn</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674258</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Mazrahn</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674258</code></td></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix014</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3539674259</code></td></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Ezrintihr</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Ezrintihr</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674259</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Vohrynad</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674260</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Eransyx</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674261</code></td></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix017</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Eransyx</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674261</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3539674262</code></td></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Suranoth</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Suranoth</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674262</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericMalePrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Ryzix</code></td></tr><tr><td><b>hLabel</b></td><td><code>3539674263</code></td></tr></table>
@@ -1500,22 +1500,22 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DrownedGenericPrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Ondroth</code></td></tr><tr><td><b>hLabel</b></td><td><code>1148143568</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Durward</code></td></tr><tr><td><b>hLabel</b></td><td><code>1148143569</code></td></tr><tr><td><b>szLabel</b></td><td><code>DrownedGenericPrefix012</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DrownedGenericPrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Durward</code></td></tr><tr><td><b>hLabel</b></td><td><code>1148143569</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DrownedGenericPrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Haslett</code></td></tr><tr><td><b>hLabel</b></td><td><code>1148143570</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1148143571</code></td></tr><tr><td><b>szLabel</b></td><td><code>DrownedGenericPrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Norwell</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DrownedGenericPrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Norwell</code></td></tr><tr><td><b>hLabel</b></td><td><code>1148143571</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DrownedGenericPrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Cobden</code></td></tr><tr><td><b>hLabel</b></td><td><code>1148143572</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Derwin</code></td></tr><tr><td><b>hLabel</b></td><td><code>1148143573</code></td></tr><tr><td><b>szLabel</b></td><td><code>DrownedGenericPrefix016</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DrownedGenericPrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Derwin</code></td></tr><tr><td><b>hLabel</b></td><td><code>1148143573</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Tarleton</code></td></tr><tr><td><b>hLabel</b></td><td><code>1148143574</code></td></tr><tr><td><b>szLabel</b></td><td><code>DrownedGenericPrefix017</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DrownedGenericPrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Tarleton</code></td></tr><tr><td><b>hLabel</b></td><td><code>1148143574</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DrownedGenericPrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Ethewlin</code></td></tr><tr><td><b>hLabel</b></td><td><code>1148143575</code></td></tr></table>
@@ -1536,31 +1536,31 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Ymenia</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847251</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Imayne</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847275</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Imayne</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847275</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix010</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4254847276</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Yseulte</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Yseulte</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847276</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Guibourc</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847277</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4254847278</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Auisia</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Auisia</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847278</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix013</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Edolina</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847279</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix014</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Edolina</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847279</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Izett</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847280</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4254847280</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Izett</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Aleneite</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847281</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Aleneite</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847281</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix016</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Miriald</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847282</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Teffan</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847283</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Teffan</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847283</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix018</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Belsante</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847284</code></td></tr></table>
@@ -1569,10 +1569,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Claremonde</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847308</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Anfroy</code></td></tr><tr><td><b>hLabel</b></td><td><code>2238368037</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix006</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2238368037</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix006</code></td></tr><tr><td><b>szText</b></td><td><code>Anfroy</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix007</code></td></tr><tr><td><b>szText</b></td><td><code>Barnet</code></td></tr><tr><td><b>hLabel</b></td><td><code>2238368038</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Barnet</code></td></tr><tr><td><b>hLabel</b></td><td><code>2238368038</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix007</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix008</code></td></tr><tr><td><b>szText</b></td><td><code>Remondin</code></td></tr><tr><td><b>hLabel</b></td><td><code>2238368039</code></td></tr></table>
@@ -1581,7 +1581,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Wymund</code></td></tr><tr><td><b>hLabel</b></td><td><code>2238368040</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix009</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2238368064</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Geofridus</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Geofridus</code></td></tr><tr><td><b>hLabel</b></td><td><code>2238368064</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix010</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Adekin</code></td></tr><tr><td><b>hLabel</b></td><td><code>2238368065</code></td></tr></table>
@@ -1593,7 +1593,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Guarnier</code></td></tr><tr><td><b>hLabel</b></td><td><code>2238368067</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2238368068</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Alphonsins</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Alphonsins</code></td></tr><tr><td><b>hLabel</b></td><td><code>2238368068</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Umfridus</code></td></tr><tr><td><b>hLabel</b></td><td><code>2238368069</code></td></tr></table>
@@ -1605,7 +1605,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Bardol</code></td></tr><tr><td><b>hLabel</b></td><td><code>2238368071</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2238368072</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Hamelen</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Hamelen</code></td></tr><tr><td><b>hLabel</b></td><td><code>2238368072</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericMalePrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Reimond</code></td></tr><tr><td><b>hLabel</b></td><td><code>2238368073</code></td></tr></table>
@@ -1623,7 +1623,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Hrugowl</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094541</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Krelm</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094542</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Krelm</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094542</code></td></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix017</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Logrut</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094543</code></td></tr></table>
@@ -1632,10 +1632,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Lorzak</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094544</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Melmak</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094568</code></td></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix020</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Melmak</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094568</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2106094569</code></td></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix021</code></td></tr><tr><td><b>szText</b></td><td><code>Nalghban</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Nalghban</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094569</code></td></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix021</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix022</code></td></tr><tr><td><b>szText</b></td><td><code>Reggrel</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094570</code></td></tr></table>
@@ -1644,7 +1644,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix023</code></td></tr><tr><td><b>szText</b></td><td><code>Charuch</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094571</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix024</code></td></tr><tr><td><b>szText</b></td><td><code>Ghallem</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094572</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2106094572</code></td></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix024</code></td></tr><tr><td><b>szText</b></td><td><code>Ghallem</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix025</code></td></tr><tr><td><b>szText</b></td><td><code>Groak</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094573</code></td></tr></table>
@@ -1659,10 +1659,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix028</code></td></tr><tr><td><b>szText</b></td><td><code>Malgash</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094576</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix029</code></td></tr><tr><td><b>szText</b></td><td><code>Shertik</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094577</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Shertik</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094577</code></td></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix029</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix030</code></td></tr><tr><td><b>szText</b></td><td><code>Korbal</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094601</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Korbal</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094601</code></td></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix030</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix031</code></td></tr><tr><td><b>szText</b></td><td><code>Mawdol</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094602</code></td></tr></table>
@@ -1671,19 +1671,19 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix032</code></td></tr><tr><td><b>szText</b></td><td><code>Talos</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094603</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix033</code></td></tr><tr><td><b>szText</b></td><td><code>Shogg</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094604</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2106094604</code></td></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix033</code></td></tr><tr><td><b>szText</b></td><td><code>Shogg</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Malduxus</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999236</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3197999237</code></td></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Wrevris</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Wrevris</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999237</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Stroucilia</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999238</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Woxith</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999239</code></td></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix016</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3197999239</code></td></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Woxith</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Onemek</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999240</code></td></tr></table>
@@ -1695,7 +1695,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Vromek</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999242</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Gozelinus</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999266</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3197999266</code></td></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Gozelinus</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix021</code></td></tr><tr><td><b>szText</b></td><td><code>Maugre</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999267</code></td></tr></table>
@@ -1704,10 +1704,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix022</code></td></tr><tr><td><b>szText</b></td><td><code>Azorius</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999268</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3197999269</code></td></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix023</code></td></tr><tr><td><b>szText</b></td><td><code>Arminel</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix023</code></td></tr><tr><td><b>szText</b></td><td><code>Arminel</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999269</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix024</code></td></tr><tr><td><b>szText</b></td><td><code>Gylbarde</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999270</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3197999270</code></td></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix024</code></td></tr><tr><td><b>szText</b></td><td><code>Gylbarde</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix025</code></td></tr><tr><td><b>szText</b></td><td><code>Wymerus</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999271</code></td></tr></table>
@@ -1719,7 +1719,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix027</code></td></tr><tr><td><b>szText</b></td><td><code>Hugon</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999273</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3197999274</code></td></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix028</code></td></tr><tr><td><b>szText</b></td><td><code>Renodet</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix028</code></td></tr><tr><td><b>szText</b></td><td><code>Renodet</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999274</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkeletonGenericPrefix029</code></td></tr><tr><td><b>szText</b></td><td><code>Guiraudet</code></td></tr><tr><td><b>hLabel</b></td><td><code>3197999275</code></td></tr></table>
@@ -1734,22 +1734,22 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Syerrakhuth</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120976</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1105120977</code></td></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Yoraasz</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Yoraasz</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120977</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1105120978</code></td></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Kixhetzaaz</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Kixhetzaaz</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120978</code></td></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix014</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Zsuderra</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120979</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Zsuderra</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120979</code></td></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix015</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Laazishisj</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120980</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1105120980</code></td></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Laazishisj</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Szokzash</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120981</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1105120982</code></td></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Dhruka</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Dhruka</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120982</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Eszeshix</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105120983</code></td></tr></table>
@@ -1758,22 +1758,22 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SnakeGenericPrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Crixhakh</code></td></tr><tr><td><b>hLabel</b></td><td><code>1105121007</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3363069381</code></td></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Chak'zux</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Chak'zux</code></td></tr><tr><td><b>hLabel</b></td><td><code>3363069381</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Yiakkeq</code></td></tr><tr><td><b>hLabel</b></td><td><code>3363069382</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Yiakkeq</code></td></tr><tr><td><b>hLabel</b></td><td><code>3363069382</code></td></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix013</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Qhizruzes</code></td></tr><tr><td><b>hLabel</b></td><td><code>3363069383</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Sak'thalleh</code></td></tr><tr><td><b>hLabel</b></td><td><code>3363069384</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3363069384</code></td></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Sak'thalleh</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Kliqish</code></td></tr><tr><td><b>hLabel</b></td><td><code>3363069385</code></td></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix016</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Kliqish</code></td></tr><tr><td><b>hLabel</b></td><td><code>3363069385</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3363069386</code></td></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Hievazsath</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Hievazsath</code></td></tr><tr><td><b>hLabel</b></td><td><code>3363069386</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Heqak'sith</code></td></tr><tr><td><b>hLabel</b></td><td><code>3363069387</code></td></tr></table>
@@ -1785,10 +1785,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SpiderGenericPrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Krol'zietix</code></td></tr><tr><td><b>hLabel</b></td><td><code>3363069412</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3108823412</code></td></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Cyprian</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Cyprian</code></td></tr><tr><td><b>hLabel</b></td><td><code>3108823412</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Karpov</code></td></tr><tr><td><b>hLabel</b></td><td><code>3108823413</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Karpov</code></td></tr><tr><td><b>hLabel</b></td><td><code>3108823413</code></td></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix015</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Lycidas</code></td></tr><tr><td><b>hLabel</b></td><td><code>3108823414</code></td></tr></table>
@@ -1800,7 +1800,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3108823416</code></td></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Cadogan</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Kellam</code></td></tr><tr><td><b>hLabel</b></td><td><code>3108823417</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3108823417</code></td></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Kellam</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VampireGenericPrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Azerrad</code></td></tr><tr><td><b>hLabel</b></td><td><code>3108823441</code></td></tr></table>
@@ -1809,7 +1809,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix007</code></td></tr><tr><td><b>szText</b></td><td><code>Zy</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401261</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix008</code></td></tr><tr><td><b>szText</b></td><td><code>Derther</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401262</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Derther</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401262</code></td></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix008</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Vossler</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401263</code></td></tr></table>
@@ -1821,10 +1821,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Trmin</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401288</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Greil</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401289</code></td></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix012</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Greil</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401289</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Osyn</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401290</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1775401290</code></td></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Osyn</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Duradel</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401291</code></td></tr></table>
@@ -1833,40 +1833,40 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Roderic</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401292</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Randulfr</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401293</code></td></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix016</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Randulfr</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401293</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Dannan</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401294</code></td></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix017</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Dannan</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401294</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1775401295</code></td></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Baryn</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Baryn</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401295</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Rodion</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401296</code></td></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix019</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Rodion</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401296</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Osiston</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401320</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Osiston</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401320</code></td></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix020</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Yelpeek</code></td></tr><tr><td><b>hLabel</b></td><td><code>2003183503</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Polndi</code></td></tr><tr><td><b>hLabel</b></td><td><code>2003183504</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2003183504</code></td></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Polndi</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Roojan</code></td></tr><tr><td><b>hLabel</b></td><td><code>2003183505</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Wraadorm</code></td></tr><tr><td><b>hLabel</b></td><td><code>2003183506</code></td></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix016</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Wraadorm</code></td></tr><tr><td><b>hLabel</b></td><td><code>2003183506</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2003183507</code></td></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Ruafin</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Ruafin</code></td></tr><tr><td><b>hLabel</b></td><td><code>2003183507</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Chodorm</code></td></tr><tr><td><b>hLabel</b></td><td><code>2003183508</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Ikculsest</code></td></tr><tr><td><b>hLabel</b></td><td><code>2003183509</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2003183509</code></td></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Ikculsest</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WildlifeGenericPrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Uxingis</code></td></tr><tr><td><b>hLabel</b></td><td><code>2003183533</code></td></tr></table>
@@ -1875,34 +1875,34 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Zillah</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566254</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Viktoria</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566255</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>904566255</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Viktoria</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Katreena</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566256</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix014</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Cidolfus</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566257</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>904566257</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Cidolfus</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>904566258</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Galexialyn</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Galexialyn</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566258</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Nifsara</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566259</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>904566259</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Nifsara</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Hebkya</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566260</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>904566260</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Hebkya</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Cellica</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566261</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix019</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>904566261</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Cellica</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Marekyn</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566285</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Marekyn</code></td></tr><tr><td><b>hLabel</b></td><td><code>904566285</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericFemalePrefix020</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericMalePrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Thancred</code></td></tr><tr><td><b>hLabel</b></td><td><code>34564549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericMalePrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Gervesin</code></td></tr><tr><td><b>hLabel</b></td><td><code>34564550</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>34564550</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericMalePrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Gervesin</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericMalePrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Ansfrid</code></td></tr><tr><td><b>hLabel</b></td><td><code>34564551</code></td></tr></table>
@@ -1914,16 +1914,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericMalePrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Sepitus</code></td></tr><tr><td><b>hLabel</b></td><td><code>34564553</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>34564554</code></td></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericMalePrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Uzuvras</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericMalePrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Uzuvras</code></td></tr><tr><td><b>hLabel</b></td><td><code>34564554</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ZombieGenericMalePrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Fiovras</code></td></tr><tr><td><b>hLabel</b></td><td><code>34564578</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Taintspawn</code></td></tr><tr><td><b>hLabel</b></td><td><code>1829835418</code></td></tr><tr><td><b>szLabel</b></td><td><code>PlaguebearerSuffix006</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>PlaguebearerSuffix006</code></td></tr><tr><td><b>szText</b></td><td><code> Taintspawn</code></td></tr><tr><td><b>hLabel</b></td><td><code>1829835418</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>PlaguebearerSuffix007</code></td></tr><tr><td><b>szText</b></td><td><code> Festerspawn</code></td></tr><tr><td><b>hLabel</b></td><td><code>1829835419</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Festerspawn</code></td></tr><tr><td><b>hLabel</b></td><td><code>1829835419</code></td></tr><tr><td><b>szLabel</b></td><td><code>PlaguebearerSuffix007</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DemonGenericFemalePrefix025</code></td></tr><tr><td><b>szText</b></td><td><code>Daemvyra</code></td></tr><tr><td><b>hLabel</b></td><td><code>4038080543</code></td></tr></table>
@@ -1944,16 +1944,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MultishotSuffix008</code></td></tr><tr><td><b>szText</b></td><td><code> Repliton</code></td></tr><tr><td><b>hLabel</b></td><td><code>251386550</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>251386551</code></td></tr><tr><td><b>szLabel</b></td><td><code>MultishotSuffix009</code></td></tr><tr><td><b>szText</b></td><td><code> Multaise</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MultishotSuffix009</code></td></tr><tr><td><b>szText</b></td><td><code> Multaise</code></td></tr><tr><td><b>hLabel</b></td><td><code>251386551</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix011</code></td></tr><tr><td><b>szText</b></td><td><code> Forthwind</code></td></tr><tr><td><b>hLabel</b></td><td><code>39695171</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WallerSuffix006</code></td></tr><tr><td><b>szText</b></td><td><code> Landgrave</code></td></tr><tr><td><b>hLabel</b></td><td><code>3588457906</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3588457906</code></td></tr><tr><td><b>szLabel</b></td><td><code>WallerSuffix006</code></td></tr><tr><td><b>szText</b></td><td><code> Landgrave</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>251386575</code></td></tr><tr><td><b>szLabel</b></td><td><code>MultishotSuffix010</code></td></tr><tr><td><b>szText</b></td><td><code> Mirrolley</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Mirrolley</code></td></tr><tr><td><b>hLabel</b></td><td><code>251386575</code></td></tr><tr><td><b>szLabel</b></td><td><code>MultishotSuffix010</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemaleMultishotPrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Mira</code></td></tr><tr><td><b>hLabel</b></td><td><code>1985282081</code></td></tr></table>
@@ -1962,31 +1962,31 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FrozenSuffix006</code></td></tr><tr><td><b>szText</b></td><td><code> Shatterton</code></td></tr><tr><td><b>hLabel</b></td><td><code>2024473311</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FireOrbsSuffix006</code></td></tr><tr><td><b>szText</b></td><td><code> Infernovic</code></td></tr><tr><td><b>hLabel</b></td><td><code>2665585479</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Infernovic</code></td></tr><tr><td><b>hLabel</b></td><td><code>2665585479</code></td></tr><tr><td><b>szLabel</b></td><td><code>FireOrbsSuffix006</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TeleporterSuffix007</code></td></tr><tr><td><b>szText</b></td><td><code> Thunderra</code></td></tr><tr><td><b>hLabel</b></td><td><code>3604801266</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>39695172</code></td></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix012</code></td></tr><tr><td><b>szText</b></td><td><code> Windsborough</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix012</code></td></tr><tr><td><b>szText</b></td><td><code> Windsborough</code></td></tr><tr><td><b>hLabel</b></td><td><code>39695172</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>529774956</code></td></tr><tr><td><b>szLabel</b></td><td><code>LightningTotemsSuffix007</code></td></tr><tr><td><b>szText</b></td><td><code> Stormont</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>LightningTotemsSuffix007</code></td></tr><tr><td><b>szText</b></td><td><code> Stormont</code></td></tr><tr><td><b>hLabel</b></td><td><code>529774956</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FireEnchantedSuffix004</code></td></tr><tr><td><b>szText</b></td><td><code> Burnier</code></td></tr><tr><td><b>hLabel</b></td><td><code>2448873721</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Nightford</code></td></tr><tr><td><b>hLabel</b></td><td><code>317131323</code></td></tr><tr><td><b>szLabel</b></td><td><code>ShadowEnchantedSuffix006</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ShadowEnchantedSuffix006</code></td></tr><tr><td><b>szText</b></td><td><code> Nightford</code></td></tr><tr><td><b>hLabel</b></td><td><code>317131323</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MortarSuffix007</code></td></tr><tr><td><b>szText</b></td><td><code> Flareney</code></td></tr><tr><td><b>hLabel</b></td><td><code>16691713</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>16691713</code></td></tr><tr><td><b>szLabel</b></td><td><code>MortarSuffix007</code></td></tr><tr><td><b>szText</b></td><td><code> Flareney</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>LightningEnchantedSuffix009</code></td></tr><tr><td><b>szText</b></td><td><code> Sparkov</code></td></tr><tr><td><b>hLabel</b></td><td><code>3920636220</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ElectricLanceSuffix005</code></td></tr><tr><td><b>szText</b></td><td><code> Shocklin</code></td></tr><tr><td><b>hLabel</b></td><td><code>30970264</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Shocklin</code></td></tr><tr><td><b>hLabel</b></td><td><code>30970264</code></td></tr><tr><td><b>szLabel</b></td><td><code>ElectricLanceSuffix005</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ColdEnchantedSuffix006</code></td></tr><tr><td><b>szText</b></td><td><code> Icecott</code></td></tr><tr><td><b>hLabel</b></td><td><code>2793036695</code></td></tr></table>
@@ -1998,7 +1998,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix021</code></td></tr><tr><td><b>szText</b></td><td><code>Tyssla</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401321</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix021</code></td></tr><tr><td><b>szText</b></td><td><code>Ava</code></td></tr><tr><td><b>hLabel</b></td><td><code>4254847309</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4254847309</code></td></tr><tr><td><b>szLabel</b></td><td><code>GhostGenericFemalePrefix021</code></td></tr><tr><td><b>szText</b></td><td><code>Ava</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix021</code></td></tr><tr><td><b>szText</b></td><td><code>Velda</code></td></tr><tr><td><b>hLabel</b></td><td><code>169837392</code></td></tr></table>
@@ -2019,16 +2019,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Inquisitor Evrat</code></td></tr><tr><td><b>hLabel</b></td><td><code>880807463</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Inquisitor Bertelemi</code></td></tr><tr><td><b>hLabel</b></td><td><code>880807464</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix006</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix006</code></td></tr><tr><td><b>szText</b></td><td><code>Inquisitor Bertelemi</code></td></tr><tr><td><b>hLabel</b></td><td><code>880807464</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Inquisitor Adinet</code></td></tr><tr><td><b>hLabel</b></td><td><code>880807465</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix007</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix008</code></td></tr><tr><td><b>szText</b></td><td><code>Inquisitor Fouques</code></td></tr><tr><td><b>hLabel</b></td><td><code>880807466</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Inquisitor Fouques</code></td></tr><tr><td><b>hLabel</b></td><td><code>880807466</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix008</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>880807467</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Inquisitor Isemberd</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Inquisitor Isemberd</code></td></tr><tr><td><b>hLabel</b></td><td><code>880807467</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Inquisitor Gylbard</code></td></tr><tr><td><b>hLabel</b></td><td><code>880807491</code></td></tr></table>
@@ -2037,7 +2037,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Inquisitor Hervoet</code></td></tr><tr><td><b>hLabel</b></td><td><code>880807492</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Inquisitor Barnabas</code></td></tr><tr><td><b>hLabel</b></td><td><code>880807493</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>880807493</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Inquisitor Barnabas</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Inquisitor Odinel</code></td></tr><tr><td><b>hLabel</b></td><td><code>880807494</code></td></tr></table>
@@ -2049,7 +2049,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Inquisitor Houdouyn</code></td></tr><tr><td><b>hLabel</b></td><td><code>880807496</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Inquisitor Yda</code></td></tr><tr><td><b>hLabel</b></td><td><code>880807497</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>880807497</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Inquisitor Yda</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Inquisitor Cedany</code></td></tr><tr><td><b>hLabel</b></td><td><code>880807498</code></td></tr></table>
@@ -2058,10 +2058,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Inquisitor Ranulph</code></td></tr><tr><td><b>hLabel</b></td><td><code>880807499</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>880807500</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Inquisitor Thrayn</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Inquisitor Thrayn</code></td></tr><tr><td><b>hLabel</b></td><td><code>880807500</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Inquisitor Donathan</code></td></tr><tr><td><b>hLabel</b></td><td><code>880807524</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>880807524</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightCasterGenericPrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Inquisitor Donathan</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix075</code></td></tr><tr><td><b>szText</b></td><td><code>Donathan</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471852</code></td></tr></table>
@@ -2079,7 +2079,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Captain Donathan</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471856</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix079</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix080</code></td></tr><tr><td><b>szText</b></td><td><code>Lieutenant Donathan</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471880</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Lieutenant Donathan</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471880</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix080</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Chilmala</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789383</code></td></tr></table>
@@ -2088,7 +2088,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix002</code></td></tr><tr><td><b>szText</b></td><td><code>Khaxhirun</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789384</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4220789385</code></td></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix003</code></td></tr><tr><td><b>szText</b></td><td><code>Idughlatai</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix003</code></td></tr><tr><td><b>szText</b></td><td><code>Idughlatai</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789385</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Segexanira</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789386</code></td></tr></table>
@@ -2103,10 +2103,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix007</code></td></tr><tr><td><b>szText</b></td><td><code>Kirixenur</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789389</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix008</code></td></tr><tr><td><b>szText</b></td><td><code>Argarin</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789390</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Argarin</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789390</code></td></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix008</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4220789391</code></td></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Ashiji</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Ashiji</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789391</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Sanchedei</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789415</code></td></tr></table>
@@ -2115,13 +2115,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Jamuremur</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789416</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Sorkharan</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789417</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Sorkharan</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789417</code></td></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix012</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Dinzorig</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789418</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4220789418</code></td></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix013</code></td></tr><tr><td><b>szText</b></td><td><code>Dinzorig</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Xordhur</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789419</code></td></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix014</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix014</code></td></tr><tr><td><b>szText</b></td><td><code>Xordhur</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789419</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix015</code></td></tr><tr><td><b>szText</b></td><td><code>Chizorig</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789420</code></td></tr></table>
@@ -2130,16 +2130,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix016</code></td></tr><tr><td><b>szText</b></td><td><code>Sechezhosun</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789421</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Tunzorig</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789422</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4220789422</code></td></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix017</code></td></tr><tr><td><b>szText</b></td><td><code>Tunzorig</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix018</code></td></tr><tr><td><b>szText</b></td><td><code>Qorikim</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789423</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Qorikim</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789423</code></td></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix018</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Tamaxhigin</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789424</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4220789448</code></td></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Bogarmazkhan</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlyGenericPrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Bogarmazkhan</code></td></tr><tr><td><b>hLabel</b></td><td><code>4220789448</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MaggotGenericPrefix001</code></td></tr><tr><td><b>szText</b></td><td><code>Jelgrot</code></td></tr><tr><td><b>hLabel</b></td><td><code>1165615003</code></td></tr></table>
@@ -2154,25 +2154,25 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MaggotGenericPrefix004</code></td></tr><tr><td><b>szText</b></td><td><code>Achiketu</code></td></tr><tr><td><b>hLabel</b></td><td><code>1165615006</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Durulbuccha</code></td></tr><tr><td><b>hLabel</b></td><td><code>1165615007</code></td></tr><tr><td><b>szLabel</b></td><td><code>MaggotGenericPrefix005</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MaggotGenericPrefix005</code></td></tr><tr><td><b>szText</b></td><td><code>Durulbuccha</code></td></tr><tr><td><b>hLabel</b></td><td><code>1165615007</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MaggotGenericPrefix006</code></td></tr><tr><td><b>szText</b></td><td><code>Baihinkuder</code></td></tr><tr><td><b>hLabel</b></td><td><code>1165615008</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1165615008</code></td></tr><tr><td><b>szLabel</b></td><td><code>MaggotGenericPrefix006</code></td></tr><tr><td><b>szText</b></td><td><code>Baihinkuder</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MaggotGenericPrefix007</code></td></tr><tr><td><b>szText</b></td><td><code>Tabujam</code></td></tr><tr><td><b>hLabel</b></td><td><code>1165615009</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Tabujam</code></td></tr><tr><td><b>hLabel</b></td><td><code>1165615009</code></td></tr><tr><td><b>szLabel</b></td><td><code>MaggotGenericPrefix007</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MaggotGenericPrefix008</code></td></tr><tr><td><b>szText</b></td><td><code>Horkhuji</code></td></tr><tr><td><b>hLabel</b></td><td><code>1165615010</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Jelsemur</code></td></tr><tr><td><b>hLabel</b></td><td><code>1165615011</code></td></tr><tr><td><b>szLabel</b></td><td><code>MaggotGenericPrefix009</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1165615011</code></td></tr><tr><td><b>szLabel</b></td><td><code>MaggotGenericPrefix009</code></td></tr><tr><td><b>szText</b></td><td><code>Jelsemur</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MaggotGenericPrefix010</code></td></tr><tr><td><b>szText</b></td><td><code>Khagagrot</code></td></tr><tr><td><b>hLabel</b></td><td><code>1165615035</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1165615036</code></td></tr><tr><td><b>szLabel</b></td><td><code>MaggotGenericPrefix011</code></td></tr><tr><td><b>szText</b></td><td><code>Argakul</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Argakul</code></td></tr><tr><td><b>hLabel</b></td><td><code>1165615036</code></td></tr><tr><td><b>szLabel</b></td><td><code>MaggotGenericPrefix011</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MaggotGenericPrefix012</code></td></tr><tr><td><b>szText</b></td><td><code>Borjiqadar</code></td></tr><tr><td><b>hLabel</b></td><td><code>1165615037</code></td></tr></table>
@@ -2199,7 +2199,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MaggotGenericPrefix019</code></td></tr><tr><td><b>szText</b></td><td><code>Uraganira</code></td></tr><tr><td><b>hLabel</b></td><td><code>1165615044</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1165615068</code></td></tr><tr><td><b>szLabel</b></td><td><code>MaggotGenericPrefix020</code></td></tr><tr><td><b>szText</b></td><td><code>Qorigetei</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Qorigetei</code></td></tr><tr><td><b>hLabel</b></td><td><code>1165615068</code></td></tr><tr><td><b>szLabel</b></td><td><code>MaggotGenericPrefix020</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix022</code></td></tr><tr><td><b>szText</b></td><td><code>Lothian</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401322</code></td></tr></table>
@@ -2208,22 +2208,22 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix023</code></td></tr><tr><td><b>szText</b></td><td><code>Radulfr</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401323</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix024</code></td></tr><tr><td><b>szText</b></td><td><code>Barnet</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401324</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Barnet</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401324</code></td></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix024</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix025</code></td></tr><tr><td><b>szText</b></td><td><code>Bernet</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401325</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Bernet</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401325</code></td></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix025</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix026</code></td></tr><tr><td><b>szText</b></td><td><code>Arcadio</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401326</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1775401326</code></td></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix026</code></td></tr><tr><td><b>szText</b></td><td><code>Arcadio</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix027</code></td></tr><tr><td><b>szText</b></td><td><code>Wulfear</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401327</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Dernold</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401328</code></td></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix028</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix028</code></td></tr><tr><td><b>szText</b></td><td><code>Dernold</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401328</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix029</code></td></tr><tr><td><b>szText</b></td><td><code>Marrok</code></td></tr><tr><td><b>hLabel</b></td><td><code>1775401329</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1775401329</code></td></tr><tr><td><b>szLabel</b></td><td><code>WerewolfGenericPrefix029</code></td></tr><tr><td><b>szText</b></td><td><code>Marrok</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VortexSuffix005</code></td></tr><tr><td><b>szText</b></td><td><code> Coldrage</code></td></tr><tr><td><b>hLabel</b></td><td><code>3962816914</code></td></tr></table>
@@ -2253,16 +2253,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoatmenGenericPrefix035</code></td></tr><tr><td><b>szText</b></td><td><code>Khezzol</code></td></tr><tr><td><b>hLabel</b></td><td><code>2106094606</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix022</code></td></tr><tr><td><b>szText</b></td><td><code>Inru</code></td></tr><tr><td><b>hLabel</b></td><td><code>169837393</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>169837393</code></td></tr><tr><td><b>szLabel</b></td><td><code>CultistGenericFemalePrefix022</code></td></tr><tr><td><b>szText</b></td><td><code>Inru</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix081</code></td></tr><tr><td><b>szText</b></td><td><code>Decillus</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471881</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Sir Decillus</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471882</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix082</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix082</code></td></tr><tr><td><b>szText</b></td><td><code>Sir Decillus</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471882</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix083</code></td></tr><tr><td><b>szText</b></td><td><code>Commander Decillus</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471883</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Commander Decillus</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471883</code></td></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix083</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KnightGenericPrefix084</code></td></tr><tr><td><b>szText</b></td><td><code>Lord Decillus</code></td></tr><tr><td><b>hLabel</b></td><td><code>2474471884</code></td></tr></table>
@@ -2280,7 +2280,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BanditGenericFemalePrefix021</code></td></tr><tr><td><b>szText</b></td><td><code>Tothe</code></td></tr><tr><td><b>hLabel</b></td><td><code>690161114</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix013</code></td></tr><tr><td><b>szText</b></td><td><code> Chillsbreath</code></td></tr><tr><td><b>hLabel</b></td><td><code>39695173</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>39695173</code></td></tr><tr><td><b>szLabel</b></td><td><code>ChillingWindSuffix013</code></td></tr><tr><td><b>szText</b></td><td><code> Chillsbreath</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code> Rimewalker</code></td></tr><tr><td><b>hLabel</b></td><td><code>2024473312</code></td></tr><tr><td><b>szLabel</b></td><td><code>FrozenSuffix007</code></td></tr></table>
@@ -2289,7 +2289,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FrozenSuffix008</code></td></tr><tr><td><b>szText</b></td><td><code> Rimeclaw</code></td></tr><tr><td><b>hLabel</b></td><td><code>2024473313</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>PlaguebearerSuffix008</code></td></tr><tr><td><b>szText</b></td><td><code> Pusmaw</code></td></tr><tr><td><b>hLabel</b></td><td><code>1829835420</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1829835420</code></td></tr><tr><td><b>szLabel</b></td><td><code>PlaguebearerSuffix008</code></td></tr><tr><td><b>szText</b></td><td><code> Pusmaw</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

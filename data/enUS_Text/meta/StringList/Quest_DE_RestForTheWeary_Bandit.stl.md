@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Rest For The Weary</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback7Header</code></td></tr><tr><td><b>szText</b></td><td><code>Investigate the camp</code></td></tr><tr><td><b>hLabel</b></td><td><code>2677071405</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Investigate the camp</code></td></tr><tr><td><b>hLabel</b></td><td><code>2677071405</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback7Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback45Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay as many enemy waves as you can before time runs out: {DONE}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2119384063</code></td></tr></table>

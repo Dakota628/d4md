@@ -1,6 +1,6 @@
 <h1>data/base/meta/VectorField/Downward_Spike_15.vfd</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/VectorField/Downward_Spike_15.vfd</td></tr><tr><td><b>Type</b></td><td>VectorFieldDefinition</td></tr><tr><td><b>SNO ID</b></td><td>479305</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_7ed9e40</b></td><td><code>15</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>15</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>15</code></td></tr><tr><td><b>flMagMin</b></td><td><code>56.1903190612793</code></td></tr><tr><td><b>flMagMax</b></td><td><code>346.534423828125</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wvExt</b></td><td>Vector(510.000000, 510.000000, 510.000000)</td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_7ed9e42</b></td><td><code>15</code></td></tr><tr><td><b>flMagMin</b></td><td><code>56.1903190612793</code></td></tr><tr><td><b>flMagMax</b></td><td><code>346.534423828125</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wvExt</b></td><td>Vector(510.000000, 510.000000, 510.000000)</td></tr></table>
 
 </td></tr><tr><td><b>ptSamples</b></td><td>Vector(241.354752, 241.354736, -56.186333)
 Vector(198.838608, 241.354736, -56.186333)
@@ -3377,5 +3377,5 @@ Vector(-96.973839, -241.794540, -56.186333)
 Vector(-147.976730, -241.794540, -56.186333)
 Vector(-199.750793, -241.794540, -56.186333)
 Vector(-241.794540, -241.794540, -56.186333)
-</td></tr></table>
+</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>15</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>15</code></td></tr></table>
 

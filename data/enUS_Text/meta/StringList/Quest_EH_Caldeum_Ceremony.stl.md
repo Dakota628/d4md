@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback78Header</code></td></tr><tr><td><b>szText</b></td><td><code>Enter {EVENT_LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>705130725</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2993944717</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback223Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat the High Inquisitors: {LEFT}</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback223Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat the High Inquisitors: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2993944717</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback217Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat {CUSTOM_PARAM1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>4196079280</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Defeat {CUSTOM_PARAM1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>4196079280</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback217Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback240Header</code></td></tr><tr><td><b>szText</b></td><td><code>{TIMELEFT} remaining</code></td></tr><tr><td><b>hLabel</b></td><td><code>2752048140</code></td></tr></table>

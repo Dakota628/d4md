@@ -1,6 +1,6 @@
 <h1>data/base/meta/wWiseSoundBank/AmbS_EMT_Dungeon_Frac_Underworld_MourningShore.wsb</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/wWiseSoundBank/AmbS_EMT_Dungeon_Frac_Underworld_MourningShore.wsb</td></tr><tr><td><b>Type</b></td><td>wWiseSoundBankDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1090570</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptContent</b></td><td><table><tr><th colspan="100%">Type_313c5815</th></tr><tr><td><b>unk_ce10c35</b></td><td><table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>3681881</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3332609802</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptContent</b></td><td><table><tr><th colspan="100%">Type_313c5815</th></tr><tr><td><b>dwType</b></td><td><code>826038293</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_ce10c35</b></td><td><table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>3681881</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3332609802</code></td></tr></table>
 
 </td></tr></table>
 
@@ -10,9 +10,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>16940051</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>816140248</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>816140248</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>16940051</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>23266743</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>4084445177</code></td></tr></table>
@@ -175,9 +175,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2247440447</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>635423626</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2247440447</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>635423626</code></td></tr></table>
+</td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>639307566</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3478472395</code></td></tr></table>
@@ -205,9 +205,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2110623234</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>715209574</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2110623234</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>715209574</code></td></tr></table>
+</td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>768589339</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2646273268</code></td></tr></table>
@@ -285,9 +285,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>4255522391</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>999228704</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>4255522391</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>999228704</code></td></tr></table>
+</td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>1016464725</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1062547977</code></td></tr></table>
@@ -300,9 +300,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>1052364876</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>765852563</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>765852563</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>1052364876</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>1056872956</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>836916587</code></td></tr></table>
@@ -314,7 +314,7 @@
 
 </td></tr></table>
 
-</td></tr><tr><td><b>arMusicSegments</b></td><td></td></tr><tr><td><b>dwType</b></td><td><code>826038293</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>arMusicSegments</b></td><td></td></tr></table>
 
 
 </td></tr></table>

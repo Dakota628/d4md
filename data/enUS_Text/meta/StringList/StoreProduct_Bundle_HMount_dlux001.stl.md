@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Description</code></td></tr><tr><td><b>szText</b></td><td><code>Born from the blood of the willing, these steeds carry Lilith's Chosen and her message of salvation across all of Sanctuary.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2789670820</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Quote</code></td></tr><tr><td><b>szText</b></td><td><code>Cloven hooves for all her children.</code></td></tr><tr><td><b>hLabel</b></td><td><code>138338510</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>138338510</code></td></tr><tr><td><b>szLabel</b></td><td><code>Quote</code></td></tr><tr><td><b>szText</b></td><td><code>Cloven hooves for all her children.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Series</code></td></tr><tr><td><b>szText</b></td><td><code>Prestige Mount & Mount Armor</code></td></tr><tr><td><b>hLabel</b></td><td><code>329595531</code></td></tr></table>

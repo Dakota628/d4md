@@ -6,9 +6,9 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>Creates a clone that travels from Point A to Point B. Player resets the sequence if they leave.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><pre>An Escort quest requires the player to stay near the NPC as they move from Loc A to Loc B.
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><pre>An Escort quest requires the player to stay near the NPC as they move from Loc A to Loc B.
 
-If the player leaves the area, the quest resets to a state where they can begin the escort seqeunce again.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr></table>
+If the player leaves the area, the quest resets to a state where they can begin the escort seqeunce again.</pre></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback8Header</code></td></tr><tr><td><b>szText</b></td><td><code>Escort Questgiver</code></td></tr><tr><td><b>hLabel</b></td><td><code>3968539374</code></td></tr></table>

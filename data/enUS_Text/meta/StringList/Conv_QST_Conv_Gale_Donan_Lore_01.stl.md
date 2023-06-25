@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>The stone will need to be attuned to Lilith before Lorath marches up to her. It won’t hold her well, otherwise.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1513311338</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3376198295</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>wistful</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>wistful</code></td></tr><tr><td><b>hLabel</b></td><td><code>3376198295</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>I put together some notes on the process before I left...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4096247276</code></td></tr></table>

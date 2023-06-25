@@ -1,39 +1,39 @@
 <h1>data/base/meta/Subzone/Step_QaraYisu.sbz</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/Subzone/Step_QaraYisu.sbz</td></tr><tr><td><b>Type</b></td><td>SubzoneDefinition</td></tr><tr><td><b>SNO ID</b></td><td>444239</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>snoPrimaryWorld</b></td><td><a href="..\World\Sanctuary_Eastern_Continent.wrl">[DT_SNO] World: "Sanctuary_Eastern_Continent"</a></td></tr><tr><td><b>unk_d447cfd</b></td><td><code>0</code></td></tr><tr><td><b>arSnoSecondaryWorlds</b></td><td></td></tr><tr><td><b>unk_6f7f585</b></td><td><table><tr><th colspan="100%">LevelScalingData</th></tr><tr><td><b>unk_c2f6938</b></td><td><code>0</code></td></tr><tr><td><b>unk_49895f1</b></td><td><code>0</code></td></tr><tr><td><b>nLevelScalingMax</b></td><td><code>50</code></td></tr><tr><td><b>nLevelScalingMin</b></td><td><code>25</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>uEntranceGUID</b></td><td><code>172</code></td></tr><tr><td><b>eParentZone</b></td><td><code>2</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>arSnoSecondaryWorlds</b></td><td></td></tr><tr><td><b>unk_6f7f585</b></td><td><table><tr><th colspan="100%">LevelScalingData</th></tr><tr><td><b>nLevelScalingMin</b></td><td><code>25</code></td></tr><tr><td><b>unk_c2f6938</b></td><td><code>0</code></td></tr><tr><td><b>unk_49895f1</b></td><td><code>0</code></td></tr><tr><td><b>nLevelScalingMax</b></td><td><code>50</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelScalingData</th></tr><tr><td><b>unk_c2f6938</b></td><td><code>0</code></td></tr><tr><td><b>unk_49895f1</b></td><td><code>0</code></td></tr><tr><td><b>nLevelScalingMax</b></td><td><code>50</code></td></tr><tr><td><b>nLevelScalingMin</b></td><td><code>25</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">LevelScalingData</th></tr><tr><td><b>unk_c2f6938</b></td><td><code>0</code></td></tr><tr><td><b>unk_49895f1</b></td><td><code>0</code></td></tr><tr><td><b>nLevelScalingMax</b></td><td><code>0</code></td></tr><tr><td><b>nLevelScalingMin</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">LevelScalingData</th></tr><tr><td><b>nLevelScalingMin</b></td><td><code>25</code></td></tr><tr><td><b>unk_c2f6938</b></td><td><code>0</code></td></tr><tr><td><b>unk_49895f1</b></td><td><code>0</code></td></tr><tr><td><b>nLevelScalingMax</b></td><td><code>50</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">LevelScalingData</th></tr><tr><td><b>nLevelScalingMin</b></td><td><code>0</code></td></tr><tr><td><b>unk_c2f6938</b></td><td><code>0</code></td></tr><tr><td><b>unk_49895f1</b></td><td><code>0</code></td></tr><tr><td><b>nLevelScalingMax</b></td><td><code>0</code></td></tr></table>
 
 
-</td></tr><tr><td><b>arLevelAreas</b></td><td><a href="..\LevelArea\Step_QaraYisu.lvl">[DT_SNO] LevelArea: "Step_QaraYisu"</a>
-<a href="..\LevelArea\Step_QaraYisu_BossArena.lvl">[DT_SNO] LevelArea: "Step_QaraYisu_BossArena"</a>
-<a href="..\LevelArea\Step_Transition_South_to_QaraYisu.lvl">[DT_SNO] LevelArea: "Step_Transition_South_to_QaraYisu"</a>
-<a href="..\LevelArea\Step_Transition_East_to_QaraYisu_2.lvl">[DT_SNO] LevelArea: "Step_Transition_East_to_QaraYisu_2"</a>
-<a href="..\LevelArea\Step_Transition_East_to_QaraYisu_3.lvl">[DT_SNO] LevelArea: "Step_Transition_East_to_QaraYisu_3"</a>
-<a href="..\LevelArea\Step_QaraYisu_Town.lvl">[DT_SNO] LevelArea: "Step_QaraYisu_Town"</a>
-</td></tr><tr><td><b>eParentZone</b></td><td><code>2</code></td></tr><tr><td><b>arForcedPrefetchData</b></td><td></td></tr><tr><td><b>arWorldMarkerSets</b></td><td><table><tr><th colspan="100%">Type_4203ae2e</th></tr><tr><td><b>snoWorld</b></td><td><a href="..\World\Sanctuary_Eastern_Continent.wrl">[DT_SNO] World: "Sanctuary_Eastern_Continent"</a></td></tr><tr><td><b>snoMarkerSet</b></td><td><a href="..\MarkerSet\Step_QaraYisu (Camp).mrk">[DT_SNO] MarkerSet: "Step_QaraYisu (Camp)"</a></td></tr></table>
+<table><tr><th colspan="100%">LevelScalingData</th></tr><tr><td><b>unk_49895f1</b></td><td><code>0</code></td></tr><tr><td><b>nLevelScalingMax</b></td><td><code>0</code></td></tr><tr><td><b>nLevelScalingMin</b></td><td><code>0</code></td></tr><tr><td><b>unk_c2f6938</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_4203ae2e</th></tr><tr><td><b>snoWorld</b></td><td><a href="..\World\Sanctuary_Eastern_Continent.wrl">[DT_SNO] World: "Sanctuary_Eastern_Continent"</a></td></tr><tr><td><b>snoMarkerSet</b></td><td><a href="..\MarkerSet\Step_QaraYisu (Flip).mrk">[DT_SNO] MarkerSet: "Step_QaraYisu (Flip)"</a></td></tr></table>
+</td></tr><tr><td><b>snoTerritory</b></td><td><a href="..\Territory\Step_QaraYisu.ter.md">[DT_SNO] Territory: "Step_QaraYisu"</a></td></tr><tr><td><b>arForcedPrefetchData</b></td><td></td></tr><tr><td><b>unk_d447cfd</b></td><td><code>0</code></td></tr><tr><td><b>snoActorGroups</b></td><td><a href="..\GameBalance\ActorGroups_Camps.gam.md">[DT_SNO] GameBalance: "ActorGroups_Camps"</a></td></tr><tr><td><b>unk_35fc338</b></td><td><code>0</code></td></tr><tr><td><b>unk_496a122</b></td><td><table><tr><th colspan="100%">LevelScalingData</th></tr><tr><td><b>nLevelScalingMin</b></td><td><code>25</code></td></tr><tr><td><b>unk_c2f6938</b></td><td><code>0</code></td></tr><tr><td><b>unk_49895f1</b></td><td><code>2</code></td></tr><tr><td><b>nLevelScalingMax</b></td><td><code>100</code></td></tr></table>
+
+</td></tr><tr><td><b>snoPrimaryWorld</b></td><td><a href="..\World\Sanctuary_Eastern_Continent.wrl.md">[DT_SNO] World: "Sanctuary_Eastern_Continent"</a></td></tr><tr><td><b>arLevelAreas</b></td><td><a href="..\LevelArea\Step_QaraYisu.lvl.md">[DT_SNO] LevelArea: "Step_QaraYisu"</a>
+<a href="..\LevelArea\Step_QaraYisu_BossArena.lvl.md">[DT_SNO] LevelArea: "Step_QaraYisu_BossArena"</a>
+<a href="..\LevelArea\Step_Transition_South_to_QaraYisu.lvl.md">[DT_SNO] LevelArea: "Step_Transition_South_to_QaraYisu"</a>
+<a href="..\LevelArea\Step_Transition_East_to_QaraYisu_2.lvl.md">[DT_SNO] LevelArea: "Step_Transition_East_to_QaraYisu_2"</a>
+<a href="..\LevelArea\Step_Transition_East_to_QaraYisu_3.lvl.md">[DT_SNO] LevelArea: "Step_Transition_East_to_QaraYisu_3"</a>
+<a href="..\LevelArea\Step_QaraYisu_Town.lvl.md">[DT_SNO] LevelArea: "Step_QaraYisu_Town"</a>
+</td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>arWorldMarkerSets</b></td><td><table><tr><th colspan="100%">Type_4203ae2e</th></tr><tr><td><b>snoWorld</b></td><td><a href="..\World\Sanctuary_Eastern_Continent.wrl.md">[DT_SNO] World: "Sanctuary_Eastern_Continent"</a></td></tr><tr><td><b>snoMarkerSet</b></td><td><a href="..\MarkerSet\Step_QaraYisu (Camp).mrk.md">[DT_SNO] MarkerSet: "Step_QaraYisu (Camp)"</a></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_4203ae2e</th></tr><tr><td><b>snoWorld</b></td><td><a href="..\World\Sanctuary_Eastern_Continent.wrl">[DT_SNO] World: "Sanctuary_Eastern_Continent"</a></td></tr><tr><td><b>snoMarkerSet</b></td><td><a href="..\MarkerSet\Step_QaraYisu (Private).mrk">[DT_SNO] MarkerSet: "Step_QaraYisu (Private)"</a></td></tr></table>
+<table><tr><th colspan="100%">Type_4203ae2e</th></tr><tr><td><b>snoWorld</b></td><td><a href="..\World\Sanctuary_Eastern_Continent.wrl.md">[DT_SNO] World: "Sanctuary_Eastern_Continent"</a></td></tr><tr><td><b>snoMarkerSet</b></td><td><a href="..\MarkerSet\Step_QaraYisu (Flip).mrk.md">[DT_SNO] MarkerSet: "Step_QaraYisu (Flip)"</a></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_4203ae2e</th></tr><tr><td><b>snoWorld</b></td><td><a href="..\World\Sanctuary_Eastern_Continent.wrl">[DT_SNO] World: "Sanctuary_Eastern_Continent"</a></td></tr><tr><td><b>snoMarkerSet</b></td><td><a href="..\MarkerSet\Step_QaraYisu (CAMERA).mrk">[DT_SNO] MarkerSet: "Step_QaraYisu (CAMERA)"</a></td></tr></table>
+<table><tr><th colspan="100%">Type_4203ae2e</th></tr><tr><td><b>snoWorld</b></td><td><a href="..\World\Sanctuary_Eastern_Continent.wrl.md">[DT_SNO] World: "Sanctuary_Eastern_Continent"</a></td></tr><tr><td><b>snoMarkerSet</b></td><td><a href="..\MarkerSet\Step_QaraYisu (Private).mrk.md">[DT_SNO] MarkerSet: "Step_QaraYisu (Private)"</a></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_4203ae2e</th></tr><tr><td><b>snoWorld</b></td><td><a href="..\World\Sanctuary_Eastern_Continent.wrl">[DT_SNO] World: "Sanctuary_Eastern_Continent"</a></td></tr><tr><td><b>snoMarkerSet</b></td><td><a href="..\MarkerSet\Step_QaraYisu (Game).mrk">[DT_SNO] MarkerSet: "Step_QaraYisu (Game)"</a></td></tr></table>
+<table><tr><th colspan="100%">Type_4203ae2e</th></tr><tr><td><b>snoWorld</b></td><td><a href="..\World\Sanctuary_Eastern_Continent.wrl.md">[DT_SNO] World: "Sanctuary_Eastern_Continent"</a></td></tr><tr><td><b>snoMarkerSet</b></td><td><a href="..\MarkerSet\Step_QaraYisu (CAMERA).mrk.md">[DT_SNO] MarkerSet: "Step_QaraYisu (CAMERA)"</a></td></tr></table>
 
 
-</td></tr><tr><td><b>unk_496a122</b></td><td><table><tr><th colspan="100%">LevelScalingData</th></tr><tr><td><b>unk_c2f6938</b></td><td><code>0</code></td></tr><tr><td><b>unk_49895f1</b></td><td><code>2</code></td></tr><tr><td><b>nLevelScalingMax</b></td><td><code>100</code></td></tr><tr><td><b>nLevelScalingMin</b></td><td><code>25</code></td></tr></table>
+<table><tr><th colspan="100%">Type_4203ae2e</th></tr><tr><td><b>snoWorld</b></td><td><a href="..\World\Sanctuary_Eastern_Continent.wrl.md">[DT_SNO] World: "Sanctuary_Eastern_Continent"</a></td></tr><tr><td><b>snoMarkerSet</b></td><td><a href="..\MarkerSet\Step_QaraYisu (Game).mrk.md">[DT_SNO] MarkerSet: "Step_QaraYisu (Game)"</a></td></tr></table>
 
-</td></tr><tr><td><b>snoTerritory</b></td><td><a href="..\Territory\Step_QaraYisu.ter">[DT_SNO] Territory: "Step_QaraYisu"</a></td></tr><tr><td><b>snoActorGroups</b></td><td><a href="..\GameBalance\ActorGroups_Camps.gam">[DT_SNO] GameBalance: "ActorGroups_Camps"</a></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>unk_35fc338</b></td><td><code>0</code></td></tr><tr><td><b>uEntranceGUID</b></td><td><code>172</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr></table>
 

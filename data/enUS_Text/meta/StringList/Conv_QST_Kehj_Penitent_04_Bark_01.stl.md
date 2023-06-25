@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.8998F</code></td></tr><tr><td><b>szText</b></td><td><code>A Knight guards the entrance to the barracks</code></td></tr><tr><td><b>hLabel</b></td><td><code>3375723804</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1735339938</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.136591</code></td></tr><tr><td><b>szText</b></td><td><code>Where is Osric? That dog dies today!</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.136591</code></td></tr><tr><td><b>szText</b></td><td><code>Where is Osric? That dog dies today!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1735339938</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.136591</code></td></tr><tr><td><b>szText</b></td><td><code>Filled with rage and adrenaline</code></td></tr><tr><td><b>hLabel</b></td><td><code>3081067375</code></td></tr></table>

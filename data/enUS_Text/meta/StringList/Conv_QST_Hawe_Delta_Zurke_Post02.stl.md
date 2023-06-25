@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.1086F0</code></td></tr><tr><td><b>szText</b></td><td><code>Stiff, slight bloat. Beautiful blistering already. No ruptures. Not dead three days yet.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2394316588</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.1086F0</code></td></tr><tr><td><b>szText</b></td><td><code>Talking to himself. Admiration and fasination for the decomposition process.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3740044025</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Talking to himself. Admiration and fasination for the decomposition process.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3740044025</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.1086F0</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

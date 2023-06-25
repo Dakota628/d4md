@@ -9,20 +9,20 @@
 {/if}Consume all of your Essence to conjure a spirit of bone that seeks enemies. Upon reaching an enemy, the spirit explodes, dealing {c_number}{Payload:DAMAGE}{/c} damage to the target and all surrounding enemies. Damage is increased by {c_number}[{SF_13} * 100|%x|]{/c} for each point of Essence spent casting {c_important}Bone Spirit{/c}.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr><tr><td><b>szText</b></td><td><pre>
-{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:DAMAGE}{/c}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><pre>
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:DAMAGE}{/c}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>If {c_important}Bone Spirit{/c} Critically Strikes, its Cooldown is reduced by {c_number}{SF_15}{/c} seconds. This effect can only happen once per cast.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1960229941</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Enhanced Bone Spirit</code></td></tr><tr><td><b>hLabel</b></td><td><code>2531142258</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Enhanced Bone Spirit</code></td></tr><tr><td><b>hLabel</b></td><td><code>2531142258</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Name</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod0_Description</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}Bone Spirit{/c} has an additional {c_number}[{SF_16} * 100|%+|]{/c} Critical Strike Chance.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3591940403</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod0_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Ghastly Bone Spirit</code></td></tr><tr><td><b>hLabel</b></td><td><code>2452871472</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2452871472</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod0_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Ghastly Bone Spirit</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod1_Description</code></td></tr><tr><td><b>szText</b></td><td><code>After {c_important}Bone Spirit{/c} hits an enemy, you generate {c_number}{SF_17}{/c} Essence over the next {c_number}{buffduration:MANA_REGEN}{/c} seconds.</code></td></tr><tr><td><b>hLabel</b></td><td><code>628601524</code></td></tr></table>

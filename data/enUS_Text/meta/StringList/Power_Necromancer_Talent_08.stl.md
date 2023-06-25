@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>name</code></td></tr><tr><td><b>szText</b></td><td><code>Coagulation</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>While {c_important}{u}Healthy{/u}{/c}, {c_important}{u}Fortify{/u}{/c} for {c_number}[{SF_0}*100|%|]{/c} Base Life {c_number}([Max(1,{fortified:FORTIFY})|0|]){/c} per second.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr><tr><td><b>szText</b></td><td><code>While {c_important}{u}Healthy{/u}{/c}, {c_important}{u}Fortify{/u}{/c} for {c_number}[{SF_0}*100|%|]{/c} Base Life {c_number}([Max(1,{fortified:FORTIFY})|0|]){/c} per second.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

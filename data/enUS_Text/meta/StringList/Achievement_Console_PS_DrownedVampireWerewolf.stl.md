@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Desc</code></td></tr><tr><td><b>szText</b></td><td><code>Kill 666 Drowned, Vampires, or Werewolves</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_235693</code></td></tr><tr><td><b>szText</b></td><td><code>Kill Drowned</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034216013</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Kill Drowned</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034216013</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_235693</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_235692</code></td></tr><tr><td><b>szText</b></td><td><code>Kill Vampires</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034216012</code></td></tr></table>

@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.FEC81</code></td></tr><tr><td><b>szText</b></td><td><code>I’m...yes! Yes, I’m still Baridan. Thank you, and thank Timue for me. Without these herbs, the days pass like years.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1569016126</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.FEC81</code></td></tr><tr><td><b>szText</b></td><td><code>Foggy, then clearing. Weary. Smiling. Friendly.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3431903083</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3431903083</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.FEC81</code></td></tr><tr><td><b>szText</b></td><td><code>Foggy, then clearing. Weary. Smiling. Friendly.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.FEC81</code></td></tr><tr><td><b>szText</b></td><td><code>Don’t be. This place can be rather peaceful, once you get to know it.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4151952064</code></td></tr></table>

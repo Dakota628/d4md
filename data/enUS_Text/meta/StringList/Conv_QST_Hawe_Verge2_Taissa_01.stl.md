@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>(laughs)</code></td></tr><tr><td><b>hLabel</b></td><td><code>4245407912</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1866346619</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Yes. Well...</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Yes. Well...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1866346619</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>(cough)</code></td></tr><tr><td><b>hLabel</b></td><td><code>3212074056</code></td></tr></table>

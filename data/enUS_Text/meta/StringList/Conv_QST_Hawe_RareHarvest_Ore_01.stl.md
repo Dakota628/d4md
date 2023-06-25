@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.B684A</code></td></tr><tr><td><b>szText</b></td><td><code>I'm afraid that's all I know about it. You should seek out Mislan in Zarbinzet to acquire the flux. I am sure he wouldn't mind if you used his bench to apply it too, the process is quite safe and simple.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145472430</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Good fortune to you.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2433441072</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.B684A</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.B684A</code></td></tr><tr><td><b>szText</b></td><td><code>Good fortune to you.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2433441072</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

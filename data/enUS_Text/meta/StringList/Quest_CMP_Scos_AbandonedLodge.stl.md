@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>Hidden deep in the verdant forest, this lodge was once revered by the great hunters of Scosglen</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback116Header</code></td></tr><tr><td><b>szText</b></td><td><code>Rekindle the Wanderer's Shrine to conquer Moordaine Lodge</code></td></tr><tr><td><b>hLabel</b></td><td><code>950298862</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>950298862</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback116Header</code></td></tr><tr><td><b>szText</b></td><td><code>Rekindle the Wanderer's Shrine to conquer Moordaine Lodge</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback210Header</code></td></tr><tr><td><b>szText</b></td><td><code>Find the Lodge's missing hunters</code></td></tr><tr><td><b>hLabel</b></td><td><code>3745738089</code></td></tr></table>
@@ -24,7 +24,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback283Header</code></td></tr><tr><td><b>szText</b></td><td><code>Investigate the hunting grounds</code></td></tr><tr><td><b>hLabel</b></td><td><code>1006564819</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Pursue the Beast</code></td></tr><tr><td><b>hLabel</b></td><td><code>3168937368</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback288Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback288Header</code></td></tr><tr><td><b>szText</b></td><td><code>Pursue the Beast</code></td></tr><tr><td><b>hLabel</b></td><td><code>3168937368</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

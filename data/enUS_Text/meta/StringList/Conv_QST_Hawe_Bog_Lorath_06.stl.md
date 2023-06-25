@@ -6,16 +6,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir4.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Groggy, under the effects of incense. Probably a slower read--not all there in the head. But startled now that he sees a GIANT serpent in the bog.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2954323898</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line14.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>What do the scales show you?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1444529925</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1444529925</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line14.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>What do the scales show you?</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2790257362</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir14.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Dreamy, under the effects of incense. Probably a slower read--not all there in the head.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir14.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Dreamy, under the effects of incense. Probably a slower read--not all there in the head.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2790257362</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line16.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>A deer caught in a trap.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4027408160</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4027408160</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line16.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>A deer caught in a trap.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir16.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Concerned. Groggy, under the effects of incense. Probably a slower read--not all there in the head.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1078168301</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Concerned. Groggy, under the effects of incense. Probably a slower read--not all there in the head.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1078168301</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir16.6D03F</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

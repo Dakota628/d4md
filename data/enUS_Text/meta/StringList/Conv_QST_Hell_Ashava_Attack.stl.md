@@ -12,16 +12,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Commanding, in the middle of a fight against a huge demonic beast</code></td></tr><tr><td><b>hLabel</b></td><td><code>823040159</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>All together! Attack!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1866346619</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.7FA05</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>All together! Attack!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1866346619</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3212074056</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Commanding, in the middle of a fight against a huge demonic beast</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Commanding, in the middle of a fight against a huge demonic beast</code></td></tr><tr><td><b>hLabel</b></td><td><code>3212074056</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1445783230</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line14.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Bring this beast down! Everyone!</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line14.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Bring this beast down! Everyone!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1445783230</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir14.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Commanding, in the middle of a fight against a huge demonic beast</code></td></tr><tr><td><b>hLabel</b></td><td><code>2791510667</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2791510667</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir14.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Commanding, in the middle of a fight against a huge demonic beast</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

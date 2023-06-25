@@ -20,13 +20,13 @@ Curse the target area. Enemies afflicted by {c_important}Iron Maiden{/c} take {c
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod1_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Heal for {c_number}[{SF_7}*100|%|]{/c} of your Maximum Life {c_number}([PlayerHealthMax() * SF_7]){/c} when an enemy dies while afflicted with {c_important}Iron Maiden{/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>628601524</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod1_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Abhorrent Iron Maiden</code></td></tr><tr><td><b>hLabel</b></td><td><code>2492006865</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Abhorrent Iron Maiden</code></td></tr><tr><td><b>hLabel</b></td><td><code>2492006865</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod1_Name</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>When at least {c_number}{SF_8}{/c} enemies are afflicted by {c_important}Iron Maiden{/c}, its damage is increased by {c_number}[{SF_9}*100|%x|]{/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1960229941</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Horrid Iron Maiden</code></td></tr><tr><td><b>hLabel</b></td><td><code>2531142258</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2531142258</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Horrid Iron Maiden</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -18,7 +18,7 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>unk_1722198</b></td><td><table><tr><th colspan="100%">Type_4bf73bfd</th></tr><tr><td><b>dwType</b></td><td><code>1274493949</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_642fc25a</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_2151baae</th></tr><tr><td><b>dwType</b></td><td><code>559004334</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_UI_Store_Card_Details_Transition_Out.snd">[DT_SNO] Sound: "Play_UI_Store_Card_Details_Transition_Out"</a></td></tr></table>
+</td></tr><tr><td><b>unk_1722198</b></td><td><table><tr><th colspan="100%">Type_4bf73bfd</th></tr><tr><td><b>dwType</b></td><td><code>1274493949</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_642fc25a</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_2151baae</th></tr><tr><td><b>dwType</b></td><td><code>559004334</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_UI_Store_Card_Details_Transition_Out.snd.md">[DT_SNO] Sound: "Play_UI_Store_Card_Details_Transition_Out"</a></td></tr></table>
 
 
 </td></tr><tr><td><b>unk_36cc429</b></td><td><code>0</code>

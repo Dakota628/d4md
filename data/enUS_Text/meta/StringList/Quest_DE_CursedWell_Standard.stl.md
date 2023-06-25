@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback18Header</code></td></tr><tr><td><b>szText</b></td><td><code>Survive the enemy assault</code></td></tr><tr><td><b>hLabel</b></td><td><code>2692510623</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Slay the remaining enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>1910939449</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback21Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback21Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the remaining enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>1910939449</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback29Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay {NEEDED} possessed enemies: {DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3652748609</code></td></tr></table>

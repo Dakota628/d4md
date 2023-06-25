@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Protean Axe</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2789670820</code></td></tr><tr><td><b>szLabel</b></td><td><code>Description</code></td></tr><tr><td><b>szText</b></td><td><code>Adaptation is the key to survival. This spade fulfills the role of both an implement of death, and a means to dispose of the body.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Description</code></td></tr><tr><td><b>szText</b></td><td><code>Adaptation is the key to survival. This spade fulfills the role of both an implement of death, and a means to dispose of the body.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2789670820</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Series</code></td></tr><tr><td><b>szText</b></td><td><code>"Crypt Hunter"</code></td></tr><tr><td><b>hLabel</b></td><td><code>329595531</code></td></tr></table>

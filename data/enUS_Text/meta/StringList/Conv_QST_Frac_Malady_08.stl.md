@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.FEF63</code></td></tr><tr><td><b>szText</b></td><td><code>Father! Protect this child with your grace!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4151955267</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.FEF63</code></td></tr><tr><td><b>szText</b></td><td><code>Said with conviction with some projection. Talking over a demon's growls. This is a magicl ritual and the correct words matter.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1719874928</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1719874928</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.FEF63</code></td></tr><tr><td><b>szText</b></td><td><code>Said with conviction with some projection. Talking over a demon's growls. This is a magicl ritual and the correct words matter.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

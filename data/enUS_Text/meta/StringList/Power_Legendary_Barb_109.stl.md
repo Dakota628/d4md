@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Devilish Build Up</code></td></tr><tr><td><b>hLabel</b></td><td><code>309411509</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Building Fury for {c_important}Dust Devil{/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3336963864</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3336963864</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Building Fury for {c_important}Dust Devil{/c}.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

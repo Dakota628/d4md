@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.9118B</code></td></tr><tr><td><b>szText</b></td><td><code>I have never seen more fools gathered in one place.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1513726556</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>No! The ritual. You broke the seal, Timue!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094552313</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.789BF</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>No! The ritual. You broke the seal, Timue!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094552313</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>Frustrated</code></td></tr><tr><td><b>hLabel</b></td><td><code>1662471974</code></td></tr></table>

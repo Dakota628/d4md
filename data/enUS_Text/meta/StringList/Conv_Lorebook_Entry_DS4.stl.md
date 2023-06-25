@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.EDC73</code></td></tr><tr><td><b>szText</b></td><td><code>They scream and resist and fight us.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150730175</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1718649836</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.EDC73</code></td></tr><tr><td><b>szText</b></td><td><code>raspy, lower pitched and somber</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.EDC73</code></td></tr><tr><td><b>szText</b></td><td><code>raspy, lower pitched and somber</code></td></tr><tr><td><b>hLabel</b></td><td><code>1718649836</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.EDC73</code></td></tr><tr><td><b>szText</b></td><td><code>But our god has been in this temple longer than their families have had names.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2438698817</code></td></tr></table>
@@ -24,7 +24,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.EDC73</code></td></tr><tr><td><b>szText</b></td><td><code>And those who come will be sacrificed. That is our way.</code></td></tr><tr><td><b>hLabel</b></td><td><code>726667459</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.EDC73</code></td></tr><tr><td><b>szText</b></td><td><code>raspy, lower pitched and somber</code></td></tr><tr><td><b>hLabel</b></td><td><code>2589554416</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2589554416</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.EDC73</code></td></tr><tr><td><b>szText</b></td><td><code>raspy, lower pitched and somber</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"What are you doing out here?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.10C346</code></td></tr><tr><td><b>szText</b></td><td><code>Why, sharing the holy words of the Zakarum with true believers, of course!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1733397002</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1733397002</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.10C346</code></td></tr><tr><td><b>szText</b></td><td><code>Why, sharing the holy words of the Zakarum with true believers, of course!</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.10C346</code></td></tr><tr><td><b>szText</b></td><td><code>You are a demon disguised as a holy priest having fun with their prey. Said with a slightly theatrical, self-amused tone.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3079124439</code></td></tr></table>

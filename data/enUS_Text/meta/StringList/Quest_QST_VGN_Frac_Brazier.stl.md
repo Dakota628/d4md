@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback2Header</code></td></tr><tr><td><b>szText</b></td><td><code>Light the brazier to start the ritual</code></td></tr><tr><td><b>hLabel</b></td><td><code>514698856</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase5Description</code></td></tr><tr><td><b>szText</b></td><td><code>Priest Malone asked me to perform a ritual involving lighting a brazier near Margrave.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3388789226</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3388789226</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase5Description</code></td></tr><tr><td><b>szText</b></td><td><code>Priest Malone asked me to perform a ritual involving lighting a brazier near Margrave.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback46Header</code></td></tr><tr><td><b>szText</b></td><td><code>Cleanse the area</code></td></tr><tr><td><b>hLabel</b></td><td><code>3410852032</code></td></tr></table>

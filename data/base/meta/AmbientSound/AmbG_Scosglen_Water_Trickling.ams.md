@@ -1,6 +1,6 @@
 <h1>data/base/meta/AmbientSound/AmbG_Scosglen_Water_Trickling.ams</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/AmbientSound/AmbG_Scosglen_Water_Trickling.ams</td></tr><tr><td><b>Type</b></td><td>AmbientSoundDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1248163</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_AmbG_Water_Small_Medium_Trickling.snd">[DT_SNO] Sound: "Play_AmbG_Water_Small_Medium_Trickling"</a></td></tr><tr><td><b>tRandomSounds</b></td><td></td></tr><tr><td><b>tDynamicGameParameter</b></td><td><table><tr><th colspan="100%">DynamicGameParameter</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>tRandomSounds</b></td><td></td></tr><tr><td><b>tDynamicGameParameter</b></td><td><table><tr><th colspan="100%">DynamicGameParameter</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>tRadius</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
 
@@ -16,5 +16,5 @@
 
 </td></tr><tr><td><b>unk_ce3c7b4</b></td><td><code>0</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_AmbG_Water_Small_Medium_Trickling.snd.md">[DT_SNO] Sound: "Play_AmbG_Water_Small_Medium_Trickling"</a></td></tr></table>
 

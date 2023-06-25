@@ -3,13 +3,13 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>“You said Vigo would be in good hands. He is dead.”</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.710B6</code></td></tr><tr><td><b>szText</b></td><td><code>Then… his penance is complete. I knew he had the courage.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1511354967</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Then… his penance is complete. I knew he had the courage.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1511354967</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.710B6</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Proud of Vigo</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374241924</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.710B6</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.710B6</code></td></tr><tr><td><b>szText</b></td><td><code>This is what he wanted. He is cleansed now: free from his sins.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094290905</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4094290905</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.710B6</code></td></tr><tr><td><b>szText</b></td><td><code>This is what he wanted. He is cleansed now: free from his sins.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback4Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the Khazra attempting to breach the Sealed Door</code></td></tr><tr><td><b>hLabel</b></td><td><code>3097634794</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback10Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat the Death Priest</code></td></tr><tr><td><b>hLabel</b></td><td><code>950701463</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>950701463</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback10Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat the Death Priest</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

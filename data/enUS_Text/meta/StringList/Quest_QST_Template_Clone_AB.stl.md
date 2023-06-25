@@ -6,9 +6,9 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>Transition an NPC from A to B with a Personal Clone</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><pre>The objective is to speak with the NPC at Loc B, but the existence of the Clone effectively delays that.
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><pre>The objective is to speak with the NPC at Loc B, but the existence of the Clone effectively delays that.
 
-Following the Clone is technically optional, since you can leave the game and come back to find the NPC at Loc B.</pre></td></tr></table>
+Following the Clone is technically optional, since you can leave the game and come back to find the NPC at Loc B.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback18Header</code></td></tr><tr><td><b>szText</b></td><td><code>Follow Clone Questgiver to Location B</code></td></tr><tr><td><b>hLabel</b></td><td><code>2692510623</code></td></tr></table>

@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>The other way, quickly! I will not have him bleed to death...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1511616375</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>Correcting. Urgent. Terse. Emphasis on "bleed." She wants Elias alive when she kills him.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374503332</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3374503332</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>Correcting. Urgent. Terse. Emphasis on "bleed." She wants Elias alive when she kills him.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.AAE9B</code></td></tr><tr><td><b>szText</b></td><td><code>excited</code></td></tr><tr><td><b>hLabel</b></td><td><code>3425831990</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Touch the runestone and awaken them all to complete the ritual.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2433849613</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.AAE9B</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.AAE9B</code></td></tr><tr><td><b>szText</b></td><td><code>Touch the runestone and awaken them all to complete the ritual.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2433849613</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.AAE9B</code></td></tr><tr><td><b>szText</b></td><td><code>excited</code></td></tr><tr><td><b>hLabel</b></td><td><code>1769274</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1769274</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.AAE9B</code></td></tr><tr><td><b>szText</b></td><td><code>excited</code></td></tr></table>
 
 
 </td></tr></table>

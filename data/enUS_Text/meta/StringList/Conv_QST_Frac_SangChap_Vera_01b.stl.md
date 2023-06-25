@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.1041B2</code></td></tr><tr><td><b>szText</b></td><td><code>You’re the heretic the Knights are after! I could use someone like you. A dying Knight mistook me for his confessor. He spoke of... sacrilegious things.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2394167265</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.1041B2</code></td></tr><tr><td><b>szText</b></td><td><code>He said his party of Knights found a secret to eternal life. A Red Chalice. He said the Bishop leading them ordered them to drink of it, deep.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1731707299</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>He said his party of Knights found a secret to eternal life. A Red Chalice. He said the Bishop leading them ordered them to drink of it, deep.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1731707299</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.1041B2</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>406787367</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.1041B2</code></td></tr><tr><td><b>szText</b></td><td><code>He confessed they shelter now in a place he called the Sanguine Chapel. I'd see that Chalice destroyed. Would you retrieve it?</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.1041B2</code></td></tr><tr><td><b>szText</b></td><td><code>He confessed they shelter now in a place he called the Sanguine Chapel. I'd see that Chalice destroyed. Would you retrieve it?</code></td></tr><tr><td><b>hLabel</b></td><td><code>406787367</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

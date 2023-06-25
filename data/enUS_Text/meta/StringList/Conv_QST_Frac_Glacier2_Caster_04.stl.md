@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line17.FA865</code></td></tr><tr><td><b>szText</b></td><td><code>His presence is infectious. It takes hold in the soul. We are a void without faith, an empty well. The pious fill their cups with prayer. Mine overflows with his Light, so near, so pure!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1080733992</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I am changed. I am nothing. I am better. Isn’t it beautiful?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3663669930</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line19.FA865</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line19.FA865</code></td></tr><tr><td><b>szText</b></td><td><code>I am changed. I am nothing. I am better. Isn’t it beautiful?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3663669930</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.FA865</code></td></tr><tr><td><b>szText</b></td><td><code>(tearful)</code></td></tr><tr><td><b>hLabel</b></td><td><code>714430071</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>714430071</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.FA865</code></td></tr><tr><td><b>szText</b></td><td><code>(tearful)</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.FF04E</code></td></tr><tr><td><b>szText</b></td><td><code>Tough and honest folk. (scoff) But the fishermen, they will occasionally try and spin rubbish tales about sea monsters.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1568996444</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.FF04E</code></td></tr><tr><td><b>szText</b></td><td><code>annoyed</code></td></tr><tr><td><b>hLabel</b></td><td><code>3431883401</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>annoyed</code></td></tr><tr><td><b>hLabel</b></td><td><code>3431883401</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.FF04E</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

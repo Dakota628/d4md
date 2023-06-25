@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>Recover the Rusty Heirloom Dagger.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1452320540</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase16Description</code></td></tr><tr><td><b>szText</b></td><td><code>I should search the Quest Chest for the Rusty Heirloom Dagger.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I should search the Quest Chest for the Rusty Heirloom Dagger.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1452320540</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase16Description</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback26Header</code></td></tr><tr><td><b>szText</b></td><td><code>Collect the {ITEM}</code></td></tr><tr><td><b>hLabel</b></td><td><code>4073311998</code></td></tr></table>

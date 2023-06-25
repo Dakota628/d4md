@@ -8,21 +8,21 @@
 I have recovered Gathlen's skull. I should return to Tur Dulra and speak with Ardreth. </pre></td></tr><tr><td><b>hLabel</b></td><td><code>41701509</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1754702117</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback96Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Druid Ardreth in Tur Dulra</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Speak with Druid Ardreth in Tur Dulra</code></td></tr><tr><td><b>hLabel</b></td><td><code>1754702117</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback96Header</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3793763495</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase101Description</code></td></tr><tr><td><b>szText</b></td><td><pre>The Druid Ardreth of Tur Dulra has asked for aid in finding the ancient spirit Gathlen before the lesser spirits of the perish. 
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase101Description</code></td></tr><tr><td><b>szText</b></td><td><pre>The Druid Ardreth of Tur Dulra has asked for aid in finding the ancient spirit Gathlen before the lesser spirits of the perish. 
 
-The tormented spirit of Gathlen has been imprisoned. I must find a way to set the spirit free. </pre></td></tr></table>
+The tormented spirit of Gathlen has been imprisoned. I must find a way to set the spirit free. </pre></td></tr><tr><td><b>hLabel</b></td><td><code>3793763495</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback103Header</code></td></tr><tr><td><b>szText</b></td><td><code>Investigate Fainne, the Abandoned Grove</code></td></tr><tr><td><b>hLabel</b></td><td><code>1702092234</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase113Description</code></td></tr><tr><td><b>szText</b></td><td><code>The Druids of Tur Dulra have much to teach. I should travel there and learn of the powers they possess. </code></td></tr><tr><td><b>hLabel</b></td><td><code>2472935658</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>The Druids of Tur Dulra have much to teach. I should travel there and learn of the powers they possess. </code></td></tr><tr><td><b>hLabel</b></td><td><code>2472935658</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase113Description</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback115Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Druid Ardreth in Tur Dulra</code></td></tr><tr><td><b>hLabel</b></td><td><code>3953798189</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3953798189</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback115Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Druid Ardreth in Tur Dulra</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback184Header</code></td></tr><tr><td><b>szText</b></td><td><code>Honor the Spirit Lord</code></td></tr><tr><td><b>hLabel</b></td><td><code>343720339</code></td></tr></table>
@@ -52,9 +52,9 @@ I must honor Gathlen by placing his skull on the shrine. </pre></td></tr><tr><td
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback203Header</code></td></tr><tr><td><b>szText</b></td><td><code>Honor Gathlen and mount the Skull of the Stag Lord on the Altar</code></td></tr><tr><td><b>hLabel</b></td><td><code>3656404683</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase209Description</code></td></tr><tr><td><b>szText</b></td><td><pre>The Druid Ardreth of Tur Dulra has asked for aid in finding the ancient spirit Gathlen before the lesser spirits of the perish. 
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><pre>The Druid Ardreth of Tur Dulra has asked for aid in finding the ancient spirit Gathlen before the lesser spirits of the perish. 
 
-The tormented spirit of Gathlen has been imprisoned. I must find a way to set the spirit free. </pre></td></tr><tr><td><b>hLabel</b></td><td><code>2767937872</code></td></tr></table>
+The tormented spirit of Gathlen has been imprisoned. I must find a way to set the spirit free. </pre></td></tr><tr><td><b>hLabel</b></td><td><code>2767937872</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase209Description</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback208Header</code></td></tr><tr><td><b>szText</b></td><td><code>Pick up the Skull of the Spirit Lord</code></td></tr><tr><td><b>hLabel</b></td><td><code>1523809936</code></td></tr></table>

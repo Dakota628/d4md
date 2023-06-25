@@ -15,7 +15,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><code>Lorath has gone on ahead to the Tree of Whispers. With Elias' head now hanging with the others, I can only hope he has not done anything rash...</code></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>220322285</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase0OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Catch up to Lorath at the Tree of Whispers</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Catch up to Lorath at the Tree of Whispers</code></td></tr><tr><td><b>hLabel</b></td><td><code>220322285</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback2Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Lorath</code></td></tr><tr><td><b>hLabel</b></td><td><code>514698856</code></td></tr></table>

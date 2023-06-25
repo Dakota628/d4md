@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>of Lethal Dusk</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Desc</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}Evading{/c} through an enemy infected by {c_important}Shadow Imbuement{/c} grants {c_important}{u}Stealth{/u}{/c} for {c_number}[Affix."Static Value 0"]{/c} seconds. Breaking {c_important}{u}Stealth{/u}{/c} with an attack grants you {c_random}[Affix_Value_1*100|%|]{/c} Maximum Life on Kill for {c_number}[Affix."Static Value 1"]{/c} seconds.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>{c_important}Evading{/c} through an enemy infected by {c_important}Shadow Imbuement{/c} grants {c_important}{u}Stealth{/u}{/c} for {c_number}[Affix."Static Value 0"]{/c} seconds. Breaking {c_important}{u}Stealth{/u}{/c} with an attack grants you {c_random}[Affix_Value_1*100|%|]{/c} Maximum Life on Kill for {c_number}[Affix."Static Value 1"]{/c} seconds.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr><tr><td><b>szLabel</b></td><td><code>Desc</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

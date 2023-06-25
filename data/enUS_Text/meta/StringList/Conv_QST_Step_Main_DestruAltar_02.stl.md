@@ -12,19 +12,19 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Speak his true name: Tor’Baalos.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2382904910</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3796274409</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Tor’Baalos.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Tor’Baalos.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3796274409</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>(pained groan)</code></td></tr><tr><td><b>hLabel</b></td><td><code>3874545195</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Are you all right?</code></td></tr><tr><td><b>hLabel</b></td><td><code>153004253</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line13.6D03F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Are you all right?</code></td></tr><tr><td><b>hLabel</b></td><td><code>153004253</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir13.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Concerned</code></td></tr><tr><td><b>hLabel</b></td><td><code>1498731690</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I'm...I'm fine.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1932985372</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line19.BAE4</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1932985372</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line19.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>I'm...I'm fine.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Groggy</code></td></tr><tr><td><b>hLabel</b></td><td><code>3795872329</code></td></tr></table>

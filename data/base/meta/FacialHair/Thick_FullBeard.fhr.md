@@ -5,5 +5,5 @@
 <code>1</code>
 <code>1</code>
 <code>1</code>
-</td></tr><tr><td><b>unk_259d5a4</b></td><td><a href="..\Material\Global_Male_Facialhair_07_FullBeard.mat">[DT_SNO] Material: "Global_Male_Facialhair_07_FullBeard"</a></td></tr><tr><td><b>unk_259d59d</b></td><td><a href="..\Material\Global_Female_Facialhair_07_Thick.mat">[DT_SNO] Material: "Global_Female_Facialhair_07_Thick"</a></td></tr><tr><td><b>unk_2ab2122</b></td><td><code>7</code></td></tr></table>
+</td></tr><tr><td><b>unk_259d5a4</b></td><td><a href="..\Material\Global_Male_Facialhair_07_FullBeard.mat.md">[DT_SNO] Material: "Global_Male_Facialhair_07_FullBeard"</a></td></tr><tr><td><b>unk_259d59d</b></td><td><a href="..\Material\Global_Female_Facialhair_07_Thick.mat.md">[DT_SNO] Material: "Global_Female_Facialhair_07_Thick"</a></td></tr><tr><td><b>unk_2ab2122</b></td><td><code>7</code></td></tr></table>
 

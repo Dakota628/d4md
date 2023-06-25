@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.6F0BE</code></td></tr><tr><td><b>szText</b></td><td><code>Have a look inside, but hurry. I will prepare the torch.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4095009692</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Concerned</code></td></tr><tr><td><b>hLabel</b></td><td><code>1662929353</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.6F0BE</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1662929353</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.6F0BE</code></td></tr><tr><td><b>szText</b></td><td><code>Concerned</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

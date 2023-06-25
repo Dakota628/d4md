@@ -3,13 +3,13 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Waves of Darkness</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Slay as many enemy waves as you can before time runs out: {DONE}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3097634794</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback4Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback4Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay as many enemy waves as you can before time runs out: {DONE}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3097634794</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback190Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>3436553072</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback183Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat {NEEDED} waves: {DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3347219666</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Defeat {NEEDED} waves: {DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3347219666</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback183Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback192Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the remaining enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>1724521714</code></td></tr></table>

@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.103673</code></td></tr><tr><td><b>szText</b></td><td><code>The evil here is thick, somehow even stronger. And yet, the halls are quiet. Do the minions of Hell hide from us? Hah!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2394135355</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.103673</code></td></tr><tr><td><b>szText</b></td><td><code>Zealous. Confident.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3739862792</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3739862792</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.103673</code></td></tr><tr><td><b>szText</b></td><td><code>Zealous. Confident.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

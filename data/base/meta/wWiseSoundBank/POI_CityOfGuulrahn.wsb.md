@@ -1,8 +1,8 @@
 <h1>data/base/meta/wWiseSoundBank/POI_CityOfGuulrahn.wsb</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/wWiseSoundBank/POI_CityOfGuulrahn.wsb</td></tr><tr><td><b>Type</b></td><td>wWiseSoundBankDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1087380</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptContent</b></td><td><table><tr><th colspan="100%">Type_313c5815</th></tr><tr><td><b>dwType</b></td><td><code>826038293</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_ce10c35</b></td><td><table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3994277432</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptContent</b></td><td><table><tr><th colspan="100%">Type_313c5815</th></tr><tr><td><b>dwType</b></td><td><code>826038293</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_ce10c35</b></td><td><table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>60403678</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3994277432</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>60403678</code></td></tr></table>
+</td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>68591259</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1602930887</code></td></tr></table>
@@ -10,9 +10,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>71416644</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>587149945</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>587149945</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>71416644</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>77391119</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1657257570</code></td></tr></table>
@@ -35,9 +35,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>126159780</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3615963075</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3615963075</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>126159780</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>174911285</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3595074924</code></td></tr></table>
@@ -115,14 +115,14 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>571429327</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2762910555</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>2762910555</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>571429327</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>606146155</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3343880268</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3343880268</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>606146155</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>624263806</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1011331578</code></td></tr></table>
@@ -130,9 +130,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1418979129</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>684650098</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1418979129</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>684650098</code></td></tr></table>
+</td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>749027391</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1033553517</code></td></tr></table>
@@ -225,9 +225,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>629164746</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>998342511</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>629164746</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d603308</b></td><td><code>998342511</code></td></tr></table>
+</td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>1001868263</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>1499510059</code></td></tr></table>
@@ -255,9 +255,9 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>unk_d603308</b></td><td><code>1059184991</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3653863555</code></td></tr></table>
+<table><tr><th colspan="100%">Type_d6dab54d</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>3653863555</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d603308</b></td><td><code>1059184991</code></td></tr></table>
 
 
 </td></tr><tr><td><b>unk_43081cf</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>2048</code></td></tr><tr><td><b>dataSize</b></td><td><code>16357</code></td></tr></table>

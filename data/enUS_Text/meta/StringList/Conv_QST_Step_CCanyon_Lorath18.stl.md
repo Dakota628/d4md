@@ -24,19 +24,19 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>(scoff) Elias gave us a “gift,” remember?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3253809490</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>821729151</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Slight sneer.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Slight sneer.</code></td></tr><tr><td><b>hLabel</b></td><td><code>821729151</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>This demon he sent to kill us...it is unique. It requires constant feeding—human sacrifices, in fact.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2735940191</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir15.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Observing. Driving toward good news.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4081667628</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Observing. Driving toward good news.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4081667628</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir15.6D03F</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>If I cut open its belly, someone inside might hold a clue...tell us where it came from.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3606844771</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line19.6D03F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line19.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>If I cut open its belly, someone inside might hold a clue...tell us where it came from.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3606844771</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Daring to hope.</code></td></tr><tr><td><b>hLabel</b></td><td><code>657604912</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>657604912</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Daring to hope.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line21.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>I must have it brought to Ked Bardu for examination.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1533805628</code></td></tr></table>

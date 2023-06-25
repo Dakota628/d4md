@@ -3,19 +3,19 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Epic Adventurer</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Reach Level 50 with every class in Hardcore Mode.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr><tr><td><b>szLabel</b></td><td><code>Desc</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Desc</code></td></tr><tr><td><b>szText</b></td><td><code>Reach Level 50 with every class in Hardcore Mode.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_234510</code></td></tr><tr><td><b>szText</b></td><td><code>Barbarian</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034178720</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1034178825</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_234546</code></td></tr><tr><td><b>szText</b></td><td><code>Druid</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Druid</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034178825</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_234546</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Necromancer</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034178826</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_234547</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_234547</code></td></tr><tr><td><b>szText</b></td><td><code>Necromancer</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034178826</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_234548</code></td></tr><tr><td><b>szText</b></td><td><code>Rogue</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034178827</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1034178827</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_234548</code></td></tr><tr><td><b>szText</b></td><td><code>Rogue</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_234549</code></td></tr><tr><td><b>szText</b></td><td><code>Sorcerer</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034178828</code></td></tr></table>

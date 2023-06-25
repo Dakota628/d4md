@@ -3,16 +3,16 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>“Neyrelle was wounded. Lorath had to cut off her hand.”</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>What?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1513311338</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>What?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1513311338</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.7FA05</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Shocked</code></td></tr><tr><td><b>hLabel</b></td><td><code>3376198295</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.7FA05</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Shocked</code></td></tr><tr><td><b>hLabel</b></td><td><code>3376198295</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>(sigh) I should have brought her with me instead. The sooner we’re back together again, the better.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4096247276</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.7FA05</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>(sigh) I should have brought her with me instead. The sooner we’re back together again, the better.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4096247276</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Feeling a little guilty</code></td></tr><tr><td><b>hLabel</b></td><td><code>1664166937</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1664166937</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Feeling a little guilty</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

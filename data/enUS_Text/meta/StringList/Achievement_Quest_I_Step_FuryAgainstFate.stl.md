@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_236073</code></td></tr><tr><td><b>szText</b></td><td><code>Consumed by Pride</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034245350</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_236074</code></td></tr><tr><td><b>szText</b></td><td><code>Raising Spears</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034245351</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1034245351</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_236074</code></td></tr><tr><td><b>szText</b></td><td><code>Raising Spears</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_236075</code></td></tr><tr><td><b>szText</b></td><td><code>Fury Against Fate</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034245352</code></td></tr></table>

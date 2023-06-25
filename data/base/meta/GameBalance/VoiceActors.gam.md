@@ -1,6 +1,6 @@
 <h1>data/base/meta/GameBalance/VoiceActors.gam</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/GameBalance/VoiceActors.gam</td></tr><tr><td><b>Type</b></td><td>GameBalanceDefinition</td></tr><tr><td><b>SNO ID</b></td><td>444999</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>eGameBalanceType</b></td><td><code>38</code></td></tr><tr><td><b>bIgnoreOnLoad</b></td><td><code>0</code></td></tr><tr><td><b>ptData</b></td><td><table><tr><th colspan="100%">VoiceActorEntry_Table</th></tr><tr><td><b>dwType</b></td><td><code>2340576936</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tEntries</b></td><td><table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Laila Berzins</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2263042464</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptData</b></td><td><table><tr><th colspan="100%">VoiceActorEntry_Table</th></tr><tr><td><b>dwType</b></td><td><code>2340576936</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tEntries</b></td><td><table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Laila Berzins</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2263042464</code></td></tr></table>
 
 </td></tr></table>
 
@@ -25,7 +25,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Siobhan Redmond</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1401023789</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1401023789</code></td></tr><tr><td><b>szName</b></td><td><code>Siobhan Redmond</code></td></tr></table>
 
 </td></tr></table>
 
@@ -55,7 +55,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Conner Byrne</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1519479781</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1519479781</code></td></tr><tr><td><b>szName</b></td><td><code>Conner Byrne</code></td></tr></table>
 
 </td></tr></table>
 
@@ -65,17 +65,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Fergal McElherron</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3017372832</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3017372832</code></td></tr><tr><td><b>szName</b></td><td><code>Fergal McElherron</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Sian Phillips</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>788435824</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>788435824</code></td></tr><tr><td><b>szName</b></td><td><code>Sian Phillips</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Katie Leung</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2791246249</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2791246249</code></td></tr><tr><td><b>szName</b></td><td><code>Katie Leung</code></td></tr></table>
 
 </td></tr></table>
 
@@ -90,12 +90,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Andrew Sogliuzzo</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3597103383</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3597103383</code></td></tr><tr><td><b>szName</b></td><td><code>Andrew Sogliuzzo</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Jan Johns</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>643854139</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>643854139</code></td></tr><tr><td><b>szName</b></td><td><code>Jan Johns</code></td></tr></table>
 
 </td></tr></table>
 
@@ -105,12 +105,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3179243757</code></td></tr><tr><td><b>szName</b></td><td><code>Karen Strassman</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Karen Strassman</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3179243757</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3494349616</code></td></tr><tr><td><b>szName</b></td><td><code>Fred Tatasciore</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Fred Tatasciore</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3494349616</code></td></tr></table>
 
 </td></tr></table>
 
@@ -120,7 +120,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Jesse Burch</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4137040782</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4137040782</code></td></tr><tr><td><b>szName</b></td><td><code>Jesse Burch</code></td></tr></table>
 
 </td></tr></table>
 
@@ -135,22 +135,22 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4242074421</code></td></tr><tr><td><b>szName</b></td><td><code>Courtenay Taylor</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Courtenay Taylor</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4242074421</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2044404879</code></td></tr><tr><td><b>szName</b></td><td><code>Boris Hiestand</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Boris Hiestand</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2044404879</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1319996555</code></td></tr><tr><td><b>szName</b></td><td><code>Patrick Page</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Patrick Page</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1319996555</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2335718645</code></td></tr><tr><td><b>szName</b></td><td><code>Rhona Mitra</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Rhona Mitra</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2335718645</code></td></tr></table>
 
 </td></tr></table>
 
@@ -185,22 +185,22 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Cherise Boothe</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2582419876</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2582419876</code></td></tr><tr><td><b>szName</b></td><td><code>Cherise Boothe</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>David Lodge</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2631527603</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2631527603</code></td></tr><tr><td><b>szName</b></td><td><code>David Lodge</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>470129820</code></td></tr><tr><td><b>szName</b></td><td><code>David Jung</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>David Jung</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>470129820</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3077883465</code></td></tr><tr><td><b>szName</b></td><td><code>Artt Butler</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Artt Butler</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3077883465</code></td></tr></table>
 
 </td></tr></table>
 
@@ -210,12 +210,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Ramiz Monsef</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>285910891</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>285910891</code></td></tr><tr><td><b>szName</b></td><td><code>Ramiz Monsef</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Caroline Faber</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1291831885</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1291831885</code></td></tr><tr><td><b>szName</b></td><td><code>Caroline Faber</code></td></tr></table>
 
 </td></tr></table>
 
@@ -235,7 +235,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>213284142</code></td></tr><tr><td><b>szName</b></td><td><code>Amira Ghazalla</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Amira Ghazalla</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>213284142</code></td></tr></table>
 
 </td></tr></table>
 
@@ -250,22 +250,22 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Clive Mantle</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1703389364</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1703389364</code></td></tr><tr><td><b>szName</b></td><td><code>Clive Mantle</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>211057495</code></td></tr><tr><td><b>szName</b></td><td><code>Lauren Tom</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Lauren Tom</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>211057495</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2430000984</code></td></tr><tr><td><b>szName</b></td><td><code>Ulka Simone Mohanty</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Ulka Simone Mohanty</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2430000984</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Isla Blair</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>614627091</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>614627091</code></td></tr><tr><td><b>szName</b></td><td><code>Isla Blair</code></td></tr></table>
 
 </td></tr></table>
 
@@ -280,7 +280,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Jenny Funnell</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2473485816</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2473485816</code></td></tr><tr><td><b>szName</b></td><td><code>Jenny Funnell</code></td></tr></table>
 
 </td></tr></table>
 
@@ -295,7 +295,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Nazeeh Tarsha</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1916202782</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1916202782</code></td></tr><tr><td><b>szName</b></td><td><code>Nazeeh Tarsha</code></td></tr></table>
 
 </td></tr></table>
 
@@ -305,7 +305,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Mark Ballou</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2053240938</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2053240938</code></td></tr><tr><td><b>szName</b></td><td><code>Mark Ballou</code></td></tr></table>
 
 </td></tr></table>
 
@@ -315,7 +315,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1512471742</code></td></tr><tr><td><b>szName</b></td><td><code>Kristian Eros</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Kristian Eros</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1512471742</code></td></tr></table>
 
 </td></tr></table>
 
@@ -325,7 +325,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Matt Silver</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3655595595</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3655595595</code></td></tr><tr><td><b>szName</b></td><td><code>Matt Silver</code></td></tr></table>
 
 </td></tr></table>
 
@@ -335,7 +335,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>483883597</code></td></tr><tr><td><b>szName</b></td><td><code>Lorraine Bruce</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Lorraine Bruce</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>483883597</code></td></tr></table>
 
 </td></tr></table>
 
@@ -345,7 +345,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Matthew Waterson</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3844780941</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3844780941</code></td></tr><tr><td><b>szName</b></td><td><code>Matthew Waterson</code></td></tr></table>
 
 </td></tr></table>
 
@@ -365,7 +365,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Andrew Ableson</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1846134085</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1846134085</code></td></tr><tr><td><b>szName</b></td><td><code>Andrew Ableson</code></td></tr></table>
 
 </td></tr></table>
 
@@ -375,12 +375,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Darin De Paul</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>780298697</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>780298697</code></td></tr><tr><td><b>szName</b></td><td><code>Darin De Paul</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Eliza Jane Schneider</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2510332584</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2510332584</code></td></tr><tr><td><b>szName</b></td><td><code>Eliza Jane Schneider</code></td></tr></table>
 
 </td></tr></table>
 
@@ -395,7 +395,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1834105357</code></td></tr><tr><td><b>szName</b></td><td><code>Keith Silverstein</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Keith Silverstein</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1834105357</code></td></tr></table>
 
 </td></tr></table>
 
@@ -435,12 +435,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Keone Young</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>240450532</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>240450532</code></td></tr><tr><td><b>szName</b></td><td><code>Keone Young</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Lauren Choo</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2669311664</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2669311664</code></td></tr><tr><td><b>szName</b></td><td><code>Lauren Choo</code></td></tr></table>
 
 </td></tr></table>
 
@@ -450,17 +450,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1154566020</code></td></tr><tr><td><b>szName</b></td><td><code>April Hong</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>April Hong</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1154566020</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>488006778</code></td></tr><tr><td><b>szName</b></td><td><code>Yung-I Chang</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Yung-I Chang</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>488006778</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Will Yun Lee</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1348630378</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1348630378</code></td></tr><tr><td><b>szName</b></td><td><code>Will Yun Lee</code></td></tr></table>
 
 </td></tr></table>
 
@@ -475,7 +475,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Terrence Zheng</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>244566484</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>244566484</code></td></tr><tr><td><b>szName</b></td><td><code>Terrence Zheng</code></td></tr></table>
 
 </td></tr></table>
 
@@ -495,12 +495,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Jialing Pan</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1245373821</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1245373821</code></td></tr><tr><td><b>szName</b></td><td><code>Jialing Pan</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Rae Lim</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>820675418</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>820675418</code></td></tr><tr><td><b>szName</b></td><td><code>Rae Lim</code></td></tr></table>
 
 </td></tr></table>
 
@@ -515,7 +515,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Armen Taylor</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3596513230</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3596513230</code></td></tr><tr><td><b>szName</b></td><td><code>Armen Taylor</code></td></tr></table>
 
 </td></tr></table>
 
@@ -525,12 +525,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Crystal Yu</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3300187696</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3300187696</code></td></tr><tr><td><b>szName</b></td><td><code>Crystal Yu</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Togo Igawa</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>403114242</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>403114242</code></td></tr><tr><td><b>szName</b></td><td><code>Togo Igawa</code></td></tr></table>
 
 </td></tr></table>
 
@@ -540,7 +540,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>469863814</code></td></tr><tr><td><b>szName</b></td><td><code>David Chen</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>David Chen</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>469863814</code></td></tr></table>
 
 </td></tr></table>
 
@@ -560,17 +560,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Naomi Yang</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>238884995</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>238884995</code></td></tr><tr><td><b>szName</b></td><td><code>Naomi Yang</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Scott Whyte</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1026693726</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1026693726</code></td></tr><tr><td><b>szName</b></td><td><code>Scott Whyte</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Anthony Howell</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4249005676</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4249005676</code></td></tr><tr><td><b>szName</b></td><td><code>Anthony Howell</code></td></tr></table>
 
 </td></tr></table>
 
@@ -580,7 +580,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3440969619</code></td></tr><tr><td><b>szName</b></td><td><code>Nicholas Khan</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Nicholas Khan</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3440969619</code></td></tr></table>
 
 </td></tr></table>
 
@@ -600,7 +600,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Branko Tomovic</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2278705470</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2278705470</code></td></tr><tr><td><b>szName</b></td><td><code>Branko Tomovic</code></td></tr></table>
 
 </td></tr></table>
 
@@ -620,7 +620,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2593574466</code></td></tr><tr><td><b>szName</b></td><td><code>Joe J. Thomas</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Joe J. Thomas</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2593574466</code></td></tr></table>
 
 </td></tr></table>
 
@@ -630,7 +630,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Dolya Gavanski</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2852112365</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2852112365</code></td></tr><tr><td><b>szName</b></td><td><code>Dolya Gavanski</code></td></tr></table>
 
 </td></tr></table>
 
@@ -645,7 +645,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vanessa Marshall</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>391086149</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>391086149</code></td></tr><tr><td><b>szName</b></td><td><code>Vanessa Marshall</code></td></tr></table>
 
 </td></tr></table>
 
@@ -655,7 +655,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1115864845</code></td></tr><tr><td><b>szName</b></td><td><code>Kirk Thornton</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Kirk Thornton</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1115864845</code></td></tr></table>
 
 </td></tr></table>
 
@@ -670,12 +670,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Joe Cappelletti</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2347979989</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2347979989</code></td></tr><tr><td><b>szName</b></td><td><code>Joe Cappelletti</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>738254204</code></td></tr><tr><td><b>szName</b></td><td><code>Erik Passoja</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Erik Passoja</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>738254204</code></td></tr></table>
 
 </td></tr></table>
 
@@ -685,7 +685,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1329982715</code></td></tr><tr><td><b>szName</b></td><td><code>Greg Kolpakchi</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Greg Kolpakchi</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1329982715</code></td></tr></table>
 
 </td></tr></table>
 
@@ -705,7 +705,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3416075638</code></td></tr><tr><td><b>szName</b></td><td><code>Dana Haqjoo</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Dana Haqjoo</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3416075638</code></td></tr></table>
 
 </td></tr></table>
 
@@ -730,7 +730,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2796120910</code></td></tr><tr><td><b>szName</b></td><td><code>Peter Polycarpou</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Peter Polycarpou</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2796120910</code></td></tr></table>
 
 </td></tr></table>
 
@@ -740,7 +740,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2220887506</code></td></tr><tr><td><b>szName</b></td><td><code>Akshay Khanna</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Akshay Khanna</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2220887506</code></td></tr></table>
 
 </td></tr></table>
 
@@ -760,7 +760,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4173671010</code></td></tr><tr><td><b>szName</b></td><td><code>Dave B. Mitchell</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Dave B. Mitchell</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4173671010</code></td></tr></table>
 
 </td></tr></table>
 
@@ -775,17 +775,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>307435474</code></td></tr><tr><td><b>szName</b></td><td><code>Jon Olson</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Jon Olson</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>307435474</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2618387551</code></td></tr><tr><td><b>szName</b></td><td><code>David Alpay</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>David Alpay</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2618387551</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Lina Hayek</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2094029462</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2094029462</code></td></tr><tr><td><b>szName</b></td><td><code>Lina Hayek</code></td></tr></table>
 
 </td></tr></table>
 
@@ -815,7 +815,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Sharon Small</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1769788356</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1769788356</code></td></tr><tr><td><b>szName</b></td><td><code>Sharon Small</code></td></tr></table>
 
 </td></tr></table>
 
@@ -850,17 +850,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Elinor Lawless</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3402377668</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3402377668</code></td></tr><tr><td><b>szName</b></td><td><code>Elinor Lawless</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Duncan Pow</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>70103407</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>70103407</code></td></tr><tr><td><b>szName</b></td><td><code>Duncan Pow</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2138545695</code></td></tr><tr><td><b>szName</b></td><td><code>Sorcha Groundsell</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Sorcha Groundsell</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2138545695</code></td></tr></table>
 
 </td></tr></table>
 
@@ -870,12 +870,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3401053549</code></td></tr><tr><td><b>szName</b></td><td><code>Calum Callaghan</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Calum Callaghan</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3401053549</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2280515281</code></td></tr><tr><td><b>szName</b></td><td><code>Joanna Horton</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Joanna Horton</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2280515281</code></td></tr></table>
 
 </td></tr></table>
 
@@ -890,17 +890,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Elizabeth Price</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4224586955</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4224586955</code></td></tr><tr><td><b>szName</b></td><td><code>Elizabeth Price</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Gavin Hammon</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4214684949</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4214684949</code></td></tr><tr><td><b>szName</b></td><td><code>Gavin Hammon</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1668916092</code></td></tr><tr><td><b>szName</b></td><td><code>thierry Mabonga</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>thierry Mabonga</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1668916092</code></td></tr></table>
 
 </td></tr></table>
 
@@ -915,7 +915,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Daniel Ross</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4057677940</code></td></tr></table>
+<table><tr><th colspan="100%">VoiceActorEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4057677940</code></td></tr><tr><td><b>szName</b></td><td><code>Daniel Ross</code></td></tr></table>
 
 </td></tr></table>
 
@@ -933,5 +933,5 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>eGameBalanceType</b></td><td><code>38</code></td></tr><tr><td><b>bIgnoreOnLoad</b></td><td><code>0</code></td></tr></table>
 

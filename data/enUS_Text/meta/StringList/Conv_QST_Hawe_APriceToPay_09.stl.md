@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>My name is Gulyas. This child is not cursed, she has a great power within her. She has been chosen by the swamp, as I was years ago.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567240369</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Matter of factly.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430127326</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F53E7</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>Matter of factly.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430127326</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>W-what? Me?</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150175263</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4150175263</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>W-what? Me?</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Scared, confused.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1718094924</code></td></tr></table>
@@ -24,16 +24,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>B-but I can't! I can't leave my mother! She's sick! She needs--</code></td></tr><tr><td><b>hLabel</b></td><td><code>3309048485</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Slightly hysterical, scared.</code></td></tr><tr><td><b>hLabel</b></td><td><code>876968146</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>876968146</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Slightly hysterical, scared.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>You cannot help her in this state, but I promise to teach you what you need to care for her. To control your power.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1920275650</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3266003087</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>Matter of factly. You want to try to convince the girl to come with you if you can but you know this is not a negotiation. This is happening.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>Matter of factly. You want to try to convince the girl to come with you if you can but you know this is not a negotiation. This is happening.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3266003087</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line17.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>I...I...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1079147828</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I...I...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1079147828</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line17.F52ED</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir17.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Unsure of what to do or say.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2424875265</code></td></tr></table>

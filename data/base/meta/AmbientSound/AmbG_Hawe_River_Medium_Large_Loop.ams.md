@@ -1,6 +1,6 @@
 <h1>data/base/meta/AmbientSound/AmbG_Hawe_River_Medium_Large_Loop.ams</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/AmbientSound/AmbG_Hawe_River_Medium_Large_Loop.ams</td></tr><tr><td><b>Type</b></td><td>AmbientSoundDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1224423</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_AmbG_Hawe_River_Medium_Large.snd">[DT_SNO] Sound: "Play_AmbG_Hawe_River_Medium_Large"</a></td></tr><tr><td><b>tRandomSounds</b></td><td><table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Hawe_Crickets.snd">[DT_SNO] Sound: "Play_AmbG_Hawe_Crickets"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_AmbG_Hawe_River_Medium_Large.snd.md">[DT_SNO] Sound: "Play_AmbG_Hawe_River_Medium_Large"</a></td></tr><tr><td><b>tRandomSounds</b></td><td><table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Hawe_Crickets.snd.md">[DT_SNO] Sound: "Play_AmbG_Hawe_Crickets"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
@@ -9,49 +9,49 @@
 </td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Hawe_Frog_Long_Croak.snd">[DT_SNO] Sound: "Play_AmbG_Hawe_Frog_Long_Croak"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>3</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>37</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Hawe_Frog_Long_Croak.snd.md">[DT_SNO] Sound: "Play_AmbG_Hawe_Frog_Long_Croak"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>3</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>37</code></td></tr></table>
+</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Hawe_Frog_Short_Croak.snd">[DT_SNO] Sound: "Play_AmbG_Hawe_Frog_Short_Croak"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Hawe_Frog_Short_Croak.snd.md">[DT_SNO] Sound: "Play_AmbG_Hawe_Frog_Short_Croak"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>27</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>3</code></td></tr></table>
+</td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>3</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>27</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>3</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>17</code></td></tr></table>
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Hawe_Insects.snd">[DT_SNO] Sound: "Play_AmbG_Hawe_Insects"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
+</td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>3</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>17</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
+</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Hawe_Insects.snd.md">[DT_SNO] Sound: "Play_AmbG_Hawe_Insects"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>3</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>27</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_ff43907</b></td><td><code>2</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Hawe_Night_Swamp_Loop.snd">[DT_SNO] Sound: "Play_AmbG_Hawe_Night_Swamp_Loop"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>3</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>12</code></td></tr></table>
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Hawe_Night_Swamp_Loop.snd.md">[DT_SNO] Sound: "Play_AmbG_Hawe_Night_Swamp_Loop"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>3</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>12</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>3</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>27</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_ff43907</b></td><td><code>2</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>3</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>22</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Hawe_Water_Splash.snd">[DT_SNO] Sound: "Play_AmbG_Hawe_Water_Splash"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
-
-</td></tr></table>
+</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Hawe_Water_Splash.snd.md">[DT_SNO] Sound: "Play_AmbG_Hawe_Water_Splash"</a></td></tr></table>
 
 
 </td></tr><tr><td><b>tDynamicGameParameter</b></td><td><table><tr><th colspan="100%">DynamicGameParameter</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>0</code></td></tr></table>

@@ -6,16 +6,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.1028C0</code></td></tr><tr><td><b>szText</b></td><td><code>I brought some herbs that Taissa asked for, but she’s already up and left.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2394103045</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Something off about her of late. I hear her screaming at night. Weeping too.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1731643079</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.1028C0</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.1028C0</code></td></tr><tr><td><b>szText</b></td><td><code>Something off about her of late. I hear her screaming at night. Weeping too.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1731643079</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.1028C0</code></td></tr><tr><td><b>szText</b></td><td><code>Hushed for last part of the line, like she's afraid of someone hearing her say it out loud</code></td></tr><tr><td><b>hLabel</b></td><td><code>3077370516</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3077370516</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.1028C0</code></td></tr><tr><td><b>szText</b></td><td><code>Hushed for last part of the line, like she's afraid of someone hearing her say it out loud</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.1028C0</code></td></tr><tr><td><b>szText</b></td><td><code>It’s not like her...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1069183113</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2414910550</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.1028C0</code></td></tr><tr><td><b>szText</b></td><td><code>Troubled</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.1028C0</code></td></tr><tr><td><b>szText</b></td><td><code>Troubled</code></td></tr><tr><td><b>hLabel</b></td><td><code>2414910550</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line12.1028C0</code></td></tr><tr><td><b>szText</b></td><td><code>Can you find her and deliver the herbs?</code></td></tr><tr><td><b>hLabel</b></td><td><code>828135447</code></td></tr></table>

@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line4.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>"The weak must die, so the strong may rise."</code></td></tr><tr><td><b>hLabel</b></td><td><code>1143585815</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Quoting a hated phrase. Utter contempt.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3006472772</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir4.BC41C</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir4.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>Quoting a hated phrase. Utter contempt.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3006472772</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line6.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>Iron Wolves devote our lives to protect and shelter the weak...</code></td></tr><tr><td><b>hLabel</b></td><td><code>3726521753</code></td></tr></table>

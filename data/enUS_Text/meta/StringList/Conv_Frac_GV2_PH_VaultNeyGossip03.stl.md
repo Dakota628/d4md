@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>thoughtful</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374944990</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>You should visit Prava.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094993971</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4094993971</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>You should visit Prava.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Disgusted</code></td></tr><tr><td><b>hLabel</b></td><td><code>1662913632</code></td></tr></table>

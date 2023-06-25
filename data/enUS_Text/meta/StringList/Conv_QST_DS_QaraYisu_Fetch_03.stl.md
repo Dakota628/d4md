@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>Hidden</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.5421A</code></td></tr><tr><td><b>szText</b></td><td><code>What ancestor cursed me with such ill luck?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1509091540</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>What ancestor cursed me with such ill luck?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1509091540</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.5421A</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.5421A</code></td></tr><tr><td><b>szText</b></td><td><code>Frusterated. Muttering to himself. Cursing his bad luck.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3371978497</code></td></tr></table>

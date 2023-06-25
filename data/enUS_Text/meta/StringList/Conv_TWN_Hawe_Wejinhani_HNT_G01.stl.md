@@ -12,10 +12,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.11EA19</code></td></tr><tr><td><b>szText</b></td><td><code>A few young ones could use the training. We should set a hunt tonight.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734704795</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3080432232</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.11EA19</code></td></tr><tr><td><b>szText</b></td><td><code>Matter of fact</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.11EA19</code></td></tr><tr><td><b>szText</b></td><td><code>Matter of fact</code></td></tr><tr><td><b>hLabel</b></td><td><code>3080432232</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1072244828</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.11EA18</code></td></tr><tr><td><b>szText</b></td><td><code>No, we need clean kills, so the healers get the best collection. They can train another night.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.11EA18</code></td></tr><tr><td><b>szText</b></td><td><code>No, we need clean kills, so the healers get the best collection. They can train another night.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1072244828</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.11EA18</code></td></tr><tr><td><b>szText</b></td><td><code>Gruff and to the point</code></td></tr><tr><td><b>hLabel</b></td><td><code>2417972265</code></td></tr></table>

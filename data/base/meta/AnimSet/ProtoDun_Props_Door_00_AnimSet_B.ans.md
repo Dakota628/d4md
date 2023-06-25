@@ -1,18 +1,18 @@
 <h1>data/base/meta/AnimSet/ProtoDun_Props_Door_00_AnimSet_B.ans</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/AnimSet/ProtoDun_Props_Door_00_AnimSet_B.ans</td></tr><tr><td><b>Type</b></td><td>AnimSetDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1414305</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_b2a975f</b></td><td><table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_Neutral.pow">[DT_SNO] Power: "AnimKey_Neutral"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\ProtoDun_Door_Final_Idle.ani">[DT_SNO] Animation: "ProtoDun_Door_Final_Idle"</a></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_b2a975f</b></td><td><table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_Neutral.pow.md">[DT_SNO] Power: "AnimKey_Neutral"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\ProtoDun_Door_Final_Idle.ani.md">[DT_SNO] Animation: "ProtoDun_Door_Final_Idle"</a></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_Open.pow">[DT_SNO] Power: "AnimKey_Open"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\ProtoDun_Door_Final_Open_B.ani">[DT_SNO] Animation: "ProtoDun_Door_Final_Open_B"</a></td></tr></table>
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_Open.pow.md">[DT_SNO] Power: "AnimKey_Open"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\ProtoDun_Door_Final_Open_B.ani.md">[DT_SNO] Animation: "ProtoDun_Door_Final_Open_B"</a></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_Closing.pow">[DT_SNO] Power: "AnimKey_Closing"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\ProtoDun_Door_Final_Closing.ani">[DT_SNO] Animation: "ProtoDun_Door_Final_Closing"</a></td></tr></table>
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_Closing.pow.md">[DT_SNO] Power: "AnimKey_Closing"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\ProtoDun_Door_Final_Closing.ani.md">[DT_SNO] Animation: "ProtoDun_Door_Final_Closing"</a></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_Opening.pow">[DT_SNO] Power: "AnimKey_Opening"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\ProtoDun_Door_Final_Opening.ani">[DT_SNO] Animation: "ProtoDun_Door_Final_Opening"</a></td></tr></table>
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_Opening.pow.md">[DT_SNO] Power: "AnimKey_Opening"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\ProtoDun_Door_Final_Opening.ani.md">[DT_SNO] Animation: "ProtoDun_Door_Final_Opening"</a></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Death.pow">[DT_SNO] Power: "Death"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\ProtoDun_Door_Final_Idle.ani">[DT_SNO] Animation: "ProtoDun_Door_Final_Idle"</a></td></tr></table>
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Death.pow.md">[DT_SNO] Power: "Death"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\ProtoDun_Door_Final_Idle.ani.md">[DT_SNO] Animation: "ProtoDun_Door_Final_Idle"</a></td></tr></table>
 
 
 </td></tr><tr><td><b>unk_d9dcd40</b></td><td></td></tr><tr><td><b>unk_4ff6b8e</b></td><td></td></tr><tr><td><b>ptWeaponClasses</b></td><td><code>0</code>

@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"You knew Elias. Has Lilith corrupted him somehow?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Elias had a talent for persuasion. Convenient trait for a Horadrim, given our dealings, but he could be...relentless when he wanted something. Even cruel.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1512000330</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1512000330</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Elias had a talent for persuasion. Convenient trait for a Horadrim, given our dealings, but he could be...relentless when he wanted something. Even cruel.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Grim. Heavy. Sad.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374887287</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.6D03F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Grim. Heavy. Sad.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374887287</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>In that way, he and Lilith are similar. Suffering, bloodshed...to them these are means to an end.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094936268</code></td></tr></table>
@@ -15,7 +15,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Grim. Heavy. Foreboding.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1662855929</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>They will bring out the worst in each other.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2382904910</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.6D03F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>They will bring out the worst in each other.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2382904910</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Grim. Heavy. Foreboding.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4245791867</code></td></tr></table>

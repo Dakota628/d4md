@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.140002</code></td></tr><tr><td><b>szText</b></td><td><code>Tired but relieved. A weight has been lifted from his shoulders</code></td></tr><tr><td><b>hLabel</b></td><td><code>3744491899</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.140002</code></td></tr><tr><td><b>szText</b></td><td><code>Here is payment for your service. I know mercenaries don’t work for free.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1736304496</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1736304496</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.140002</code></td></tr><tr><td><b>szText</b></td><td><code>Here is payment for your service. I know mercenaries don’t work for free.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

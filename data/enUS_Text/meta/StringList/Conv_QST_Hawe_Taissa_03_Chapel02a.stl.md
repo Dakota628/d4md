@@ -3,13 +3,13 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>This is my fault!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1511616375</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>Troubled, not believing in herself. Chains from Andariel are wrapping around her. Projected during combat.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374503332</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Troubled, not believing in herself. Chains from Andariel are wrapping around her. Projected during combat.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374503332</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.789BF</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>If I had killed Elias in Guulrahn. If I had been quicker, smarter...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094552313</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Troubled, blaming herself for what happened to her. Meanwhile chains continue wrapping around her. Projected during combat.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1662471974</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.789BF</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>Troubled, blaming herself for what happened to her. Meanwhile chains continue wrapping around her. Projected during combat.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1662471974</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>But I wasn’t. I wasn’t!</code></td></tr><tr><td><b>hLabel</b></td><td><code>670489597</code></td></tr></table>

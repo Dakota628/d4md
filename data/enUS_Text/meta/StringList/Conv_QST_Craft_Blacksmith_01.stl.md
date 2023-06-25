@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.B2A6A</code></td></tr><tr><td><b>szText</b></td><td><code>Let's have a look at you eh? Hmm... Buckles need reinforcing... this leather's cracked... What have you been getting yourself into, hm?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1562437459</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3425324416</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.B2A6A</code></td></tr><tr><td><b>szText</b></td><td><code>Looking over someone's outfit, musing as you pick it over.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Looking over someone's outfit, musing as you pick it over.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3425324416</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.B2A6A</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.B2A6A</code></td></tr><tr><td><b>szText</b></td><td><code>Look, you live or die by the quality of your equipment. If you've the coin and materials, I can improve it for you.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145373397</code></td></tr></table>

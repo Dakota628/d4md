@@ -3,13 +3,13 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"We should go; it isn't safe here."</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Thank the High Heavens! I was starting to think someone might never come along.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2394113923</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.101CAF</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2394113923</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.101CAF</code></td></tr><tr><td><b>szText</b></td><td><code>Thank the High Heavens! I was starting to think someone might never come along.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.101CAF</code></td></tr><tr><td><b>szText</b></td><td><code>Grateful and a bit winded; he just jogged to safety.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3739841360</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Yes, I - (winces) I believe I will be, if only I might rest a spell and get some food in me.</code></td></tr><tr><td><b>hLabel</b></td><td><code>737964008</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line6.101CAF</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line6.101CAF</code></td></tr><tr><td><b>szText</b></td><td><code>Yes, I - (winces) I believe I will be, if only I might rest a spell and get some food in me.</code></td></tr><tr><td><b>hLabel</b></td><td><code>737964008</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir6.101CAF</code></td></tr><tr><td><b>szText</b></td><td><code>Humble but mildly injured, fatigued.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2083691445</code></td></tr></table>

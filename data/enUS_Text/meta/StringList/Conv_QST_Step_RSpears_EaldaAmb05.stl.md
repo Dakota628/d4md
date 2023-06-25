@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>direct, proud</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742378726</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>Together, we will show the cannibals that Crane Tribe fears no fate.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734191323</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Together, we will show the cannibals that Crane Tribe fears no fate.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734191323</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.1275AB</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>direct, confident</code></td></tr><tr><td><b>hLabel</b></td><td><code>3079918760</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.1275AB</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3079918760</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>direct, confident</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

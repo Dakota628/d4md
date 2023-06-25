@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.FEF74</code></td></tr><tr><td><b>szText</b></td><td><code>The Cathedral of Light used to perform these kinds of rituals whenever anyone was in need, but it seems that lately they would rather burn the demon along with the victim.</code></td></tr><tr><td><b>hLabel</b></td><td><code>210023286</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2792959224</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line15.FEF74</code></td></tr><tr><td><b>szText</b></td><td><code>I still believe in the Father and his holy grace, but I couldn't let that happen to the Sister, not after she saved my boy. No matter what happens to me.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.FEF74</code></td></tr><tr><td><b>szText</b></td><td><code>I still believe in the Father and his holy grace, but I couldn't let that happen to the Sister, not after she saved my boy. No matter what happens to me.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2792959224</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>Help Zolaya and Oyuun move forward with their new life in Farobru</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase8Description</code></td></tr><tr><td><b>szText</b></td><td><code>I found Zolaya and Oyuun attempting to settle down in Farobru, but Oyuun seems to be having a traumatic flashback. Zolaya has sent me to an old hideout out of hers with a tea infuser to fill with herbs, in the hopes the tea will help calm Oyuun down.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1557588493</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1557588493</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase8Description</code></td></tr><tr><td><b>szText</b></td><td><code>I found Zolaya and Oyuun attempting to settle down in Farobru, but Oyuun seems to be having a traumatic flashback. Zolaya has sent me to an old hideout out of hers with a tea infuser to fill with herbs, in the hopes the tea will help calm Oyuun down.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback7Header</code></td></tr><tr><td><b>szText</b></td><td><code>Enter Zolaya's Hideout</code></td></tr><tr><td><b>hLabel</b></td><td><code>2677071405</code></td></tr></table>

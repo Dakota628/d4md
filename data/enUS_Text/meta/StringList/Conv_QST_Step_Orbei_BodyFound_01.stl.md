@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Message from the Abbot</code></td></tr><tr><td><b>hLabel</b></td><td><code>155764431</code></td></tr><tr><td><b>szLabel</b></td><td><code>DisembodiedVoice</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Lorath Nahr, how bizarre it is to hear from you. Your charming apprentice arrived just this morning with equally disturbing news, but he made no mention of you. Am I to assume you did not send him? Please join us at Orbei as soon as you are able.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1987972023</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.0</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.0</code></td></tr><tr><td><b>szText</b></td><td><code>Lorath Nahr, how bizarre it is to hear from you. Your charming apprentice arrived just this morning with equally disturbing news, but he made no mention of you. Am I to assume you did not send him? Please join us at Orbei as soon as you are able.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1987972023</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.0</code></td></tr><tr><td><b>szText</b></td><td><code>Polite. Self-important. Perplexed.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2910413668</code></td></tr></table>

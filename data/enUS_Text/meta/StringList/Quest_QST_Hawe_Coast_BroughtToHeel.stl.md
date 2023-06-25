@@ -6,16 +6,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>Help Lumir get back at Glin by making them sick with swamp mushrooms.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase8Description</code></td></tr><tr><td><b>szText</b></td><td><code>I should return to Lumir with the mushrooms.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1557588493</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1557588493</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase8Description</code></td></tr><tr><td><b>szText</b></td><td><code>I should return to Lumir with the mushrooms.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback7Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Lumir</code></td></tr><tr><td><b>hLabel</b></td><td><code>2677071405</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2677071405</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback7Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Lumir</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase26Description</code></td></tr><tr><td><b>szText</b></td><td><code>I should help Lumir get back at Glin by finding a nauseating red swamp mushroom. </code></td></tr><tr><td><b>hLabel</b></td><td><code>2783948957</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback30Header</code></td></tr><tr><td><b>szText</b></td><td><code>Collect a red mushroom for Lumir</code></td></tr><tr><td><b>hLabel</b></td><td><code>288241497</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>288241497</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback30Header</code></td></tr><tr><td><b>szText</b></td><td><code>Collect a red mushroom for Lumir</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

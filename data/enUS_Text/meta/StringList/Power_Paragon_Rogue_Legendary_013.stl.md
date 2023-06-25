@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff1_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Untouchable</code></td></tr><tr><td><b>hLabel</b></td><td><code>270276116</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff1_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Increased Dodge Chance per Close enemy.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2005335447</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2005335447</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff1_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Increased Dodge Chance per Close enemy.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

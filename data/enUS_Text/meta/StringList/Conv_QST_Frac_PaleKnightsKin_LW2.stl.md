@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>“What do you know about Light's Watch?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.AAE2D</code></td></tr><tr><td><b>szText</b></td><td><code>Only that it was once a bastion of the Knights Penitent, the holy order of Cathedral knights who patrolled the roads, delivering the Light's justice to evil.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1562944804</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1562944804</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.AAE2D</code></td></tr><tr><td><b>szText</b></td><td><code>Only that it was once a bastion of the Knights Penitent, the holy order of Cathedral knights who patrolled the roads, delivering the Light's justice to evil.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>admiration for the storied knights, almost naiive</code></td></tr><tr><td><b>hLabel</b></td><td><code>3425831761</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.AAE2D</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.AAE2D</code></td></tr><tr><td><b>szText</b></td><td><code>admiration for the storied knights, almost naiive</code></td></tr><tr><td><b>hLabel</b></td><td><code>3425831761</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.AAE2D</code></td></tr><tr><td><b>szText</b></td><td><code>That is... until they marched away.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145880742</code></td></tr></table>

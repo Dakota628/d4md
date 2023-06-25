@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line19.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Diablo. Lord of Terror. Every mortal fear, every nightmare--he is the root of it all. Always has been.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3606844771</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Musing about Diablo</code></td></tr><tr><td><b>hLabel</b></td><td><code>657604912</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.6D03F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Musing about Diablo</code></td></tr><tr><td><b>hLabel</b></td><td><code>657604912</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Speak his true name: Al’Diabolos.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1865035611</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.6D03F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Speak his true name: Al’Diabolos.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1865035611</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Al’Diabolos.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1776443800</code></td></tr></table>

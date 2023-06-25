@@ -10,17 +10,17 @@
 {/if}Become {c_important}{u}Unstoppable{/u}{/c} and quickly move through the shadows to stab your victim from behind for {c_number}{payload:MELEE_PAYLOAD}{/c} damage. Gain {c_number}[{SF_5}*100|%|]{/c} increased Movement Speed for {c_number}{SF_6}{/c} seconds afterwards.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><pre>
-{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:MELEE_PAYLOAD}{/c}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr><tr><td><b>szText</b></td><td><pre>
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:MELEE_PAYLOAD}{/c}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1960229941</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Damaging an enemy with {c_important}Shadow Step{/c} increases your Critical Strike Chance against them by {c_number}[{SF_14}*100|%+|]{/c} for {c_number}{buffduration:AMPLIFY_CRIT_CHANCE}{/c} seconds.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Damaging an enemy with {c_important}Shadow Step{/c} increases your Critical Strike Chance against them by {c_number}[{SF_14}*100|%+|]{/c} for {c_number}{buffduration:AMPLIFY_CRIT_CHANCE}{/c} seconds.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1960229941</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Enhanced Shadow Step</code></td></tr><tr><td><b>hLabel</b></td><td><code>2531142258</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod3_Description</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}Shadow Step's{/c} Cooldown is reduced by {c_number}{SF_13}{/c} seconds when it damages an enemy you have not hit with {c_important}Shadow Step{/c} in the last {c_number}{SF_18}{/c} seconds.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3291858358</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>{c_important}Shadow Step's{/c} Cooldown is reduced by {c_number}{SF_13}{/c} seconds when it damages an enemy you have not hit with {c_important}Shadow Step{/c} in the last {c_number}{SF_18}{/c} seconds.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3291858358</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod3_Description</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod3_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Disciplined Shadow Step</code></td></tr><tr><td><b>hLabel</b></td><td><code>2570277651</code></td></tr></table>
@@ -29,7 +29,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod4_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Enemies damaged by {c_important}Shadow Step{/c} are Stunned for {c_number}{buffduration:STUN}{/c} seconds.</code></td></tr><tr><td><b>hLabel</b></td><td><code>328519479</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2609413044</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod4_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Methodical Shadow Step</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod4_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Methodical Shadow Step</code></td></tr><tr><td><b>hLabel</b></td><td><code>2609413044</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

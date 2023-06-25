@@ -7,16 +7,21 @@
 </td></tr><tr><td><b>unk_4e56acb</b></td><td><table><tr><th colspan="100%">LevelScalingData</th></tr><tr><td><b>nLevelScalingMin</b></td><td><code>0</code></td></tr><tr><td><b>unk_c2f6938</b></td><td><code>0</code></td></tr><tr><td><b>unk_49895f1</b></td><td><code>0</code></td></tr><tr><td><b>nLevelScalingMax</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelScalingData</th></tr><tr><td><b>unk_c2f6938</b></td><td><code>0</code></td></tr><tr><td><b>unk_49895f1</b></td><td><code>0</code></td></tr><tr><td><b>nLevelScalingMax</b></td><td><code>0</code></td></tr><tr><td><b>nLevelScalingMin</b></td><td><code>0</code></td></tr></table>
-
-
 <table><tr><th colspan="100%">LevelScalingData</th></tr><tr><td><b>unk_49895f1</b></td><td><code>0</code></td></tr><tr><td><b>nLevelScalingMax</b></td><td><code>0</code></td></tr><tr><td><b>nLevelScalingMin</b></td><td><code>0</code></td></tr><tr><td><b>unk_c2f6938</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">LevelScalingData</th></tr><tr><td><b>nLevelScalingMin</b></td><td><code>0</code></td></tr><tr><td><b>unk_c2f6938</b></td><td><code>0</code></td></tr><tr><td><b>unk_49895f1</b></td><td><code>0</code></td></tr><tr><td><b>nLevelScalingMax</b></td><td><code>0</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">LevelScalingData</th></tr><tr><td><b>nLevelScalingMax</b></td><td><code>0</code></td></tr><tr><td><b>nLevelScalingMin</b></td><td><code>0</code></td></tr><tr><td><b>unk_c2f6938</b></td><td><code>0</code></td></tr><tr><td><b>unk_49895f1</b></td><td><code>0</code></td></tr></table>
 
 
-</td></tr><tr><td><b>tServices</b></td><td><table><tr><th colspan="100%">SupportedServices</th></tr><tr><td><b>fStash</b></td><td><code>0</code></td></tr><tr><td><b>fWardrobe</b></td><td><code>0</code></td></tr><tr><td><b>fVendor</b></td><td><code>0</code>
+</td></tr><tr><td><b>tServices</b></td><td><table><tr><th colspan="100%">SupportedServices</th></tr><tr><td><b>fCrafter</b></td><td><code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_2922760</b></td><td><code>0</code></td></tr><tr><td><b>unk_8ff5457</b></td><td><code>0</code></td></tr><tr><td><b>fHealer</b></td><td><code>0</code></td></tr><tr><td><b>fStash</b></td><td><code>0</code></td></tr><tr><td><b>fWardrobe</b></td><td><code>0</code></td></tr><tr><td><b>fVendor</b></td><td><code>0</code>
 <code>0</code>
 <code>0</code>
 <code>0</code>
@@ -28,12 +33,7 @@
 <code>0</code>
 <code>0</code>
 <code>0</code>
-</td></tr><tr><td><b>fCrafter</b></td><td><code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_2922760</b></td><td><code>0</code></td></tr><tr><td><b>unk_8ff5457</b></td><td><code>0</code></td></tr><tr><td><b>fHealer</b></td><td><code>0</code></td></tr></table>
+</td></tr></table>
 
 </td></tr><tr><td><b>dwFlags</b></td><td><code>640</code></td></tr></table>
 

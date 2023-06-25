@@ -3,13 +3,13 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"Who did this?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2439728849</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.FA726</code></td></tr><tr><td><b>szText</b></td><td><code>A woman. Vigo, it was one of the women you sent.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.FA726</code></td></tr><tr><td><b>szText</b></td><td><code>A woman. Vigo, it was one of the women you sent.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2439728849</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.FA726</code></td></tr><tr><td><b>szText</b></td><td><code>frantic, disoriented. he is dying</code></td></tr><tr><td><b>hLabel</b></td><td><code>7648510</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>7648510</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.FA726</code></td></tr><tr><td><b>szText</b></td><td><code>frantic, disoriented. he is dying</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.FA726</code></td></tr><tr><td><b>szText</b></td><td><code>Only she wasn’t human, she was a...a demon, like the statue! Claimed she mothered Sanctuary. It was a damn bloodbath.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3310633429</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3310633429</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line9.FA726</code></td></tr><tr><td><b>szText</b></td><td><code>Only she wasn’t human, she was a...a demon, like the statue! Claimed she mothered Sanctuary. It was a damn bloodbath.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.FA726</code></td></tr><tr><td><b>szText</b></td><td><code>calming down but still dying</code></td></tr><tr><td><b>hLabel</b></td><td><code>878553090</code></td></tr></table>
@@ -21,10 +21,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.FA726</code></td></tr><tr><td><b>szText</b></td><td><code>She begged for her life. Lilith spared her, led her deeper in. Give up, girl. She’s lost.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1921859550</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line23.FA726</code></td></tr><tr><td><b>szText</b></td><td><code>Vigo, you must listen. Steel did nothing. Spells, prayers. All useless. Go to Kor Valar. Tell Prava. Raise the army, the Father. Evil itself walks Sanctuary.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4173565505</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4173565505</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line23.FA726</code></td></tr><tr><td><b>szText</b></td><td><code>Vigo, you must listen. Steel did nothing. Spells, prayers. All useless. Go to Kor Valar. Tell Prava. Raise the army, the Father. Evil itself walks Sanctuary.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line25.FA726</code></td></tr><tr><td><b>szText</b></td><td><code>(groan) Do this for me...</code></td></tr><tr><td><b>hLabel</b></td><td><code>2461534147</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>(groan) Do this for me...</code></td></tr><tr><td><b>hLabel</b></td><td><code>2461534147</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line25.FA726</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line27.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>He is dead.</code></td></tr><tr><td><b>hLabel</b></td><td><code>692736553</code></td></tr></table>
@@ -48,16 +48,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>361506570</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line37.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>You’re leaving us? Abandoning her?</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>There’s nothing left to abandon. (sigh) She's good as dead. I’m sorry, kid.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2944442508</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line39.6DE47</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line39.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>There’s nothing left to abandon. (sigh) She's good as dead. I’m sorry, kid.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2944442508</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>871403365</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line41.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>H-he really just left us.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line41.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>H-he really just left us.</code></td></tr><tr><td><b>hLabel</b></td><td><code>871403365</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir41.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>disbelief</code></td></tr><tr><td><b>hLabel</b></td><td><code>2217130802</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3454339303</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line43.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>It's up to us now.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line43.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>It's up to us now.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3454339303</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Description</code></td></tr><tr><td><b>szText</b></td><td><code>A cache of gems used to pay off a bandit. </code></td></tr><tr><td><b>hLabel</b></td><td><code>2789670820</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Flavor</code></td></tr><tr><td><b>szText</b></td><td><code>Precious gems embody innate magical abilities. When set into a socketed item these gems can add powerful magic effects. Higher grades of gems have stronger effects.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4123507722</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Precious gems embody innate magical abilities. When set into a socketed item these gems can add powerful magic effects. Higher grades of gems have stronger effects.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4123507722</code></td></tr><tr><td><b>szLabel</b></td><td><code>Flavor</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

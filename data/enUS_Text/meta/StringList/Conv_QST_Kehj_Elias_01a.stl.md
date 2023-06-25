@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Found a quiet spot where she can focus on controlling Andariel’s presence.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2382904910</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Is it safe to leave her here?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1698173014</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1698173014</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line13.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Is it safe to leave her here?</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Safer than stumbling blind through the desert—at least until we find a reliable guide.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1865035611</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.6D03F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Safer than stumbling blind through the desert—at least until we find a reliable guide.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1865035611</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

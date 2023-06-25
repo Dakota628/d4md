@@ -6,7 +6,7 @@
 <code>0</code>
 <code>0</code>
 <code>0</code>
-</td></tr><tr><td><b>arAffixes</b></td><td><a href="..\ParagonGlyphAffix\BurningDamage_Willpower_Side.gaf">[DT_SNO] ParagonGlyphAffix: "BurningDamage_Willpower_Side"</a>
-<a href="..\ParagonGlyphAffix\Power_007_Willpower_Side.gaf">[DT_SNO] ParagonGlyphAffix: "Power_007_Willpower_Side"</a>
+</td></tr><tr><td><b>arAffixes</b></td><td><a href="..\ParagonGlyphAffix\BurningDamage_Willpower_Side.gaf.md">[DT_SNO] ParagonGlyphAffix: "BurningDamage_Willpower_Side"</a>
+<a href="..\ParagonGlyphAffix\Power_007_Willpower_Side.gaf.md">[DT_SNO] ParagonGlyphAffix: "Power_007_Willpower_Side"</a>
 </td></tr></table>
 

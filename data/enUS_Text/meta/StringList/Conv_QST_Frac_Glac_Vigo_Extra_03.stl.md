@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Ah, no. I’m not ready, not by a long shot. Even if I could survive the trail, there’s no telling what would happen in the end.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1512058033</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>You, though--you have a solid chance.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094993971</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>You, though--you have a solid chance.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094993971</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.6DE47</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>bitter</code></td></tr><tr><td><b>hLabel</b></td><td><code>1662913632</code></td></tr></table>

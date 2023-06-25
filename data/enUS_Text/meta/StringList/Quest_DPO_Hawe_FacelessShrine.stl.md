@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback13Header</code></td></tr><tr><td><b>szText</b></td><td><code>Destroy the {MONSTER}: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>530138074</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback20Header</code></td></tr><tr><td><b>szText</b></td><td><code>Travel to the {LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>619471480</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>619471480</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback20Header</code></td></tr><tr><td><b>szText</b></td><td><code>Travel to the {LEVELAREA}</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback27Header</code></td></tr><tr><td><b>szText</b></td><td><code>Free the Prisoners: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1069812671</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Free the Prisoners: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1069812671</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback27Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback35Header</code></td></tr><tr><td><b>szText</b></td><td><code>Travel to the {LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2450614046</code></td></tr></table>

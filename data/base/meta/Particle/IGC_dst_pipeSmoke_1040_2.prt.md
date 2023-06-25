@@ -1,93 +1,13 @@
 <h1>data/base/meta/Particle/IGC_dst_pipeSmoke_1040_2.prt</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/Particle/IGC_dst_pipeSmoke_1040_2.prt</td></tr><tr><td><b>Type</b></td><td>ParticleDefinition</td></tr><tr><td><b>SNO ID</b></td><td>500918</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_fabd80a</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_a748ce7</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>dwFlags</b></td><td><code>12</code></td></tr></table>
-
-</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.03999999910593033</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.03999999910593033</code></td></tr><tr><td><b>tTime</b></td><td><code>0.002298850566148758</code></td></tr></table>
-
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>pathParticleAlpha</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_63560e2</b></td><td><table><tr><th colspan="100%">Type_cc354444</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
 </td></tr></table>
 
 
-</td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr><tr><td><b>tValueMin</b></td><td><code>0</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMax</b></td><td><code>0.6237733960151672</code></td></tr><tr><td><b>tTime</b></td><td><code>0.02836107835173607</code></td></tr><tr><td><b>tValueMin</b></td><td><code>0.5707288980484009</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.7635308504104614</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.8573901653289795</code></td></tr><tr><td><b>tTime</b></td><td><code>0.059128087013959885</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.8561643362045288</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.9762619137763977</code></td></tr><tr><td><b>tTime</b></td><td><code>0.09779594838619232</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.8993423581123352</code></td></tr><tr><td><b>tValueMax</b></td><td><code>1</code></td></tr><tr><td><b>tTime</b></td><td><code>0.13769781589508057</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.8352266550064087</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.9533946514129639</code></td></tr><tr><td><b>tTime</b></td><td><code>0.18528379499912262</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tTime</b></td><td><code>0.3332500755786896</code></td></tr><tr><td><b>tValueMin</b></td><td><code>0.25140580534935</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.3557279109954834</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.13848726451396942</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.23848728835582733</code></td></tr><tr><td><b>tTime</b></td><td><code>0.4121881127357483</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.07426315546035767</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.16433237493038177</code></td></tr><tr><td><b>tTime</b></td><td><code>0.4853595197200775</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMax</b></td><td><code>0.10869210958480835</code></td></tr><tr><td><b>tTime</b></td><td><code>0.584751307964325</code></td></tr><tr><td><b>tValueMin</b></td><td><code>0.03334965929389</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0</code></td></tr><tr><td><b>tTime</b></td><td><code>0.7483713626861572</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0</code></td></tr><tr><td><b>tTime</b></td><td><code>0.8565022349357605</code></td></tr></table>
-
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>pathAngularPosition</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>dwFlags</b></td><td><code>8</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>-3.1415927410125732</code></td></tr><tr><td><b>tValueMax</b></td><td><code>3.1415927410125732</code></td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>tSystemDuration</b></td><td><code>4.289999961853027</code></td></tr><tr><td><b>tPrepumpDuration</b></td><td><code>0</code></td></tr><tr><td><b>unk_63560e2</b></td><td><table><tr><th colspan="100%">Type_cc354444</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>dwFlags</b></td><td><code>4</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>dwFlags</b></td><td><code>4</code></td></tr></table>
 
 </td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77e24bbd</th></tr><tr><td><b>tValueMin</b></td><td><code>0</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0</code></td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
 
@@ -98,199 +18,25 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>pathInitialSourceRelativeVelocity</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>dwFlags</b></td><td><code>12</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_8f7c9c1</b></td><td></td></tr><tr><td><b>pathOrientationVelocity</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>dwFlags</b></td><td><code>4</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>0</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td></td></tr></table>
-
-</td></tr><tr><td><b>ptArrayNodes</b></td><td></td></tr></table>
-
-
-</td></tr><tr><td><b>pathOrientationAxis</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>unk_8535190</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
 </td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
 </td></tr></table>
 
 
-</td></tr><tr><td><b>dwFlags</b></td><td><code>12</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_8dc0a2c</b></td><td></td></tr><tr><td><b>unk_16aecc9</b></td><td><code>0</code></td></tr><tr><td><b>unk_a4cad4f</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>unk_8c4fe0</b></td><td></td></tr><tr><td><b>pathMotionCylinderRadialPos</b></td><td></td></tr><tr><td><b>unk_daaa964</b></td><td><code>0</code></td></tr><tr><td><b>unk_12ce589</b></td><td><code>1</code></td></tr><tr><td><b>pathMotionSphereRadialVel</b></td><td></td></tr><tr><td><b>unk_3ddfeb2</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr></table>
-
-
 <table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>dwFlags</b></td><td><code>4</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr></table>
-
-
-</td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>pathMotionAttractorVel</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>34616345</code></td></tr><tr><td><b>tOutroDuration</b></td><td><code>0.5</code></td></tr><tr><td><b>unk_4acb006</b></td><td></td></tr><tr><td><b>unk_f627bde</b></td><td></td></tr><tr><td><b>unk_3e0459a</b></td><td><code>15</code></td></tr><tr><td><b>unk_75794f7</b></td><td><code>0</code></td></tr><tr><td><b>tSystemDurationScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_e44919</b></td><td></td></tr><tr><td><b>unk_5e70a3d</b></td><td></td></tr><tr><td><b>unk_ed6436f</b></td><td></td></tr><tr><td><b>unk_d59152e</b></td><td><code>0</code></td></tr><tr><td><b>pathSystemAlpha</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>dwFlags</b></td><td><code>4</code></td></tr></table>
-
-</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>1</code></td></tr><tr><td><b>tValueMax</b></td><td><code>1</code></td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tTime</b></td><td><code>0.9960421919822693</code></td></tr><tr><td><b>tValueMin</b></td><td><code>1</code></td></tr><tr><td><b>tValueMax</b></td><td><code>1</code></td></tr></table>
-
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>flExplosionFriction</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwMaxSize</b></td><td><code>0</code></td></tr><tr><td><b>pathVectorFieldRotation</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>dwFlags</b></td><td><code>12</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
-
-
-</td></tr></table>
-
-</td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>pathParticleDuration</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>dwFlags</b></td><td><code>8</code></td></tr></table>
-
-</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr><tr><td><b>tValueMin</b></td><td><code>2.9604873657226562</code></td></tr><tr><td><b>tValueMax</b></td><td><code>3.400454044342041</code></td></tr></table>
-
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_8535190</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr></table>
 
 
 </td></tr><tr><td><b>dwFlags</b></td><td><code>12</code></td></tr></table>
@@ -303,126 +49,42 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>pathSystemSpeedDurationFactor</b></td><td></td></tr><tr><td><b>ptEmitter</b></td><td><table><tr><th colspan="100%">Type_fbeaa6f5</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>fSequential</b></td><td><code>1</code></td></tr><tr><td><b>szSubObjectName</b></td><td><code>1279365265</code></td></tr><tr><td><b>unk_5302075</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>unk_24aa41d</b></td><td></td></tr><tr><td><b>tLookLink</b></td><td><table><tr><th colspan="100%">LookLink</th></tr><tr><td><b>dwLookHash</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
-
-
-</td></tr><tr><td><b>dwFlags</b></td><td><code>8</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0</code></td></tr><tr><td><b>tValueMax</b></td><td><code>1</code></td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr></table>
-
-</td></tr><tr><td><b>dwType</b></td><td><code>4226459381</code></td></tr></table>
-
-
-</td></tr><tr><td><b>eRenderDistance</b></td><td><code>1</code></td></tr><tr><td><b>pathOrientationPosition</b></td><td></td></tr><tr><td><b>dwMinSize</b></td><td><code>0</code></td></tr><tr><td><b>pathMotionCylinderAngleVel</b></td><td></td></tr><tr><td><b>pathMotionSphereRadialPos</b></td><td></td></tr><tr><td><b>nFacing</b></td><td><code>0</code></td></tr><tr><td><b>unk_a0877a9</b></td><td><code>1</code></td></tr><tr><td><b>flNormalBias</b></td><td><code>0</code></td></tr><tr><td><b>flMass</b></td><td><code>0.45399999618530273</code></td></tr><tr><td><b>pathParticleScale</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>dwFlags</b></td><td><code>4</code></td></tr></table>
-
-</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.6522838473320007</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.6522838473320007</code></td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tTime</b></td><td><code>0.15127956867218018</code></td></tr><tr><td><b>tValueMin</b></td><td><code>0.9630878567695618</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.9630878567695618</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>1.2992302179336548</code></td></tr><tr><td><b>tValueMax</b></td><td><code>1.2992302179336548</code></td></tr><tr><td><b>tTime</b></td><td><code>0.3033688962459564</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>3.903834342956543</code></td></tr><tr><td><b>tValueMax</b></td><td><code>3.903834342956543</code></td></tr><tr><td><b>tTime</b></td><td><code>1</code></td></tr></table>
-
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>pathInitialSourceRelativeSpread</b></td><td></td></tr><tr><td><b>unk_a79a409</b></td><td><code>0.5</code></td></tr><tr><td><b>unk_cddc4fd</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>unk_da1d404</b></td><td><code>0</code></td></tr><tr><td><b>pathSystemAlpha</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
 </td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>dwFlags</b></td><td><code>4</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMax</b></td><td><code>1</code></td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr><tr><td><b>tValueMin</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>1</code></td></tr><tr><td><b>tValueMax</b></td><td><code>1</code></td></tr><tr><td><b>tTime</b></td><td><code>0.9960421919822693</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_8dc0a2c</b></td><td></td></tr><tr><td><b>dwMinSize</b></td><td><code>0</code></td></tr><tr><td><b>unk_817d767</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>34616345</code></td></tr><tr><td><b>pathSystemCount</b></td><td><table><tr><th colspan="100%">Type_cc354444</th></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77e24bbd</th></tr><tr><td><b>tValueMin</b></td><td><code>0</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0</code></td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr></table>
 
 
 </td></tr><tr><td><b>dwFlags</b></td><td><code>12</code></td></tr></table>
 
-</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr></table>
-
 </td></tr></table>
 
 
-</td></tr><tr><td><b>pathMotionRelativeCartesianPos</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.014137, 0.050000, 0.038647)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.014137, 0.050000, 0.047489)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.108881, 0.050000, 0.038647)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.108881, 0.050000, 0.047489)</td></tr><tr><td><b>tTime</b></td><td><code>0.08829045295715332</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.123695, 0.050000, 0.038647)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.123695, 0.050000, 0.047489)</td></tr><tr><td><b>tTime</b></td><td><code>0.18548554182052612</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tTime</b></td><td><code>0.2892376780509949</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.123340, 0.050000, 0.038647)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.123340, 0.050000, 0.047489)</td></tr></table>
-
-
-</td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>pathMotionRelativeCartesianVel</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>unk_4acb006</b></td><td></td></tr><tr><td><b>pathSystemSpeedSpawnRate</b></td><td></td></tr><tr><td><b>flExplosionFriction</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>pathOrientationPosition</b></td><td></td></tr><tr><td><b>unk_16aecc9</b></td><td><code>0</code></td></tr><tr><td><b>unk_63d7722</b></td><td><code>16</code></td></tr><tr><td><b>pathVectorFieldRotation</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
 </td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
@@ -436,140 +98,14 @@
 </td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr></table>
 
 
-</td></tr><tr><td><b>dwFlags</b></td><td><code>4</code></td></tr></table>
-
-</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMax</b></td><td>Vector(0.100000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(0.100000, 0.000000, 0.000000)</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.019005, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.019005, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0.5108181238174438</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.008945, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.008945, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0.6123096346855164</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.004386, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.004386, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0.7344139814376831</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000685, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000685, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0.9954022765159607</code></td></tr></table>
-
-
-</td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_da1d404</b></td><td><code>0</code></td></tr><tr><td><b>pathInitialScale</b></td><td></td></tr><tr><td><b>unk_24aa41d</b></td><td></td></tr><tr><td><b>tLookLink</b></td><td><table><tr><th colspan="100%">LookLink</th></tr><tr><td><b>dwLookHash</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_68b6b45</b></td><td></td></tr><tr><td><b>pathMotionCylinderRadialVel</b></td><td></td></tr><tr><td><b>unk_3de5852</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
 </td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.169593)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.360002)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, -0.015151)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.034849)</td></tr><tr><td><b>tTime</b></td><td><code>0.6112763285636902</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, -0.048535)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.001465)</td></tr><tr><td><b>tTime</b></td><td><code>0.7701407670974731</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, -0.069416)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, -0.019416)</td></tr><tr><td><b>tTime</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-
-</td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_afccc6</b></td><td></td></tr><tr><td><b>pathSystemSpeedSpawnRate</b></td><td></td></tr><tr><td><b>unk_79fc11d</b></td><td></td></tr><tr><td><b>unk_a8c5217</b></td><td></td></tr><tr><td><b>wdBoundingRadius</b></td><td><code>10</code></td></tr><tr><td><b>pathMotionAttractorPos</b></td><td></td></tr><tr><td><b>unk_15ea201</b></td><td></td></tr><tr><td><b>pathSystemCount</b></td><td><table><tr><th colspan="100%">Type_cc354444</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr></table>
 
 
 </td></tr><tr><td><b>dwFlags</b></td><td><code>12</code></td></tr></table>
-
-</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77e24bbd</th></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr><tr><td><b>tValueMin</b></td><td><code>0</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>flClutterZOffset</b></td><td><code>0</code></td></tr><tr><td><b>pathParticleColor</b></td><td><table><tr><th colspan="100%">Type_560ae4cf</th></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_977100c8</th></tr><tr><td><b>tValueMin</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>r</b></td><td><code>124</code></td></tr><tr><td><b>g</b></td><td><code>131</code></td></tr><tr><td><b>b</b></td><td><code>139</code></td></tr><tr><td><b>a</b></td><td><code>255</code></td></tr></table>
-
-</td></tr><tr><td><b>tValueMax</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>b</b></td><td><code>255</code></td></tr><tr><td><b>a</b></td><td><code>255</code></td></tr><tr><td><b>r</b></td><td><code>240</code></td></tr><tr><td><b>g</b></td><td><code>246</code></td></tr></table>
-
-</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
-
-
-</td></tr><tr><td><b>dwFlags</b></td><td><code>8</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_5a7f188</b></td><td><code>1</code></td></tr><tr><td><b>dwFlagsEx</b></td><td><code>503357696</code></td></tr><tr><td><b>dwMaxSystems</b></td><td><code>0</code></td></tr><tr><td><b>unk_2d865ba</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>ptArrayNodes</b></td><td></td></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>dwFlags</b></td><td><code>4</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>0</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_a68a7e0</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>dwFlags</b></td><td><code>12</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
 
@@ -579,14 +115,62 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>pathMotionCylinderAxis</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\IGC_dst_pipeSmoke_1040_2.mat.md">[DT_SNO] Material: "IGC_dst_pipeSmoke_1040_2"</a></td></tr><tr><td><b>pathParticleAlpha</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0</code></td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.5707288980484009</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.6237733960151672</code></td></tr><tr><td><b>tTime</b></td><td><code>0.02836107835173607</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.7635308504104614</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.8573901653289795</code></td></tr><tr><td><b>tTime</b></td><td><code>0.059128087013959885</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMax</b></td><td><code>0.9762619137763977</code></td></tr><tr><td><b>tTime</b></td><td><code>0.09779594838619232</code></td></tr><tr><td><b>tValueMin</b></td><td><code>0.8561643362045288</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.8993423581123352</code></td></tr><tr><td><b>tValueMax</b></td><td><code>1</code></td></tr><tr><td><b>tTime</b></td><td><code>0.13769781589508057</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.8352266550064087</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.9533946514129639</code></td></tr><tr><td><b>tTime</b></td><td><code>0.18528379499912262</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.25140580534935</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.3557279109954834</code></td></tr><tr><td><b>tTime</b></td><td><code>0.3332500755786896</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.13848726451396942</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.23848728835582733</code></td></tr><tr><td><b>tTime</b></td><td><code>0.4121881127357483</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.07426315546035767</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.16433237493038177</code></td></tr><tr><td><b>tTime</b></td><td><code>0.4853595197200775</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.03334965929389</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.10869210958480835</code></td></tr><tr><td><b>tTime</b></td><td><code>0.584751307964325</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMax</b></td><td><code>0</code></td></tr><tr><td><b>tTime</b></td><td><code>0.7483713626861572</code></td></tr><tr><td><b>tValueMin</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0</code></td></tr><tr><td><b>tTime</b></td><td><code>0.8565022349357605</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>pathParticleAlphaAux</b></td><td></td></tr><tr><td><b>unk_b92bb9a</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
@@ -600,9 +184,9 @@
 </td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
 
 
-</td></tr><tr><td><b>dwFlags</b></td><td><code>12</code></td></tr></table>
+</td></tr><tr><td><b>dwFlags</b></td><td><code>8</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 1.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 1.000000)</td></tr></table>
+</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(1.000000, 1.183899, 1.090060)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(1.000000, 2.631711, 2.146128)</td></tr></table>
 
 
 </td></tr></table>
@@ -610,18 +194,278 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>pathMotionRelativeCartesianAcc</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>unk_3ddfeb2</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>4</code></td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr></table>
+
+
+</td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>tPrepumpDuration</b></td><td><code>0</code></td></tr><tr><td><b>eRenderDistance</b></td><td><code>1</code></td></tr><tr><td><b>unk_a748ce7</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
 </td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>dwFlags</b></td><td><code>12</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr></table>
 
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMax</b></td><td><code>0.03999999910593033</code></td></tr><tr><td><b>tTime</b></td><td><code>0.002298850566148758</code></td></tr><tr><td><b>tValueMin</b></td><td><code>0.03999999910593033</code></td></tr></table>
+
 
 </td></tr></table>
+
+
+</td></tr><tr><td><b>unk_3de401d</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.008903, -0.110957, 0.013887)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.060000, -0.190957, 0.013887)</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.060000, -0.190957, 0.023954)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.008903, -0.110957, 0.050654)</td></tr><tr><td><b>tTime</b></td><td><code>0.08704618364572525</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tTime</b></td><td><code>0.154320627450943</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.060000, -0.190957, 0.032548)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.008903, -0.110957, 0.059851)</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.060000, -0.190957, 0.024647)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.008903, -0.110957, 0.047723)</td></tr><tr><td><b>tTime</b></td><td><code>0.21976448595523834</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.008903, -0.110957, 0.020947)</td></tr><tr><td><b>tTime</b></td><td><code>0.3237857520580292</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.060000, -0.190957, -0.007467)</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.060000, -0.190957, -0.081323)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.008903, -0.110957, -0.053532)</td></tr><tr><td><b>tTime</b></td><td><code>0.5007110834121704</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tTime</b></td><td><code>1</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.060000, -0.190957, -0.377384)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.008903, -0.110957, -0.261915)</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_15ea201</b></td><td></td></tr><tr><td><b>pathMotionRelativeCartesianPos</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.014137, 0.050000, 0.038647)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.014137, 0.050000, 0.047489)</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.108881, 0.050000, 0.047489)</td></tr><tr><td><b>tTime</b></td><td><code>0.08829045295715332</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.108881, 0.050000, 0.038647)</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.123695, 0.050000, 0.038647)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.123695, 0.050000, 0.047489)</td></tr><tr><td><b>tTime</b></td><td><code>0.18548554182052612</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.123340, 0.050000, 0.038647)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.123340, 0.050000, 0.047489)</td></tr><tr><td><b>tTime</b></td><td><code>0.2892376780509949</code></td></tr></table>
+
+
+</td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>wdBoundingRadius</b></td><td><code>10</code></td></tr><tr><td><b>pathSystemSpawnRate</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>4</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMax</b></td><td><code>30.932708740234375</code></td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr><tr><td><b>tValueMin</b></td><td><code>30.932708740234375</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>9.534786224365234</code></td></tr><tr><td><b>tValueMax</b></td><td><code>9.534786224365234</code></td></tr><tr><td><b>tTime</b></td><td><code>0.0757913738489151</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMax</b></td><td><code>9.67468547821045</code></td></tr><tr><td><b>tTime</b></td><td><code>0.13073328137397766</code></td></tr><tr><td><b>tValueMin</b></td><td><code>9.67468547821045</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>45.87828063964844</code></td></tr><tr><td><b>tValueMax</b></td><td><code>45.87828063964844</code></td></tr><tr><td><b>tTime</b></td><td><code>0.1551852971315384</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tTime</b></td><td><code>0.17109203338623047</code></td></tr><tr><td><b>tValueMin</b></td><td><code>20.313106536865234</code></td></tr><tr><td><b>tValueMax</b></td><td><code>20.313106536865234</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>13.127937316894531</code></td></tr><tr><td><b>tValueMax</b></td><td><code>13.127937316894531</code></td></tr><tr><td><b>tTime</b></td><td><code>0.19757847487926483</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMax</b></td><td><code>32.64335250854492</code></td></tr><tr><td><b>tTime</b></td><td><code>0.25493770837783813</code></td></tr><tr><td><b>tValueMin</b></td><td><code>32.64335250854492</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>5.980157852172852</code></td></tr><tr><td><b>tValueMax</b></td><td><code>5.980157852172852</code></td></tr><tr><td><b>tTime</b></td><td><code>0.3393024802207947</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>7.380788803100586</code></td></tr><tr><td><b>tValueMax</b></td><td><code>7.380788803100586</code></td></tr><tr><td><b>tTime</b></td><td><code>0.5998804569244385</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tTime</b></td><td><code>0.6888889670372009</code></td></tr><tr><td><b>tValueMin</b></td><td><code>24.377296447753906</code></td></tr><tr><td><b>tValueMax</b></td><td><code>24.377296447753906</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>14.383552551269531</code></td></tr><tr><td><b>tValueMax</b></td><td><code>14.383552551269531</code></td></tr><tr><td><b>tTime</b></td><td><code>0.7777777910232544</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>pathSystemSpeedDurationFactor</b></td><td></td></tr><tr><td><b>ptEmitter</b></td><td><table><tr><th colspan="100%">Type_fbeaa6f5</th></tr><tr><td><b>dwType</b></td><td><code>4226459381</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>fSequential</b></td><td><code>1</code></td></tr><tr><td><b>szSubObjectName</b></td><td><code>1279365265</code></td></tr><tr><td><b>unk_5302075</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0</code></td></tr><tr><td><b>tValueMax</b></td><td><code>1</code></td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>8</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>pathMotionCylinderRadialVel</b></td><td></td></tr><tr><td><b>pathMotionCylinderAngleVel</b></td><td></td></tr><tr><td><b>unk_afccc6</b></td><td></td></tr><tr><td><b>pathParticleDuration</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>8</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr><tr><td><b>tValueMin</b></td><td><code>2.9604873657226562</code></td></tr><tr><td><b>tValueMax</b></td><td><code>3.400454044342041</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>pathInitialSourceRelativeSpread</b></td><td></td></tr><tr><td><b>flNormalBias</b></td><td><code>0</code></td></tr><tr><td><b>flMass</b></td><td><code>0.45399999618530273</code></td></tr><tr><td><b>pathParticleColor</b></td><td><table><tr><th colspan="100%">Type_560ae4cf</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>8</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_977100c8</th></tr><tr><td><b>tValueMin</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>r</b></td><td><code>124</code></td></tr><tr><td><b>g</b></td><td><code>131</code></td></tr><tr><td><b>b</b></td><td><code>139</code></td></tr><tr><td><b>a</b></td><td><code>255</code></td></tr></table>
+
+</td></tr><tr><td><b>tValueMax</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>g</b></td><td><code>246</code></td></tr><tr><td><b>b</b></td><td><code>255</code></td></tr><tr><td><b>a</b></td><td><code>255</code></td></tr><tr><td><b>r</b></td><td><code>240</code></td></tr></table>
+
+</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_2d865ba</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>arInterpScalar</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>4</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>0</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlagsEx</b></td><td><code>503357696</code></td></tr><tr><td><b>unk_8c4fe0</b></td><td></td></tr><tr><td><b>pathOrientationAxis</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
@@ -641,103 +485,51 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>pathSystemScale</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>pathMotionSphereRadialPos</b></td><td></td></tr><tr><td><b>pathMotionAttractorVel</b></td><td></td></tr><tr><td><b>unk_cddc4fd</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>dwFlags</b></td><td><code>12</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
 </td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr></table>
 
 
-</td></tr><tr><td><b>dwFlags</b></td><td><code>12</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr></table>
+</td></tr></table>
 
-</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
-
+</td></tr></table>
 
 </td></tr></table>
 
 
-</td></tr><tr><td><b>pathSystemSpawnRate</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>30.932708740234375</code></td></tr><tr><td><b>tValueMax</b></td><td><code>30.932708740234375</code></td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>tSystemDurationScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>9.534786224365234</code></td></tr><tr><td><b>tValueMax</b></td><td><code>9.534786224365234</code></td></tr><tr><td><b>tTime</b></td><td><code>0.0757913738489151</code></td></tr></table>
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
 
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>9.67468547821045</code></td></tr><tr><td><b>tValueMax</b></td><td><code>9.67468547821045</code></td></tr><tr><td><b>tTime</b></td><td><code>0.13073328137397766</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>45.87828063964844</code></td></tr><tr><td><b>tValueMax</b></td><td><code>45.87828063964844</code></td></tr><tr><td><b>tTime</b></td><td><code>0.1551852971315384</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>20.313106536865234</code></td></tr><tr><td><b>tValueMax</b></td><td><code>20.313106536865234</code></td></tr><tr><td><b>tTime</b></td><td><code>0.17109203338623047</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMax</b></td><td><code>13.127937316894531</code></td></tr><tr><td><b>tTime</b></td><td><code>0.19757847487926483</code></td></tr><tr><td><b>tValueMin</b></td><td><code>13.127937316894531</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>32.64335250854492</code></td></tr><tr><td><b>tValueMax</b></td><td><code>32.64335250854492</code></td></tr><tr><td><b>tTime</b></td><td><code>0.25493770837783813</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>5.980157852172852</code></td></tr><tr><td><b>tValueMax</b></td><td><code>5.980157852172852</code></td></tr><tr><td><b>tTime</b></td><td><code>0.3393024802207947</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>7.380788803100586</code></td></tr><tr><td><b>tValueMax</b></td><td><code>7.380788803100586</code></td></tr><tr><td><b>tTime</b></td><td><code>0.5998804569244385</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>24.377296447753906</code></td></tr><tr><td><b>tValueMax</b></td><td><code>24.377296447753906</code></td></tr><tr><td><b>tTime</b></td><td><code>0.6888889670372009</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>14.383552551269531</code></td></tr><tr><td><b>tValueMax</b></td><td><code>14.383552551269531</code></td></tr><tr><td><b>tTime</b></td><td><code>0.7777777910232544</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>unk_12ce589</b></td><td><code>1</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_a4cad4f</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_8f7c9c1</b></td><td></td></tr><tr><td><b>tOutroDuration</b></td><td><code>0.5</code></td></tr><tr><td><b>flWindFactor</b></td><td><code>1</code></td></tr><tr><td><b>flExplosionFactor</b></td><td><code>1</code></td></tr><tr><td><b>flClutterZOffset</b></td><td><code>0</code></td></tr><tr><td><b>pathMotionCylinderRadialPos</b></td><td></td></tr><tr><td><b>unk_3e0459a</b></td><td><code>15</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>pathInitialSourceRelativeVelocity</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>dwFlags</b></td><td><code>12</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
 </td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
 
 
-</td></tr><tr><td><b>dwFlags</b></td><td><code>4</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>flWindFactor</b></td><td><code>1</code></td></tr><tr><td><b>pathParticleAlphaAux</b></td><td></td></tr><tr><td><b>unk_b92bb9a</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>dwFlags</b></td><td><code>8</code></td></tr></table>
-
-</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(1.000000, 1.183899, 1.090060)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(1.000000, 2.631711, 2.146128)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>pathAngularVelocity</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>4</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>ptArrayNodes</b></td><td></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_3de401d</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
@@ -751,81 +543,7 @@
 </td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
-
-
 </td></tr></table>
-
-</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.008903, -0.110957, 0.013887)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.060000, -0.190957, 0.013887)</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.060000, -0.190957, 0.023954)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.008903, -0.110957, 0.050654)</td></tr><tr><td><b>tTime</b></td><td><code>0.08704618364572525</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.060000, -0.190957, 0.032548)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.008903, -0.110957, 0.059851)</td></tr><tr><td><b>tTime</b></td><td><code>0.154320627450943</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.008903, -0.110957, 0.047723)</td></tr><tr><td><b>tTime</b></td><td><code>0.21976448595523834</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.060000, -0.190957, 0.024647)</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.060000, -0.190957, -0.007467)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.008903, -0.110957, 0.020947)</td></tr><tr><td><b>tTime</b></td><td><code>0.3237857520580292</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.008903, -0.110957, -0.053532)</td></tr><tr><td><b>tTime</b></td><td><code>0.5007110834121704</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.060000, -0.190957, -0.081323)</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(-0.060000, -0.190957, -0.377384)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(-0.008903, -0.110957, -0.261915)</td></tr><tr><td><b>tTime</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr></table>
-
-
-</td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>eAlignment</b></td><td><code>0</code></td></tr><tr><td><b>pathInitialWorldRelativeVelocity</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>dwFlags</b></td><td><code>12</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
 
@@ -835,5 +553,287 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>unk_475af70</b></td><td></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\IGC_dst_pipeSmoke_1040_2.mat">[DT_SNO] Material: "IGC_dst_pipeSmoke_1040_2"</a></td></tr><tr><td><b>flExplosionFactor</b></td><td><code>1</code></td></tr><tr><td><b>unk_63d7722</b></td><td><code>16</code></td></tr><tr><td><b>unk_817d767</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_68b6b45</b></td><td></td></tr><tr><td><b>unk_3de5852</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.169593)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.360002)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.034849)</td></tr><tr><td><b>tTime</b></td><td><code>0.6112763285636902</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, -0.015151)</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, -0.048535)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.001465)</td></tr><tr><td><b>tTime</b></td><td><code>0.7701407670974731</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, -0.069416)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, -0.019416)</td></tr><tr><td><b>tTime</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>340282346638528860000000000000000000000</code></td></tr></table>
+
+
+</td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>pathMotionRelativeCartesianAcc</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>12</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>nFacing</b></td><td><code>0</code></td></tr><tr><td><b>unk_a8c5217</b></td><td></td></tr><tr><td><b>pathMotionAttractorPos</b></td><td></td></tr><tr><td><b>unk_75794f7</b></td><td><code>0</code></td></tr><tr><td><b>pathSystemScale</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>12</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>pathInitialScale</b></td><td></td></tr><tr><td><b>unk_f627bde</b></td><td></td></tr><tr><td><b>pathOrientationVelocity</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>0</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>4</code></td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_a68a7e0</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>12</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>eAlignment</b></td><td><code>0</code></td></tr><tr><td><b>unk_daaa964</b></td><td><code>0</code></td></tr><tr><td><b>dwMaxSize</b></td><td><code>0</code></td></tr><tr><td><b>unk_e44919</b></td><td></td></tr><tr><td><b>unk_5e70a3d</b></td><td></td></tr><tr><td><b>unk_fabd80a</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>pathAngularPosition</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>8</code></td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>-3.1415927410125732</code></td></tr><tr><td><b>tValueMax</b></td><td><code>3.1415927410125732</code></td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>pathAngularVelocity</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>4</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>0</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_a79a409</b></td><td><code>0.5</code></td></tr><tr><td><b>unk_d59152e</b></td><td><code>0</code></td></tr><tr><td><b>pathInitialWorldRelativeVelocity</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>12</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>dwMaxSystems</b></td><td><code>0</code></td></tr><tr><td><b>pathMotionSphereRadialVel</b></td><td></td></tr><tr><td><b>unk_79fc11d</b></td><td></td></tr><tr><td><b>pathParticleScale</b></td><td><table><tr><th colspan="100%">Type_cbfdd2ea</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>4</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.6522838473320007</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.6522838473320007</code></td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>0.9630878567695618</code></td></tr><tr><td><b>tValueMax</b></td><td><code>0.9630878567695618</code></td></tr><tr><td><b>tTime</b></td><td><code>0.15127956867218018</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>1.2992302179336548</code></td></tr><tr><td><b>tValueMax</b></td><td><code>1.2992302179336548</code></td></tr><tr><td><b>tTime</b></td><td><code>0.3033688962459564</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_77aada63</th></tr><tr><td><b>tValueMin</b></td><td><code>3.903834342956543</code></td></tr><tr><td><b>tValueMax</b></td><td><code>3.903834342956543</code></td></tr><tr><td><b>tTime</b></td><td><code>1</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>pathMotionCylinderAxis</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>12</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000000, 0.000000, 1.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000000, 0.000000, 1.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_a0877a9</b></td><td><code>1</code></td></tr><tr><td><b>tSystemDuration</b></td><td><code>4.289999961853027</code></td></tr><tr><td><b>unk_475af70</b></td><td></td></tr><tr><td><b>unk_ed6436f</b></td><td></td></tr><tr><td><b>pathMotionRelativeCartesianVel</b></td><td><table><tr><th colspan="100%">VectorPath</th></tr><tr><td><b>tPathData</b></td><td><table><tr><th colspan="100%">Type_41b30aaa</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">InterpolationPathHeader</th></tr><tr><td><b>dwFlags</b></td><td><code>4</code></td></tr><tr><td><b>tLoopPointStart</b></td><td><code>0</code></td></tr><tr><td><b>tLoopPointEnd</b></td><td><code>1</code></td></tr><tr><td><b>nDistributionFunction</b></td><td><code>0</code></td></tr><tr><td><b>unk_2312508</b></td><td><code>0</code></td></tr><tr><td><b>arInterpScalar</b></td><td><table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">InterpolationScalar</th></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_2424d91</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c9a8e76</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>eRemapEasing</b></td><td><code>0</code></td></tr><tr><td><b>szFormulaName</b></td><td><code>0</code></td></tr><tr><td><b>nScalarFunction</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+</td></tr><tr><td><b>ptArrayNodes</b></td><td><table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.100000, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.100000, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.019005, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.019005, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0.5108181238174438</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMax</b></td><td>Vector(0.008945, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0.6123096346855164</code></td></tr><tr><td><b>tValueMin</b></td><td>Vector(0.008945, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.004386, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.004386, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0.7344139814376831</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_63010143</th></tr><tr><td><b>tValueMin</b></td><td>Vector(0.000685, 0.000000, 0.000000)</td></tr><tr><td><b>tValueMax</b></td><td>Vector(0.000685, 0.000000, 0.000000)</td></tr><tr><td><b>tTime</b></td><td><code>0.9954022765159607</code></td></tr></table>
+
+
+</td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_5a7f188</b></td><td><code>1</code></td></tr></table>
 

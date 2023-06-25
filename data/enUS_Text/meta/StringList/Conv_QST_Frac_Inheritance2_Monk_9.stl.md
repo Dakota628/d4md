@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.123EBF</code></td></tr><tr><td><b>szText</b></td><td><code>tired and now with a guilty conscience, somewhat sad</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742287287</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.123EBF</code></td></tr><tr><td><b>szText</b></td><td><code>I know not what has become of the souls of its victims. We can but pray they have found the Light.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734099884</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I know not what has become of the souls of its victims. We can but pray they have found the Light.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734099884</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.123EBF</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.123EBF</code></td></tr><tr><td><b>szText</b></td><td><code>tired and now with a guilty conscience, somewhat sad</code></td></tr><tr><td><b>hLabel</b></td><td><code>3079827321</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3079827321</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.123EBF</code></td></tr><tr><td><b>szText</b></td><td><code>tired and now with a guilty conscience, somewhat sad</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

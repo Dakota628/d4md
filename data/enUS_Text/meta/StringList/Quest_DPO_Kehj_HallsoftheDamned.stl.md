@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback64Header</code></td></tr><tr><td><b>szText</b></td><td><code>Travel to the {LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>165456128</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2837725472</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback73Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat the {MONSTER}</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback73Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat the {MONSTER}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2837725472</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

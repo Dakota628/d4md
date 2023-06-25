@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Complete events in different areas of the Highland Wilds: {DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>198908091</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback23Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback23Header</code></td></tr><tr><td><b>szText</b></td><td><code>Complete events in different areas of the Highland Wilds: {DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>198908091</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

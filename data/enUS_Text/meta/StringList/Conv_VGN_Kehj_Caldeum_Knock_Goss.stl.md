@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>The city lies in shambles after what the heretics have done!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2435053784</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>voice raised; intended to be heard by cultist within the house</code></td></tr><tr><td><b>hLabel</b></td><td><code>2973445</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.BC41C</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2973445</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>voice raised; intended to be heard by cultist within the house</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

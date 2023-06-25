@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.F738E</code></td></tr><tr><td><b>szText</b></td><td><code>“Mew, mew, mew!” Ugh, spoiled rotten.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150246742</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Mocking Cinder's annoying meow. Acting like he doesn't love her.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1718166403</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.F738E</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.F738E</code></td></tr><tr><td><b>szText</b></td><td><code>Mocking Cinder's annoying meow. Acting like he doesn't love her.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1718166403</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

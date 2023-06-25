@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DebugLegendController</code></td></tr><tr><td><b>szText</b></td><td><code>{icon:button2, 2.0} Return to Skills</code></td></tr><tr><td><b>hLabel</b></td><td><code>828170394</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2377208852</code></td></tr><tr><td><b>szLabel</b></td><td><code>MajorSkillsHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Key Passives</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MajorSkillsHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Key Passives</code></td></tr><tr><td><b>hLabel</b></td><td><code>2377208852</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MinorSkillsHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Minor Passives</code></td></tr><tr><td><b>hLabel</b></td><td><code>2088253984</code></td></tr></table>
@@ -21,13 +21,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3121798029</code></td></tr><tr><td><b>szLabel</b></td><td><code>SpiritSkills</code></td></tr><tr><td><b>szText</b></td><td><code>Druidic Passives</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkillTreeGateTooltip</code></td></tr><tr><td><b>szText</b></td><td><code>Spend the number of Skill Points indicated to enable this connection</code></td></tr><tr><td><b>hLabel</b></td><td><code>2094528347</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Spend the number of Skill Points indicated to enable this connection</code></td></tr><tr><td><b>hLabel</b></td><td><code>2094528347</code></td></tr><tr><td><b>szLabel</b></td><td><code>SkillTreeGateTooltip</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkillPointsSpent</code></td></tr><tr><td><b>szText</b></td><td><code>{s1} |4point:points; spent</code></td></tr><tr><td><b>hLabel</b></td><td><code>2236803686</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkillModCoreStatText</code></td></tr><tr><td><b>szText</b></td><td><code>{s1}: {s2}</code></td></tr><tr><td><b>hLabel</b></td><td><code>175914825</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>175914825</code></td></tr><tr><td><b>szLabel</b></td><td><code>SkillModCoreStatText</code></td></tr><tr><td><b>szText</b></td><td><code>{s1}: {s2}</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkillModTooltipLabel</code></td></tr><tr><td><b>szText</b></td><td><code>Modifies {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>768618986</code></td></tr></table>
@@ -36,7 +36,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkillModTooltipHeader</code></td></tr><tr><td><b>szText</b></td><td><code>{s1} Upgrade {s2}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3737755027</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkillModReqSingle</code></td></tr><tr><td><b>szText</b></td><td><code>{s1} {s2}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3897114665</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>{s1} {s2}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3897114665</code></td></tr><tr><td><b>szLabel</b></td><td><code>SkillModReqSingle</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkillModReqDouble</code></td></tr><tr><td><b>szText</b></td><td><code>{s1} {s2} and {s3} {s4}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3317445410</code></td></tr></table>
@@ -54,7 +54,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SaveChanges</code></td></tr><tr><td><b>szText</b></td><td><code>Save Stat Changes</code></td></tr><tr><td><b>hLabel</b></td><td><code>376625960</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>385501901</code></td></tr><tr><td><b>szLabel</b></td><td><code>SkillPointsNoneAvailable</code></td></tr><tr><td><b>szText</b></td><td><code>No Skill Points Available</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkillPointsNoneAvailable</code></td></tr><tr><td><b>szText</b></td><td><code>No Skill Points Available</code></td></tr><tr><td><b>hLabel</b></td><td><code>385501901</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SpendStatPoints</code></td></tr><tr><td><b>szText</b></td><td><code>Spend Stat Points</code></td></tr><tr><td><b>hLabel</b></td><td><code>3276055955</code></td></tr></table>
@@ -72,7 +72,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>OpenSpiritPanel</code></td></tr><tr><td><b>szText</b></td><td><code>Open Spirit Panel</code></td></tr><tr><td><b>hLabel</b></td><td><code>1679678365</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AvailablePoints</code></td></tr><tr><td><b>szText</b></td><td><code>Available Points</code></td></tr><tr><td><b>hLabel</b></td><td><code>3474286814</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3474286814</code></td></tr><tr><td><b>szLabel</b></td><td><code>AvailablePoints</code></td></tr><tr><td><b>szText</b></td><td><code>Available Points</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BackToPanel</code></td></tr><tr><td><b>szText</b></td><td><code>Back</code></td></tr><tr><td><b>hLabel</b></td><td><code>1301544356</code></td></tr></table>
@@ -81,7 +81,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Close</code></td></tr><tr><td><b>szText</b></td><td><code>Close</code></td></tr><tr><td><b>hLabel</b></td><td><code>121412150</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1371572221</code></td></tr><tr><td><b>szLabel</b></td><td><code>ControllerPrompt_SkillAssignment</code></td></tr><tr><td><b>szText</b></td><td><code>Skill Assignment</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ControllerPrompt_SkillAssignment</code></td></tr><tr><td><b>szText</b></td><td><code>Skill Assignment</code></td></tr><tr><td><b>hLabel</b></td><td><code>1371572221</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ExclusiveChoice_SkillMod</code></td></tr><tr><td><b>szText</b></td><td><code>{c_warning}You may only select one upgrade.{/c}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1388235009</code></td></tr></table>
@@ -90,13 +90,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ExclusiveChoice_Ultimate</code></td></tr><tr><td><b>szText</b></td><td><code>{c_warning}You may only select one Ultimate Skill.{/c}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2444197607</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>825330186</code></td></tr><tr><td><b>szLabel</b></td><td><code>ExclusiveChoice_Talent</code></td></tr><tr><td><b>szText</b></td><td><code>{c_warning}You may only select one Key Passive.{/c}</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ExclusiveChoice_Talent</code></td></tr><tr><td><b>szText</b></td><td><code>{c_warning}You may only select one Key Passive.{/c}</code></td></tr><tr><td><b>hLabel</b></td><td><code>825330186</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SkillPoint_Value</code></td></tr><tr><td><b>szText</b></td><td><code>{icon:Skill_Icon, 1.7}{s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1457122373</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KeyPassive_RootNode_Tooltip</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}Key Passives{/c} drive vital synergies through unique interactions</code></td></tr><tr><td><b>hLabel</b></td><td><code>4063103735</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>{c_important}Key Passives{/c} drive vital synergies through unique interactions</code></td></tr><tr><td><b>hLabel</b></td><td><code>4063103735</code></td></tr><tr><td><b>szLabel</b></td><td><code>KeyPassive_RootNode_Tooltip</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

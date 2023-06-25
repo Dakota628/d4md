@@ -1,6 +1,6 @@
 <h1>data/base/meta/VectorField/FGweatherVFX_sand.vfd</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/VectorField/FGweatherVFX_sand.vfd</td></tr><tr><td><b>Type</b></td><td>VectorFieldDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1315726</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>flMagMax</b></td><td><code>2.306299924850464</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.038147, 0.020073, 0.023178)</td></tr><tr><td><b>wvExt</b></td><td>Vector(224.956467, 224.915833, 224.918839)</td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.038147, 0.020073, 0.023178)</td></tr><tr><td><b>wvExt</b></td><td>Vector(224.956467, 224.915833, 224.918839)</td></tr></table>
 
 </td></tr><tr><td><b>ptSamples</b></td><td>Vector(0.236238, 0.480684, -0.450967)
 Vector(0.444882, -0.449414, 0.265105)
@@ -3377,5 +3377,5 @@ Vector(-0.832478, 0.455062, 0.293509)
 Vector(-0.832478, 0.455062, 0.293509)
 Vector(-0.077775, 0.553509, -0.073341)
 Vector(-0.077775, 0.553509, -0.073341)
-</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>15</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>15</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>15</code></td></tr><tr><td><b>flMagMin</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>15</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>15</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>15</code></td></tr><tr><td><b>flMagMin</b></td><td><code>0</code></td></tr><tr><td><b>flMagMax</b></td><td><code>2.306299924850464</code></td></tr></table>
 

@@ -6,16 +6,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>You assume we’re treasure hunters, don’t you?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1512058033</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>A little defensive</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374944990</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3374944990</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>A little defensive</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>I’m not assuming anything. I just want some answers.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3639732837</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3639732837</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>I’m not assuming anything. I just want some answers.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Look, ever since I can remember, my mother took me around looking for Horadric artifacts. It was an obsession.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2382962613</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Look, ever since I can remember, my mother took me around looking for Horadric artifacts. It was an obsession.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2382962613</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.6DE47</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>670931255</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>And when she learned of this vault and wanted to find it… I couldn’t say no.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>And when she learned of this vault and wanted to find it… I couldn’t say no.</code></td></tr><tr><td><b>hLabel</b></td><td><code>670931255</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

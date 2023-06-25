@@ -15,7 +15,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase18Description</code></td></tr><tr><td><b>szText</b></td><td><code>The hideout discovered, it's time to confront the Triune cultists.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3094831582</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase21Description</code></td></tr><tr><td><b>szText</b></td><td><code>The hideout discovered, it's time to confront the Triune cultists.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2972638648</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>The hideout discovered, it's time to confront the Triune cultists.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2972638648</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase21Description</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback23Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the Triune cultists</code></td></tr><tr><td><b>hLabel</b></td><td><code>198908091</code></td></tr></table>

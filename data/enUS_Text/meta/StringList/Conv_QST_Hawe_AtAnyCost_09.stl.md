@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>If Symon and Elias ventured to Backwater, then so too shall I.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3639732837</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>572571378</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Pronounciation: Simon</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Pronounciation: Simon</code></td></tr><tr><td><b>hLabel</b></td><td><code>572571378</code></td></tr></table>
 
 
 </td></tr></table>

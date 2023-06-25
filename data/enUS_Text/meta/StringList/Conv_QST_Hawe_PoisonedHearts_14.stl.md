@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line17.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>But she left you a letter, there on the table.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1079148872</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir17.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>In contrast with the previous line, you break your cold exterior and try to be a bit warm. The player wasn't able to say goodbye to your student but you know how important she was to them.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2424876309</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2424876309</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir17.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>In contrast with the previous line, you break your cold exterior and try to be a bit warm. The player wasn't able to say goodbye to your student but you know how important she was to them.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

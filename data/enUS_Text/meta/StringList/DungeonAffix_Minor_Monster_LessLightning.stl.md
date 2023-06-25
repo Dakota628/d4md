@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Monsters Lightning Resist</code></td></tr><tr><td><b>hLabel</b></td><td><code>4005362479</code></td></tr><tr><td><b>szLabel</b></td><td><code>AffixName</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AffixDesc_Legendary</code></td></tr><tr><td><b>szText</b></td><td><code>Monsters take 40% less Lightning damage.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3122115623</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3122115623</code></td></tr><tr><td><b>szLabel</b></td><td><code>AffixDesc_Legendary</code></td></tr><tr><td><b>szText</b></td><td><code>Monsters take 40% less Lightning damage.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AffixDesc_Rare</code></td></tr><tr><td><b>szText</b></td><td><code>Monsters take 30% less Lightning damage.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1695128598</code></td></tr></table>

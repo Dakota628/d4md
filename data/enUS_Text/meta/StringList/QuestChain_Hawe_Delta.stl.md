@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>2_desc</code></td></tr><tr><td><b>szText</b></td><td><code>Removing Elias' finger from the altar caused the temple to sink further into the murky waters. I was able to escape, but only barely. I should return to Lorath as quickly as possible.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2073139728</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>The ancient coffin has brought me to some kind of ancient, sunken temple. Elias' secret hides in these forgotten depths somewhere.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2112275121</code></td></tr><tr><td><b>szLabel</b></td><td><code>3_desc</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>3_desc</code></td></tr><tr><td><b>szText</b></td><td><code>The ancient coffin has brought me to some kind of ancient, sunken temple. Elias' secret hides in these forgotten depths somewhere.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2112275121</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

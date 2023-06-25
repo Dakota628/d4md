@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line17.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>There’s a shrine west of here, bears a relic. I’m told it takes on your sin. Weighs you down, body and soul. Beats the hell out of you. It’ll cleanse you, prepare you to stand before the Father.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1023966536</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line19.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>I hope you don’t have many regrets, friend. This kind of thing is a lot deadlier for some than others. Watch out, alright? I'll find you at the end.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3606902474</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3606902474</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line19.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>I hope you don’t have many regrets, friend. This kind of thing is a lot deadlier for some than others. Watch out, alright? I'll find you at the end.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>“What is the cost?”</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>A soulstone must always be guarded. It consumes your days, your dreams. You become a prisoner just as much as the demon contained in the stone.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1513311338</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>A soulstone must always be guarded. It consumes your days, your dreams. You become a prisoner just as much as the demon contained in the stone.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1513311338</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.7FA05</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>And, despite your efforts, the evil eventually finds a way to break free.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4096247276</code></td></tr></table>

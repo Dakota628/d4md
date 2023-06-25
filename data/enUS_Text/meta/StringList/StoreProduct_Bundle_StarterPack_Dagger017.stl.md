@@ -1,6 +1,6 @@
 <h1>data/enUS_Text/meta/StringList/StoreProduct_Bundle_StarterPack_Dagger017.stl</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/enUS_Text/meta/StringList/StoreProduct_Bundle_StarterPack_Dagger017.stl</td></tr><tr><td><b>Type</b></td><td>StringListDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1340328</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Beginning's End</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Beginning's End</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Description</code></td></tr><tr><td><b>szText</b></td><td><code>Formerly the bedpost of a child's crib, this sharpened timber now serves a more deadly  purpose.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2789670820</code></td></tr></table>

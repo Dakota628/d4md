@@ -1,6 +1,6 @@
 <h1>data/base/meta/VectorField/EmberVectorField_25x25x25.vfd</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/VectorField/EmberVectorField_25x25x25.vfd</td></tr><tr><td><b>Type</b></td><td>VectorFieldDefinition</td></tr><tr><td><b>SNO ID</b></td><td>416659</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wvExt</b></td><td>Vector(224.983765, 224.996231, 224.988510)</td></tr><tr><td><b>wp</b></td><td>Vector(0.000244, -0.000336, 224.988510)</td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_7ed9e40</b></td><td><code>25</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>25</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>25</code></td></tr><tr><td><b>flMagMin</b></td><td><code>0</code></td></tr><tr><td><b>flMagMax</b></td><td><code>3.783201217651367</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.000244, -0.000336, 224.988510)</td></tr><tr><td><b>wvExt</b></td><td>Vector(224.983765, 224.996231, 224.988510)</td></tr></table>
 
 </td></tr><tr><td><b>ptSamples</b></td><td>Vector(-0.261360, 0.742006, -1.230744)
 Vector(-0.260716, 0.910745, -1.324316)
@@ -15627,5 +15627,5 @@ Vector(-0.672899, -0.111455, -1.160887)
 Vector(-0.219732, 0.020430, -0.782048)
 Vector(0.098478, 0.723998, -0.049024)
 Vector(-0.355393, 0.622066, -0.645053)
-</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>25</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>25</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>25</code></td></tr><tr><td><b>flMagMin</b></td><td><code>0</code></td></tr><tr><td><b>flMagMax</b></td><td><code>3.783201217651367</code></td></tr></table>
+</td></tr></table>
 

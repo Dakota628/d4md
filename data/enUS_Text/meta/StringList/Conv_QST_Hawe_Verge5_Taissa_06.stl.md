@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>Valtha forged me into the witch I am. I struggle with her death...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1511616375</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4094552313</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>I understand why she saw a future in Lilith. The Mother of Sanctuary isn’t so different from the witches of Hawezar.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>I understand why she saw a future in Lilith. The Mother of Sanctuary isn’t so different from the witches of Hawezar.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094552313</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>But I won’t ever shirk my duty in bringing Elias to justice. That is the part of Valtha I will never understand.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2382520955</code></td></tr></table>

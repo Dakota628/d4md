@@ -15,16 +15,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod5_Description</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}Ice Shards{/c} have a {c_number}[{SF_18}*100|%|]{/c} chance to ricochet to another enemy. {c_important}Ice Shards{/c} always ricochet off of {c_important}{u}Frozen{/u}{/c} enemies.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1660147896</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod5_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Enhanced Ice Shards</code></td></tr><tr><td><b>hLabel</b></td><td><code>2648548437</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Enhanced Ice Shards</code></td></tr><tr><td><b>hLabel</b></td><td><code>2648548437</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod5_Name</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod4_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Hitting an enemy with {c_number}{SF_16}{/c} {c_important}Ice Shards{/c} in a single cast makes them {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_17}{/c} seconds.</code></td></tr><tr><td><b>hLabel</b></td><td><code>328519479</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod4_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Destructive Ice Shards</code></td></tr><tr><td><b>hLabel</b></td><td><code>2609413044</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Destructive Ice Shards</code></td></tr><tr><td><b>hLabel</b></td><td><code>2609413044</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod4_Name</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>While you have a {c_important}{u}Barrier{/u}{/c} active, casts of {c_important}Ice Shards{/c} treat enemies as if they were {c_important}{u}Frozen{/u}{/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3591940403</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod0_Description</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod0_Description</code></td></tr><tr><td><b>szText</b></td><td><code>While you have a {c_important}{u}Barrier{/u}{/c} active, casts of {c_important}Ice Shards{/c} treat enemies as if they were {c_important}{u}Frozen{/u}{/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3591940403</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod0_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Greater Ice Shards</code></td></tr><tr><td><b>hLabel</b></td><td><code>2452871472</code></td></tr></table>

@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>It doesn’t have sharp edges like that Cathedral pendant. That’s a benefit.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1513311338</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3376198295</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Basically saying "maybe this is who I really am."</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Basically saying "maybe this is who I really am."</code></td></tr><tr><td><b>hLabel</b></td><td><code>3376198295</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Makes me think I shouldn’t have taken it off in the first place.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4096247276</code></td></tr></table>

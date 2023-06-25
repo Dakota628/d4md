@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>(Apply the salve)</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4084314051</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line16.FBA9D</code></td></tr><tr><td><b>szText</b></td><td><code>(groan) ...It feels...</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line16.FBA9D</code></td></tr><tr><td><b>szText</b></td><td><code>(groan) ...It feels...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4084314051</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir16.FBA9D</code></td></tr><tr><td><b>szText</b></td><td><code>wheezing, coughing</code></td></tr><tr><td><b>hLabel</b></td><td><code>1135074192</code></td></tr></table>
@@ -15,7 +15,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir30.FBA9D</code></td></tr><tr><td><b>szText</b></td><td><code>in true agony</code></td></tr><tr><td><b>hLabel</b></td><td><code>1313741004</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>838918147</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line34.FBA9D</code></td></tr><tr><td><b>szText</b></td><td><code>I...no, no, no...what have I done? (sob)</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line34.FBA9D</code></td></tr><tr><td><b>szText</b></td><td><code>I...no, no, no...what have I done? (sob)</code></td></tr><tr><td><b>hLabel</b></td><td><code>838918147</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir34.FBA9D</code></td></tr><tr><td><b>szText</b></td><td><code>panting, distressed</code></td></tr><tr><td><b>hLabel</b></td><td><code>2184645584</code></td></tr></table>

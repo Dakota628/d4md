@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir32.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>Agreeing with reservation. Deferring to Captain.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3891919925</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>(scoff) How many bandits guard this hideout? How many Triune?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3749042644</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line26.D5166</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line26.D5166</code></td></tr><tr><td><b>szText</b></td><td><code>(scoff) How many bandits guard this hideout? How many Triune?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3749042644</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir26.D5166</code></td></tr><tr><td><b>szText</b></td><td><code>Dubious. Concerned. Thinks "risk" is an understatement.</code></td></tr><tr><td><b>hLabel</b></td><td><code>799802785</code></td></tr></table>
@@ -39,10 +39,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir42.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>Official. Direct. Respectful.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3560689942</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line44.D5161</code></td></tr><tr><td><b>szText</b></td><td><code>About damn time...</code></td></tr><tr><td><b>hLabel</b></td><td><code>503646735</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>About damn time...</code></td></tr><tr><td><b>hLabel</b></td><td><code>503646735</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line44.D5161</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1849374172</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir44.D5161</code></td></tr><tr><td><b>szText</b></td><td><code>Muttered to self. Finally satisfied.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir44.D5161</code></td></tr><tr><td><b>szText</b></td><td><code>Muttered to self. Finally satisfied.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1849374172</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

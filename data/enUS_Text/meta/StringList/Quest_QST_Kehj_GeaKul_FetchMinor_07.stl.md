@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Endless Fortune</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase28Description</code></td></tr><tr><td><b>szText</b></td><td><code>A treasure goblin dropped a journal belonging to Ostaf. I believe there is a vendor with that name in Gea Kul. I should return it to him. </code></td></tr><tr><td><b>hLabel</b></td><td><code>131492703</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>A treasure goblin dropped a journal belonging to Ostaf. I believe there is a vendor with that name in Gea Kul. I should return it to him. </code></td></tr><tr><td><b>hLabel</b></td><td><code>131492703</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase28Description</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback27Header</code></td></tr><tr><td><b>szText</b></td><td><code>Return the journal to Ostaf</code></td></tr><tr><td><b>hLabel</b></td><td><code>1069812671</code></td></tr></table>

@@ -6,16 +6,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.FC047</code></td></tr><tr><td><b>szText</b></td><td><code>Meant no offense. You look like you know how to handle yourself. I could use your assistance.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1568888587</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Grinning. Polite. Oily.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3431775544</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.FC047</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.FC047</code></td></tr><tr><td><b>szText</b></td><td><code>Grinning. Polite. Oily.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3431775544</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I worked the mines for a living, until those pigs-born bandits came. They slaughtered us, took everything. I barely made it out alive.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4151824525</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.FC047</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.FC047</code></td></tr><tr><td><b>szText</b></td><td><code>I worked the mines for a living, until those pigs-born bandits came. They slaughtered us, took everything. I barely made it out alive.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4151824525</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1719744186</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.FC047</code></td></tr><tr><td><b>szText</b></td><td><code>Hates the bandits. More offended than upset (no trauma.)</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Hates the bandits. More offended than upset (no trauma.)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1719744186</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.FC047</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2439793167</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.FC047</code></td></tr><tr><td><b>szText</b></td><td><code>(sigh) By now, they’ve got the lockbox with all our wages in it...good thing I took the key. If you can bring me the box, I’ll gladly give you a share.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.FC047</code></td></tr><tr><td><b>szText</b></td><td><code>(sigh) By now, they’ve got the lockbox with all our wages in it...good thing I took the key. If you can bring me the box, I’ll gladly give you a share.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2439793167</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.FC047</code></td></tr><tr><td><b>szText</b></td><td><code>Annoyed, then grinning. </code></td></tr><tr><td><b>hLabel</b></td><td><code>7712828</code></td></tr></table>

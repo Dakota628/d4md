@@ -1,6 +1,6 @@
 <h1>data/base/meta/GameBalance/ActorGroups_Camps.gam</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/GameBalance/ActorGroups_Camps.gam</td></tr><tr><td><b>Type</b></td><td>GameBalanceDefinition</td></tr><tr><td><b>SNO ID</b></td><td>468951</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptData</b></td><td><table><tr><th colspan="100%">ActorGroupData_Table</th></tr><tr><td><b>dwType</b></td><td><code>1482076039</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tEntries</b></td><td><table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>KorDragan_Central_Corruptions</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1035430728</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>eGameBalanceType</b></td><td><code>24</code></td></tr><tr><td><b>bIgnoreOnLoad</b></td><td><code>0</code></td></tr><tr><td><b>ptData</b></td><td><table><tr><th colspan="100%">ActorGroupData_Table</th></tr><tr><td><b>tEntries</b></td><td><table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1035430728</code></td></tr><tr><td><b>szName</b></td><td><code>KorDragan_Central_Corruptions</code></td></tr></table>
 
 </td></tr></table>
 
@@ -20,12 +20,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1045581349</code></td></tr><tr><td><b>szName</b></td><td><code>KorDragan_MainCorruptions</code></td></tr></table>
+<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>KorDragan_MainCorruptions</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1045581349</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3992118627</code></td></tr><tr><td><b>szName</b></td><td><code>Camp_OnyxWatchtower_TentSpawners</code></td></tr></table>
+<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Camp_OnyxWatchtower_TentSpawners</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3992118627</code></td></tr></table>
 
 </td></tr></table>
 
@@ -50,7 +50,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2305256035</code></td></tr><tr><td><b>szName</b></td><td><code>Step_QaraYisu_Boss_Traversal_Locs</code></td></tr></table>
+<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Step_QaraYisu_Boss_Traversal_Locs</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2305256035</code></td></tr></table>
 
 </td></tr></table>
 
@@ -60,7 +60,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2798851017</code></td></tr><tr><td><b>szName</b></td><td><code>OnyxWatchtower_FinaleBandits</code></td></tr></table>
+<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>OnyxWatchtower_FinaleBandits</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2798851017</code></td></tr></table>
 
 </td></tr></table>
 
@@ -75,12 +75,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>OnyxWatchtower_Spawners</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2111564424</code></td></tr></table>
+<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2111564424</code></td></tr><tr><td><b>szName</b></td><td><code>OnyxWatchtower_Spawners</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2855718273</code></td></tr><tr><td><b>szName</b></td><td><code>Step_Cannibal_RightMobs</code></td></tr></table>
+<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Step_Cannibal_RightMobs</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2855718273</code></td></tr></table>
 
 </td></tr></table>
 
@@ -95,7 +95,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2812258703</code></td></tr><tr><td><b>szName</b></td><td><code>Scos_TurDulra_DruidSpirits</code></td></tr></table>
+<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Scos_TurDulra_DruidSpirits</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2812258703</code></td></tr></table>
 
 </td></tr></table>
 
@@ -130,7 +130,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Scosglen_Ghost_Ambush_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>917220002</code></td></tr></table>
+<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>917220002</code></td></tr><tr><td><b>szName</b></td><td><code>Scosglen_Ghost_Ambush_02</code></td></tr></table>
 
 </td></tr></table>
 
@@ -165,17 +165,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>663250555</code></td></tr><tr><td><b>szName</b></td><td><code>Frac_Nostrava_AmbientSpawners</code></td></tr></table>
+<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Frac_Nostrava_AmbientSpawners</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>663250555</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Frac_Nostrava_All_Mobs</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2577747057</code></td></tr></table>
+<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2577747057</code></td></tr><tr><td><b>szName</b></td><td><code>Frac_Nostrava_All_Mobs</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3610807100</code></td></tr><tr><td><b>szName</b></td><td><code>Frac_Nostrava_Gate_NPCs</code></td></tr></table>
+<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Frac_Nostrava_Gate_NPCs</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3610807100</code></td></tr></table>
 
 </td></tr></table>
 
@@ -205,12 +205,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Frac_Nostrava_Locked_Doors</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2395605600</code></td></tr></table>
+<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2395605600</code></td></tr><tr><td><b>szName</b></td><td><code>Frac_Nostrava_Locked_Doors</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>390360288</code></td></tr><tr><td><b>szName</b></td><td><code>Frac_Nostrava_Chapel_Crazed_NPCs</code></td></tr></table>
+<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Frac_Nostrava_Chapel_Crazed_NPCs</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>390360288</code></td></tr></table>
 
 </td></tr></table>
 
@@ -235,7 +235,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3744982259</code></td></tr><tr><td><b>szName</b></td><td><code>Frac_Nostrava_Loc_Guide</code></td></tr></table>
+<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Frac_Nostrava_Loc_Guide</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3744982259</code></td></tr></table>
 
 </td></tr></table>
 
@@ -255,7 +255,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Frac_Nostrava_Beds</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3726778246</code></td></tr></table>
+<table><tr><th colspan="100%">ActorGroupData</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3726778246</code></td></tr><tr><td><b>szName</b></td><td><code>Frac_Nostrava_Beds</code></td></tr></table>
 
 </td></tr></table>
 
@@ -265,8 +265,8 @@
 </td></tr></table>
 
 
+</td></tr><tr><td><b>dwType</b></td><td><code>1482076039</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+
+
 </td></tr></table>
-
-
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>eGameBalanceType</b></td><td><code>24</code></td></tr><tr><td><b>bIgnoreOnLoad</b></td><td><code>0</code></td></tr></table>
 

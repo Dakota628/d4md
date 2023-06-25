@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><code>In order to open the warded vessel that I found, I must slay drowned on the Cursed Scarps of Scosglen for their death anima.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3968539374</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback8Header</code></td></tr><tr><td><b>szText</b></td><td><code>Harvest anima from Drowned</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback8Header</code></td></tr><tr><td><b>szText</b></td><td><code>Harvest anima from Drowned</code></td></tr><tr><td><b>hLabel</b></td><td><code>3968539374</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

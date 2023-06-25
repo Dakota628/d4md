@@ -1,24 +1,17 @@
 <h1>data/base/meta/Scene/Sanctuary_Eastern_Continent_N14_E04.scn</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/Scene/Sanctuary_Eastern_Continent_N14_E04.scn</td></tr><tr><td><b>Type</b></td><td>SceneDefinition</td></tr><tr><td><b>SNO ID</b></td><td>75934</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>flTileY</b></td><td><code>32</code></td></tr><tr><td><b>dwFlags</b></td><td><code>32</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(50.075939, 68.466019, 80.003448)</td></tr><tr><td><b>wvExt</b></td><td>Vector(52.775906, 70.570847, 22.557671)</td></tr></table>
-
-</td></tr><tr><td><b>arLayers</b></td><td><a href="..\MarkerSet\Sanctuary_Eastern_Continent_N14_E04 (Merged).mrk">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N14_E04 (Merged)"</a>
-<a href="..\MarkerSet\Sanctuary_Eastern_Continent_N14_E04 (Props).mrk">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N14_E04 (Props)"</a>
-<a href="..\MarkerSet\Sanctuary_Eastern_Continent_N14_E04 (Lighting).mrk">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N14_E04 (Lighting)"</a>
-<a href="..\MarkerSet\Sanctuary_Eastern_Continent_N14_E04 (Audio).mrk">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N14_E04 (Audio)"</a>
-<a href="..\MarkerSet\Sanctuary_Eastern_Continent_N14_E04 (Road).mrk">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N14_E04 (Road)"</a>
-<a href="..\MarkerSet\Sanctuary_Eastern_Continent_N14_E04 (Merged_Props).mrk">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N14_E04 (Merged_Props)"</a>
-</td></tr><tr><td><b>snoAppearance</b></td><td><a href="..\Appearance\Sanctuary_Eastern_Continent_N14_E04.app">[DT_SNO] Appearance: "Sanctuary_Eastern_Continent_N14_E04"</a></td></tr><tr><td><b>flTileX</b></td><td><code>32</code></td></tr><tr><td><b>unk_f60a9cd</b></td><td></td></tr><tr><td><b>unk_29b7731</b></td><td><table><tr><th colspan="100%">Type_ff4098b9</th></tr><tr><td><b>arSnos</b></td><td></td></tr><tr><td><b>unk_7fc1b58</b></td><td><code>1</code></td></tr><tr><td><b>unk_cc11a8e</b></td><td><code>255</code>
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_ec132ae</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(49.692402, 67.905220, 80.021698)</td></tr><tr><td><b>wvExt</b></td><td>Vector(53.159443, 71.131645, 50.000000)</td></tr></table>
-
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arLayers</b></td><td><a href="..\MarkerSet\Sanctuary_Eastern_Continent_N14_E04 (Merged).mrk.md">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N14_E04 (Merged)"</a>
+<a href="..\MarkerSet\Sanctuary_Eastern_Continent_N14_E04 (Props).mrk.md">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N14_E04 (Props)"</a>
+<a href="..\MarkerSet\Sanctuary_Eastern_Continent_N14_E04 (Lighting).mrk.md">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N14_E04 (Lighting)"</a>
+<a href="..\MarkerSet\Sanctuary_Eastern_Continent_N14_E04 (Audio).mrk.md">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N14_E04 (Audio)"</a>
+<a href="..\MarkerSet\Sanctuary_Eastern_Continent_N14_E04 (Road).mrk.md">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N14_E04 (Road)"</a>
+<a href="..\MarkerSet\Sanctuary_Eastern_Continent_N14_E04 (Merged_Props).mrk.md">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N14_E04 (Merged_Props)"</a>
 </td></tr><tr><td><b>tLookLink</b></td><td><table><tr><th colspan="100%">LookLink</th></tr><tr><td><b>dwLookHash</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_57e8e2b</b></td><td><table><tr><th colspan="100%">Type_ff4098b9</th></tr><tr><td><b>arSnos</b></td><td><a href="..\LevelArea\Frac_Taiga_E.lvl">[DT_SNO] None: %!q(<nil>)</a>
-<a href="..\LevelArea\Frac_Taiga_E_BrazierClearing.lvl">[DT_SNO] None: %!q(<nil>)</a>
-<a href="..\LevelArea\Frac_Taiga_E_SouthHalf.lvl">[DT_SNO] None: %!q(<nil>)</a>
-<a href="..\LevelArea\Frac_Taiga_E_SETunnelAreaCaves1.lvl">[DT_SNO] None: %!q(<nil>)</a>
+</td></tr><tr><td><b>unk_57e8e2b</b></td><td><table><tr><th colspan="100%">Type_ff4098b9</th></tr><tr><td><b>arSnos</b></td><td><a href="..\LevelArea\Frac_Taiga_E.lvl.md">[DT_SNO] None: %!q(<nil>)</a>
+<a href="..\LevelArea\Frac_Taiga_E_BrazierClearing.lvl.md">[DT_SNO] None: %!q(<nil>)</a>
+<a href="..\LevelArea\Frac_Taiga_E_SouthHalf.lvl.md">[DT_SNO] None: %!q(<nil>)</a>
+<a href="..\LevelArea\Frac_Taiga_E_SETunnelAreaCaves1.lvl.md">[DT_SNO] None: %!q(<nil>)</a>
 </td></tr><tr><td><b>unk_7fc1b58</b></td><td><code>192</code></td></tr><tr><td><b>unk_cc11a8e</b></td><td><code>0</code>
 <code>0</code>
 <code>0</code>
@@ -36885,11 +36878,18 @@
 <code>3</code>
 </td></tr></table>
 
-</td></tr><tr><td><b>tFogMask</b></td><td><table><tr><th colspan="100%">FogMask</th></tr><tr><td><b>dwWidth</b></td><td><code>0</code></td></tr><tr><td><b>dwHeight</b></td><td><code>0</code></td></tr><tr><td><b>arMask</b></td><td></td></tr></table>
-
-</td></tr><tr><td><b>flGridSize</b></td><td><code>96</code></td></tr><tr><td><b>snoAudioContext</b></td><td><a href="..\AudioContext\Wamb_FracturedPeaks_Global_TOD.auc">[DT_SNO] AudioContext: "Wamb_FracturedPeaks_Global_TOD"</a></td></tr><tr><td><b>ptAIPathData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AIPathData</th></tr><tr><td><b>dataOffset</b></td><td><code>32</code></td></tr><tr><td><b>dataSize</b></td><td><code>72</code></td></tr></table>
-
+</td></tr><tr><td><b>eDRLGTileType</b></td><td><code>0</code></td></tr><tr><td><b>flGridSize</b></td><td><code>96</code></td></tr><tr><td><b>unk_f60a9cd</b></td><td></td></tr><tr><td><b>flTileX</b></td><td><code>32</code></td></tr><tr><td><b>flTileY</b></td><td><code>32</code></td></tr><tr><td><b>unk_29b7731</b></td><td><table><tr><th colspan="100%">Type_ff4098b9</th></tr><tr><td><b>arSnos</b></td><td></td></tr><tr><td><b>unk_7fc1b58</b></td><td><code>1</code></td></tr><tr><td><b>unk_cc11a8e</b></td><td><code>255</code>
 </td></tr></table>
 
-</td></tr><tr><td><b>eDRLGTileType</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>ptAIPathData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AIPathData</th></tr><tr><td><b>dataOffset</b></td><td><code>32</code></td></tr><tr><td><b>dataSize</b></td><td><code>72</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>32</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wvExt</b></td><td>Vector(52.775906, 70.570847, 22.557671)</td></tr><tr><td><b>wp</b></td><td>Vector(50.075939, 68.466019, 80.003448)</td></tr></table>
+
+</td></tr><tr><td><b>unk_ec132ae</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(49.692402, 67.905220, 80.021698)</td></tr><tr><td><b>wvExt</b></td><td>Vector(53.159443, 71.131645, 50.000000)</td></tr></table>
+
+</td></tr><tr><td><b>snoAppearance</b></td><td><a href="..\Appearance\Sanctuary_Eastern_Continent_N14_E04.app.md">[DT_SNO] Appearance: "Sanctuary_Eastern_Continent_N14_E04"</a></td></tr><tr><td><b>snoAudioContext</b></td><td><a href="..\AudioContext\Wamb_FracturedPeaks_Global_TOD.auc.md">[DT_SNO] AudioContext: "Wamb_FracturedPeaks_Global_TOD"</a></td></tr><tr><td><b>tFogMask</b></td><td><table><tr><th colspan="100%">FogMask</th></tr><tr><td><b>dwWidth</b></td><td><code>0</code></td></tr><tr><td><b>dwHeight</b></td><td><code>0</code></td></tr><tr><td><b>arMask</b></td><td></td></tr></table>
+
+</td></tr></table>
 

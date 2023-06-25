@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>simple_instruction</code></td></tr><tr><td><b>szText</b></td><td><code>Press {icon:mmb, 2.0} on an unlocked weapon skill to select what weapon it should use.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2080265035</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>simple_instruction_controller</code></td></tr><tr><td><b>szText</b></td><td><code>Press {icon:button3, 2.0} on an unlocked weapon skill to select what weapon it should use.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2264005198</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Press {icon:button3, 2.0} on an unlocked weapon skill to select what weapon it should use.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2264005198</code></td></tr><tr><td><b>szLabel</b></td><td><code>simple_instruction_controller</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

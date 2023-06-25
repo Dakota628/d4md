@@ -18,16 +18,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Return to Donan at Eldhaime Keep</code></td></tr><tr><td><b>hLabel</b></td><td><code>220322285</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Return to Donan</code></td></tr><tr><td><b>hLabel</b></td><td><code>514698856</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback2Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback2Header</code></td></tr><tr><td><b>szText</b></td><td><code>Return to Donan</code></td></tr><tr><td><b>hLabel</b></td><td><code>514698856</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase38Description</code></td></tr><tr><td><b>szText</b></td><td><code>The keep is in ruins and overrun by khazra. I should search for survivors. Maybe someone can tell me what happened here and where I can find Donan, assuming he is even alive?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1463121120</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>546903592</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase38OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Search Eldhaime Keep</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase38OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Search Eldhaime Keep</code></td></tr><tr><td><b>hLabel</b></td><td><code>546903592</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback40Header</code></td></tr><tr><td><b>szText</b></td><td><code>Search Eldhaime Keep for survivors</code></td></tr><tr><td><b>hLabel</b></td><td><code>4251978810</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4251978810</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback40Header</code></td></tr><tr><td><b>szText</b></td><td><code>Search Eldhaime Keep for survivors</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase43Description</code></td></tr><tr><td><b>szText</b></td><td><code>The keep is in ruins and overrun by khazra. I should search for survivors. Maybe someone can tell me what happened here and where I can find Donan, assuming he is even alive?</code></td></tr><tr><td><b>hLabel</b></td><td><code>2983439228</code></td></tr></table>

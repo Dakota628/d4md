@@ -15,7 +15,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.101CAF</code></td></tr><tr><td><b>szText</b></td><td><code>I need help! Please!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4129423672</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir15.101CAF</code></td></tr><tr><td><b>szText</b></td><td><code>Stranded on a ship mast, calling out for attention.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1293788837</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Stranded on a ship mast, calling out for attention.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1293788837</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir15.101CAF</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

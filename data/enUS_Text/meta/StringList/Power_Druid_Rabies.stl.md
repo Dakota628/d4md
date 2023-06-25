@@ -18,7 +18,7 @@ Infected enemies spread {c_important}Rabies{/c} to other surrounding targets.</p
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}Rabies'{/c} Poisoning damage also increases over the lifetime of the disease, dealing {c_number}[{SF_14}*100|%x|]{/c} bonus damage at max duration.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1960229941</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2531142258</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Enhanced Rabies</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Enhanced Rabies</code></td></tr><tr><td><b>hLabel</b></td><td><code>2531142258</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod0_Description</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}Rabies{/c} spreads {c_number}[{SF_4}*100|%|]{/c} faster.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3591940403</code></td></tr></table>

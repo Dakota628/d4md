@@ -1,24 +1,24 @@
 <h1>data/enUS_Text/meta/StringList/Conv_QST_Conv_Kehj2_05.stl</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/enUS_Text/meta/StringList/Conv_QST_Conv_Kehj2_05.stl</td></tr><tr><td><b>Type</b></td><td>StringListDefinition</td></tr><tr><td><b>SNO ID</b></td><td>590499</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>“Elias summoned Andariel.”</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>“Elias summoned Andariel.”</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line64.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Bloody hell. He finished the ritual from the volcano, then.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4083289603</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line35.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Elias...that’s the man who summoned Lilith. You’re saying he summoned a lesser evil, too?</code></td></tr><tr><td><b>hLabel</b></td><td><code>2073537928</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2073537928</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line35.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Elias...that’s the man who summoned Lilith. You’re saying he summoned a lesser evil, too?</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir35.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>awe</code></td></tr><tr><td><b>hLabel</b></td><td><code>3419265365</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>417330310</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line85.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Keep up, girl. Is Andariel gone?</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line85.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Keep up, girl. Is Andariel gone?</code></td></tr><tr><td><b>hLabel</b></td><td><code>417330310</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir85.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>First sentence directed at Neyrelle, second sentence directed at player</code></td></tr><tr><td><b>hLabel</b></td><td><code>1763057747</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line87.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Yes.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2305055777</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2305055777</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line87.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Yes.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line17.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>And Elias?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1023524878</code></td></tr></table>
@@ -60,7 +60,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line62.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>It was you who said that.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1500353665</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line77.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Ah. You’re right. (chuckle) Let’s get the horses ready.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3332807239</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3332807239</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line77.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Ah. You’re right. (chuckle) Let’s get the horses ready.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

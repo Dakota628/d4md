@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Mother, no!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2382962613</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.B6582</code></td></tr><tr><td><b>szText</b></td><td><code>You won't take what's mine!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1915568591</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>You won't take what's mine!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1915568591</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.B6582</code></td></tr></table>
 
 
 </td></tr></table>

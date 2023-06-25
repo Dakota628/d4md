@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><code>I found a lost piece of Iron Wolf armor. The Iron Wolves never leave behind the armor of their fallen kin if they can help it. Their smith, Barez, will want to see this.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>94135467</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback5Header</code></td></tr><tr><td><b>szText</b></td><td><code>Bring the Iron Wolf Armor to Barez</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback5Header</code></td></tr><tr><td><b>szText</b></td><td><code>Bring the Iron Wolf Armor to Barez</code></td></tr><tr><td><b>hLabel</b></td><td><code>94135467</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>I found a lost piece of Iron Wolf armor. The Iron Wolves never leave behind the armor of their fallen kin if they can help it. Their smith, Barez, will want to see this.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>

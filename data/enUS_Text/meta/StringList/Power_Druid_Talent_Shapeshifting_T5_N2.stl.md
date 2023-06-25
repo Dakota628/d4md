@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr><tr><td><b>szText</b></td><td><code>Every {c_number}6th{/c} {c_important}Werewolf{/c} Skill hit Critically Strikes and deals {c_number}[{SF_0}*100|%x|]{/c} increased damage.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>309411509</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Ferocity</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Ferocity</code></td></tr><tr><td><b>hLabel</b></td><td><code>309411509</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Critical Strike and bonus damage on {c_number}6th{/c} strike</code></td></tr><tr><td><b>hLabel</b></td><td><code>3336963864</code></td></tr></table>

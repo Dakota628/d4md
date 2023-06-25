@@ -1,51 +1,51 @@
 <h1>data/base/meta/AmbientSound/Wamb_Dungeon_Frac_Underworld_SilentCoast.ams</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/AmbientSound/Wamb_Dungeon_Frac_Underworld_SilentCoast.ams</td></tr><tr><td><b>Type</b></td><td>AmbientSoundDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1090624</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_WAmb_Frac_Underworld_SilentCoast_Dungeon.snd">[DT_SNO] Sound: "Play_WAmb_Frac_Underworld_SilentCoast_Dungeon"</a></td></tr><tr><td><b>tRandomSounds</b></td><td><table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_Drops.snd">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_Drops"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_WAmb_Frac_Underworld_SilentCoast_Dungeon.snd.md">[DT_SNO] Sound: "Play_WAmb_Frac_Underworld_SilentCoast_Dungeon"</a></td></tr><tr><td><b>tRandomSounds</b></td><td><table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_Drops.snd.md">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_Drops"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>20</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>20</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>15</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_Deep_Motion.snd">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_Deep_Motion"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_Bats.snd">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_Bats"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>15</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>20</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>15</code></td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_Earthquake.snd">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_Earthquake"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_Deep_Motion.snd.md">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_Deep_Motion"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>10</code></td></tr></table>
+</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_BreathingWind.snd">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_BreathingWind"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr></table>
+</td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>15</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_Bats.snd.md">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_Bats"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>15</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>15</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>20</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_Earthquake.snd.md">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_Earthquake"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_RockFallsShores.snd">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_RockFallsShores"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>20</code></td></tr></table>
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_BreathingWind.snd.md">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_BreathingWind"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_RockFallsShores.snd.md">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Frac_Underworld_SilentCoast_RockFallsShores"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>20</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 

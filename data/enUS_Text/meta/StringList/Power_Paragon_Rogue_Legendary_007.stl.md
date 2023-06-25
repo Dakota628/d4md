@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr><tr><td><b>szText</b></td><td><code>You deal {c_number}[{SF_0}*100|%x|]{/c} increased damage for each Nearby enemy that is Crowd Controlled, up to {c_number}[{SF_0} * 100 * {SF_1}|%x|]{/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Cheap Shot</code></td></tr><tr><td><b>hLabel</b></td><td><code>270276116</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff1_Name</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff1_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Cheap Shot</code></td></tr><tr><td><b>hLabel</b></td><td><code>270276116</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff1_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Increased damage per Nearby  Crowd Controlled enemy.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2005335447</code></td></tr></table>

@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir13.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>Hesitant. Difficult to talk about.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1498347735</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.1086F0</code></td></tr><tr><td><b>szText</b></td><td><code>What? Spit it out.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1731856622</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1731856622</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.1086F0</code></td></tr><tr><td><b>szText</b></td><td><code>What? Spit it out.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>I am plagued by a demon and the memories she brings forth. How do I purge them?</code></td></tr><tr><td><b>hLabel</b></td><td><code>670489597</code></td></tr></table>

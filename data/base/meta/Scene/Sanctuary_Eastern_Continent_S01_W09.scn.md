@@ -1,19 +1,23 @@
 <h1>data/base/meta/Scene/Sanctuary_Eastern_Continent_S01_W09.scn</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/Scene/Sanctuary_Eastern_Continent_S01_W09.scn</td></tr><tr><td><b>Type</b></td><td>SceneDefinition</td></tr><tr><td><b>SNO ID</b></td><td>86780</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_ec132ae</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(74.936401, 69.063324, 14.757498)</td></tr><tr><td><b>wvExt</b></td><td>Vector(91.588196, 96.865234, 28.177500)</td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>snoAppearance</b></td><td><a href="..\Appearance\Sanctuary_Eastern_Continent_S01_W09.app.md">[DT_SNO] Appearance: "Sanctuary_Eastern_Continent_S01_W09"</a></td></tr><tr><td><b>flTileY</b></td><td><code>32</code></td></tr><tr><td><b>ptAIPathData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AIPathData</th></tr><tr><td><b>dataSize</b></td><td><code>72</code></td></tr><tr><td><b>dataOffset</b></td><td><code>32</code></td></tr></table>
 
-</td></tr><tr><td><b>flGridSize</b></td><td><code>96</code></td></tr><tr><td><b>arLayers</b></td><td><a href="..\MarkerSet\Sanctuary_Eastern_Continent_S01_W09 (Merged).mrk">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_S01_W09 (Merged)"</a>
-<a href="..\MarkerSet\Sanctuary_Eastern_Continent_S01_W09 (Props).mrk">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_S01_W09 (Props)"</a>
-<a href="..\MarkerSet\Sanctuary_Eastern_Continent_S01_W09 (Lighting).mrk">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_S01_W09 (Lighting)"</a>
-<a href="..\MarkerSet\Sanctuary_Eastern_Continent_S01_W09 (VFX).mrk">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_S01_W09 (VFX)"</a>
-<a href="..\MarkerSet\Sanctuary_Eastern_Continent_S01_W09 (Merged_Props).mrk">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_S01_W09 (Merged_Props)"</a>
-</td></tr><tr><td><b>tLookLink</b></td><td><table><tr><th colspan="100%">LookLink</th></tr><tr><td><b>dwLookHash</b></td><td><code>0</code></td></tr></table>
+</td></tr></table>
 
-</td></tr><tr><td><b>snoAppearance</b></td><td><a href="..\Appearance\Sanctuary_Eastern_Continent_S01_W09.app">[DT_SNO] Appearance: "Sanctuary_Eastern_Continent_S01_W09"</a></td></tr><tr><td><b>dwFlags</b></td><td><code>32</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(61.831345, 69.843834, 5.402134)</td></tr><tr><td><b>wvExt</b></td><td>Vector(66.712143, 96.084724, 18.822136)</td></tr></table>
+</td></tr><tr><td><b>eDRLGTileType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>32</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(61.831345, 69.843834, 5.402134)</td></tr><tr><td><b>wvExt</b></td><td>Vector(66.712143, 96.084724, 18.822136)</td></tr></table>
 
-</td></tr><tr><td><b>unk_57e8e2b</b></td><td><table><tr><th colspan="100%">Type_ff4098b9</th></tr><tr><td><b>arSnos</b></td><td><a href="..\LevelArea\Kehj_HighDesert_Chapel.lvl">[DT_SNO] None: %!q(<nil>)</a>
-<a href="..\LevelArea\Kehj_HighDesert_Coast.lvl">[DT_SNO] None: %!q(<nil>)</a>
-<a href="..\LevelArea\Kehj_HighDesert_Western.lvl">[DT_SNO] None: %!q(<nil>)</a>
+</td></tr><tr><td><b>arLayers</b></td><td><a href="..\MarkerSet\Sanctuary_Eastern_Continent_S01_W09 (Merged).mrk.md">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_S01_W09 (Merged)"</a>
+<a href="..\MarkerSet\Sanctuary_Eastern_Continent_S01_W09 (Props).mrk.md">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_S01_W09 (Props)"</a>
+<a href="..\MarkerSet\Sanctuary_Eastern_Continent_S01_W09 (Lighting).mrk.md">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_S01_W09 (Lighting)"</a>
+<a href="..\MarkerSet\Sanctuary_Eastern_Continent_S01_W09 (VFX).mrk.md">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_S01_W09 (VFX)"</a>
+<a href="..\MarkerSet\Sanctuary_Eastern_Continent_S01_W09 (Merged_Props).mrk.md">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_S01_W09 (Merged_Props)"</a>
+</td></tr><tr><td><b>unk_f60a9cd</b></td><td></td></tr><tr><td><b>unk_ec132ae</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(74.936401, 69.063324, 14.757498)</td></tr><tr><td><b>wvExt</b></td><td>Vector(91.588196, 96.865234, 28.177500)</td></tr></table>
+
+</td></tr><tr><td><b>tFogMask</b></td><td><table><tr><th colspan="100%">FogMask</th></tr><tr><td><b>dwHeight</b></td><td><code>0</code></td></tr><tr><td><b>arMask</b></td><td></td></tr><tr><td><b>dwWidth</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>flTileX</b></td><td><code>32</code></td></tr><tr><td><b>unk_57e8e2b</b></td><td><table><tr><th colspan="100%">Type_ff4098b9</th></tr><tr><td><b>arSnos</b></td><td><a href="..\LevelArea\Kehj_HighDesert_Chapel.lvl.md">[DT_SNO] None: %!q(<nil>)</a>
+<a href="..\LevelArea\Kehj_HighDesert_Coast.lvl.md">[DT_SNO] None: %!q(<nil>)</a>
+<a href="..\LevelArea\Kehj_HighDesert_Western.lvl.md">[DT_SNO] None: %!q(<nil>)</a>
 </td></tr><tr><td><b>unk_7fc1b58</b></td><td><code>48</code></td></tr><tr><td><b>unk_cc11a8e</b></td><td><code>0</code>
 <code>0</code>
 <code>0</code>
@@ -2323,11 +2327,7 @@
 </td></tr><tr><td><b>unk_29b7731</b></td><td><table><tr><th colspan="100%">Type_ff4098b9</th></tr><tr><td><b>arSnos</b></td><td></td></tr><tr><td><b>unk_7fc1b58</b></td><td><code>1</code></td></tr><tr><td><b>unk_cc11a8e</b></td><td><code>255</code>
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_f60a9cd</b></td><td></td></tr><tr><td><b>flTileX</b></td><td><code>32</code></td></tr><tr><td><b>flTileY</b></td><td><code>32</code></td></tr><tr><td><b>ptAIPathData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AIPathData</th></tr><tr><td><b>dataOffset</b></td><td><code>32</code></td></tr><tr><td><b>dataSize</b></td><td><code>72</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>eDRLGTileType</b></td><td><code>0</code></td></tr><tr><td><b>tFogMask</b></td><td><table><tr><th colspan="100%">FogMask</th></tr><tr><td><b>arMask</b></td><td></td></tr><tr><td><b>dwWidth</b></td><td><code>0</code></td></tr><tr><td><b>dwHeight</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>flGridSize</b></td><td><code>96</code></td></tr><tr><td><b>tLookLink</b></td><td><table><tr><th colspan="100%">LookLink</th></tr><tr><td><b>dwLookHash</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 

@@ -6,8 +6,8 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlavorText</code></td></tr><tr><td><b>szText</b></td><td><code>A decayed fragment from an Isbeil's journal.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3426486927</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>NoticeSignText</code></td></tr><tr><td><b>szText</b></td><td><pre>I saw the girl again. A strange reedy child, too pale, too thin, eyes too big. 
-But her strangeness cannot obscure how she looks like my husband. How much she resembles my Cecil.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4073325784</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4073325784</code></td></tr><tr><td><b>szLabel</b></td><td><code>NoticeSignText</code></td></tr><tr><td><b>szText</b></td><td><pre>I saw the girl again. A strange reedy child, too pale, too thin, eyes too big. 
+But her strangeness cannot obscure how she looks like my husband. How much she resembles my Cecil.</pre></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

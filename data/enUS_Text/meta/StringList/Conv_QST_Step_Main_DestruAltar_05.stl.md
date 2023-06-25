@@ -24,7 +24,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>872747169</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.ACEF6</code></td></tr><tr><td><b>szText</b></td><td><code>Hint of mocking</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>You deserve far worse.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1619902228</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>You deserve far worse.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1619902228</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.BAE4</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Not too aggressive</code></td></tr><tr><td><b>hLabel</b></td><td><code>3482789185</code></td></tr></table>
@@ -36,7 +36,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.ACEF6</code></td></tr><tr><td><b>szText</b></td><td><code>Take my blessing. Destroy her. Save your world.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2786958209</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>(pained groan)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1932985372</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line19.BAE4</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line19.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>(pained groan)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1932985372</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -6,13 +6,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir13.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Pained, physical exertion.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1553970685</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Urrgh...ah, ahh!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2791179186</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2791179186</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line15.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Urrgh...ah, ahh!</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir15.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Pained, physical exertion.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4136906623</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Pained, physical exertion.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4136906623</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir15.F52ED</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line17.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Uhh...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1079147828</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Uhh...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1079147828</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line17.F52ED</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir17.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Pained, physical exertion.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2424875265</code></td></tr></table>
@@ -24,13 +24,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Pained, physical exertion.</code></td></tr><tr><td><b>hLabel</b></td><td><code>712843907</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line21.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Ugh...ahh...ahh...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1589044623</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1589044623</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line21.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Ugh...ahh...ahh...</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir21.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Pained, physical exertion.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2934772060</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Ugh...ow...uhh...ahh...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4171980561</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line23.F52ED</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line23.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Ugh...ow...uhh...ahh...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4171980561</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir23.F52ED</code></td></tr><tr><td><b>szText</b></td><td><code>Pained, physical exertion.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1222740702</code></td></tr></table>

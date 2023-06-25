@@ -21,16 +21,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.137C1D</code></td></tr><tr><td><b>szText</b></td><td><code>Stern. Projecting his voice to the people in his immediate vicinity.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1756233261</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.137C1D</code></td></tr><tr><td><b>szText</b></td><td><code>The man known as Batzorig is suspected of heresy. Anyone with information as to his whereabouts, come forth at once!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1163148107</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>The man known as Batzorig is suspected of heresy. Anyone with information as to his whereabouts, come forth at once!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1163148107</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.137C1D</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.137C1D</code></td></tr><tr><td><b>szText</b></td><td><code>Stern. Firm and demanding</code></td></tr><tr><td><b>hLabel</b></td><td><code>2622480568</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Stern. Firm and demanding</code></td></tr><tr><td><b>hLabel</b></td><td><code>2622480568</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.137C1D</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.B6757</code></td></tr><tr><td><b>szText</b></td><td><code>Excuse me! I'm not sure where he lives, but I see him with a neighbor of his quite often. And they live to the north, just over there.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3304344554</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3304344554</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line9.B6757</code></td></tr><tr><td><b>szText</b></td><td><code>Excuse me! I'm not sure where he lives, but I see him with a neighbor of his quite often. And they live to the north, just over there.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>872264215</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.B6757</code></td></tr><tr><td><b>szText</b></td><td><code>Slightly timid but seeking approval. Here, she's selling out another town resident.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Slightly timid but seeking approval. Here, she's selling out another town resident.</code></td></tr><tr><td><b>hLabel</b></td><td><code>872264215</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.B6757</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.1343B7</code></td></tr><tr><td><b>szText</b></td><td><code>Incredible! Did you see that? Come quick - we must follow their trail! To the north!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1072807279</code></td></tr></table>

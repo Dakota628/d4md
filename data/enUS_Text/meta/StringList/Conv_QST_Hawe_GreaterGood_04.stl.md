@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>Well, if by “lived here” you mean “existed in various drunken, violent, and layabout states before I threw them out,” then yes. They lived here.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2394029803</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>Dismissive</code></td></tr><tr><td><b>hLabel</b></td><td><code>3739757240</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Dismissive</code></td></tr><tr><td><b>hLabel</b></td><td><code>3739757240</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.10088C</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line4.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>They had no right to those supplies.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1400339854</code></td></tr></table>

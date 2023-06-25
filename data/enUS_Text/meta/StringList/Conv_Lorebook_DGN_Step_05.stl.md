@@ -10,8 +10,8 @@
 My ancestor’s call rang clear. If I give my life to free him from his salt prison, he can protect our people. Protect you. In the end, it is no choice at all.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>1567831610</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><pre>Weep not for my death, as it is something I give freely and joyfully. I watched my grandchildren grow. I end my life with a smile, knowing they will be free from the horrors we survived. 
--Your loving father, Davan</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4150767548</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.EECAE</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.EECAE</code></td></tr><tr><td><b>szText</b></td><td><pre>Weep not for my death, as it is something I give freely and joyfully. I watched my grandchildren grow. I end my life with a smile, knowing they will be free from the horrors we survived. 
+-Your loving father, Davan</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4150767548</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

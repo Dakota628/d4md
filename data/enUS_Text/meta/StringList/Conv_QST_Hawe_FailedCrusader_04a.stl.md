@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.121C9F</code></td></tr><tr><td><b>szText</b></td><td><code>I was worried we would not find it... But it seems the Light shines even here. Your help shall not be forgotten.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2396484445</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.121C9F</code></td></tr><tr><td><b>szText</b></td><td><code>You've found your master's armor, meaning you can continue her legacy. Emotional. Proud. Powerful.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742211882</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>You've found your master's armor, meaning you can continue her legacy. Emotional. Proud. Powerful.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742211882</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.121C9F</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.121C9F</code></td></tr><tr><td><b>szText</b></td><td><code>Before I can return to Zarbinzet, I must perform the final rites for my fellow crusaders that died here. They deserve that at least.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1071564513</code></td></tr></table>

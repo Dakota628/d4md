@@ -24,7 +24,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line23.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>I’m sorry, Donan.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2989640983</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>557560644</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir23.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Trying to calm down Donan</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir23.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Trying to calm down Donan</code></td></tr><tr><td><b>hLabel</b></td><td><code>557560644</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>(shaky breath) This...this isn't over.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1866346619</code></td></tr></table>
@@ -42,7 +42,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line19.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>No!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3608155779</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>658915920</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Desperate. Not angry, but he doesn't want to accept the truth.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Desperate. Not angry, but he doesn't want to accept the truth.</code></td></tr><tr><td><b>hLabel</b></td><td><code>658915920</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line33.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>There's still time...you have to trust me.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3786822591</code></td></tr></table>
@@ -51,10 +51,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir33.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Calmer, shaky voice. Still desperate.</code></td></tr><tr><td><b>hLabel</b></td><td><code>837582732</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Meet me in the Great Hall.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2406021216</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line25.7FA05</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line25.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Meet me in the Great Hall.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2406021216</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir25.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Mind racing. </code></td></tr><tr><td><b>hLabel</b></td><td><code>3751748653</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3751748653</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir25.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Mind racing. </code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

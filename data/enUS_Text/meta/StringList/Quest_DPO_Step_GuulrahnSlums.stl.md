@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback4Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat the {MONSTER}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3097634794</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2781844029</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback25Header</code></td></tr><tr><td><b>szText</b></td><td><code>Free the Prisoners: {LEFT}</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback25Header</code></td></tr><tr><td><b>szText</b></td><td><code>Free the Prisoners: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2781844029</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback50Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the Possessed Brute and collect the {ITEM}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3920748827</code></td></tr></table>
@@ -24,7 +24,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback43Header</code></td></tr><tr><td><b>szText</b></td><td><code>Travel to the {LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3831415421</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback46Header</code></td></tr><tr><td><b>szText</b></td><td><code>Use the Jail Key to open the {GIZMO}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3410852032</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3410852032</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback46Header</code></td></tr><tr><td><b>szText</b></td><td><code>Use the Jail Key to open the {GIZMO}</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

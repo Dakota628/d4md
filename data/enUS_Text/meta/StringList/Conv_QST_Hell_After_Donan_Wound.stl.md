@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>I'm...I'm fine. But Lorath is right.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1866346619</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Pained--he has just suffered a mortal wound. "Lorath is right" is reference to a plan Lorath has to use the Sightless Eye to find Lilith.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3212074056</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3212074056</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Pained--he has just suffered a mortal wound. "Lorath is right" is reference to a plan Lorath has to use the Sightless Eye to find Lilith.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>The Eye is...the only advantage we have--the only way to find Lilith.</code></td></tr><tr><td><b>hLabel</b></td><td><code>154315261</code></td></tr></table>
@@ -21,7 +21,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>There is...no time to waste.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2737251199</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4082978636</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir15.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Pained--he has just suffered a mortal wound.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Pained--he has just suffered a mortal wound.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4082978636</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir15.7FA05</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -3,13 +3,13 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Unwritten End</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I found an old diary detailing the various travels and sales of a merchant. Zalan Coste in Margrave may want to see this.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><code>I found an old diary detailing the various travels and sales of a merchant. Zalan Coste in Margrave may want to see this.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback5Header</code></td></tr><tr><td><b>szText</b></td><td><code>Show the Merchant's Ledger to Zalan Coste</code></td></tr><tr><td><b>hLabel</b></td><td><code>94135467</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>94135467</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback5Header</code></td></tr><tr><td><b>szText</b></td><td><code>Show the Merchant's Ledger to Zalan Coste</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I found an old diary detailing the various travels and sales of a merchant. Zalan Coste in Margrave may want to see this.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>I found an old diary detailing the various travels and sales of a merchant. Zalan Coste in Margrave may want to see this.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback76Header</code></td></tr><tr><td><b>szText</b></td><td><code>Return the Ancients Statue to the Pedestal: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2417162083</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Travel to the {LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2927058878</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback80Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback80Header</code></td></tr><tr><td><b>szText</b></td><td><code>Travel to the {LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2927058878</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback85Header</code></td></tr><tr><td><b>szText</b></td><td><code>Deposit Animus into the {GIZMO}</code></td></tr><tr><td><b>hLabel</b></td><td><code>794464131</code></td></tr></table>

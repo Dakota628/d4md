@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.B6582</code></td></tr><tr><td><b>szText</b></td><td><code>(straining)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1562533310</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.B6582</code></td></tr><tr><td><b>szText</b></td><td><code>She's gearing up for her last ditch attempt to win this fight</code></td></tr><tr><td><b>hLabel</b></td><td><code>3425420267</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3425420267</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.B6582</code></td></tr><tr><td><b>szText</b></td><td><code>She's gearing up for her last ditch attempt to win this fight</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

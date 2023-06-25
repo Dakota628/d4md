@@ -6,23 +6,23 @@
 
 </td></tr><tr><td><b>bInvert</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>tDynamicAudioState</b></td><td><table><tr><th colspan="100%">DynamicAudioState</th></tr><tr><td><b>unk_6f68ae7</b></td><td><table><tr><th colspan="100%">Type_1d0f43e</th></tr><tr><td><b>tGroup</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>tDynamicAudioState</b></td><td><table><tr><th colspan="100%">DynamicAudioState</th></tr><tr><td><b>unk_ce3c7b4</b></td><td><code>0</code></td></tr><tr><td><b>unk_6f68ae7</b></td><td><table><tr><th colspan="100%">Type_1d0f43e</th></tr><tr><td><b>tGroup</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>tValue</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_dc04935</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_dc04935</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_ce3c7b4</b></td><td><code>0</code></td></tr></table>
+</td></tr></table>
 
-</td></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_WAmb_Dungeon_Cave_Sand.snd">[DT_SNO] Sound: "Play_WAmb_Dungeon_Cave_Sand"</a></td></tr><tr><td><b>tRandomSounds</b></td><td><table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_WAmb_Dungeon_Cave_Sand.snd.md">[DT_SNO] Sound: "Play_WAmb_Dungeon_Cave_Sand"</a></td></tr><tr><td><b>tRandomSounds</b></td><td><table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>20</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>4</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Cave_Sand_Small_Debris_Fall.snd">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Cave_Sand_Small_Debris_Fall"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>20</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr></table>
-
-</td></tr></table>
+</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Cave_Sand_Small_Debris_Fall.snd.md">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Cave_Sand_Small_Debris_Fall"</a></td></tr></table>
 
 
 </td></tr></table>

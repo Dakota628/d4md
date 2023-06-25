@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>Worn Journal</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DisembodiedVoice</code></td></tr><tr><td><b>szText</b></td><td><code>Worn Journal</code></td></tr><tr><td><b>hLabel</b></td><td><code>155764431</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>155764431</code></td></tr><tr><td><b>szLabel</b></td><td><code>DisembodiedVoice</code></td></tr><tr><td><b>szText</b></td><td><code>Worn Journal</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.EECD0</code></td></tr><tr><td><b>szText</b></td><td><code>Whatever protected me from this demon-born blight has waned. The sores on the back of my hands weep and something eats at the back of my eyes. Like the rest of my clan, I will lose this battle and succumb to this disease.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567831656</code></td></tr></table>

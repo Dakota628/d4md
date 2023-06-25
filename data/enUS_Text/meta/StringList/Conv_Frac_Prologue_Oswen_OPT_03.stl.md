@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"What happened?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1512058033</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Ah, bastard monk. Punched me in the gut and ran off into the woods.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Ah, bastard monk. Punched me in the gut and ran off into the woods.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1512058033</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Grumpy, angry, pained from getting hit by the "monk madman" who was in the shed</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374944990</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3374944990</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Grumpy, angry, pained from getting hit by the "monk madman" who was in the shed</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

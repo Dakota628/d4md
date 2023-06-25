@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Last Stand</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback4Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak to the Adventurer</code></td></tr><tr><td><b>hLabel</b></td><td><code>3097634794</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3097634794</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback4Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak to the Adventurer</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback145Header</code></td></tr><tr><td><b>szText</b></td><td><code>Survive the onslaught</code></td></tr><tr><td><b>hLabel</b></td><td><code>2960108240</code></td></tr></table>
@@ -18,7 +18,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Speak to the Adventurer</code></td></tr><tr><td><b>hLabel</b></td><td><code>3864464783</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback108Header</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Keep at least one Adventurer alive: {LEFT} Remaining</code></td></tr><tr><td><b>hLabel</b></td><td><code>377172302</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback143Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback143Header</code></td></tr><tr><td><b>szText</b></td><td><code>Keep at least one Adventurer alive: {LEFT} Remaining</code></td></tr><tr><td><b>hLabel</b></td><td><code>377172302</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback152Header</code></td></tr><tr><td><b>szText</b></td><td><code>Kill the remaining enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>3049441646</code></td></tr></table>

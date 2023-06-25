@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback8Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat Osric and his Knights</code></td></tr><tr><td><b>hLabel</b></td><td><code>3968539374</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback15Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Edgar</code></td></tr><tr><td><b>hLabel</b></td><td><code>3113074012</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Speak with Edgar</code></td></tr><tr><td><b>hLabel</b></td><td><code>3113074012</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback15Header</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3202407418</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback22Header</code></td></tr><tr><td><b>szText</b></td><td><code>Confront Osric </code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback22Header</code></td></tr><tr><td><b>szText</b></td><td><code>Confront Osric </code></td></tr><tr><td><b>hLabel</b></td><td><code>3202407418</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

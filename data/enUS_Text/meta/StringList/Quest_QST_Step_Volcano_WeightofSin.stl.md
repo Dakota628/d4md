@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Weight of Sin</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Bring peace to those who only knew sorrow.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>Bring peace to those who only knew sorrow.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><pre>Nekhii is the lone surviving resident of Toutai. She returned to find her family taken by the Triune, tortured and killed on Mt. Civo. 
@@ -11,16 +11,16 @@
 She wants to retrieve the bracelets of her siblings, Dawa and Naraa, and give them proper rites of passing. I’m likely to find them among the Charred Remains along the mountain.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback33Header</code></td></tr><tr><td><b>szText</b></td><td><code>Acquire {ITEM}</code></td></tr><tr><td><b>hLabel</b></td><td><code>4162645404</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Acquire {ITEM}</code></td></tr><tr><td><b>hLabel</b></td><td><code>4162645404</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback33Header</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1159146077</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback34Header</code></td></tr><tr><td><b>szText</b></td><td><code>Acquire {ITEM}</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback34Header</code></td></tr><tr><td><b>szText</b></td><td><code>Acquire {ITEM}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1159146077</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase11Description</code></td></tr><tr><td><b>szText</b></td><td><code>I retrieved Dawa and Naraa’s carved bracelets. I should return to Nekhii so she can give them proper rest.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1641010231</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback13Header</code></td></tr><tr><td><b>szText</b></td><td><code>Return Dawa and Naraa's Bracelets to Nekhii</code></td></tr><tr><td><b>hLabel</b></td><td><code>530138074</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>530138074</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback13Header</code></td></tr><tr><td><b>szText</b></td><td><code>Return Dawa and Naraa's Bracelets to Nekhii</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase16Description</code></td></tr><tr><td><b>szText</b></td><td><pre>I found Nekhii’s remains floating in the sulfur pools. Something drove her to enter the water, but there is no sign of a skirmish.

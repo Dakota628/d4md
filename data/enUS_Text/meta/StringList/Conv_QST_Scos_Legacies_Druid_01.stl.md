@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line31.53D3D</code></td></tr><tr><td><b>szText</b></td><td><code>I hope you're ready for this. If the goatmen were strong outside town, they'll be that much stronger in here.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1199685437</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line33.53D3D</code></td></tr><tr><td><b>szText</b></td><td><code>I have a feeling we'll find our answers inside. Let's go.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3782621375</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I have a feeling we'll find our answers inside. Let's go.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3782621375</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line33.53D3D</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -15,13 +15,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir37.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>bleak</code></td></tr><tr><td><b>hLabel</b></td><td><code>1708487312</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line39.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Do you know how to repair it?</code></td></tr><tr><td><b>hLabel</b></td><td><code>220954014</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Do you know how to repair it?</code></td></tr><tr><td><b>hLabel</b></td><td><code>220954014</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line39.BAE4</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line19.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>We'll need rare materials--quicksilver, to start. And tools, alchemical tools.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3608155779</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>weary </code></td></tr><tr><td><b>hLabel</b></td><td><code>658915920</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.7FA05</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>weary </code></td></tr><tr><td><b>hLabel</b></td><td><code>658915920</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line45.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>There's a village near here. We'll see if they have what we need. Meet me there when you can.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1743561250</code></td></tr></table>

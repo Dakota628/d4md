@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>Template: Side Dungeon Quest Item from Quest Chest</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>This is a simple quest to loot a quest item from a quest chest in a side dungeon.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1513999751</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.97F55</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.97F55</code></td></tr><tr><td><b>szText</b></td><td><code>This is a simple quest to loot a quest item from a quest chest in a side dungeon.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1513999751</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.97F55</code></td></tr><tr><td><b>szText</b></td><td><code>I need you to enter the Side Dungeon and recover the Nekonomicon.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4096935689</code></td></tr></table>

@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>simple_instruction_controller</code></td></tr><tr><td><b>szText</b></td><td><code>Pin activities on the map with {icon:button3, 2.0}. Pins can be also seen by other party members.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2264005198</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>title</code></td></tr><tr><td><b>szText</b></td><td><code>Pinning Activities</code></td></tr><tr><td><b>hLabel</b></td><td><code>141470210</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>141470210</code></td></tr><tr><td><b>szLabel</b></td><td><code>title</code></td></tr><tr><td><b>szText</b></td><td><code>Pinning Activities</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

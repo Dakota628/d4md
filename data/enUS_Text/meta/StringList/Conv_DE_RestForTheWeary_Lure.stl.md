@@ -12,22 +12,22 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir76.54239</code></td></tr><tr><td><b>szText</b></td><td><code>Warm. Casual. Friendly.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3382846935</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1616556109</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line79.54239</code></td></tr><tr><td><b>szText</b></td><td><code>Come have a rest, eh? You're making us nervous.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line79.54239</code></td></tr><tr><td><b>szText</b></td><td><code>Come have a rest, eh? You're making us nervous.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1616556109</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir79.54239</code></td></tr><tr><td><b>szText</b></td><td><code>Warm. Casual. Chuckling.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2962283546</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Warm. Casual. Chuckling.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2962283546</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir79.54239</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line63.54237</code></td></tr><tr><td><b>szText</b></td><td><code>Greetings, wanderer! Join us for a meal?</code></td></tr><tr><td><b>hLabel</b></td><td><code>2788912868</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Greetings, wanderer! Join us for a meal?</code></td></tr><tr><td><b>hLabel</b></td><td><code>2788912868</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line63.54237</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir63.54237</code></td></tr><tr><td><b>szText</b></td><td><code>Warm. Casual. Friendly.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4134640305</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Warm. Casual. Friendly.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4134640305</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir63.54237</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line66.54237</code></td></tr><tr><td><b>szText</b></td><td><code>Soup's hot, if you'd care for a bowl.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2368349479</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3714076916</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir66.54237</code></td></tr><tr><td><b>szText</b></td><td><code>Warm. Casual. Friendly.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir66.54237</code></td></tr><tr><td><b>szText</b></td><td><code>Warm. Casual. Friendly.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3714076916</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line69.54237</code></td></tr><tr><td><b>szText</b></td><td><code>Come have a rest, eh? You're making us nervous.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1947786090</code></td></tr></table>
@@ -36,7 +36,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir69.54237</code></td></tr><tr><td><b>szText</b></td><td><code>Warm. Casual. Chuckling.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3293513527</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line91.8998F</code></td></tr><tr><td><b>szText</b></td><td><code>Greetings, wanderer! Join us for a meal?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3510999560</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Greetings, wanderer! Join us for a meal?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3510999560</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line91.8998F</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir91.8998F</code></td></tr><tr><td><b>szText</b></td><td><code>Warm. Casual. Friendly.</code></td></tr><tr><td><b>hLabel</b></td><td><code>561759701</code></td></tr></table>

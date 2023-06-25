@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback17Header</code></td></tr><tr><td><b>szText</b></td><td><code>Clear the Abandoned Mine Sinkhole</code></td></tr><tr><td><b>hLabel</b></td><td><code>1401042654</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Clear the Abandoned Mine Sinkhole</code></td></tr><tr><td><b>hLabel</b></td><td><code>1401042654</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback17Header</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

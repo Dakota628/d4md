@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir15.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>Pointing. Somber.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4133816502</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line17.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>She turned to cover our retreat. We will remember.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1076057707</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1076057707</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line17.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>She turned to cover our retreat. We will remember.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir17.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>Somber. Ritual remembrance.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2421785144</code></td></tr></table>

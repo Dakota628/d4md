@@ -1,22 +1,27 @@
 <h1>data/base/meta/Scene/Sanctuary_Eastern_Continent_N01_W03.scn</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/Scene/Sanctuary_Eastern_Continent_N01_W03.scn</td></tr><tr><td><b>Type</b></td><td>SceneDefinition</td></tr><tr><td><b>SNO ID</b></td><td>86762</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>flTileY</b></td><td><code>32</code></td></tr><tr><td><b>tFogMask</b></td><td><table><tr><th colspan="100%">FogMask</th></tr><tr><td><b>arMask</b></td><td></td></tr><tr><td><b>dwWidth</b></td><td><code>0</code></td></tr><tr><td><b>dwHeight</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(45.846619, 44.650074, -1.739737)</td></tr><tr><td><b>wvExt</b></td><td>Vector(54.514252, 55.729656, 26.249727)</td></tr></table>
 
-</td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(45.846619, 44.650074, -1.739737)</td></tr><tr><td><b>wvExt</b></td><td>Vector(54.514252, 55.729656, 26.249727)</td></tr></table>
+</td></tr><tr><td><b>flTileY</b></td><td><code>32</code></td></tr><tr><td><b>flGridSize</b></td><td><code>96</code></td></tr><tr><td><b>arLayers</b></td><td><a href="..\MarkerSet\Sanctuary_Eastern_Continent_N01_W03 (Merged).mrk.md">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N01_W03 (Merged)"</a>
+<a href="..\MarkerSet\Sanctuary_Eastern_Continent_N01_W03 (Game).mrk.md">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N01_W03 (Game)"</a>
+<a href="..\MarkerSet\Sanctuary_Eastern_Continent_N01_W03 (Props).mrk.md">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N01_W03 (Props)"</a>
+<a href="..\MarkerSet\Sanctuary_Eastern_Continent_N01_W03 (Lighting).mrk.md">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N01_W03 (Lighting)"</a>
+<a href="..\MarkerSet\Sanctuary_Eastern_Continent_N01_W03 (Merged_Props).mrk.md">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N01_W03 (Merged_Props)"</a>
+</td></tr><tr><td><b>unk_f60a9cd</b></td><td></td></tr><tr><td><b>unk_29b7731</b></td><td><table><tr><th colspan="100%">Type_ff4098b9</th></tr><tr><td><b>arSnos</b></td><td></td></tr><tr><td><b>unk_7fc1b58</b></td><td><code>1</code></td></tr><tr><td><b>unk_cc11a8e</b></td><td><code>255</code>
+</td></tr></table>
 
-</td></tr><tr><td><b>tLookLink</b></td><td><table><tr><th colspan="100%">LookLink</th></tr><tr><td><b>dwLookHash</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>dwFlags</b></td><td><code>32</code></td></tr><tr><td><b>unk_ec132ae</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(45.350883, 84.823814, 25.664616)</td></tr><tr><td><b>wvExt</b></td><td>Vector(62.992119, 95.903389, 53.654079)</td></tr></table>
 
-</td></tr><tr><td><b>snoAppearance</b></td><td><a href="..\Appearance\Sanctuary_Eastern_Continent_N01_W03.app">[DT_SNO] Appearance: "Sanctuary_Eastern_Continent_N01_W03"</a></td></tr><tr><td><b>eDRLGTileType</b></td><td><code>0</code></td></tr><tr><td><b>unk_29b7731</b></td><td><table><tr><th colspan="100%">Type_ff4098b9</th></tr><tr><td><b>unk_7fc1b58</b></td><td><code>1</code></td></tr><tr><td><b>unk_cc11a8e</b></td><td><code>255</code>
-</td></tr><tr><td><b>arSnos</b></td><td></td></tr></table>
-
-</td></tr><tr><td><b>flGridSize</b></td><td><code>96</code></td></tr><tr><td><b>flTileX</b></td><td><code>32</code></td></tr><tr><td><b>ptAIPathData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AIPathData</th></tr><tr><td><b>dataOffset</b></td><td><code>32</code></td></tr><tr><td><b>dataSize</b></td><td><code>72</code></td></tr></table>
+</td></tr><tr><td><b>snoAppearance</b></td><td><a href="..\Appearance\Sanctuary_Eastern_Continent_N01_W03.app.md">[DT_SNO] Appearance: "Sanctuary_Eastern_Continent_N01_W03"</a></td></tr><tr><td><b>ptAIPathData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AIPathData</th></tr><tr><td><b>dataOffset</b></td><td><code>32</code></td></tr><tr><td><b>dataSize</b></td><td><code>72</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_57e8e2b</b></td><td><table><tr><th colspan="100%">Type_ff4098b9</th></tr><tr><td><b>arSnos</b></td><td><a href="..\LevelArea\Kehj_HighDesert_Road_to_Alcarnus.lvl">[DT_SNO] None: %!q(<nil>)</a>
-<a href="..\LevelArea\Kehj_Transfer_Ridge_HighDesert_1.lvl">[DT_SNO] None: %!q(<nil>)</a>
-<a href="..\LevelArea\Kehj_Transfer_Caldeum_Ridge_2.lvl">[DT_SNO] None: %!q(<nil>)</a>
-<a href="..\LevelArea\Kehj_Ridge_Badlands.lvl">[DT_SNO] None: %!q(<nil>)</a>
+</td></tr><tr><td><b>tLookLink</b></td><td><table><tr><th colspan="100%">LookLink</th></tr><tr><td><b>dwLookHash</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>flTileX</b></td><td><code>32</code></td></tr><tr><td><b>unk_57e8e2b</b></td><td><table><tr><th colspan="100%">Type_ff4098b9</th></tr><tr><td><b>arSnos</b></td><td><a href="..\LevelArea\Kehj_HighDesert_Road_to_Alcarnus.lvl.md">[DT_SNO] None: %!q(<nil>)</a>
+<a href="..\LevelArea\Kehj_Transfer_Ridge_HighDesert_1.lvl.md">[DT_SNO] None: %!q(<nil>)</a>
+<a href="..\LevelArea\Kehj_Transfer_Caldeum_Ridge_2.lvl.md">[DT_SNO] None: %!q(<nil>)</a>
+<a href="..\LevelArea\Kehj_Ridge_Badlands.lvl.md">[DT_SNO] None: %!q(<nil>)</a>
 </td></tr><tr><td><b>unk_7fc1b58</b></td><td><code>48</code></td></tr><tr><td><b>unk_cc11a8e</b></td><td><code>0</code>
 <code>0</code>
 <code>0</code>
@@ -2323,12 +2328,7 @@
 <code>2</code>
 </td></tr></table>
 
-</td></tr><tr><td><b>dwFlags</b></td><td><code>32</code></td></tr><tr><td><b>unk_ec132ae</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(45.350883, 84.823814, 25.664616)</td></tr><tr><td><b>wvExt</b></td><td>Vector(62.992119, 95.903389, 53.654079)</td></tr></table>
+</td></tr><tr><td><b>eDRLGTileType</b></td><td><code>0</code></td></tr><tr><td><b>tFogMask</b></td><td><table><tr><th colspan="100%">FogMask</th></tr><tr><td><b>arMask</b></td><td></td></tr><tr><td><b>dwWidth</b></td><td><code>0</code></td></tr><tr><td><b>dwHeight</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>arLayers</b></td><td><a href="..\MarkerSet\Sanctuary_Eastern_Continent_N01_W03 (Merged).mrk">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N01_W03 (Merged)"</a>
-<a href="..\MarkerSet\Sanctuary_Eastern_Continent_N01_W03 (Game).mrk">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N01_W03 (Game)"</a>
-<a href="..\MarkerSet\Sanctuary_Eastern_Continent_N01_W03 (Props).mrk">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N01_W03 (Props)"</a>
-<a href="..\MarkerSet\Sanctuary_Eastern_Continent_N01_W03 (Lighting).mrk">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N01_W03 (Lighting)"</a>
-<a href="..\MarkerSet\Sanctuary_Eastern_Continent_N01_W03 (Merged_Props).mrk">[DT_SNO] MarkerSet: "Sanctuary_Eastern_Continent_N01_W03 (Merged_Props)"</a>
-</td></tr><tr><td><b>unk_f60a9cd</b></td><td></td></tr></table>
+</td></tr></table>
 

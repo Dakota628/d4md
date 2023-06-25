@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"Is that blood there?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Blood, wine. Depends who you ask. (chuckle)</code></td></tr><tr><td><b>hLabel</b></td><td><code>2396593160</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.124D51</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2396593160</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.124D51</code></td></tr><tr><td><b>szText</b></td><td><code>Blood, wine. Depends who you ask. (chuckle)</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.124D51</code></td></tr><tr><td><b>szText</b></td><td><code>Shrewd and sincere</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742320597</code></td></tr></table>

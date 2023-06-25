@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr><tr><td><b>szText</b></td><td><code>You deal {c_number}[{SF_0} * 100 |x%|]{/c} increased damage for {c_number}{SF_1}{/c} |4second:seconds; after casting a {c_important}Defensive{/c} Skill.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Glyph: Tactician</code></td></tr><tr><td><b>hLabel</b></td><td><code>2845717510</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff12_Name</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff12_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Glyph: Tactician</code></td></tr><tr><td><b>hLabel</b></td><td><code>2845717510</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff12_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Damage increased after casting a {c_important}Defensive{/c} Skill.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3592533833</code></td></tr></table>

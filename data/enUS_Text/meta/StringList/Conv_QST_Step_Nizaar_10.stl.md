@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.A5F52</code></td></tr><tr><td><b>szText</b></td><td><code>Aye! I know I did wrong, but I brought you the troublemaker who wrecked our camp! A little gift, wrapped up nice!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4144300652</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1712220313</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.A5F52</code></td></tr><tr><td><b>szText</b></td><td><code>Nervous but trying to put on an air of confidence. Talking to The Boss, and trying to ingratiate yourself to them.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.A5F52</code></td></tr><tr><td><b>szText</b></td><td><code>Nervous but trying to put on an air of confidence. Talking to The Boss, and trying to ingratiate yourself to them.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1712220313</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

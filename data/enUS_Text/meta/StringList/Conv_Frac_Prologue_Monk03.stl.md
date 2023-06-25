@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"What were you doing in Nevesk?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>153077677</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line13.6F0BE</code></td></tr><tr><td><b>szText</b></td><td><code>Looking for the town priest. He stopped sending tithes, and I came to find out why.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.6F0BE</code></td></tr><tr><td><b>szText</b></td><td><code>Looking for the town priest. He stopped sending tithes, and I came to find out why.</code></td></tr><tr><td><b>hLabel</b></td><td><code>153077677</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.6F0BE</code></td></tr><tr><td><b>szText</b></td><td><code>As I neared the village, I sensed darkness around the ruins. I went to investigate. Found the priest’s body... demons...</code></td></tr><tr><td><b>hLabel</b></td><td><code>2736013615</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2736013615</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line15.6F0BE</code></td></tr><tr><td><b>szText</b></td><td><code>As I neared the village, I sensed darkness around the ruins. I went to investigate. Found the priest’s body... demons...</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir15.6F0BE</code></td></tr><tr><td><b>szText</b></td><td><code>Haunted as he talks about finding the body and demons</code></td></tr><tr><td><b>hLabel</b></td><td><code>4081741052</code></td></tr></table>

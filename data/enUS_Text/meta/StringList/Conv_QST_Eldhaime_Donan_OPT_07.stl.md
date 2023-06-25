@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>It occurred just the other day, in the dead of night. I thought it was a nightmare at first...but, unfortunately, that is not the case.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1513311338</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3376198295</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Cautious, anxious</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Cautious, anxious</code></td></tr><tr><td><b>hLabel</b></td><td><code>3376198295</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>I have some things to finish up here, and then we will talk more at the estate.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2384215918</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I have some things to finish up here, and then we will talk more at the estate.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2384215918</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.7FA05</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

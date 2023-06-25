@@ -4,14 +4,14 @@
 
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_dc54395</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>1368</code></td></tr><tr><td><b>dataSize</b></td><td><code>152</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
+</td></tr><tr><td><b>unk_dc54395</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>1368</code></td></tr><tr><td><b>dataSize</b></td><td><code>152</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>snoParentWeather</b></td><td><a href="weather_dungeon_Crypt.wth">[DT_SNO] Weather: "weather_dungeon_Crypt"</a></td></tr><tr><td><b>unk_45703df</b></td><td><code>0</code></td></tr><tr><td><b>unk_5989069</b></td><td><table><tr><th colspan="100%">Type_3f7811d2</th></tr><tr><td><b>unk_589fc97</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>unk_45703df</b></td><td><code>0</code></td></tr><tr><td><b>unk_5989069</b></td><td><table><tr><th colspan="100%">Type_3f7811d2</th></tr><tr><td><b>unk_589fc97</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_3f7811d2</th></tr><tr><td><b>unk_589fc97</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
+<table><tr><th colspan="100%">Type_3f7811d2</th></tr><tr><td><b>unk_589fc97</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
@@ -25,15 +25,15 @@
 
 </td></tr></table>
 
-</td></tr><tr><td><b>tParamsWhenRaining</b></td><td><table><tr><th colspan="100%">WeatherStateParams</th></tr><tr><td><b>unk_d6ca49a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
+</td></tr><tr><td><b>tDomainEpoch</b></td><td><table><tr><th colspan="100%">Type_27090ba7</th></tr><tr><td><b>unk_9fea26c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>tDomainEpoch</b></td><td><table><tr><th colspan="100%">Type_27090ba7</th></tr><tr><td><b>unk_9fea26c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>snoParentWeather</b></td><td><a href="weather_dungeon_Crypt.wth.md">[DT_SNO] Weather: "weather_dungeon_Crypt"</a></td></tr><tr><td><b>tParamsWhenRaining</b></td><td><table><tr><th colspan="100%">WeatherStateParams</th></tr><tr><td><b>unk_d6ca49a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>tColorCorrection</b></td><td><table><tr><th colspan="100%">ColorCorrectionParams</th></tr><tr><td><b>unk_ba29200</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>200</code></td></tr><tr><td><b>dataSize</b></td><td><code>32</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
+</td></tr><tr><td><b>tColorCorrection</b></td><td><table><tr><th colspan="100%">ColorCorrectionParams</th></tr><tr><td><b>unk_ba29200</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>200</code></td></tr><tr><td><b>dataSize</b></td><td><code>32</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 

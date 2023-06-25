@@ -8,13 +8,13 @@
 After being a Werebear for {c_number}{buffduration:TIMER_BEAR}{/c} seconds, deal {c_number}[{SF_2} * 100|%x|]{/c} increased damage for {c_number}{buffduration:BUFF_ATTACK_DAMAGE}{/c} seconds.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Bestial Fury Attack Speed</code></td></tr><tr><td><b>hLabel</b></td><td><code>309411509</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>309411509</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Bestial Fury Attack Speed</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Attack Speed increased for being a Werewolf.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3336963864</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>348546902</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff3_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Bestial Fury Attack Damage</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff3_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Bestial Fury Attack Damage</code></td></tr><tr><td><b>hLabel</b></td><td><code>348546902</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff3_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Damage increased for being a Werebear.</code></td></tr><tr><td><b>hLabel</b></td><td><code>373624985</code></td></tr></table>

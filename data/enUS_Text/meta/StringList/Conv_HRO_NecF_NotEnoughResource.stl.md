@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.BAE4.Nec.F</code></td></tr><tr><td><b>szText</b></td><td><code>I'm low on essence.</code></td></tr><tr><td><b>hLabel</b></td><td><code>8036396</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I need more essence.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1650547438</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line13.BAE4.Nec.F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.BAE4.Nec.F</code></td></tr><tr><td><b>szText</b></td><td><code>I need more essence.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1650547438</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.BAE4.Nec.F</code></td></tr><tr><td><b>szText</b></td><td><code>I lack the required essence.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3293058480</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3293058480</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line15.BAE4.Nec.F</code></td></tr><tr><td><b>szText</b></td><td><code>I lack the required essence.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback18Header</code></td></tr><tr><td><b>szText</b></td><td><code>Return the Stone Carving to the Pedestal: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2692510623</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Travel to the {LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>619471480</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback20Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback20Header</code></td></tr><tr><td><b>szText</b></td><td><code>Travel to the {LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>619471480</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2990288643</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback49Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the Festering Shambler</code></td></tr></table>

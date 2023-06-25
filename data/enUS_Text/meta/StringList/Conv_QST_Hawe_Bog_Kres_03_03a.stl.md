@@ -12,10 +12,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Hausl...his name. I remember... (sobs) That pyre. Its smoke. Over and over and over...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4262980863</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line30.FBA9D</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I took Grisch’s blood first. Then Mitzi. So many others. Hausl was only the last. Their faces--their blood... (sobs) the smoke...</code></td></tr><tr><td><b>hLabel</b></td><td><code>2550949505</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line32.FBA9D</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line32.FBA9D</code></td></tr><tr><td><b>szText</b></td><td><code>I took Grisch’s blood first. Then Mitzi. So many others. Hausl was only the last. Their faces--their blood... (sobs) the smoke...</code></td></tr><tr><td><b>hLabel</b></td><td><code>2550949505</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>838918147</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line34.FBA9D</code></td></tr><tr><td><b>szText</b></td><td><code>(sobs) How could I...how could I forget...how could I forget...</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line34.FBA9D</code></td></tr><tr><td><b>szText</b></td><td><code>(sobs) How could I...how could I forget...how could I forget...</code></td></tr><tr><td><b>hLabel</b></td><td><code>838918147</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir34.FBA9D</code></td></tr><tr><td><b>szText</b></td><td><code>sobbing</code></td></tr><tr><td><b>hLabel</b></td><td><code>2184645584</code></td></tr></table>

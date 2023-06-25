@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>Even more restless than before.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1511616375</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>contemplative</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374503332</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.789BF</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>contemplative</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374503332</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line29.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>He's lost a son, and inside his grief chips at him every moment he refuses to face it.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3275230833</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3275230833</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line29.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>He's lost a son, and inside his grief chips at him every moment he refuses to face it.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

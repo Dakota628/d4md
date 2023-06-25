@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.104B3D</code></td></tr><tr><td><b>szText</b></td><td><code>Emotional, distraught. Anger towards Gan</code></td></tr><tr><td><b>hLabel</b></td><td><code>3739946562</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.104B3D</code></td></tr><tr><td><b>szText</b></td><td><code>That goat was like a son to me. He had a smile to melt all troubles.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1731759159</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>That goat was like a son to me. He had a smile to melt all troubles.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1731759159</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.104B3D</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.104B3D</code></td></tr><tr><td><b>szText</b></td><td><code>Impassionated affection, stirred by memories</code></td></tr><tr><td><b>hLabel</b></td><td><code>3077486596</code></td></tr></table>

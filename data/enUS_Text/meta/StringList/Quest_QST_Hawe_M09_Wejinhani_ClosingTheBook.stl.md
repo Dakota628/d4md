@@ -6,12 +6,12 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>Elder Akos wants to piece together the dark history of Eriman's Pyre.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><pre>Elder Akos wants to find a record of the Zakarum inquisition that took place at Eriman's Pyre.
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><pre>Elder Akos wants to find a record of the Zakarum inquisition that took place at Eriman's Pyre.
 
-He has asked me to bring him there to search for a ledger.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr></table>
+He has asked me to bring him there to search for a ledger.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Go to Eriman's Pyre with Elder Akos</code></td></tr><tr><td><b>hLabel</b></td><td><code>2692510623</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback18Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback18Header</code></td></tr><tr><td><b>szText</b></td><td><code>Go to Eriman's Pyre with Elder Akos</code></td></tr><tr><td><b>hLabel</b></td><td><code>2692510623</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase22Description</code></td></tr><tr><td><b>szText</b></td><td><code>I need to look around Eriman's Pyre to find the pieces of the ledger that Elder Akos mentioned.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3793894169</code></td></tr></table>
@@ -20,7 +20,7 @@ He has asked me to bring him there to search for a ledger.</pre></td></tr><tr><t
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback56Header</code></td></tr><tr><td><b>szText</b></td><td><code>Collect the ledger pages: {DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3079622049</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>330982974</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase45Description</code></td></tr><tr><td><b>szText</b></td><td><code>Elder Akos appears unwilling to continue on into Eriman's Pyre. I should speak with him.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase45Description</code></td></tr><tr><td><b>szText</b></td><td><code>Elder Akos appears unwilling to continue on into Eriman's Pyre. I should speak with him.</code></td></tr><tr><td><b>hLabel</b></td><td><code>330982974</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback44Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Elder Akos</code></td></tr><tr><td><b>hLabel</b></td><td><code>827916094</code></td></tr></table>

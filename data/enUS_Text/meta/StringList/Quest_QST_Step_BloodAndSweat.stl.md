@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I found a dead miner in Qara Yisu.  His letter indicates he was keeping something for his daughter.  I should find it and take it to her.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback15Header</code></td></tr><tr><td><b>szText</b></td><td><code>Search for 'Little Tuya'</code></td></tr><tr><td><b>hLabel</b></td><td><code>3113074012</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Search for 'Little Tuya'</code></td></tr><tr><td><b>hLabel</b></td><td><code>3113074012</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback15Header</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>The miner was keeping his daughter's old doll safe.  I should deliver it to her in Alzuuda along with news of her father's fate.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2972638648</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase21Description</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase21Description</code></td></tr><tr><td><b>szText</b></td><td><code>The miner was keeping his daughter's old doll safe.  I should deliver it to her in Alzuuda along with news of her father's fate.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2972638648</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback20Header</code></td></tr><tr><td><b>szText</b></td><td><code>Bring the doll to Tuya</code></td></tr><tr><td><b>hLabel</b></td><td><code>619471480</code></td></tr></table>

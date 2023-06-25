@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line28.54239</code></td></tr><tr><td><b>szText</b></td><td><code>You have to be Triune! No one gets in without a medallion around their neck.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1981238055</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir28.54239</code></td></tr><tr><td><b>szText</b></td><td><code>Frustrated. Tired of repeating himself. Beaten/bruised.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3326965492</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Frustrated. Tired of repeating himself. Beaten/bruised.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3326965492</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir28.54239</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2546192488</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line32.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>Ah, a medallion? Like this one?</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line32.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>Ah, a medallion? Like this one?</code></td></tr><tr><td><b>hLabel</b></td><td><code>2546192488</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir32.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>To bandit. Alert. Suddenly curious.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3891919925</code></td></tr></table>
@@ -21,7 +21,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir34.54239</code></td></tr><tr><td><b>szText</b></td><td><code>Desperate. Exhausted. Hopeful.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2124830929</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3417812656</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line36.D5161</code></td></tr><tr><td><b>szText</b></td><td><code>Be still.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line36.D5161</code></td></tr><tr><td><b>szText</b></td><td><code>Be still.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3417812656</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir36.D5161</code></td></tr><tr><td><b>szText</b></td><td><code>To Bandit. Terse. Contempt. Command.</code></td></tr><tr><td><b>hLabel</b></td><td><code>468572797</code></td></tr></table>

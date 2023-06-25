@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.0</code></td></tr><tr><td><b>szText</b></td><td><code>The statue is of a tall, studious-looking man. Light from an unknown source shines on the open tome in his hand.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1987974201</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.0</code></td></tr><tr><td><b>szText</b></td><td><code>"The Light reveals secrets to those who can keep them."</code></td></tr><tr><td><b>hLabel</b></td><td><code>1987976379</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1987976379</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.0</code></td></tr><tr><td><b>szText</b></td><td><code>"The Light reveals secrets to those who can keep them."</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

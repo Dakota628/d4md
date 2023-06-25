@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>"I freed Gathlen. He left me his skull."</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>He was trapped, then? For all these years... He has suffered too long.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4148933295</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.E2C66</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.E2C66</code></td></tr><tr><td><b>szText</b></td><td><code>He was trapped, then? For all these years... He has suffered too long.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4148933295</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1716852956</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.E2C66</code></td></tr><tr><td><b>szText</b></td><td><code>last sentence is spoken shakily, with shame</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.E2C66</code></td></tr><tr><td><b>szText</b></td><td><code>last sentence is spoken shakily, with shame</code></td></tr><tr><td><b>hLabel</b></td><td><code>1716852956</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.E2C66</code></td></tr><tr><td><b>szText</b></td><td><code>Here, place it upon the altar. Let us honor him.</code></td></tr><tr><td><b>hLabel</b></td><td><code>724870579</code></td></tr></table>

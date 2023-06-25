@@ -11,7 +11,7 @@
 I dedicated this week of my research to the making of Fallen demons’ weapons. I summoned a fine specimen, the shaman Maliak, to guide me through the process.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>1567794285</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>It showed me, with enthusiasm, how they drain, skin, and dress their victims’ bodies. From human heads they fashion their shamanic staves, which hone their power to breathe new life into slain comrades...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150730223</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.EDC7C</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.EDC7C</code></td></tr><tr><td><b>szText</b></td><td><code>It showed me, with enthusiasm, how they drain, skin, and dress their victims’ bodies. From human heads they fashion their shamanic staves, which hone their power to breathe new life into slain comrades...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150730223</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

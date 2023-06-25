@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line33.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Astaroth hails from the Realm of Hatred, same as she. Perhaps she left something at home?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3785511583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>836271724</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir33.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Pity. Condescending toward Donan.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir33.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Pity. Condescending toward Donan.</code></td></tr><tr><td><b>hLabel</b></td><td><code>836271724</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

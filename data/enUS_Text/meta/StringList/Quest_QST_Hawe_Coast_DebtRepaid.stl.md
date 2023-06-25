@@ -15,7 +15,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><code>I found a woman in Backwater who said she owes a debt to a man named Flinn. Her ship is getting ready to leave, and she is determined to clear her debt before departing. However, Flinn has recently gone missing. She says he was expected up the road north of Backwater, so we should begin our search there.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback92Header</code></td></tr><tr><td><b>szText</b></td><td><code>Find Flinn</code></td></tr><tr><td><b>hLabel</b></td><td><code>883797537</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>883797537</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback92Header</code></td></tr><tr><td><b>szText</b></td><td><code>Find Flinn</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

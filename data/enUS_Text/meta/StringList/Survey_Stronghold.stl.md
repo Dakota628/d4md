@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Question1</code></td></tr><tr><td><b>szText</b></td><td><code>How fun was this Stronghold?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3631085961</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Question2</code></td></tr><tr><td><b>szText</b></td><td><code>How challenging was this Stronghold?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3631085962</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>How challenging was this Stronghold?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3631085962</code></td></tr><tr><td><b>szLabel</b></td><td><code>Question2</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3631085963</code></td></tr><tr><td><b>szLabel</b></td><td><code>Question3</code></td></tr><tr><td><b>szText</b></td><td><code>How clear were the objectives of this Stronghold?</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Question3</code></td></tr><tr><td><b>szText</b></td><td><code>How clear were the objectives of this Stronghold?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3631085963</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

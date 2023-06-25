@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.BD9D3</code></td></tr><tr><td><b>szText</b></td><td><code>(pleased)</code></td></tr><tr><td><b>hLabel</b></td><td><code>3427079178</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.BD9D3</code></td></tr><tr><td><b>szText</b></td><td><code>You return home; I remain in Hell.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4147128159</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>You return home; I remain in Hell.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4147128159</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.BD9D3</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.BD9D3</code></td></tr><tr><td><b>szText</b></td><td><code>All as it should be.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2435096801</code></td></tr></table>

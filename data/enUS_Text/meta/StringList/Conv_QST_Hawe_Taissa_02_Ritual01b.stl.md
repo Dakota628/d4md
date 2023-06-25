@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>“What happens now?”</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line14.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>Now to summon my fellow witches inside the conclave.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1444088267</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Now to summon my fellow witches inside the conclave.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1444088267</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line14.789BF</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line12.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Where is this conclave?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1659037621</code></td></tr></table>

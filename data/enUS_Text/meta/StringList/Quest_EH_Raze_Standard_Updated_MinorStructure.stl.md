@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Raze the Effigies</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Enter {EVENT_LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>254789534</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback71Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback71Header</code></td></tr><tr><td><b>szText</b></td><td><code>Enter {EVENT_LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>254789534</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback36Header</code></td></tr><tr><td><b>szText</b></td><td><code>Destroy the enemy structures: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742082015</code></td></tr></table>

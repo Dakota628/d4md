@@ -1,6 +1,6 @@
 <h1>data/base/meta/VectorField/genericVectorField_10_10_10.vfd</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/VectorField/genericVectorField_10_10_10.vfd</td></tr><tr><td><b>Type</b></td><td>VectorFieldDefinition</td></tr><tr><td><b>SNO ID</b></td><td>196221</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_7ed9e40</b></td><td><code>10</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>10</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>10</code></td></tr><tr><td><b>flMagMin</b></td><td><code>0.10262613743543625</code></td></tr><tr><td><b>flMagMax</b></td><td><code>0.9994300603866577</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.261545, -0.167810, -0.068069)</td></tr><tr><td><b>wvExt</b></td><td>Vector(61.147224, 61.393692, 61.207783)</td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.261545, -0.167810, -0.068069)</td></tr><tr><td><b>wvExt</b></td><td>Vector(61.147224, 61.393692, 61.207783)</td></tr></table>
 
 </td></tr><tr><td><b>ptSamples</b></td><td>Vector(0.039449, -0.087982, 0.254257)
 Vector(-0.235953, 0.613201, -0.516638)
@@ -1002,5 +1002,5 @@ Vector(-0.319521, -0.055826, -0.169423)
 Vector(-0.485318, -0.239704, 0.377816)
 Vector(-0.485318, -0.239704, 0.377816)
 Vector(0.642349, 0.135982, -0.490385)
-</td></tr></table>
+</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>10</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>10</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>10</code></td></tr><tr><td><b>flMagMin</b></td><td><code>0.10262613743543625</code></td></tr><tr><td><b>flMagMax</b></td><td><code>0.9994300603866577</code></td></tr></table>
 

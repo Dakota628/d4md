@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Sword2H</code></td></tr><tr><td><b>szText</b></td><td><code>Two-Handed Sword (Slashing)</code></td></tr><tr><td><b>hLabel</b></td><td><code>2987917545</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Axe (Slashing)</code></td></tr><tr><td><b>hLabel</b></td><td><code>109694</code></td></tr><tr><td><b>szLabel</b></td><td><code>Axe</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Axe</code></td></tr><tr><td><b>szText</b></td><td><code>Axe (Slashing)</code></td></tr><tr><td><b>hLabel</b></td><td><code>109694</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Axe2H</code></td></tr><tr><td><b>szText</b></td><td><code>Two-Handed Axe (Slashing)</code></td></tr><tr><td><b>hLabel</b></td><td><code>119458520</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>119458520</code></td></tr><tr><td><b>szLabel</b></td><td><code>Axe2H</code></td></tr><tr><td><b>szText</b></td><td><code>Two-Handed Axe (Slashing)</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mace</code></td></tr><tr><td><b>szText</b></td><td><code>Mace (Bludgeoning)</code></td></tr><tr><td><b>hLabel</b></td><td><code>4026134</code></td></tr></table>

@@ -16,5 +16,5 @@
 
 </td></tr><tr><td><b>unk_ce3c7b4</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_WAmb_Dungeon_Scos_Hills_WeepingCairns_TombGate_Ext.snd">[DT_SNO] Sound: "Play_WAmb_Dungeon_Scos_Hills_WeepingCairns_TombGate_Ext"</a></td></tr></table>
+</td></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_WAmb_Dungeon_Scos_Hills_WeepingCairns_TombGate_Ext.snd.md">[DT_SNO] Sound: "Play_WAmb_Dungeon_Scos_Hills_WeepingCairns_TombGate_Ext"</a></td></tr></table>
 

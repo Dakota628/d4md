@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.8DD12</code></td></tr><tr><td><b>szText</b></td><td><code>Hurt her? I elevated her! The runes inked into her skin form a waypoint. She is a beacon across realms. (hmph)</code></td></tr><tr><td><b>hLabel</b></td><td><code>2385333262</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.8DD12</code></td></tr><tr><td><b>szText</b></td><td><code>(skeptical laugh before line)</code></td></tr><tr><td><b>hLabel</b></td><td><code>4248220219</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4248220219</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.8DD12</code></td></tr><tr><td><b>szText</b></td><td><code>(skeptical laugh before line)</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line17.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Get her out of here!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1854714586</code></td></tr></table>
@@ -27,10 +27,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code><Effort sounds carrying Taissa> </code></td></tr><tr><td><b>hLabel</b></td><td><code>657662615</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1536233980</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line21.8DD12</code></td></tr><tr><td><b>szText</b></td><td><code>It matters not. Her part is done.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line21.8DD12</code></td></tr><tr><td><b>szText</b></td><td><code>It matters not. Her part is done.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1536233980</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line23.8DD12</code></td></tr><tr><td><b>szText</b></td><td><code>Your part is done too. Savor your breath while it lasts.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4119169918</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Your part is done too. Savor your breath while it lasts.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4119169918</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line23.8DD12</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

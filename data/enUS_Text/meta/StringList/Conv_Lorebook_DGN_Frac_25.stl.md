@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>A burned, half legible parchment</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DisembodiedVoice</code></td></tr><tr><td><b>szText</b></td><td><code>Burned Parchment</code></td></tr><tr><td><b>hLabel</b></td><td><code>155764431</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Burned Parchment</code></td></tr><tr><td><b>hLabel</b></td><td><code>155764431</code></td></tr><tr><td><b>szLabel</b></td><td><code>DisembodiedVoice</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.FD852</code></td></tr><tr><td><b>szText</b></td><td><code>I saw a serpent coiling in the fires of the Eternal Conflict...saw my corpse, and from my mouth crawled Hatred...the weak made strong...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1568933264</code></td></tr></table>

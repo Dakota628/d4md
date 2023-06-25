@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.B757A</code></td></tr><tr><td><b>szText</b></td><td><code>Our ancestors always reclaimed it whenever the wielder fell, just as we do now.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145505199</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.B757A</code></td></tr><tr><td><b>szText</b></td><td><code>Baltok, though wounded, refused to let the Grizzly's Maul leave his hands as he was dragged away.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2433473841</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Baltok, though wounded, refused to let the Grizzly's Maul leave his hands as he was dragged away.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2433473841</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.B757A</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

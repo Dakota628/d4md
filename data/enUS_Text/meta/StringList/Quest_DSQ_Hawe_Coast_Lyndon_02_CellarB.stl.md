@@ -6,16 +6,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>Cellar for Lyndon_02</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2677071405</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback7Header</code></td></tr><tr><td><b>szText</b></td><td><code>Enter the Quiet Clearing</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback7Header</code></td></tr><tr><td><b>szText</b></td><td><code>Enter the Quiet Clearing</code></td></tr><tr><td><b>hLabel</b></td><td><code>2677071405</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase10Description</code></td></tr><tr><td><b>szText</b></td><td><code>With the Drowned dead, now we wait for the ambush.</code></td></tr><tr><td><b>hLabel</b></td><td><code>819754710</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>965040047</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback9Header</code></td></tr><tr><td><b>szText</b></td><td><code>Wait for the ambush</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback9Header</code></td></tr><tr><td><b>szText</b></td><td><code>Wait for the ambush</code></td></tr><tr><td><b>hLabel</b></td><td><code>965040047</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase19Description</code></td></tr><tr><td><b>szText</b></td><td><code>We've arrived at the first location. We should ready ourselves for the ambush.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3916087103</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3916087103</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase19Description</code></td></tr><tr><td><b>szText</b></td><td><code>We've arrived at the first location. We should ready ourselves for the ambush.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback18Header</code></td></tr><tr><td><b>szText</b></td><td><code>Go to the second ambush location</code></td></tr><tr><td><b>hLabel</b></td><td><code>2692510623</code></td></tr></table>

@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DisembodiedVoice</code></td></tr><tr><td><b>szText</b></td><td><code>Merchant's Letter</code></td></tr><tr><td><b>hLabel</b></td><td><code>155764431</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Thank you so much for helping Genbar. Times are hard for his stone-carving, but he is too stubborn to move his family and too proud to take charity. Give him a deal and I will pay the difference.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567794235</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.EDC71</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.EDC71</code></td></tr><tr><td><b>szText</b></td><td><code>Thank you so much for helping Genbar. Times are hard for his stone-carving, but he is too stubborn to move his family and too proud to take charity. Give him a deal and I will pay the difference.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567794235</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.EDC71</code></td></tr><tr><td><b>szText</b></td><td><code>Warm. Sad for Genbar. Thankful.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430681192</code></td></tr></table>

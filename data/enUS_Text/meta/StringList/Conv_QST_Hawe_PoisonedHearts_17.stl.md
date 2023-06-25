@@ -3,13 +3,13 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>Enough. That will do.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567240369</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>Matter of factly.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430127326</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3430127326</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>Matter of factly.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>Aneta, drink as much as you can from the bowl.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150176307</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Matter of factly. Pronounciation: Ah-net-uh</code></td></tr><tr><td><b>hLabel</b></td><td><code>1718095968</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.F53E7</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>Matter of factly. Pronounciation: Ah-net-uh</code></td></tr><tr><td><b>hLabel</b></td><td><code>1718095968</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>(drinks)</code></td></tr><tr><td><b>hLabel</b></td><td><code>2438143905</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.F52ED</code></td></tr></table>

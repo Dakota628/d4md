@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Desc</code></td></tr><tr><td><b>szText</b></td><td><code>Complete the Malady of the Soul questline in Fractured Peaks.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1034245282</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_236051</code></td></tr><tr><td><b>szText</b></td><td><code>Faith in Blood</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_236051</code></td></tr><tr><td><b>szText</b></td><td><code>Faith in Blood</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034245282</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Malady of the Soul</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034245283</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_236052</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_236052</code></td></tr><tr><td><b>szText</b></td><td><code>Malady of the Soul</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034245283</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_236053</code></td></tr><tr><td><b>szText</b></td><td><code>Depths of Despair</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034245284</code></td></tr></table>

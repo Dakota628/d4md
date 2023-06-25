@@ -6,8 +6,8 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr><tr><td><b>szText</b></td><td><code>Increase your Thorns by {c_number}[{SF_0}*100|%+|]{/c}. When enemies hit you, they take an additional {c_number}[{SF_3} * 100]%{/c} of your Thorns as Bleeding damage over {c_number}{buffduration:BLEEDING}{/c} seconds.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><pre>
-{icon:bullet, 1.2} Thorns {icon:arrow, 1.2} {c_number}[{SF_0}*100|%+|]{/c}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr><tr><td><b>szText</b></td><td><pre>
+{icon:bullet, 1.2} Thorns {icon:arrow, 1.2} {c_number}[{SF_0}*100|%+|]{/c}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

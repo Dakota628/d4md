@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Slay Borza the Grim</code></td></tr><tr><td><b>hLabel</b></td><td><code>4162645404</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback33Header</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Slay Nizaar the Traitor</code></td></tr><tr><td><b>hLabel</b></td><td><code>1159146077</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback34Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback34Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay Nizaar the Traitor</code></td></tr><tr><td><b>hLabel</b></td><td><code>1159146077</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback35Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay Borza's gang</code></td></tr><tr><td><b>hLabel</b></td><td><code>2450614046</code></td></tr></table>

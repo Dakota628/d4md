@@ -9,13 +9,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Authoritative. Anxious.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3376198295</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4094936268</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Follow with the second and fourth, reversed.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Follow with the second and fourth, reversed.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094936268</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Interrupting. Knows the drill.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1662855929</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.6D03F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Interrupting. Knows the drill.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1662855929</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Oh-ho. It's nice to see you agree on something.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2382962613</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2382962613</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Oh-ho. It's nice to see you agree on something.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4245849570</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Humorless. Tired of Lorath and Donan fighting all the time.</code></td></tr></table>

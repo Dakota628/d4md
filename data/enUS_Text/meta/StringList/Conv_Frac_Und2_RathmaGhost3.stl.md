@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.84B74</code></td></tr><tr><td><b>szText</b></td><td><code>I...I create my own destiny, and this prophecy of yours is just a small part of it.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2383606308</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.84B74</code></td></tr><tr><td><b>szText</b></td><td><code>It is wider, beyond comprehension of ungrateful spawns like yourself.</code></td></tr><tr><td><b>hLabel</b></td><td><code>671574950</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>671574950</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.84B74</code></td></tr><tr><td><b>szText</b></td><td><code>It is wider, beyond comprehension of ungrateful spawns like yourself.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

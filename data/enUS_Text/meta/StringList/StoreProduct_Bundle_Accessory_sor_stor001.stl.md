@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Sorceric Binding</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Description</code></td></tr><tr><td><b>szText</b></td><td><code>The power of magic suffuses every part of the sorcerer's being, every moment of their lives. It is part of what they wear, what they carry, and how they die.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2789670820</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>The power of magic suffuses every part of the sorcerer's being, every moment of their lives. It is part of what they wear, what they carry, and how they die.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2789670820</code></td></tr><tr><td><b>szLabel</b></td><td><code>Description</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Quote</code></td></tr><tr><td><b>szText</b></td><td><code>Magic is everything.</code></td></tr><tr><td><b>hLabel</b></td><td><code>138338510</code></td></tr></table>

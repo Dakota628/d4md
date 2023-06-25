@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F5300</code></td></tr><tr><td><b>szText</b></td><td><code>Threatening</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430125570</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I told you to get out! (cough) I don't know where that stupid girl is!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150175244</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.F52F0</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.F52F0</code></td></tr><tr><td><b>szText</b></td><td><code>I told you to get out! (cough) I don't know where that stupid girl is!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150175244</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.F52F0</code></td></tr><tr><td><b>szText</b></td><td><code>Frustrated, angry, exhausted. Someone you dislike is badgering you about a thing you don't care about.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1718094905</code></td></tr></table>

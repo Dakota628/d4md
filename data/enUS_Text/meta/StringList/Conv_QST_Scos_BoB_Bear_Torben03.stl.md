@@ -6,16 +6,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.B20BA</code></td></tr><tr><td><b>szText</b></td><td><code>I cannot forget my past—but I will move past it. The Goose is where I put my strength now.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1562385550</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.B20BA</code></td></tr><tr><td><b>szText</b></td><td><code>earnest, emotional, confident</code></td></tr><tr><td><b>hLabel</b></td><td><code>3425272507</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>earnest, emotional, confident</code></td></tr><tr><td><b>hLabel</b></td><td><code>3425272507</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.B20BA</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.B20BA</code></td></tr><tr><td><b>szText</b></td><td><code>It offers peace I never thought possible, and still doubt I deserve.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145321488</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1713241149</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.B20BA</code></td></tr><tr><td><b>szText</b></td><td><code>earnest, emotional; leaning somber</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.B20BA</code></td></tr><tr><td><b>szText</b></td><td><code>earnest, emotional; leaning somber</code></td></tr><tr><td><b>hLabel</b></td><td><code>1713241149</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.B20BA</code></td></tr><tr><td><b>szText</b></td><td><code>I was so used to only seeing terror in faces… it took a long time to recognize the worth of a smile.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2433290130</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I was so used to only seeing terror in faces… it took a long time to recognize the worth of a smile.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2433290130</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.B20BA</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.B20BA</code></td></tr><tr><td><b>szText</b></td><td><code>earnest, emotional, introspective</code></td></tr><tr><td><b>hLabel</b></td><td><code>1209791</code></td></tr></table>

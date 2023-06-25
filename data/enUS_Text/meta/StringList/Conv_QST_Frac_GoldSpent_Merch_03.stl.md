@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"I have returned with your payment."</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.FBAB6</code></td></tr><tr><td><b>szText</b></td><td><code>So, the deed is done? Excellent. I knew you would prove worthy of my trust.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1568907528</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1568907528</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.FBAB6</code></td></tr><tr><td><b>szText</b></td><td><code>So, the deed is done? Excellent. I knew you would prove worthy of my trust.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.FBAB6</code></td></tr><tr><td><b>szText</b></td><td><code>Confident, cocky, and talking down to the PC</code></td></tr><tr><td><b>hLabel</b></td><td><code>3431794485</code></td></tr></table>

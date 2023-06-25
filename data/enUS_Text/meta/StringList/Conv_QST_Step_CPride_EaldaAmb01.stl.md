@@ -6,13 +6,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>direct, some concern</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742378726</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Just blood and signs of struggle. Likely taken by--</code></td></tr><tr><td><b>hLabel</b></td><td><code>4092028063</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.541E7</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.541E7</code></td></tr><tr><td><b>szText</b></td><td><code>Just blood and signs of struggle. Likely taken by--</code></td></tr><tr><td><b>hLabel</b></td><td><code>4092028063</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>exhausted, somber</code></td></tr><tr><td><b>hLabel</b></td><td><code>1659947724</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.541E7</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.541E7</code></td></tr><tr><td><b>szText</b></td><td><code>exhausted, somber</code></td></tr><tr><td><b>hLabel</b></td><td><code>1659947724</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>No. Do not count them with our ancestors so quickly.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1071731357</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.1275AB</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>No. Do not count them with our ancestors so quickly.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1071731357</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>interrupting; blunt, earnest</code></td></tr><tr><td><b>hLabel</b></td><td><code>2417458794</code></td></tr></table>

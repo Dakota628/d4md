@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.F738E</code></td></tr><tr><td><b>szText</b></td><td><code>Hells, Heavens...when is either ever finished? Sod ‘em both.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567310804</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3430197761</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F738E</code></td></tr><tr><td><b>szText</b></td><td><code>Scoffing. Dismissive. We'll take care of ourselves.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F738E</code></td></tr><tr><td><b>szText</b></td><td><code>Scoffing. Dismissive. We'll take care of ourselves.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430197761</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

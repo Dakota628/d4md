@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line16.FBA9D</code></td></tr><tr><td><b>szText</b></td><td><code>I've remembered something. I stole this...doll? Idol? This thing.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4084314051</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Stole it from a woman who was...like me. Thought it would slow the disease. Maybe it did.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2372282693</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line18.FBA9D</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2372282693</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line18.FBA9D</code></td></tr><tr><td><b>szText</b></td><td><code>Stole it from a woman who was...like me. Thought it would slow the disease. Maybe it did.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line20.FBA9D</code></td></tr><tr><td><b>szText</b></td><td><code>But what I did was wrong. Wasn't worth the extra years. I'd like to return it...but I’m not sure who I took it from.</code></td></tr><tr><td><b>hLabel</b></td><td><code>299243550</code></td></tr></table>

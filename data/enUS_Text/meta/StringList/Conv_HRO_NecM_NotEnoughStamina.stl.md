@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I'm out of stamina.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1461857754</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line18.BAE4.Nec.M</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line19.BAE4.Nec.M</code></td></tr><tr><td><b>szText</b></td><td><code>I need more stamina.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2283113275</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2283113275</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line19.BAE4.Nec.M</code></td></tr><tr><td><b>szText</b></td><td><code>I need more stamina.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line20.BAE4.Nec.M</code></td></tr><tr><td><b>szText</b></td><td><code>My stamina is exhausted.</code></td></tr><tr><td><b>hLabel</b></td><td><code>518409299</code></td></tr></table>

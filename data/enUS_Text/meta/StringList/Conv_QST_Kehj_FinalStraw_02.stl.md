@@ -15,7 +15,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1161085803</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.10B59B</code></td></tr><tr><td><b>szText</b></td><td><code>Brown eyes, sandy fur, prefers oats. What’s with the look? Most camels love oats.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.10B59B</code></td></tr><tr><td><b>szText</b></td><td><code>Take a bag over there in case you find her. She won't follow a stranger unless you have something to eat.</code></td></tr><tr><td><b>hLabel</b></td><td><code>498625837</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Take a bag over there in case you find her. She won't follow a stranger unless you have something to eat.</code></td></tr><tr><td><b>hLabel</b></td><td><code>498625837</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line13.10B59B</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>(Listen)</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.124D43</code></td></tr><tr><td><b>szText</b></td><td><code>A sailor should go with the sea, damn it. He deserves better.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2396593129</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2396593129</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.124D43</code></td></tr><tr><td><b>szText</b></td><td><code>A sailor should go with the sea, damn it. He deserves better.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3742320566</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.124D43</code></td></tr><tr><td><b>szText</b></td><td><code>Upset.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.124D43</code></td></tr><tr><td><b>szText</b></td><td><code>Upset.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742320566</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.124D44</code></td></tr><tr><td><b>szText</b></td><td><code>He deserves peace in death, mate. Let the fires give it to him.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734133164</code></td></tr></table>
@@ -18,7 +18,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.124D43</code></td></tr><tr><td><b>szText</b></td><td><code>Damn the Drowned.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1071673197</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Upset, now irritated.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2417400634</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.124D43</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.124D43</code></td></tr><tr><td><b>szText</b></td><td><code>Upset, now irritated.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2417400634</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

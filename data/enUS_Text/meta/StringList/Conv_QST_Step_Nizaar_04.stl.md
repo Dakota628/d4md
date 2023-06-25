@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"I'm sorry, I have no Healing Potions"</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.A5F52</code></td></tr><tr><td><b>szText</b></td><td><code>O-oh... well, if you happen to find one, I could really use it. (cough)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1561364714</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1561364714</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.A5F52</code></td></tr><tr><td><b>szText</b></td><td><code>O-oh... well, if you happen to find one, I could really use it. (cough)</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

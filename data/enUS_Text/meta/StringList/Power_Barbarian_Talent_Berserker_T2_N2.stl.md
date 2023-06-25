@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>name</code></td></tr><tr><td><b>szText</b></td><td><code>Expose Vulnerability</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr><tr><td><b>szText</b></td><td><code>Dealing direct damage with a {c_important}Weapon Mastery{/c} skill causes your next {c_important}Core{/c} Skill to make enemies {c_important}{u}Vulnerable{/u}{/c} for {c_number}[{SF_0}]{/c} |4second:seconds;.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr><tr><td><b>szText</b></td><td><code>Dealing direct damage with a {c_important}Weapon Mastery{/c} skill causes your next {c_important}Core{/c} Skill to make enemies {c_important}{u}Vulnerable{/u}{/c} for {c_number}[{SF_0}]{/c} |4second:seconds;.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><pre>

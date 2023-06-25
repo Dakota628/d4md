@@ -15,16 +15,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Quite the opposite. Elias’s mind is clear, for once.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3253809490</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>When I knew him, he was searching for purpose. I couldn’t give him one, and so he found it in Lilith.</code></td></tr><tr><td><b>hLabel</b></td><td><code>153004253</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line13.6D03F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>When I knew him, he was searching for purpose. I couldn’t give him one, and so he found it in Lilith.</code></td></tr><tr><td><b>hLabel</b></td><td><code>153004253</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>I didn’t stop him. I let him become...this.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2735940191</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4081667628</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir15.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Lost in thought</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir15.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Lost in thought</code></td></tr><tr><td><b>hLabel</b></td><td><code>4081667628</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1932985372</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line19.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Now is our chance to make it right... before things get even worse.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Now is our chance to make it right... before things get even worse.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1932985372</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line19.BAE4</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Pulling Lorath back to business</code></td></tr><tr><td><b>hLabel</b></td><td><code>3795872329</code></td></tr></table>

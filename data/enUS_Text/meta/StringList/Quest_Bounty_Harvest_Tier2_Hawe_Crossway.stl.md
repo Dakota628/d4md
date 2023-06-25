@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Harvest: Umir Plateau</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Harvest venous motes from enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>3097634794</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback4Header</code></td></tr></table>

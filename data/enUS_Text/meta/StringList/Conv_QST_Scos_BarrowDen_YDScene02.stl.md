@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.804B7</code></td></tr><tr><td><b>szText</b></td><td><code>Does this have something to do with the fog spreading in the hills?</code></td></tr><tr><td><b>hLabel</b></td><td><code>2383413888</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Concerned</code></td></tr><tr><td><b>hLabel</b></td><td><code>4246300845</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.804B7</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4246300845</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.804B7</code></td></tr><tr><td><b>szText</b></td><td><code>Concerned</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

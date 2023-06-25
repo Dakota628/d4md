@@ -6,13 +6,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line488.3F392</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr><tr><td><b>hLabel</b></td><td><code>326516881</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3839913003</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line491.3F392</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3839913003</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line491.3F392</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1004278168</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir491.3F392</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir491.3F392</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>1004278168</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3478626002</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line494.EDC78</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3478626002</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line494.EDC78</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line497.EDC78</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3058062613</code></td></tr></table>
@@ -21,7 +21,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line500.EDC78</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3248136422</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir500.EDC78</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>412501587</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>412501587</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir500.EDC78</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line503.EDC79</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2827573034</code></td></tr></table>
@@ -30,7 +30,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line506.EDC79</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2407009645</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1986446256</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line509.EDC79</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line509.EDC79</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1986446256</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir509.EDC79</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>3445778717</code></td></tr></table>
@@ -39,13 +39,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line512.3F381</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1145598659</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line515.3F381</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr><tr><td><b>hLabel</b></td><td><code>725035270</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr><tr><td><b>hLabel</b></td><td><code>725035270</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line515.3F381</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>304471881</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line518.3F381</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line518.3F381</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>304471881</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>1763804342</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir518.3F381</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir518.3F381</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>1763804342</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line521.EDC7B</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3877144467</code></td></tr></table>
@@ -66,16 +66,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line533.EDC7C</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1833883127</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line536.EDC7C</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1413319738</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1413319738</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line536.EDC7C</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir536.EDC7C</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>2872652199</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>2872652199</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir536.EDC7C</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line539.B79B0</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr><tr><td><b>hLabel</b></td><td><code>987537051</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>205965877</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line542.B79B0</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line542.B79B0</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr><tr><td><b>hLabel</b></td><td><code>205965877</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line545.B79B0</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4080369784</code></td></tr></table>
@@ -84,13 +84,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir545.B79B0</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>1244734949</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line548.EDC74</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3665025646</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3665025646</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line548.EDC74</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line551.EDC74</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2883454472</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line554.EDC74</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2462891083</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2462891083</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line554.EDC74</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir554.EDC74</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>3922223544</code></td></tr></table>
@@ -117,13 +117,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line572.B79B1</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3507243225</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>671608390</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir572.B79B1</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir572.B79B1</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>671608390</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line575.EDC76</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3091899088</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2671335699</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line578.EDC76</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line578.EDC76</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2671335699</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line581.EDC76</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1889764525</code></td></tr></table>
@@ -150,34 +150,34 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3715648245</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line596.B6757</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line599.B6757</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3295084856</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3295084856</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line599.B6757</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir599.B6757</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>459450021</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>459450021</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir599.B6757</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line602.EDC7D</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3490417557</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3490417557</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line602.EDC7D</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line605.EDC7D</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3069854168</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line608.EDC7D</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2649290779</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2649290779</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line608.EDC7D</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir608.EDC7D</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>4108623240</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line611.EDC7E</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1867719606</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1867719606</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line611.EDC7E</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1447156217</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line614.EDC7E</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line614.EDC7E</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1447156217</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line617.EDC7E</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1026592828</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1026592828</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line617.EDC7E</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir617.EDC7E</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>2485925289</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>2485925289</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir617.EDC7E</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line620.B6807</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr><tr><td><b>hLabel</b></td><td><code>239763685</code></td></tr></table>
@@ -186,10 +186,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line623.B6807</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4114167592</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line626.B6807</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3693604203</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3693604203</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line626.B6807</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir626.B6807</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>857969368</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>857969368</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir626.B6807</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line629.EDC7F</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3278298784</code></td></tr></table>
@@ -213,7 +213,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line644.EDC80</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>453466248</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir644.EDC80</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>1912798709</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>1912798709</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir644.EDC80</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line701.BC3FE</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4149617617</code></td></tr></table>
@@ -228,7 +228,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir707.BC3FE</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>472856004</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2530564033</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line710.EDC70</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2530564033</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line710.EDC70</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line713.EDC70</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2110000644</code></td></tr></table>
@@ -237,22 +237,22 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line716.EDC70</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1689437255</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3148769716</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir716.EDC70</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir716.EDC70</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>3148769716</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line719.EDC71</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1268873867</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line722.EDC71</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr><tr><td><b>hLabel</b></td><td><code>487302693</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr><tr><td><b>hLabel</b></td><td><code>487302693</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line722.EDC71</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>66739304</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line725.EDC71</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line725.EDC71</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>66739304</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir725.EDC71</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>1526071765</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line728.BC3FF</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3937498843</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3937498843</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line728.BC3FF</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line731.BC3FF</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3155927669</code></td></tr></table>
@@ -267,7 +267,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line737.EDC72</code></td></tr><tr><td><b>szText</b></td><td><code>Get them away!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2318445260</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1536874086</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line740.EDC72</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line740.EDC72</code></td></tr><tr><td><b>szText</b></td><td><code>Protect me!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1536874086</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line743.EDC72</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1116310697</code></td></tr></table>
@@ -285,7 +285,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line752.EDC73</code></td></tr><tr><td><b>szText</b></td><td><code>Can’t hold them off!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3788580042</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir752.EDC73</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>952945207</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>952945207</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir752.EDC73</code></td></tr><tr><td><b>szText</b></td><td><code>Fearful, desperately fighting off enemies</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

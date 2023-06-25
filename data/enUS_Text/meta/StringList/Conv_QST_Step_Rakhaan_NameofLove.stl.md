@@ -15,13 +15,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.EECAE</code></td></tr><tr><td><b>szText</b></td><td><code>In awe; telling a story of someone he finds interesting</code></td></tr><tr><td><b>hLabel</b></td><td><code>2589591789</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4150767548</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.EECAE</code></td></tr><tr><td><b>szText</b></td><td><code>Following Khaliun's death and suspecting a darkness in the cleaver, the mages managed to get ahold of it and lock it away in the Whispering Vault.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Following Khaliun's death and suspecting a darkness in the cleaver, the mages managed to get ahold of it and lock it away in the Whispering Vault.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150767548</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.EECAE</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1718687209</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.EECAE</code></td></tr><tr><td><b>szText</b></td><td><code>Slightly gleeful, while foreboding. Telling the player a tale</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2438736190</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.EECAE</code></td></tr><tr><td><b>szText</b></td><td><code>The vault was long since raided and the mages driven out, but I've hope it's still buried in one of the chests therein.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.EECAE</code></td></tr><tr><td><b>szText</b></td><td><code>The vault was long since raided and the mages driven out, but I've hope it's still buried in one of the chests therein.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2438736190</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.EECAE</code></td></tr><tr><td><b>szText</b></td><td><code>Informative, with a bit of hopeful anticipation</code></td></tr><tr><td><b>hLabel</b></td><td><code>6655851</code></td></tr></table>

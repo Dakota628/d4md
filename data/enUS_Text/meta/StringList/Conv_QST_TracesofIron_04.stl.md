@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Since the plague, yes. Wiped out half the city before they tossed out the poor, and us with them.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1568858553</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.FB4C3</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.FB4C3</code></td></tr><tr><td><b>szText</b></td><td><code>All that wealth, locked up to gather dust. Breaks my heart to see it.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4151794491</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4151794491</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.FB4C3</code></td></tr><tr><td><b>szText</b></td><td><code>All that wealth, locked up to gather dust. Breaks my heart to see it.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.FB4C3</code></td></tr><tr><td><b>szText</b></td><td><code>Coin still moves in Kehjistan. But it’s the bandit scum in Gea Kul pushing it. Blood money, that. (spits)</code></td></tr><tr><td><b>hLabel</b></td><td><code>2439763133</code></td></tr></table>

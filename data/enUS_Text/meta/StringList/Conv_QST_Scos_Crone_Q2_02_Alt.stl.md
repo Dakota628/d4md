@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Take the heart to the Druid, Yuein, at Túr Dúlra. Perhaps he’ll know if there is a way to deal with this magic.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1507278983</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.2CDEB</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.2CDEB</code></td></tr><tr><td><b>szText</b></td><td><code>Certain </code></td></tr><tr><td><b>hLabel</b></td><td><code>3370165940</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Certain </code></td></tr><tr><td><b>hLabel</b></td><td><code>3370165940</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.2CDEB</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.2CDEB</code></td></tr><tr><td><b>szText</b></td><td><code>He lived at Túr Dúlra before Astaroth's attack. If the demons that remain there are cleared, he’ll return.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2378183563</code></td></tr></table>

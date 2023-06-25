@@ -15,16 +15,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line17.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>But...do you think Lilith is even still here? It’s been so long, I’m afraid she’s won this one.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1023966536</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line25.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Besides, I have to...take care of my mother.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2404767911</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2404767911</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line25.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Besides, I have to...take care of my mother.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir25.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>(voice breaking) </code></td></tr><tr><td><b>hLabel</b></td><td><code>3750495348</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>But it’s not over yet. Not for you. Lilith was after Rathma. Find him. Learn why. I’ll be back at the vault, alright?</code></td></tr><tr><td><b>hLabel</b></td><td><code>692736553</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line27.6DE47</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line27.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>But it’s not over yet. Not for you. Lilith was after Rathma. Find him. Learn why. I’ll be back at the vault, alright?</code></td></tr><tr><td><b>hLabel</b></td><td><code>692736553</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>last sentence quietly, after a beat</code></td></tr><tr><td><b>hLabel</b></td><td><code>2038463990</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir27.6DE47</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2038463990</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir27.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>last sentence quietly, after a beat</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

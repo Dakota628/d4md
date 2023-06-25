@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line16.FBA9D</code></td></tr><tr><td><b>szText</b></td><td><code>Slowly... (cough) hard to say when it started. Fought it for so long. Doesn’t matter.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4084314051</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>wheezing, coughing, pained groans</code></td></tr><tr><td><b>hLabel</b></td><td><code>1135074192</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir16.FBA9D</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir16.FBA9D</code></td></tr><tr><td><b>szText</b></td><td><code>wheezing, coughing, pained groans</code></td></tr><tr><td><b>hLabel</b></td><td><code>1135074192</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line18.FBA9D</code></td></tr><tr><td><b>szText</b></td><td><code>(weak laugh) Swamp always wins.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2372282693</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>(weak laugh) Swamp always wins.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2372282693</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line18.FBA9D</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

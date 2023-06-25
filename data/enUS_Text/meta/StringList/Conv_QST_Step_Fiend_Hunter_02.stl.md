@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.54219</code></td></tr><tr><td><b>szText</b></td><td><code>Strange, it’s...cold? Shit! Help, help! Argh--</code></td></tr><tr><td><b>hLabel</b></td><td><code>4092027438</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>noticing something is amiss</code></td></tr><tr><td><b>hLabel</b></td><td><code>1659947099</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.54219</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.54219</code></td></tr><tr><td><b>szText</b></td><td><code>noticing something is amiss</code></td></tr><tr><td><b>hLabel</b></td><td><code>1659947099</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

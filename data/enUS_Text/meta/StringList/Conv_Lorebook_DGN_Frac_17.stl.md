@@ -13,12 +13,12 @@ To the “Scholars” at the Caldeum Palace Library:
 Five moons ago I requested a manuscript, “Necromancy: On the Transfiguration of Souls by Calum the Elder.” It was only yesterday I received your letter of rejection.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>1567794285</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.EDC7C</code></td></tr><tr><td><b>szText</b></td><td><code>Prideful, even with derision. </code></td></tr><tr><td><b>hLabel</b></td><td><code>3430681242</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Prideful, even with derision. </code></td></tr><tr><td><b>hLabel</b></td><td><code>3430681242</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.EDC7C</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.EDC7C</code></td></tr><tr><td><b>szText</b></td><td><pre>You call my work “dangerous.” “Unethical.” “Blasphemous.” Ha! You are too blinded by the charade you call piety to see the truth. 
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4150730223</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.EDC7C</code></td></tr><tr><td><b>szText</b></td><td><pre>You call my work “dangerous.” “Unethical.” “Blasphemous.” Ha! You are too blinded by the charade you call piety to see the truth. 
 
-I’m charting new territory on the frontier of the magical unknown. My research will proceed, with or without you...</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4150730223</code></td></tr></table>
+I’m charting new territory on the frontier of the magical unknown. My research will proceed, with or without you...</pre></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

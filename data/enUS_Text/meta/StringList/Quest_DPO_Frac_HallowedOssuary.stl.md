@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>No respect for the dead.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback33Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat the {MONSTER}</code></td></tr><tr><td><b>hLabel</b></td><td><code>4162645404</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4162645404</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback33Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat the {MONSTER}</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback102Header</code></td></tr><tr><td><b>szText</b></td><td><code>Return the Bloodstone to the Pedestal: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>410624265</code></td></tr></table>

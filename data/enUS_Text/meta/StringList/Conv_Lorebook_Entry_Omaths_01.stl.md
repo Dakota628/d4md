@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DisembodiedVoice</code></td></tr><tr><td><b>szText</b></td><td><code>Crumbling Leaflet</code></td></tr><tr><td><b>hLabel</b></td><td><code>155764431</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1564149867</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.BC3FF</code></td></tr><tr><td><b>szText</b></td><td><code>People of Kehjistan! Faithful Children of Akarat! For too long, the Vile Priestess Hadar and her devils have burned our crops! Razed our homes! Crucified our loved ones!</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.BC3FF</code></td></tr><tr><td><b>szText</b></td><td><code>People of Kehjistan! Faithful Children of Akarat! For too long, the Vile Priestess Hadar and her devils have burned our crops! Razed our homes! Crucified our loved ones!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1564149867</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.BC3FF</code></td></tr><tr><td><b>szText</b></td><td><code>Righteous anger. Telling the people to rise up.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3427036824</code></td></tr></table>

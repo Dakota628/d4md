@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Mirage</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>A strange figure beckons for you to follow through the desert.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>A strange figure beckons for you to follow through the desert.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><code>The statue seemed to have been sealing away an angry spirit. Interacting with the statue has released it. I must defeat the spirit.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr></table>
@@ -18,7 +18,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback18Header</code></td></tr><tr><td><b>szText</b></td><td><code>Destroy the buried effigies</code></td></tr><tr><td><b>hLabel</b></td><td><code>2692510623</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1452320540</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase16Description</code></td></tr><tr><td><b>szText</b></td><td><code>I found a strange, mirage-like figure in the desert. It seemed to be leading me somewhere.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase16Description</code></td></tr><tr><td><b>szText</b></td><td><code>I found a strange, mirage-like figure in the desert. It seemed to be leading me somewhere.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1452320540</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback15Header</code></td></tr><tr><td><b>szText</b></td><td><code>Return to the altar</code></td></tr><tr><td><b>hLabel</b></td><td><code>3113074012</code></td></tr></table>

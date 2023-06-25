@@ -1,2693 +1,105 @@
 <h1>data/base/meta/Shader/vfx_particle_gBuffer_uber_lit_dithered.shd</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/Shader/vfx_particle_gBuffer_uber_lit_dithered.shd</td></tr><tr><td><b>Type</b></td><td>ShaderDefinition</td></tr><tr><td><b>SNO ID</b></td><td>431503</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>pShaderData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>4194304</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataSize</b></td><td><code>404494</code></td></tr><tr><td><b>dataOffset</b></td><td><code>32</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>dwRenderLayers</b></td><td><code>16388</code></td></tr><tr><td><b>ptPasses</b></td><td><table><tr><th colspan="100%">RenderPass</th></tr><tr><td><b>unk_6276112</b></td><td><table><tr><th colspan="100%">Type_8e0085</th></tr><tr><td><b>eVBFormat</b></td><td><code>11</code></td></tr></table>
 
-</td></tr></table>
 
-</td></tr><tr><td><b>dwRenderLayers</b></td><td><code>16388</code></td></tr><tr><td><b>ptPasses</b></td><td><table><tr><th colspan="100%">RenderPass</th></tr><tr><td><b>unk_262684c</b></td><td><code>63</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptPerms</b></td><td><table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+</td></tr><tr><td><b>dwFlags</b></td><td><code>32896</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>unk_9068982</b></td><td></td></tr><tr><td><b>unk_e39f53a</b></td><td><table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Color Intensity.mtv.md">[DT_SNO] MaterialValue: "Color Intensity"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-608127dec24de443</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\emissive multiplier.mtv.md">[DT_SNO] MaterialValue: "emissive multiplier"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Dissolve Power Max.mtv.md">[DT_SNO] MaterialValue: "Alpha Dissolve Power Max"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Fresnel Power.mtv.md">[DT_SNO] MaterialValue: "Fresnel Power"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Fresnel Slope.mtv.md">[DT_SNO] MaterialValue: "Fresnel Slope"</a></td></tr></table>
 
 
-</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>11</code>
-<code>12</code>
-<code>94</code>
-</td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Brightness Global.mtv.md">[DT_SNO] MaterialValue: "Alpha Brightness Global"</a></td></tr></table>
 
 
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Noise Multiplier.mtv.md">[DT_SNO] MaterialValue: "Alpha Noise Multiplier"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>2</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
-<code>151</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2a607918ee806585</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>5</code>
-</td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion 1 U Strength.mtv.md">[DT_SNO] MaterialValue: "UV Distortion 1 U Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion 1 V Strength.mtv.md">[DT_SNO] MaterialValue: "UV Distortion 1 V Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Shape-Noise Multiplier.mtv.md">[DT_SNO] MaterialValue: "Alpha Shape-Noise Multiplier"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion Shape Strength.mtv.md">[DT_SNO] MaterialValue: "UV Distortion Shape Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
 
 
-</td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Color Dissolve Influence.mtv.md">[DT_SNO] MaterialValue: "Color Dissolve Influence"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Soft Distance.mtv.md">[DT_SNO] MaterialValue: "Alpha Soft Distance"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0.3499999940395355</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-52c38690a5ba8263</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Noise 1 - Alpha lerp to white.mtv.md">[DT_SNO] MaterialValue: "Noise 1 - Alpha lerp to white"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Noise 2 - Alpha lerp to white.mtv.md">[DT_SNO] MaterialValue: "Noise 2 - Alpha lerp to white"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion Dissolve Strength.mtv.md">[DT_SNO] MaterialValue: "UV Distortion Dissolve Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion Noise1 Strength.mtv.md">[DT_SNO] MaterialValue: "UV Distortion Noise1 Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
 
 
-</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>11</code>
-<code>12</code>
-<code>94</code>
-</td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion Noise2 Strength.mtv.md">[DT_SNO] MaterialValue: "UV Distortion Noise2 Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Fresnel Double Sided.mtv.md">[DT_SNO] MaterialValue: "Fresnel Double Sided"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1cc01577b0136298</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
-<code>151</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Exposure Compensation Enabled.mtv.md">[DT_SNO] MaterialValue: "Exposure Compensation Enabled"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>flDefaultValue</b></td><td><code>0.3499999940395355</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha 2 Soft Distance.mtv.md">[DT_SNO] MaterialValue: "Alpha 2 Soft Distance"</a></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Use Alpha 2 Soft Distance.mtv.md">[DT_SNO] MaterialValue: "Use Alpha 2 Soft Distance"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Dissolve Harshness.mtv.md">[DT_SNO] MaterialValue: "Alpha Dissolve Harshness"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
 
 
-</td></tr></table>
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Shape Mask Color Gradient Influence.mtv.md">[DT_SNO] MaterialValue: "Shape Mask Color Gradient Influence"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+</td></tr><tr><td><b>unk_282b17c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>32968</code></td></tr><tr><td><b>dataSize</b></td><td><code>128</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
 
+</td></tr><tr><td><b>tRenderParams</b></td><td><table><tr><th colspan="100%">RenderParams</th></tr><tr><td><b>eFillMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_7e83826</b></td><td><code>0</code></td></tr><tr><td><b>tAlphaBlend</b></td><td><table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr></table>
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>105</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-7842466f65bac305</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr></table>
 
+<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr></table>
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
 
+<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr></table>
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
 
+<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr></table>
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
 
+<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
-<code>97</code>
-<code>11</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr></table>
 
+<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr></table>
 
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
-<code>11</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-514280829e139650</code></td></tr></table>
 
+</td></tr><tr><td><b>unk_e80141f</b></td><td><code>0</code></td></tr><tr><td><b>fZBufferWriteEnable</b></td><td><code>1</code></td></tr><tr><td><b>eZBufferCompareFunc</b></td><td><code>4</code></td></tr><tr><td><b>fAlphaTestEnable</b></td><td><code>0</code></td></tr><tr><td><b>eAlphaTestCompareFunc</b></td><td><code>5</code></td></tr><tr><td><b>eCullMode</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaMaskEnable</b></td><td><code>0</code></td></tr><tr><td><b>flZSlopeScaleBias</b></td><td><code>0</code></td></tr><tr><td><b>tStencilParams</b></td><td><table><tr><th colspan="100%">StencilParams</th></tr><tr><td><b>fStencilBufferEnable</b></td><td><code>1</code></td></tr><tr><td><b>dwStencilBufferRefValue</b></td><td><code>64</code></td></tr><tr><td><b>unk_f57a4b5</b></td><td><code>1</code></td></tr><tr><td><b>unk_4c8527e</b></td><td><code>3</code></td></tr><tr><td><b>unk_4c2d563</b></td><td><code>1</code></td></tr><tr><td><b>unk_e787b9d</b></td><td><code>1</code></td></tr><tr><td><b>unk_125c5d5</b></td><td><code>255</code></td></tr><tr><td><b>unk_a6ffe64</b></td><td><code>76</code></td></tr><tr><td><b>unk_ab3262d</b></td><td><code>8</code></td></tr><tr><td><b>unk_35ab896</b></td><td><code>3</code></td></tr><tr><td><b>unk_3553b7b</b></td><td><code>1</code></td></tr><tr><td><b>unk_d5bbf15</b></td><td><code>8</code></td></tr></table>
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>105</code>
-<code>11</code>
-<code>151</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-61ed481bd6c9e9fe</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr></table>
+</td></tr><tr><td><b>flZBias</b></td><td><code>0</code></td></tr><tr><td><b>bAlphaTestRefValue</b></td><td><code>128</code></td></tr></table>
 
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>706b917bde80f9ae</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>105</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
-<code>97</code>
-<code>11</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
-<code>11</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-514280829e139650</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>105</code>
-<code>11</code>
-<code>151</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-17d46270c74c895b</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>98</code>
-<code>11</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1fcdb474f8a3929b</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>98</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
-<code>151</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2a607918ee806585</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>98</code>
-<code>11</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-29e19eefa9a6d608</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>98</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1cc01577b0136298</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
-<code>151</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
-<code>97</code>
-<code>98</code>
-<code>11</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2b5723072e6a7e33</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>105</code>
-<code>98</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>24ccefaf8d53c44e</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
-<code>11</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-514280829e139650</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-61ed481bd6c9e9fe</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>105</code>
-<code>11</code>
-<code>151</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
-<code>97</code>
-<code>98</code>
-<code>11</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2b5723072e6a7e33</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>5b35a3a1408da858</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>105</code>
-<code>98</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-514280829e139650</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-17d46270c74c895b</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>105</code>
-<code>11</code>
-<code>151</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
-<code>11</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>3a9ee6b01874a9c5</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4ac66be28a783e84</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
-<code>94</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1710e9b1615f1c27</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>7473f466f3b1683c</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4ac66be28a783e84</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
-<code>94</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-7a4eaa46de260c8f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
-<code>97</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>604dbe583b8410e0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>105</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
-<code>97</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-51453a4be6ab9630</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>105</code>
-<code>11</code>
-<code>94</code>
-<code>151</code>
-<code>97</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
-<code>97</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-d109ab7c231ad74</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>105</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
-<code>97</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>105</code>
-<code>11</code>
-<code>94</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>324d614269ebceae</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>98</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-299baea003a64347</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>98</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>98</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>98</code>
-<code>11</code>
-<code>94</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-65f2300ea4cc7e35</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>98</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1ed40918df498fe</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>98</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-32c79202afbead74</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>98</code>
-<code>11</code>
-<code>94</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>98</code>
-<code>94</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4eec965e11dc52ac</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>105</code>
-<code>98</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
-<code>97</code>
-<code>98</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
-<code>97</code>
-<code>98</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>105</code>
-<code>98</code>
-<code>11</code>
-<code>94</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-4028767535168cbc</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>596d43978efe896b</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>105</code>
-<code>98</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
-<code>97</code>
-<code>98</code>
-<code>12</code>
-<code>94</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
-<code>97</code>
-<code>98</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-99cfb1f902fa25e</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>105</code>
-<code>98</code>
-<code>11</code>
-<code>94</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-608127dec24de443</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>11</code>
-<code>12</code>
-<code>94</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-2a607918ee806585</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
-<code>151</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>11</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-52c38690a5ba8263</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>1cc01577b0136298</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
-<code>151</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>11</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-608127dec24de443</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2a607918ee806585</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
-<code>151</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>11</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-52c38690a5ba8263</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1cc01577b0136298</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
-<code>151</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>98</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1fcdb474f8a3929b</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>98</code>
-<code>11</code>
-<code>12</code>
-<code>94</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-2a607918ee806585</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
-<code>151</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>98</code>
-<code>11</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-29e19eefa9a6d608</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>98</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1cc01577b0136298</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
-<code>151</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>98</code>
-<code>11</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1fcdb474f8a3929b</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>98</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
-<code>151</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2a607918ee806585</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-29e19eefa9a6d608</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>98</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>98</code>
-<code>11</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
-<code>151</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1cc01577b0136298</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>3a9ee6b01874a9c5</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4ac66be28a783e84</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
-<code>94</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1710e9b1615f1c27</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>4</code>
-<code>5</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>7473f466f3b1683c</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4ac66be28a783e84</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-7a4eaa46de260c8f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
-<code>94</code>
-<code>151</code>
-<code>97</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>3a9ee6b01874a9c5</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>4ac66be28a783e84</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
-<code>94</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1710e9b1615f1c27</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>7473f466f3b1683c</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4ac66be28a783e84</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-7a4eaa46de260c8f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
-<code>94</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-299baea003a64347</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>98</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>98</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>98</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-65f2300ea4cc7e35</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>98</code>
-<code>11</code>
-<code>94</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>98</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1ed40918df498fe</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>98</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>98</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-32c79202afbead74</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>98</code>
-<code>11</code>
-<code>94</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>98</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-299baea003a64347</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>98</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>98</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-65f2300ea4cc7e35</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>98</code>
-<code>11</code>
-<code>94</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1ed40918df498fe</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>1</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
-<code>98</code>
-<code>11</code>
-<code>94</code>
-<code>12</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>98</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>98</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
-<code>33554432</code>
-<code>2</code>
-<code>3145728</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-32c79202afbead74</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
-<code>404881408</code>
-<code>128</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
-<code>4</code>
-<code>5</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>98</code>
-<code>11</code>
-<code>94</code>
-<code>151</code>
-<code>97</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>tDefaultTextures</b></td><td><table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>105</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\flat_NM.tex">[DT_SNO] Texture: "flat_NM"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>98</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>97</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>94</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>12</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>97</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>94</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>11</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>11</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_9068982</b></td><td></td></tr><tr><td><b>unk_39c46d9</b></td><td><code>2</code></td></tr><tr><td><b>unk_295833</b></td><td><code>0</code>
+</td></tr><tr><td><b>unk_262684c</b></td><td><code>63</code></td></tr><tr><td><b>unk_295833</b></td><td><code>0</code>
 <code>8</code>
 <code>16</code>
 <code>24</code>
@@ -2751,174 +163,2763 @@
 <code>488</code>
 <code>496</code>
 <code>504</code>
-</td></tr><tr><td><b>unk_e39f53a</b></td><td><table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Color Intensity.mtv">[DT_SNO] MaterialValue: "Color Intensity"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>ptPerms</b></td><td><table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>11</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\emissive multiplier.mtv">[DT_SNO] MaterialValue: "emissive multiplier"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-608127dec24de443</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Dissolve Power Max.mtv">[DT_SNO] MaterialValue: "Alpha Dissolve Power Max"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Fresnel Power.mtv">[DT_SNO] MaterialValue: "Fresnel Power"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Fresnel Slope.mtv">[DT_SNO] MaterialValue: "Fresnel Slope"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
 
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Brightness Global.mtv">[DT_SNO] MaterialValue: "Alpha Brightness Global"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Noise Multiplier.mtv">[DT_SNO] MaterialValue: "Alpha Noise Multiplier"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>2</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion 1 U Strength.mtv">[DT_SNO] MaterialValue: "UV Distortion 1 U Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion 1 V Strength.mtv">[DT_SNO] MaterialValue: "UV Distortion 1 V Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Shape-Noise Multiplier.mtv">[DT_SNO] MaterialValue: "Alpha Shape-Noise Multiplier"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion Shape Strength.mtv">[DT_SNO] MaterialValue: "UV Distortion Shape Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Color Dissolve Influence.mtv">[DT_SNO] MaterialValue: "Color Dissolve Influence"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Soft Distance.mtv">[DT_SNO] MaterialValue: "Alpha Soft Distance"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0.3499999940395355</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Noise 1 - Alpha lerp to white.mtv">[DT_SNO] MaterialValue: "Noise 1 - Alpha lerp to white"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Noise 2 - Alpha lerp to white.mtv">[DT_SNO] MaterialValue: "Noise 2 - Alpha lerp to white"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion Dissolve Strength.mtv">[DT_SNO] MaterialValue: "UV Distortion Dissolve Strength"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion Noise1 Strength.mtv">[DT_SNO] MaterialValue: "UV Distortion Noise1 Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion Noise2 Strength.mtv">[DT_SNO] MaterialValue: "UV Distortion Noise2 Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Fresnel Double Sided.mtv">[DT_SNO] MaterialValue: "Fresnel Double Sided"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Exposure Compensation Enabled.mtv">[DT_SNO] MaterialValue: "Exposure Compensation Enabled"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha 2 Soft Distance.mtv">[DT_SNO] MaterialValue: "Alpha 2 Soft Distance"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0.3499999940395355</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Use Alpha 2 Soft Distance.mtv">[DT_SNO] MaterialValue: "Use Alpha 2 Soft Distance"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Dissolve Harshness.mtv">[DT_SNO] MaterialValue: "Alpha Dissolve Harshness"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Shape Mask Color Gradient Influence.mtv">[DT_SNO] MaterialValue: "Shape Mask Color Gradient Influence"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_247b377</b></td><td><table><tr><th colspan="100%">Type_f58f01c3</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Color Global Tint.mtv">[DT_SNO] MaterialValue: "Color Global Tint"</a></td></tr><tr><td><b>vDefaultValue</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>x</b></td><td><code>1</code></td></tr><tr><td><b>y</b></td><td><code>1</code></td></tr><tr><td><b>z</b></td><td><code>1</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_f58f01c3</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Particle Translucency Color.mtv">[DT_SNO] MaterialValue: "Particle Translucency Color"</a></td></tr><tr><td><b>vDefaultValue</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-2a607918ee806585</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
+<code>151</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
 
 </td></tr></table>
 
 
-</td></tr><tr><td><b>unk_282b17c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>32968</code></td></tr><tr><td><b>dataSize</b></td><td><code>128</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
-
-</td></tr><tr><td><b>eRenderLayer</b></td><td><code>14</code></td></tr><tr><td><b>tRenderParams</b></td><td><table><tr><th colspan="100%">RenderParams</th></tr><tr><td><b>fZBufferWriteEnable</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaTestEnable</b></td><td><code>0</code></td></tr><tr><td><b>tAlphaBlend</b></td><td><table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr></table>
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>11</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr></table>
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-52c38690a5ba8263</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
 
 
-</td></tr><tr><td><b>unk_7e83826</b></td><td><code>0</code></td></tr><tr><td><b>flZBias</b></td><td><code>0</code></td></tr><tr><td><b>flZSlopeScaleBias</b></td><td><code>0</code></td></tr><tr><td><b>eAlphaTestCompareFunc</b></td><td><code>5</code></td></tr><tr><td><b>fAlphaMaskEnable</b></td><td><code>0</code></td></tr><tr><td><b>eCullMode</b></td><td><code>1</code></td></tr><tr><td><b>eZBufferCompareFunc</b></td><td><code>4</code></td></tr><tr><td><b>bAlphaTestRefValue</b></td><td><code>128</code></td></tr><tr><td><b>unk_e80141f</b></td><td><code>0</code></td></tr><tr><td><b>tStencilParams</b></td><td><table><tr><th colspan="100%">StencilParams</th></tr><tr><td><b>dwStencilBufferRefValue</b></td><td><code>64</code></td></tr><tr><td><b>unk_35ab896</b></td><td><code>3</code></td></tr><tr><td><b>unk_3553b7b</b></td><td><code>1</code></td></tr><tr><td><b>unk_d5bbf15</b></td><td><code>8</code></td></tr><tr><td><b>unk_4c2d563</b></td><td><code>1</code></td></tr><tr><td><b>unk_e787b9d</b></td><td><code>1</code></td></tr><tr><td><b>fStencilBufferEnable</b></td><td><code>1</code></td></tr><tr><td><b>unk_125c5d5</b></td><td><code>255</code></td></tr><tr><td><b>unk_a6ffe64</b></td><td><code>76</code></td></tr><tr><td><b>unk_ab3262d</b></td><td><code>8</code></td></tr><tr><td><b>unk_f57a4b5</b></td><td><code>1</code></td></tr><tr><td><b>unk_4c8527e</b></td><td><code>3</code></td></tr></table>
-
-</td></tr><tr><td><b>eFillMode</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_6276112</b></td><td><table><tr><th colspan="100%">Type_8e0085</th></tr><tr><td><b>eVBFormat</b></td><td><code>11</code></td></tr></table>
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
 
 
-</td></tr><tr><td><b>dwFlags</b></td><td><code>32896</code></td></tr><tr><td><b>unk_c23801f</b></td><td><code>0</code></td></tr><tr><td><b>unk_1484b5a</b></td><td><table><tr><th colspan="100%">Type_d7ee8f26</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\zSwitch Alpha Fresnel.mtv">[DT_SNO] MaterialValue: "zSwitch Alpha Fresnel"</a></td></tr><tr><td><b>nBitOffset</b></td><td><code>4</code></td></tr><tr><td><b>unk_bbe4258</b></td><td></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d7ee8f26</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\zSwitch Particle Distortion Method.mtv">[DT_SNO] MaterialValue: "zSwitch Particle Distortion Method"</a></td></tr><tr><td><b>nBitOffset</b></td><td><code>5</code></td></tr><tr><td><b>unk_bbe4258</b></td><td><code>0</code>
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1cc01577b0136298</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
+<code>151</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-7842466f65bac305</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>105</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
+<code>97</code>
+<code>11</code>
+<code>12</code>
+<code>94</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-514280829e139650</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-61ed481bd6c9e9fe</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>105</code>
+<code>11</code>
+<code>151</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
+<code>11</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
+<code>97</code>
+<code>11</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>706b917bde80f9ae</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>105</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
+<code>11</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-514280829e139650</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>105</code>
+<code>11</code>
+<code>151</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-17d46270c74c895b</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>98</code>
+<code>11</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1fcdb474f8a3929b</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>98</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2a607918ee806585</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
+<code>151</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>98</code>
+<code>11</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-29e19eefa9a6d608</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>98</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1cc01577b0136298</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
+<code>151</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
+<code>97</code>
+<code>98</code>
+<code>11</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2b5723072e6a7e33</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>24ccefaf8d53c44e</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>105</code>
+<code>98</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
+<code>11</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-514280829e139650</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-61ed481bd6c9e9fe</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>105</code>
+<code>11</code>
+<code>151</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
+<code>97</code>
+<code>98</code>
+<code>11</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2b5723072e6a7e33</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>5b35a3a1408da858</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>105</code>
+<code>98</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
+<code>11</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-514280829e139650</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-17d46270c74c895b</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>105</code>
+<code>11</code>
+<code>151</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>3a9ee6b01874a9c5</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4ac66be28a783e84</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1710e9b1615f1c27</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
+<code>94</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>7473f466f3b1683c</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4ac66be28a783e84</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
+<code>94</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-7a4eaa46de260c8f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
+<code>97</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>604dbe583b8410e0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>105</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
+<code>97</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-51453a4be6ab9630</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>105</code>
+<code>11</code>
+<code>94</code>
+<code>151</code>
+<code>97</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
+<code>97</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-d109ab7c231ad74</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>105</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>105</code>
+<code>11</code>
+<code>94</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>324d614269ebceae</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
+<code>97</code>
+<code>94</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>98</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-299baea003a64347</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>98</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>98</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-65f2300ea4cc7e35</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>98</code>
+<code>11</code>
+<code>94</code>
+<code>151</code>
+<code>97</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>98</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1ed40918df498fe</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>98</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>98</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-32c79202afbead74</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>98</code>
+<code>11</code>
+<code>94</code>
+<code>151</code>
+<code>97</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>105</code>
+<code>98</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4eec965e11dc52ac</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
+<code>97</code>
+<code>98</code>
+<code>12</code>
+<code>94</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
+<code>97</code>
+<code>98</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-4028767535168cbc</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>105</code>
+<code>98</code>
+<code>11</code>
+<code>94</code>
+<code>151</code>
+<code>97</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
+<code>97</code>
+<code>98</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>596d43978efe896b</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>105</code>
+<code>98</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
+<code>97</code>
+<code>98</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-99cfb1f902fa25e</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>105</code>
+<code>98</code>
+<code>11</code>
+<code>94</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-608127dec24de443</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>11</code>
+<code>12</code>
+<code>94</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
+<code>151</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2a607918ee806585</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>11</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-52c38690a5ba8263</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>1cc01577b0136298</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
+<code>151</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>11</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-608127dec24de443</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2a607918ee806585</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
+<code>151</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>11</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-52c38690a5ba8263</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>1cc01577b0136298</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
+<code>151</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1fcdb474f8a3929b</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>98</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>98</code>
+<code>11</code>
+<code>12</code>
+<code>94</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2a607918ee806585</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
+<code>151</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>98</code>
+<code>11</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-29e19eefa9a6d608</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>98</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1cc01577b0136298</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
+<code>151</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>98</code>
+<code>11</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>98</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1fcdb474f8a3929b</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2a607918ee806585</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
+<code>151</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>98</code>
+<code>11</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1e9ab285de063bf2</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-29e19eefa9a6d608</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>98</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>11</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>4fc3945d83ae57b1</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>1cc01577b0136298</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
+<code>151</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>3a9ee6b01874a9c5</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4ac66be28a783e84</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
+<code>94</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1710e9b1615f1c27</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>94</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>7473f466f3b1683c</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4ac66be28a783e84</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-7a4eaa46de260c8f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
+<code>94</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>3a9ee6b01874a9c5</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4ac66be28a783e84</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1710e9b1615f1c27</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
+<code>94</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>7473f466f3b1683c</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>4ac66be28a783e84</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-7a4eaa46de260c8f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>11</code>
+<code>94</code>
+<code>151</code>
+<code>97</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>98</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-299baea003a64347</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>98</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>98</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-65f2300ea4cc7e35</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>98</code>
+<code>11</code>
+<code>94</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>98</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>98</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1ed40918df498fe</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>98</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-32c79202afbead74</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>98</code>
+<code>11</code>
+<code>94</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>98</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-299baea003a64347</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>98</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>98</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>98</code>
+<code>11</code>
+<code>94</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-65f2300ea4cc7e35</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>98</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-2f79d73eea51389f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>1ed40918df498fe</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>128</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>1</code>
+<code>4</code>
+<code>5</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>40</code>
+<code>98</code>
+<code>11</code>
+<code>94</code>
+<code>12</code>
+<code>151</code>
+<code>97</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-63a6839dad7de434</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>1342210048</code>
+<code>33554432</code>
+<code>2</code>
+<code>3145728</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td><code>98</code>
+<code>11</code>
+<code>94</code>
+<code>151</code>
+<code>97</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-32c79202afbead74</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>0</code>
+<code>404881408</code>
+<code>128</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>0</code>
+<code>4</code>
+<code>5</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>98</code>
+<code>94</code>
+</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_39c46d9</b></td><td><code>2</code></td></tr><tr><td><b>unk_c23801f</b></td><td><code>0</code></td></tr><tr><td><b>tDefaultTextures</b></td><td><table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>105</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\flat_NM.tex.md">[DT_SNO] Texture: "flat_NM"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>98</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex.md">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>97</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex.md">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>94</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex.md">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>12</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex.md">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>97</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex.md">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>94</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex.md">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>11</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex.md">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>11</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex.md">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
+
+
+</td></tr><tr><td><b>eRenderLayer</b></td><td><code>14</code></td></tr><tr><td><b>unk_247b377</b></td><td><table><tr><th colspan="100%">Type_f58f01c3</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Color Global Tint.mtv.md">[DT_SNO] MaterialValue: "Color Global Tint"</a></td></tr><tr><td><b>vDefaultValue</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>x</b></td><td><code>1</code></td></tr><tr><td><b>y</b></td><td><code>1</code></td></tr><tr><td><b>z</b></td><td><code>1</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_f58f01c3</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Particle Translucency Color.mtv.md">[DT_SNO] MaterialValue: "Particle Translucency Color"</a></td></tr><tr><td><b>vDefaultValue</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_1484b5a</b></td><td><table><tr><th colspan="100%">Type_d7ee8f26</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\zSwitch Alpha Fresnel.mtv.md">[DT_SNO] MaterialValue: "zSwitch Alpha Fresnel"</a></td></tr><tr><td><b>nBitOffset</b></td><td><code>4</code></td></tr><tr><td><b>unk_bbe4258</b></td><td></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_d7ee8f26</th></tr><tr><td><b>unk_bbe4258</b></td><td><code>0</code>
+<code>1</code>
+</td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\zSwitch Particle Distortion Method.mtv.md">[DT_SNO] MaterialValue: "zSwitch Particle Distortion Method"</a></td></tr><tr><td><b>nBitOffset</b></td><td><code>5</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_d7ee8f26</th></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\zSwitch Particle Noise Method.mtv.md">[DT_SNO] MaterialValue: "zSwitch Particle Noise Method"</a></td></tr><tr><td><b>nBitOffset</b></td><td><code>6</code></td></tr><tr><td><b>unk_bbe4258</b></td><td><code>1</code>
+<code>2</code>
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_d7ee8f26</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\zSwitch Particle Color Method.mtv.md">[DT_SNO] MaterialValue: "zSwitch Particle Color Method"</a></td></tr><tr><td><b>nBitOffset</b></td><td><code>7</code></td></tr><tr><td><b>unk_bbe4258</b></td><td><code>0</code>
+<code>2</code>
+</td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_d7ee8f26</th></tr><tr><td><b>nBitOffset</b></td><td><code>8</code></td></tr><tr><td><b>unk_bbe4258</b></td><td></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Low Quality.mtv.md">[DT_SNO] MaterialValue: "Low Quality"</a></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">RenderPass</th></tr><tr><td><b>unk_1484b5a</b></td><td><table><tr><th colspan="100%">Type_d7ee8f26</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\zSwitch Particle Distortion Method.mtv.md">[DT_SNO] MaterialValue: "zSwitch Particle Distortion Method"</a></td></tr><tr><td><b>nBitOffset</b></td><td><code>4</code></td></tr><tr><td><b>unk_bbe4258</b></td><td><code>0</code>
 <code>1</code>
 </td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d7ee8f26</th></tr><tr><td><b>nBitOffset</b></td><td><code>6</code></td></tr><tr><td><b>unk_bbe4258</b></td><td><code>1</code>
+<table><tr><th colspan="100%">Type_d7ee8f26</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\zSwitch Particle Noise Method.mtv.md">[DT_SNO] MaterialValue: "zSwitch Particle Noise Method"</a></td></tr><tr><td><b>nBitOffset</b></td><td><code>5</code></td></tr><tr><td><b>unk_bbe4258</b></td><td><code>1</code>
 <code>2</code>
-</td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\zSwitch Particle Noise Method.mtv">[DT_SNO] MaterialValue: "zSwitch Particle Noise Method"</a></td></tr></table>
+</td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d7ee8f26</th></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\zSwitch Particle Color Method.mtv">[DT_SNO] MaterialValue: "zSwitch Particle Color Method"</a></td></tr><tr><td><b>nBitOffset</b></td><td><code>7</code></td></tr><tr><td><b>unk_bbe4258</b></td><td><code>0</code>
+<table><tr><th colspan="100%">Type_d7ee8f26</th></tr><tr><td><b>unk_bbe4258</b></td><td><code>0</code>
 <code>2</code>
-</td></tr></table>
+</td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\zSwitch Particle Color Method.mtv.md">[DT_SNO] MaterialValue: "zSwitch Particle Color Method"</a></td></tr><tr><td><b>nBitOffset</b></td><td><code>6</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d7ee8f26</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Low Quality.mtv">[DT_SNO] MaterialValue: "Low Quality"</a></td></tr><tr><td><b>nBitOffset</b></td><td><code>8</code></td></tr><tr><td><b>unk_bbe4258</b></td><td></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>tDefaultTextures</b></td><td><table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>105</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\flat_NM.tex.md">[DT_SNO] Texture: "flat_NM"</a></td></tr></table>
 
 
-</td></tr></table>
+<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>98</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex.md">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
 
 
-<table><tr><th colspan="100%">RenderPass</th></tr><tr><td><b>unk_247b377</b></td><td><table><tr><th colspan="100%">Type_f58f01c3</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Color Global Tint.mtv">[DT_SNO] MaterialValue: "Color Global Tint"</a></td></tr><tr><td><b>vDefaultValue</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>x</b></td><td><code>1</code></td></tr><tr><td><b>y</b></td><td><code>1</code></td></tr><tr><td><b>z</b></td><td><code>1</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
-
-</td></tr></table>
+<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>97</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex.md">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_f58f01c3</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Particle Translucency Color.mtv">[DT_SNO] MaterialValue: "Particle Translucency Color"</a></td></tr><tr><td><b>vDefaultValue</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
-
-</td></tr></table>
+<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>94</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex.md">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
 
 
-</td></tr><tr><td><b>tDefaultTextures</b></td><td><table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>105</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\flat_NM.tex">[DT_SNO] Texture: "flat_NM"</a></td></tr></table>
+<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex.md">[DT_SNO] Texture: "solid_white"</a></td></tr><tr><td><b>eShaderTex</b></td><td><code>12</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>98</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
+<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>97</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex.md">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex">[DT_SNO] Texture: "solid_white"</a></td></tr><tr><td><b>eShaderTex</b></td><td><code>97</code></td></tr></table>
+<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>94</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex.md">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>94</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
+<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>11</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex.md">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>12</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>97</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>94</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>11</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>11</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
+<table><tr><th colspan="100%">Type_ea252ba2</th></tr><tr><td><b>eShaderTex</b></td><td><code>11</code></td></tr><tr><td><b>snoTexture</b></td><td><a href="..\Texture\solid_white.tex.md">[DT_SNO] Texture: "solid_white"</a></td></tr></table>
 
 
 </td></tr><tr><td><b>unk_295833</b></td><td><code>0</code>
@@ -2929,11 +2930,104 @@
 <code>80</code>
 <code>96</code>
 <code>112</code>
-</td></tr><tr><td><b>ptPerms</b></td><td><table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+</td></tr><tr><td><b>unk_e39f53a</b></td><td><table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Color Intensity.mtv.md">[DT_SNO] MaterialValue: "Color Intensity"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\emissive multiplier.mtv.md">[DT_SNO] MaterialValue: "emissive multiplier"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Dissolve Power Max.mtv.md">[DT_SNO] MaterialValue: "Alpha Dissolve Power Max"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Fresnel Power.mtv.md">[DT_SNO] MaterialValue: "Fresnel Power"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Fresnel Slope.mtv.md">[DT_SNO] MaterialValue: "Fresnel Slope"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Brightness Global.mtv.md">[DT_SNO] MaterialValue: "Alpha Brightness Global"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>flDefaultValue</b></td><td><code>2</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Noise Multiplier.mtv.md">[DT_SNO] MaterialValue: "Alpha Noise Multiplier"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion 1 U Strength.mtv.md">[DT_SNO] MaterialValue: "UV Distortion 1 U Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion 1 V Strength.mtv.md">[DT_SNO] MaterialValue: "UV Distortion 1 V Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Shape-Noise Multiplier.mtv.md">[DT_SNO] MaterialValue: "Alpha Shape-Noise Multiplier"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion Shape Strength.mtv.md">[DT_SNO] MaterialValue: "UV Distortion Shape Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Color Dissolve Influence.mtv.md">[DT_SNO] MaterialValue: "Color Dissolve Influence"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>flDefaultValue</b></td><td><code>0.3499999940395355</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Soft Distance.mtv.md">[DT_SNO] MaterialValue: "Alpha Soft Distance"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\zSwitch Alpha Fresnel.mtv.md">[DT_SNO] MaterialValue: "zSwitch Alpha Fresnel"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Noise 1 - Alpha lerp to white.mtv.md">[DT_SNO] MaterialValue: "Noise 1 - Alpha lerp to white"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Noise 2 - Alpha lerp to white.mtv.md">[DT_SNO] MaterialValue: "Noise 2 - Alpha lerp to white"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion Dissolve Strength.mtv.md">[DT_SNO] MaterialValue: "UV Distortion Dissolve Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion Noise1 Strength.mtv.md">[DT_SNO] MaterialValue: "UV Distortion Noise1 Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion Noise2 Strength.mtv.md">[DT_SNO] MaterialValue: "UV Distortion Noise2 Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Low Quality.mtv.md">[DT_SNO] MaterialValue: "Low Quality"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Fresnel Double Sided.mtv.md">[DT_SNO] MaterialValue: "Fresnel Double Sided"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Exposure Compensation Enabled.mtv.md">[DT_SNO] MaterialValue: "Exposure Compensation Enabled"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha 2 Soft Distance.mtv.md">[DT_SNO] MaterialValue: "Alpha 2 Soft Distance"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0.3499999940395355</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Use Alpha 2 Soft Distance.mtv.md">[DT_SNO] MaterialValue: "Use Alpha 2 Soft Distance"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Dissolve Harshness.mtv.md">[DT_SNO] MaterialValue: "Alpha Dissolve Harshness"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Shape Mask Color Gradient Influence.mtv.md">[DT_SNO] MaterialValue: "Shape Mask Color Gradient Influence"</a></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_6276112</b></td><td><table><tr><th colspan="100%">Type_8e0085</th></tr><tr><td><b>eVBFormat</b></td><td><code>11</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_262684c</b></td><td><code>63</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>unk_247b377</b></td><td><table><tr><th colspan="100%">Type_f58f01c3</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Color Global Tint.mtv.md">[DT_SNO] MaterialValue: "Color Global Tint"</a></td></tr><tr><td><b>vDefaultValue</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>x</b></td><td><code>1</code></td></tr><tr><td><b>y</b></td><td><code>1</code></td></tr><tr><td><b>z</b></td><td><code>1</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_f58f01c3</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Particle Translucency Color.mtv.md">[DT_SNO] MaterialValue: "Particle Translucency Color"</a></td></tr><tr><td><b>vDefaultValue</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_282b17c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>37328</code></td></tr><tr><td><b>dataSize</b></td><td><code>128</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_39c46d9</b></td><td><code>2</code></td></tr><tr><td><b>unk_c23801f</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>57344</code></td></tr><tr><td><b>ptPerms</b></td><td><table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
 <code>11</code>
 <code>12</code>
 <code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
@@ -2942,10 +3036,10 @@
 <table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-16ca7b20142a9a8</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>163840</code>
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-16ca7b20142a9a8</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>163840</code>
 <code>405798912</code>
 <code>384</code>
 <code>1048576</code>
@@ -2970,7 +3064,7 @@
 <code>40</code>
 </td></tr><tr><td><b>unk_6f6dbab</b></td><td><code>11</code>
 <code>151</code>
-</td></tr></table>
+</td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
 
 
 </td></tr></table>
@@ -2981,34 +3075,19 @@
 <code>11</code>
 <code>12</code>
 <code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>6</code>
-<code>7</code>
-<code>0</code>
-<code>1</code>
-<code>2</code>
-<code>3</code>
-<code>4</code>
-<code>5</code>
-<code>8</code>
-<code>9</code>
-<code>11</code>
-<code>10</code>
-<code>12</code>
-<code>13</code>
-<code>14</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>0</code>
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td><code>0</code>
 <code>40</code>
 </td></tr><tr><td><b>unk_6f6dbab</b></td><td><code>105</code>
 <code>11</code>
@@ -3019,30 +3098,7 @@
 <code>1048576</code>
 <code>0</code>
 <code>0</code>
-</td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>98</code>
-<code>11</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>6</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>6</code>
 <code>7</code>
 <code>0</code>
 <code>1</code>
@@ -3057,41 +3113,85 @@
 <code>12</code>
 <code>13</code>
 <code>14</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>0</code>
-<code>40</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td><code>11</code>
-<code>151</code>
-</td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-571a43c1816cf27d</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>163840</code>
-<code>405798912</code>
-<code>384</code>
-<code>1048576</code>
-<code>0</code>
-<code>0</code>
 </td></tr></table>
 
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
-<code>97</code>
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
 <code>98</code>
 <code>11</code>
 <code>12</code>
 <code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-571a43c1816cf27d</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>163840</code>
+<code>405798912</code>
+<code>384</code>
+<code>1048576</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>6</code>
+<code>7</code>
+<code>0</code>
+<code>1</code>
+<code>2</code>
+<code>3</code>
+<code>4</code>
+<code>5</code>
+<code>8</code>
+<code>9</code>
+<code>11</code>
+<code>10</code>
+<code>12</code>
+<code>13</code>
+<code>14</code>
+</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>0</code>
+<code>40</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td><code>11</code>
+<code>151</code>
+</td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
+<code>97</code>
+<code>98</code>
+<code>11</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>6</code>
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-6e81e5d8878c9e77</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>163840</code>
+<code>405798912</code>
+<code>384</code>
+<code>1048576</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>6</code>
 <code>7</code>
 <code>0</code>
 <code>1</code>
@@ -3111,31 +3211,34 @@
 </td></tr><tr><td><b>unk_6f6dbab</b></td><td><code>105</code>
 <code>11</code>
 <code>151</code>
-</td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-6e81e5d8878c9e77</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>163840</code>
-<code>405798912</code>
-<code>384</code>
-<code>1048576</code>
-<code>0</code>
-<code>0</code>
 </td></tr></table>
 
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
+<code>12</code>
+<code>94</code>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>6</code>
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>5630acc7776ee60f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>163840</code>
+<code>405798912</code>
+<code>384</code>
+<code>1048576</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>6</code>
 <code>7</code>
 <code>0</code>
 <code>1</code>
@@ -3156,38 +3259,31 @@
 <code>94</code>
 <code>151</code>
 <code>97</code>
-</td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>5630acc7776ee60f</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>163840</code>
+</td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-514e5ec6dcf74c4d</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>163840</code>
 <code>405798912</code>
 <code>384</code>
 <code>1048576</code>
 <code>0</code>
 <code>0</code>
-</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>97</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">ShaderPermutation</th></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
-<code>97</code>
-<code>12</code>
-<code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>6</code>
+</td></tr><tr><td><b>unk_d4d5dbb</b></td><td><code>6</code>
 <code>7</code>
 <code>0</code>
 <code>1</code>
@@ -3209,15 +3305,13 @@
 <code>94</code>
 <code>151</code>
 <code>97</code>
-</td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-514e5ec6dcf74c4d</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>163840</code>
-<code>405798912</code>
-<code>384</code>
-<code>1048576</code>
-<code>0</code>
-<code>0</code>
-</td></tr></table>
+</td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
 
 
+</td></tr><tr><td><b>unk_e3331b5</b></td><td><code>105</code>
+<code>97</code>
+<code>12</code>
+<code>94</code>
 </td></tr></table>
 
 
@@ -3225,10 +3319,7 @@
 <code>98</code>
 <code>12</code>
 <code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
@@ -3237,7 +3328,10 @@
 <table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-119f7db03f64eed4</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>163840</code>
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>-119f7db03f64eed4</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>163840</code>
 <code>405798912</code>
 <code>384</code>
 <code>1048576</code>
@@ -3265,7 +3359,7 @@
 <code>94</code>
 <code>151</code>
 <code>97</code>
-</td></tr></table>
+</td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
 
 
 </td></tr></table>
@@ -3276,19 +3370,27 @@
 <code>98</code>
 <code>12</code>
 <code>94</code>
-</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr></table>
+</td></tr><tr><td><b>unk_a2b58a8</b></td><td></td></tr><tr><td><b>tPrograms</b></td><td><table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-dd13dca85e9435e</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>163840</code>
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>0</code></td></tr><tr><td><b>unk_8e5f439</b></td><td></td></tr><tr><td><b>unk_d4d5dbb</b></td><td></td></tr><tr><td><b>ptResourceSlot</b></td><td></td></tr><tr><td><b>unk_6f6dbab</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_6b603dda</th></tr><tr><td><b>ptResourceSlot</b></td><td><code>0</code>
+<code>40</code>
+</td></tr><tr><td><b>unk_6f6dbab</b></td><td><code>105</code>
+<code>11</code>
+<code>98</code>
+<code>97</code>
+<code>94</code>
+<code>151</code>
+</td></tr><tr><td><b>pShaderProgram</b></td><td></td></tr><tr><td><b>dwKey</b></td><td><code>-dd13dca85e9435e</code></td></tr><tr><td><b>unk_8e5f439</b></td><td><code>163840</code>
 <code>405798912</code>
 <code>384</code>
 <code>1048576</code>
@@ -3309,142 +3411,40 @@
 <code>12</code>
 <code>13</code>
 <code>14</code>
-</td></tr><tr><td><b>ptResourceSlot</b></td><td><code>0</code>
-<code>40</code>
-</td></tr><tr><td><b>unk_6f6dbab</b></td><td><code>105</code>
-<code>11</code>
-<code>98</code>
-<code>97</code>
-<code>94</code>
-<code>151</code>
 </td></tr></table>
 
 
 </td></tr></table>
 
 
-</td></tr><tr><td><b>unk_1484b5a</b></td><td><table><tr><th colspan="100%">Type_d7ee8f26</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\zSwitch Particle Distortion Method.mtv">[DT_SNO] MaterialValue: "zSwitch Particle Distortion Method"</a></td></tr><tr><td><b>nBitOffset</b></td><td><code>4</code></td></tr><tr><td><b>unk_bbe4258</b></td><td><code>0</code>
-<code>1</code>
-</td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_9068982</b></td><td></td></tr><tr><td><b>eRenderLayer</b></td><td><code>34</code></td></tr><tr><td><b>tRenderParams</b></td><td><table><tr><th colspan="100%">RenderParams</th></tr><tr><td><b>fZBufferWriteEnable</b></td><td><code>1</code></td></tr><tr><td><b>eZBufferCompareFunc</b></td><td><code>4</code></td></tr><tr><td><b>eAlphaTestCompareFunc</b></td><td><code>5</code></td></tr><tr><td><b>eFillMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_7e83826</b></td><td><code>0</code></td></tr><tr><td><b>flZSlopeScaleBias</b></td><td><code>0</code></td></tr><tr><td><b>fAlphaTestEnable</b></td><td><code>0</code></td></tr><tr><td><b>tAlphaBlend</b></td><td><table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d7ee8f26</th></tr><tr><td><b>unk_bbe4258</b></td><td><code>1</code>
-<code>2</code>
-</td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\zSwitch Particle Noise Method.mtv">[DT_SNO] MaterialValue: "zSwitch Particle Noise Method"</a></td></tr><tr><td><b>nBitOffset</b></td><td><code>5</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_d7ee8f26</th></tr><tr><td><b>unk_bbe4258</b></td><td><code>0</code>
-<code>2</code>
-</td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\zSwitch Particle Color Method.mtv">[DT_SNO] MaterialValue: "zSwitch Particle Color Method"</a></td></tr><tr><td><b>nBitOffset</b></td><td><code>6</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr></table>
 
 
-</td></tr><tr><td><b>eRenderLayer</b></td><td><code>34</code></td></tr><tr><td><b>unk_262684c</b></td><td><code>63</code></td></tr><tr><td><b>unk_e39f53a</b></td><td><table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Color Intensity.mtv">[DT_SNO] MaterialValue: "Color Intensity"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\emissive multiplier.mtv">[DT_SNO] MaterialValue: "emissive multiplier"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Dissolve Power Max.mtv">[DT_SNO] MaterialValue: "Alpha Dissolve Power Max"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Fresnel Power.mtv">[DT_SNO] MaterialValue: "Fresnel Power"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>unk_e80141f</b></td><td><code>0</code></td></tr><tr><td><b>tStencilParams</b></td><td><table><tr><th colspan="100%">StencilParams</th></tr><tr><td><b>fStencilBufferEnable</b></td><td><code>1</code></td></tr><tr><td><b>unk_ab3262d</b></td><td><code>8</code></td></tr><tr><td><b>unk_3553b7b</b></td><td><code>1</code></td></tr><tr><td><b>unk_e787b9d</b></td><td><code>1</code></td></tr><tr><td><b>unk_f57a4b5</b></td><td><code>1</code></td></tr><tr><td><b>unk_d5bbf15</b></td><td><code>8</code></td></tr><tr><td><b>unk_4c8527e</b></td><td><code>3</code></td></tr><tr><td><b>unk_4c2d563</b></td><td><code>1</code></td></tr><tr><td><b>dwStencilBufferRefValue</b></td><td><code>64</code></td></tr><tr><td><b>unk_125c5d5</b></td><td><code>255</code></td></tr><tr><td><b>unk_a6ffe64</b></td><td><code>64</code></td></tr><tr><td><b>unk_35ab896</b></td><td><code>3</code></td></tr></table>
 
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Fresnel Slope.mtv">[DT_SNO] MaterialValue: "Fresnel Slope"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Brightness Global.mtv">[DT_SNO] MaterialValue: "Alpha Brightness Global"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Noise Multiplier.mtv">[DT_SNO] MaterialValue: "Alpha Noise Multiplier"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>2</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion 1 U Strength.mtv">[DT_SNO] MaterialValue: "UV Distortion 1 U Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion 1 V Strength.mtv">[DT_SNO] MaterialValue: "UV Distortion 1 V Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Shape-Noise Multiplier.mtv">[DT_SNO] MaterialValue: "Alpha Shape-Noise Multiplier"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion Shape Strength.mtv">[DT_SNO] MaterialValue: "UV Distortion Shape Strength"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Color Dissolve Influence.mtv">[DT_SNO] MaterialValue: "Color Dissolve Influence"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Soft Distance.mtv">[DT_SNO] MaterialValue: "Alpha Soft Distance"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0.3499999940395355</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\zSwitch Alpha Fresnel.mtv">[DT_SNO] MaterialValue: "zSwitch Alpha Fresnel"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Noise 1 - Alpha lerp to white.mtv">[DT_SNO] MaterialValue: "Noise 1 - Alpha lerp to white"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Noise 2 - Alpha lerp to white.mtv">[DT_SNO] MaterialValue: "Noise 2 - Alpha lerp to white"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion Dissolve Strength.mtv">[DT_SNO] MaterialValue: "UV Distortion Dissolve Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion Noise1 Strength.mtv">[DT_SNO] MaterialValue: "UV Distortion Noise1 Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\UV Distortion Noise2 Strength.mtv">[DT_SNO] MaterialValue: "UV Distortion Noise2 Strength"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Low Quality.mtv">[DT_SNO] MaterialValue: "Low Quality"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Fresnel Double Sided.mtv">[DT_SNO] MaterialValue: "Fresnel Double Sided"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Exposure Compensation Enabled.mtv">[DT_SNO] MaterialValue: "Exposure Compensation Enabled"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>flDefaultValue</b></td><td><code>0.3499999940395355</code></td></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha 2 Soft Distance.mtv">[DT_SNO] MaterialValue: "Alpha 2 Soft Distance"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Use Alpha 2 Soft Distance.mtv">[DT_SNO] MaterialValue: "Use Alpha 2 Soft Distance"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Alpha Dissolve Harshness.mtv">[DT_SNO] MaterialValue: "Alpha Dissolve Harshness"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_eb98da06</th></tr><tr><td><b>snoMaterialValue</b></td><td><a href="..\MaterialValue\Shape Mask Color Gradient Influence.mtv">[DT_SNO] MaterialValue: "Shape Mask Color Gradient Influence"</a></td></tr><tr><td><b>flDefaultValue</b></td><td><code>1</code></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_282b17c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>37328</code></td></tr><tr><td><b>dataSize</b></td><td><code>128</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_6276112</b></td><td><table><tr><th colspan="100%">Type_8e0085</th></tr><tr><td><b>eVBFormat</b></td><td><code>11</code></td></tr></table>
-
-
-</td></tr><tr><td><b>tRenderParams</b></td><td><table><tr><th colspan="100%">RenderParams</th></tr><tr><td><b>eAlphaTestCompareFunc</b></td><td><code>5</code></td></tr><tr><td><b>bAlphaTestRefValue</b></td><td><code>128</code></td></tr><tr><td><b>fAlphaMaskEnable</b></td><td><code>0</code></td></tr><tr><td><b>eFillMode</b></td><td><code>0</code></td></tr><tr><td><b>eCullMode</b></td><td><code>1</code></td></tr><tr><td><b>flZBias</b></td><td><code>0</code></td></tr><tr><td><b>unk_e80141f</b></td><td><code>0</code></td></tr><tr><td><b>eZBufferCompareFunc</b></td><td><code>4</code></td></tr><tr><td><b>flZSlopeScaleBias</b></td><td><code>0</code></td></tr><tr><td><b>fAlphaTestEnable</b></td><td><code>0</code></td></tr><tr><td><b>unk_7e83826</b></td><td><code>0</code></td></tr><tr><td><b>fZBufferWriteEnable</b></td><td><code>1</code></td></tr><tr><td><b>tStencilParams</b></td><td><table><tr><th colspan="100%">StencilParams</th></tr><tr><td><b>unk_125c5d5</b></td><td><code>255</code></td></tr><tr><td><b>unk_a6ffe64</b></td><td><code>64</code></td></tr><tr><td><b>unk_ab3262d</b></td><td><code>8</code></td></tr><tr><td><b>unk_3553b7b</b></td><td><code>1</code></td></tr><tr><td><b>fStencilBufferEnable</b></td><td><code>1</code></td></tr><tr><td><b>unk_35ab896</b></td><td><code>3</code></td></tr><tr><td><b>unk_f57a4b5</b></td><td><code>1</code></td></tr><tr><td><b>unk_d5bbf15</b></td><td><code>8</code></td></tr><tr><td><b>unk_4c8527e</b></td><td><code>3</code></td></tr><tr><td><b>unk_4c2d563</b></td><td><code>1</code></td></tr><tr><td><b>unk_e787b9d</b></td><td><code>1</code></td></tr><tr><td><b>dwStencilBufferRefValue</b></td><td><code>64</code></td></tr></table>
-
-</td></tr><tr><td><b>tAlphaBlend</b></td><td><table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_cb3fe69d</th></tr><tr><td><b>unk_a5c387a</b></td><td><code>1</code></td></tr><tr><td><b>unk_968db19</b></td><td><code>1</code></td></tr><tr><td><b>fAlphaBlendEnable</b></td><td><code>0</code></td></tr><tr><td><b>eSrcBlendFactor</b></td><td><code>5</code></td></tr><tr><td><b>unk_102510d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d04248f</b></td><td><code>1</code></td></tr><tr><td><b>unk_d05eb97</b></td><td><code>5</code></td></tr><tr><td><b>eBlendOp</b></td><td><code>1</code></td></tr><tr><td><b>eDestBlendFactor</b></td><td><code>6</code></td></tr><tr><td><b>unk_4011abf</b></td><td><code>6</code></td></tr><tr><td><b>unk_9920e8a</b></td><td><code>1</code></td></tr><tr><td><b>unk_f1d0b5f</b></td><td><code>1</code></td></tr></table>
-
+</td></tr><tr><td><b>eCullMode</b></td><td><code>1</code></td></tr><tr><td><b>flZBias</b></td><td><code>0</code></td></tr><tr><td><b>bAlphaTestRefValue</b></td><td><code>128</code></td></tr><tr><td><b>fAlphaMaskEnable</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>dwFlags</b></td><td><code>57344</code></td></tr><tr><td><b>unk_c23801f</b></td><td><code>0</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>unk_9068982</b></td><td></td></tr><tr><td><b>unk_39c46d9</b></td><td><code>2</code></td></tr></table>
 
+</td></tr><tr><td><b>unk_860effa</b></td><td><code>0</code></td></tr><tr><td><b>unk_cee0ffd</b></td><td><code>vfx_particle_gBuffer_uber_lit_dithered</code></td></tr><tr><td><b>pShaderData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>4194304</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>32</code></td></tr><tr><td><b>dataSize</b></td><td><code>404494</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_860effa</b></td><td><code>0</code></td></tr><tr><td><b>unk_cee0ffd</b></td><td><code>vfx_particle_gBuffer_uber_lit_dithered</code></td></tr></table>
+</td></tr></table>
+
+</td></tr></table>
 

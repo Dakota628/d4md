@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback77Header</code></td></tr><tr><td><b>szText</b></td><td><code>Find the corpse</code></td></tr><tr><td><b>hLabel</b></td><td><code>3708630052</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback27Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat the Chieftain of the Rotting Halls</code></td></tr><tr><td><b>hLabel</b></td><td><code>1069812671</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1069812671</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback27Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat the Chieftain of the Rotting Halls</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

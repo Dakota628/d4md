@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.11F5A1</code></td></tr><tr><td><b>szText</b></td><td><code>You hear her last night? Running through the streets, screaming bloody murder?</code></td></tr><tr><td><b>hLabel</b></td><td><code>2397154358</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.1264F5</code></td></tr><tr><td><b>szText</b></td><td><code>Didn't everyone? The woman’s mind is going.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734154417</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1734154417</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.1264F5</code></td></tr><tr><td><b>szText</b></td><td><code>Didn't everyone? The woman’s mind is going.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.11F5A1</code></td></tr><tr><td><b>szText</b></td><td><code>She and all the other Crusaders.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1072234426</code></td></tr></table>

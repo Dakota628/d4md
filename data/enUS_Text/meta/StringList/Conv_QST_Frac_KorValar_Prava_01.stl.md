@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"Lilith disappeared into the Black Lake and I cannot follow her."</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.710B6</code></td></tr><tr><td><b>szText</b></td><td><code>Have the new Watch Commander replace the forces we lost at the mine.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2382259547</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2382259547</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.710B6</code></td></tr><tr><td><b>szText</b></td><td><code>Have the new Watch Commander replace the forces we lost at the mine.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.710B6</code></td></tr><tr><td><b>szText</b></td><td><code>So you've returned! Vigo here tells me you were braver than he.</code></td></tr><tr><td><b>hLabel</b></td><td><code>152358890</code></td></tr></table>

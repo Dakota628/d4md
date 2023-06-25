@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.710B6</code></td></tr><tr><td><b>szText</b></td><td><code>A bastion of Light brought low. A demon unleashed on the land.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1511354967</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.710B6</code></td></tr><tr><td><b>szText</b></td><td><code>Taking in the news, dire</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374241924</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Taking in the news, dire</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374241924</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.710B6</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.710B6</code></td></tr><tr><td><b>szText</b></td><td><code>What you saw in Scosglen, that is what Lilith wants for all of Sanctuary.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094290905</code></td></tr></table>

@@ -1,4 +1,4 @@
 <h1>data/base/meta/Encounter/NPC_CAMP_Frac_Nostrava_Crazed.enc</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/Encounter/NPC_CAMP_Frac_Nostrava_Crazed.enc</td></tr><tr><td><b>Type</b></td><td>EncounterDefinition</td></tr><tr><td><b>SNO ID</b></td><td>667335</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>snoSymbol</b></td><td><a href="..\Actor\NPC_CAMP_Frac_Nostrava_Crazed_Militia_F.acr">[DT_SNO] Actor: "NPC_CAMP_Frac_Nostrava_Crazed_Militia_F"</a></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>snoSymbol</b></td><td><a href="..\Actor\NPC_CAMP_Frac_Nostrava_Crazed_Militia_F.acr.md">[DT_SNO] Actor: "NPC_CAMP_Frac_Nostrava_Crazed_Militia_F"</a></td></tr></table>
 

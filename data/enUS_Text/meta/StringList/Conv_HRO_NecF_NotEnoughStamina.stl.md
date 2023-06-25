@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line17.BAE4.Nec.F</code></td></tr><tr><td><b>szText</b></td><td><code>I need a rest.</code></td></tr><tr><td><b>hLabel</b></td><td><code>640602226</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line18.BAE4.Nec.F</code></td></tr><tr><td><b>szText</b></td><td><code>I'm out of stamina.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1461857747</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I'm out of stamina.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1461857747</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line18.BAE4.Nec.F</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line19.BAE4.Nec.F</code></td></tr><tr><td><b>szText</b></td><td><code>I need more stamina.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2283113268</code></td></tr></table>

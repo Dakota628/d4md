@@ -18,7 +18,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2414905903</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.102596</code></td></tr><tr><td><b>szText</b></td><td><code>increasingly agitated</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1159360783</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.102596</code></td></tr><tr><td><b>szText</b></td><td><code>Heed my warning and stop them! It must remain sealed!</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.102596</code></td></tr><tr><td><b>szText</b></td><td><code>Heed my warning and stop them! It must remain sealed!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1159360783</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.102596</code></td></tr><tr><td><b>szText</b></td><td><code>increasingly agitated</code></td></tr><tr><td><b>hLabel</b></td><td><code>2618693244</code></td></tr></table>

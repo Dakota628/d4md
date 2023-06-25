@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.B79B1</code></td></tr><tr><td><b>szText</b></td><td><code>"Ah-mahr. Too-er Dool-rah. Fay-shlah. She-nah. Mee-len." </code></td></tr><tr><td><b>hLabel</b></td><td><code>3425461945</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2200611104</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.BAE4.Dru</code></td></tr><tr><td><b>szText</b></td><td><code>Brother of branch and fang, you speak words to heal the land, but I see no wounds.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.BAE4.Dru</code></td></tr><tr><td><b>szText</b></td><td><code>Brother of branch and fang, you speak words to heal the land, but I see no wounds.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2200611104</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.B79B1.Dru</code></td></tr><tr><td><b>szText</b></td><td><code>A demon’s touch leaves deep scars. You should know this—where have you come from?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1264370439</code></td></tr></table>

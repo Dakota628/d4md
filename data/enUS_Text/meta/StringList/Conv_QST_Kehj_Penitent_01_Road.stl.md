@@ -15,7 +15,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.136591</code></td></tr><tr><td><b>szText</b></td><td><code>A little gentle ribbing, "I know something you don't know". Hasn't really warmed to the player yet but is starting to come around. </code></td></tr><tr><td><b>hLabel</b></td><td><code>1093687477</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.136591</code></td></tr><tr><td><b>szText</b></td><td><code>I must get these people to shelter. If you chance to be in Gea Kul one day, you might find me at the tavern there. Light guide your path.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1163062289</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1163062289</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.136591</code></td></tr><tr><td><b>szText</b></td><td><code>I must get these people to shelter. If you chance to be in Gea Kul one day, you might find me at the tavern there. Light guide your path.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

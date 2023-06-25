@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Parchment</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Looks like it was written in a hurry</code></td></tr><tr><td><b>hLabel</b></td><td><code>3426486927</code></td></tr><tr><td><b>szLabel</b></td><td><code>FlavorText</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlavorText</code></td></tr><tr><td><b>szText</b></td><td><code>Looks like it was written in a hurry</code></td></tr><tr><td><b>hLabel</b></td><td><code>3426486927</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>NoticeSignText</code></td></tr><tr><td><b>szText</b></td><td><code>[PH] The monsters- they've taken over.  We sealed the door as best we could, but so many of us are wounded or dead.  Please eradicate them and find where they're coming from. No where is safe.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4073325784</code></td></tr></table>

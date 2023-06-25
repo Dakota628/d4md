@@ -5,5 +5,5 @@
 <code>0</code>
 <code>0</code>
 <code>0</code>
-</td></tr><tr><td><b>unk_259d5a4</b></td><td><a href="..\Material\sorM_B09_mat.mat">[DT_SNO] Material: "sorM_B09_mat"</a></td></tr><tr><td><b>unk_259d59d</b></td><td><a href="..\Material\sorF_B09_mat.mat">[DT_SNO] Material: "sorF_B09_mat"</a></td></tr><tr><td><b>unk_2ab2122</b></td><td><code>9</code></td></tr></table>
+</td></tr><tr><td><b>unk_259d5a4</b></td><td><a href="..\Material\sorM_B09_mat.mat.md">[DT_SNO] Material: "sorM_B09_mat"</a></td></tr><tr><td><b>unk_259d59d</b></td><td><a href="..\Material\sorF_B09_mat.mat.md">[DT_SNO] Material: "sorF_B09_mat"</a></td></tr><tr><td><b>unk_2ab2122</b></td><td><code>9</code></td></tr></table>
 

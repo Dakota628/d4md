@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.804B7</code></td></tr><tr><td><b>szText</b></td><td><code>I trained with them in Kyovashad. Even had the privilege of being tutored by Reverend Mother Prava.</code></td></tr><tr><td><b>hLabel</b></td><td><code>671382530</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4095445246</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.804B7</code></td></tr><tr><td><b>szText</b></td><td><code>That was my first time being away from Scosglen. Everything was different. The way people talked. The clothes they wore. The food they ate.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.804B7</code></td></tr><tr><td><b>szText</b></td><td><code>That was my first time being away from Scosglen. Everything was different. The way people talked. The clothes they wore. The food they ate.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4095445246</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.804B7</code></td></tr><tr><td><b>szText</b></td><td><code>But it opened my eyes to new things, and for that I'm grateful.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2383413888</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>But it opened my eyes to new things, and for that I'm grateful.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2383413888</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.804B7</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

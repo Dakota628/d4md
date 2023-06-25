@@ -1,6 +1,6 @@
 <h1>data/base/meta/VectorField/Outward_Vortex_Noise_25.vfd</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/VectorField/Outward_Vortex_Noise_25.vfd</td></tr><tr><td><b>Type</b></td><td>VectorFieldDefinition</td></tr><tr><td><b>SNO ID</b></td><td>479262</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>flMagMin</b></td><td><code>2.8423423767089844</code></td></tr><tr><td><b>flMagMax</b></td><td><code>53.664791107177734</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wvExt</b></td><td>Vector(510.000000, 510.000000, 510.000000)</td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_7ed9e41</b></td><td><code>25</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>25</code></td></tr><tr><td><b>flMagMin</b></td><td><code>2.8423423767089844</code></td></tr><tr><td><b>flMagMax</b></td><td><code>53.664791107177734</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wvExt</b></td><td>Vector(510.000000, 510.000000, 510.000000)</td></tr></table>
 
 </td></tr><tr><td><b>ptSamples</b></td><td>Vector(-33.887505, 39.775814, 3.142373)
 Vector(-36.374542, 36.625034, 3.863284)
@@ -15627,5 +15627,5 @@ Vector(41.745762, -28.560928, -3.432144)
 Vector(38.629894, -33.583580, -2.226812)
 Vector(35.604767, -37.772999, -0.003536)
 Vector(32.774841, -40.903000, 2.561749)
-</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>25</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>25</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>25</code></td></tr></table>
+</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>25</code></td></tr></table>
 

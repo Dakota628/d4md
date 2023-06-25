@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>TBD</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1512058033</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>It burns! Ugh...</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>It burns! Ugh...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1512058033</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>feverish, moaning</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374944990</code></td></tr></table>
@@ -12,31 +12,31 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>This is not good!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094936268</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1662855929</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>dread</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>dread</code></td></tr><tr><td><b>hLabel</b></td><td><code>1662855929</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.6D03F</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>(cries)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1321744556</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line48.6DE47</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line48.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>(cries)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1321744556</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir48.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>cries out in pain</code></td></tr><tr><td><b>hLabel</b></td><td><code>2667471993</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2667471993</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir48.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>cries out in pain</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line30.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Damned Drowned!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4206074972</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir30.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>panicked</code></td></tr><tr><td><b>hLabel</b></td><td><code>1256835113</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>panicked</code></td></tr><tr><td><b>hLabel</b></td><td><code>1256835113</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir30.6D03F</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line6.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>My arm...</code></td></tr><tr><td><b>hLabel</b></td><td><code>3674430582</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir6.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>foggy, wincing</code></td></tr><tr><td><b>hLabel</b></td><td><code>1242350243</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>foggy, wincing</code></td></tr><tr><td><b>hLabel</b></td><td><code>1242350243</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir6.6DE47</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>You’ve been infected. It’s spreading.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1962341521</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line8.6D03F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line8.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>You’ve been infected. It’s spreading.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1962341521</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3825228478</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir8.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>rushed</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>rushed</code></td></tr><tr><td><b>hLabel</b></td><td><code>3825228478</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir8.6D03F</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line32.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>We have no time! I must remove the Drowned necrosis!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2494043614</code></td></tr></table>
@@ -48,7 +48,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>I don’t understand.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1865093314</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3210820751</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>foggy, panicked</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>foggy, panicked</code></td></tr><tr><td><b>hLabel</b></td><td><code>3210820751</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Lorath, are you certain?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1698173014</code></td></tr></table>
@@ -84,13 +84,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line50.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>(cries)</code></td></tr><tr><td><b>hLabel</b></td><td><code>3543672709</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>594432850</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir50.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>cries out in pain</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir50.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>cries out in pain</code></td></tr><tr><td><b>hLabel</b></td><td><code>594432850</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line44.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>(grunt of effort)</code></td></tr><tr><td><b>hLabel</b></td><td><code>450782273</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>(grunt of effort)</code></td></tr><tr><td><b>hLabel</b></td><td><code>450782273</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line44.6D03F</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir44.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Lorath swinging down the halberd</code></td></tr><tr><td><b>hLabel</b></td><td><code>1796509710</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Lorath swinging down the halberd</code></td></tr><tr><td><b>hLabel</b></td><td><code>1796509710</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir44.6D03F</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line36.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Argh...</code></td></tr><tr><td><b>hLabel</b></td><td><code>3365005897</code></td></tr></table>
@@ -111,7 +111,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir25.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>comforting</code></td></tr><tr><td><b>hLabel</b></td><td><code>3750437645</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1652916836</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line38.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>You will be Horadrim, young one. I will not fail you.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line38.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>You will be Horadrim, young one. I will not fail you.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1652916836</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir38.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>quietly</code></td></tr><tr><td><b>hLabel</b></td><td><code>2998644273</code></td></tr></table>

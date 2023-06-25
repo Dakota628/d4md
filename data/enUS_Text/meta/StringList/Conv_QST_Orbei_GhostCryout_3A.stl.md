@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.71176</code></td></tr><tr><td><b>szText</b></td><td><code>Terror. Alarm.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374241594</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.B7A2D</code></td></tr><tr><td><b>szText</b></td><td><code>(screaming)</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145552953</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4145552953</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.B7A2D</code></td></tr><tr><td><b>szText</b></td><td><code>(screaming)</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1713472614</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.B7A2D</code></td></tr><tr><td><b>szText</b></td><td><code>Several voices, screaming in terror/pain (walla) as Elias starts killing everyone.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.B7A2D</code></td></tr><tr><td><b>szText</b></td><td><code>Several voices, screaming in terror/pain (walla) as Elias starts killing everyone.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1713472614</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

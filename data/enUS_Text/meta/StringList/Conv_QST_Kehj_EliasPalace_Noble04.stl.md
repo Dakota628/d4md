@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.BC3FF</code></td></tr><tr><td><b>szText</b></td><td><code>Heard that noble from Caldeum was dragged away for questioning the Mother. He had to face the wolves. Fool got what he deserved.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1564149867</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3427036824</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.BC3FF</code></td></tr><tr><td><b>szText</b></td><td><code>Hushed, under his breath (gossiping about a touchy subject)</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.BC3FF</code></td></tr><tr><td><b>szText</b></td><td><code>Hushed, under his breath (gossiping about a touchy subject)</code></td></tr><tr><td><b>hLabel</b></td><td><code>3427036824</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

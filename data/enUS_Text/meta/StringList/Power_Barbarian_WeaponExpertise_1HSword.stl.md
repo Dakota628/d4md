@@ -11,7 +11,7 @@ Killing a Crowd Controlled enemy grants {c_number}[{SF_6} * 100|%+|]{/c} increas
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>simple_desc</code></td></tr><tr><td><b>szText</b></td><td><code>{c_label}Lucky Hit:{/c} Up to a {c_number}[{SF_0} * 2|%|]{/c} chance to gain {c_number}{SF_1}{/c} Fury when hitting a Crowd Controlled enemy.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4074669608</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Chance to activate Lucky Hit increased to {c_number}{SF_2}%{/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr><tr><td><b>szText</b></td><td><code>Chance to activate Lucky Hit increased to {c_number}{SF_2}%{/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

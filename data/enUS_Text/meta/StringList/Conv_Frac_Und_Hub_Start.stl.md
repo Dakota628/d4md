@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>(gasp) The tunnel's closed. We-we're trapped without the hoist.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3253867193</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>terrified. he keeps encountering new worst case scenarios, and this is the worst one yet.</code></td></tr><tr><td><b>hLabel</b></td><td><code>821786854</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.6DE47</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>terrified. he keeps encountering new worst case scenarios, and this is the worst one yet.</code></td></tr><tr><td><b>hLabel</b></td><td><code>821786854</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Look! There she is!</code></td></tr><tr><td><b>hLabel</b></td><td><code>670931255</code></td></tr></table>

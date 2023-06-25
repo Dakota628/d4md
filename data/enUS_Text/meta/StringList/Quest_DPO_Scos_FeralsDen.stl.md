@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback50Header</code></td></tr><tr><td><b>szText</b></td><td><code>Collect {ITEM} from Animus Carriers</code></td></tr><tr><td><b>hLabel</b></td><td><code>3920748827</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Deposit Animus into the {GIZMO}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3500185438</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback53Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3500185438</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback53Header</code></td></tr><tr><td><b>szText</b></td><td><code>Deposit Animus into the {GIZMO}</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase119Description</code></td></tr><tr><td><b>szText</b></td><td><code>Travel to {LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3105501488</code></td></tr></table>

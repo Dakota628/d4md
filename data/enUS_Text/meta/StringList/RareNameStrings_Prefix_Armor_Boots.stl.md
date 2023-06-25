@@ -15,10 +15,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Boots005</code></td></tr><tr><td><b>szText</b></td><td><code>Courier</code></td></tr><tr><td><b>hLabel</b></td><td><code>3709038652</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Boots006</code></td></tr><tr><td><b>szText</b></td><td><code>Pathfinder</code></td></tr><tr><td><b>hLabel</b></td><td><code>3709038653</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Pathfinder</code></td></tr><tr><td><b>hLabel</b></td><td><code>3709038653</code></td></tr><tr><td><b>szLabel</b></td><td><code>Boots006</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Boots007</code></td></tr><tr><td><b>szText</b></td><td><code>Vagrant</code></td></tr><tr><td><b>hLabel</b></td><td><code>3709038654</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Vagrant</code></td></tr><tr><td><b>hLabel</b></td><td><code>3709038654</code></td></tr><tr><td><b>szLabel</b></td><td><code>Boots007</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Boots008</code></td></tr><tr><td><b>szText</b></td><td><code>Wayfarer</code></td></tr><tr><td><b>hLabel</b></td><td><code>3709038655</code></td></tr></table>
@@ -39,13 +39,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Boots013</code></td></tr><tr><td><b>szText</b></td><td><code>Journeyman</code></td></tr><tr><td><b>hLabel</b></td><td><code>3709038683</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Boots014</code></td></tr><tr><td><b>szText</b></td><td><code>Lost</code></td></tr><tr><td><b>hLabel</b></td><td><code>3709038684</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3709038684</code></td></tr><tr><td><b>szLabel</b></td><td><code>Boots014</code></td></tr><tr><td><b>szText</b></td><td><code>Lost</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Boots015</code></td></tr><tr><td><b>szText</b></td><td><code>Trail</code></td></tr><tr><td><b>hLabel</b></td><td><code>3709038685</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3709038686</code></td></tr><tr><td><b>szLabel</b></td><td><code>Boots016</code></td></tr><tr><td><b>szText</b></td><td><code>Road</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Road</code></td></tr><tr><td><b>hLabel</b></td><td><code>3709038686</code></td></tr><tr><td><b>szLabel</b></td><td><code>Boots016</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Boots017</code></td></tr><tr><td><b>szText</b></td><td><code>Leap</code></td></tr><tr><td><b>hLabel</b></td><td><code>3709038687</code></td></tr></table>

@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.B79B1</code></td></tr><tr><td><b>szText</b></td><td><code>I once schooled the boy Yorin in the old ways. His mother Braega too, as she wrote her chronicles. Both of them had a deep respect for our culture.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1562574988</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.B79B1</code></td></tr><tr><td><b>szText</b></td><td><code>Braega inspired me to catalogue some of our more ancient artifacts. In doing so, she reminded me of how easily the past can be forgotten.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145510926</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4145510926</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.B79B1</code></td></tr><tr><td><b>szText</b></td><td><code>Braega inspired me to catalogue some of our more ancient artifacts. In doing so, she reminded me of how easily the past can be forgotten.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

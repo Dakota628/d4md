@@ -9,13 +9,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line37.13E442</code></td></tr><tr><td><b>szText</b></td><td><code>It was forged as a refuge from the war between the High Heavens and the Burning Hells.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3085995075</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line40.13E442</code></td></tr><tr><td><b>szText</b></td><td><code>Instead, it became a new battleground in this Eternal Conflict.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3063950109</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3063950109</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line40.13E442</code></td></tr><tr><td><b>szText</b></td><td><code>Instead, it became a new battleground in this Eternal Conflict.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line42.13E442</code></td></tr><tr><td><b>szText</b></td><td><code>A secretive group called the Horadrim has kept mortals safe.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2401490143</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1739030177</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line44.13E442</code></td></tr><tr><td><b>szText</b></td><td><code>But now this once-powerful order is a husk of what it was, and Sanctuary’s ancient creators have returned to claim the hearts of humankind.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line44.13E442</code></td></tr><tr><td><b>szText</b></td><td><code>But now this once-powerful order is a husk of what it was, and Sanctuary’s ancient creators have returned to claim the hearts of humankind.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1739030177</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line46.13E442</code></td></tr><tr><td><b>szText</b></td><td><code>This is the story of their downfall.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1076570211</code></td></tr></table>
@@ -27,34 +27,34 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir33.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>startled gasp</code></td></tr><tr><td><b>hLabel</b></td><td><code>1849028613</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3639732837</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>(grunt)</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>(grunt)</code></td></tr><tr><td><b>hLabel</b></td><td><code>3639732837</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>exertion, trying to grab horse</code></td></tr><tr><td><b>hLabel</b></td><td><code>572571378</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>(frustrated sigh)</code></td></tr><tr><td><b>hLabel</b></td><td><code>3718003623</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3718003623</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>(frustrated sigh)</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>650842164</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>frustrated sigh</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>frustrated sigh</code></td></tr><tr><td><b>hLabel</b></td><td><code>650842164</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>(startled gasp)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1776443800</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1776443800</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line15.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>(startled gasp)</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir15.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>startled gasp</code></td></tr><tr><td><b>hLabel</b></td><td><code>3639330757</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>startled gasp</code></td></tr><tr><td><b>hLabel</b></td><td><code>3639330757</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir15.BAE4</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line21.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>(labored breathing)</code></td></tr><tr><td><b>hLabel</b></td><td><code>2911370197</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir21.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>labored breathing</code></td></tr><tr><td><b>hLabel</b></td><td><code>479289858</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>479289858</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir21.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>labored breathing</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line23.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>(sigh)</code></td></tr><tr><td><b>hLabel</b></td><td><code>2989640983</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2989640983</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line23.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>(sigh)</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>sigh of relief, sitting down exertion</code></td></tr><tr><td><b>hLabel</b></td><td><code>557560644</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir23.BAE4</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir23.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>sigh of relief, sitting down exertion</code></td></tr><tr><td><b>hLabel</b></td><td><code>557560644</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line27.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>(gasping, heavy breathing)</code></td></tr><tr><td><b>hLabel</b></td><td><code>3146182555</code></td></tr></table>

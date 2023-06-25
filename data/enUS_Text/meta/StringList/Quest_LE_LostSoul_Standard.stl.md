@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Wayward Soul</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback137Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak to the Wayward Soul</code></td></tr><tr><td><b>hLabel</b></td><td><code>1579306865</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1579306865</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback137Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak to the Wayward Soul</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback107Header</code></td></tr><tr><td><b>szText</b></td><td><code>Escort the Wayward Soul to their loved one</code></td></tr><tr><td><b>hLabel</b></td><td><code>2572996814</code></td></tr></table>
@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback135Header</code></td></tr><tr><td><b>szText</b></td><td><code>Wayward Soul</code></td></tr><tr><td><b>hLabel</b></td><td><code>3291338223</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback178Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat {CUSTOM_PARAM1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1545854902</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Defeat {CUSTOM_PARAM1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1545854902</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback178Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback77Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>3708630052</code></td></tr></table>

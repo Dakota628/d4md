@@ -6,13 +6,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>Uncontrolled magic weakens the fabric between this world and the Burning Hells.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567240369</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3430127326</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>Matter of factly, as a teacher explaining a concept to a student.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>Matter of factly, as a teacher explaining a concept to a student.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430127326</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>Aneta wasn't trying to summon demons, they were drawn here unintentionally.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150176307</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1718095968</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>Matter of factly, as a teacher explaining a concept to a student. Pronounciation: Ah-net-uh</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>Matter of factly, as a teacher explaining a concept to a student. Pronounciation: Ah-net-uh</code></td></tr><tr><td><b>hLabel</b></td><td><code>1718095968</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

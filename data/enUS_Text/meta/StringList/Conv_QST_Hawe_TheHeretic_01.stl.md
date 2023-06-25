@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.F5300</code></td></tr><tr><td><b>szText</b></td><td><code>There's a powerful evil out there killing folks! Surely you've seen the demons, or those...horrible charred remains?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567238613</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F5300</code></td></tr><tr><td><b>szText</b></td><td><code>The player has just inserted themselves into your conversation. You're desperate and frightened.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430125570</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3430125570</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F5300</code></td></tr><tr><td><b>szText</b></td><td><code>The player has just inserted themselves into your conversation. You're desperate and frightened.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Please, would you look for survivors near the old ruins to the northeast? We're desperate!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2438143193</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.F5300</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.F5300</code></td></tr><tr><td><b>szText</b></td><td><code>Please, would you look for survivors near the old ruins to the northeast? We're desperate!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2438143193</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.F5300</code></td></tr><tr><td><b>szText</b></td><td><code>The player has just inserted themselves into your conversation. You're desperate and frightened.</code></td></tr><tr><td><b>hLabel</b></td><td><code>6062854</code></td></tr></table>

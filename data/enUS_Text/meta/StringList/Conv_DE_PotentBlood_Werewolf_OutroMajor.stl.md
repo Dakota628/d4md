@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir17.7DD22</code></td></tr><tr><td><b>szText</b></td><td><code>Happy and laughing. Smile drops at the end.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2370878734</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1322929318</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line48.7DD23</code></td></tr><tr><td><b>szText</b></td><td><code>Bloody well done! With all this, we can draw out one of the big ones... Do you... hear that?</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line48.7DD23</code></td></tr><tr><td><b>szText</b></td><td><code>Bloody well done! With all this, we can draw out one of the big ones... Do you... hear that?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1322929318</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir48.7DD23</code></td></tr><tr><td><b>szText</b></td><td><code>Happy and laughing. Smile drops at the end.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2668656755</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Happy and laughing. Smile drops at the end.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2668656755</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir48.7DD23</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

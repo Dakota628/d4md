@@ -1,6 +1,6 @@
 <h1>data/base/meta/VectorField/Multi_Orbit_15.vfd</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/VectorField/Multi_Orbit_15.vfd</td></tr><tr><td><b>Type</b></td><td>VectorFieldDefinition</td></tr><tr><td><b>SNO ID</b></td><td>479476</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_7ed9e40</b></td><td><code>15</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>15</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>15</code></td></tr><tr><td><b>flMagMin</b></td><td><code>0.000005656854227709118</code></td></tr><tr><td><b>flMagMax</b></td><td><code>12.916365623474121</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wvExt</b></td><td>Vector(510.000000, 510.000000, 510.000000)</td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>flMagMin</b></td><td><code>0.000005656854227709118</code></td></tr><tr><td><b>flMagMax</b></td><td><code>12.916365623474121</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wvExt</b></td><td>Vector(510.000000, 510.000000, 510.000000)</td></tr></table>
 
 </td></tr><tr><td><b>ptSamples</b></td><td>Vector(9.043374, -1.807549, 9.043374)
 Vector(8.446650, -1.622252, 9.221849)
@@ -3377,5 +3377,5 @@ Vector(-7.291575, 1.159023, -9.617175)
 Vector(-7.862642, 1.407898, -9.413043)
 Vector(-8.446650, 1.622251, -9.221850)
 Vector(-9.043375, 1.807548, -9.043375)
-</td></tr></table>
+</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>15</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>15</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>15</code></td></tr></table>
 

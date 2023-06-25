@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>To self. Groggy/waking up. At the end of the line, realization dawns--this portal belongs to Mephisto, and you aren't happy to see him.</code></td></tr><tr><td><b>hLabel</b></td><td><code>650842164</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3796274409</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>What does that fiend want from me, now of all times?</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>What does that fiend want from me, now of all times?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3796274409</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Annoyed, to self--We just had a touching scene where our friend Donan faced his inner grief, and Mephisto showing up here is almost desecrating the moment</code></td></tr><tr><td><b>hLabel</b></td><td><code>729112950</code></td></tr></table>

@@ -9,16 +9,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line28.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>What is that?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3185317948</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line34.BAE4.Bar</code></td></tr><tr><td><b>szText</b></td><td><code>It cannot be!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2008231484</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>It cannot be!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2008231484</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line34.BAE4.Bar</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line34.BAE4.Nec</code></td></tr><tr><td><b>szText</b></td><td><code>Impossible!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2008244669</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Impossible!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2008244669</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line34.BAE4.Nec</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line34.BAE4.Dru</code></td></tr><tr><td><b>szText</b></td><td><code>No, it cannot be!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2008234226</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line34.BAE4.Sor</code></td></tr><tr><td><b>szText</b></td><td><code>No! Impossible!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2008250459</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2008250459</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line34.BAE4.Sor</code></td></tr><tr><td><b>szText</b></td><td><code>No! Impossible!</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line34.BAE4.Rog</code></td></tr><tr><td><b>szText</b></td><td><code>It cannot be!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2008249359</code></td></tr></table>

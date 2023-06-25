@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>(Listen)</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.BCBF4</code></td></tr><tr><td><b>szText</b></td><td><code>Leave it, Mairi! You don't know what's been infected. The lighter our cart, the faster we can leave these forsaken lands behind us.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1564201000</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1564201000</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.BCBF4</code></td></tr><tr><td><b>szText</b></td><td><code>Leave it, Mairi! You don't know what's been infected. The lighter our cart, the faster we can leave these forsaken lands behind us.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.BCBFA</code></td></tr><tr><td><b>szText</b></td><td><code>I’ve lived here my whole life. I can’t just pick up as easy as you.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4147136983</code></td></tr></table>

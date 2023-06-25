@@ -8,7 +8,7 @@
 Seek out Veroka in Kyovashad to make your first Healing Potion upgrade.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback2Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Veroka</code></td></tr><tr><td><b>hLabel</b></td><td><code>514698856</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Speak with Veroka</code></td></tr><tr><td><b>hLabel</b></td><td><code>514698856</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback2Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback6Header</code></td></tr><tr><td><b>szText</b></td><td><code>Upgrade your Healing Potion</code></td></tr><tr><td><b>hLabel</b></td><td><code>1385603436</code></td></tr></table>

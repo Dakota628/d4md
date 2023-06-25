@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DisembodiedVoice</code></td></tr><tr><td><b>szText</b></td><td><code>Formal Request</code></td></tr><tr><td><b>hLabel</b></td><td><code>155764431</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.B67DA</code></td></tr><tr><td><b>szText</b></td><td><code>Captain Batai. It has been four days since Guulrahn called the Onyx Watch to their aid, yet still, we hold our posts. We, the undersigned officers, request your leave to march on the capital at once.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1562536987</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Captain Batai. It has been four days since Guulrahn called the Onyx Watch to their aid, yet still, we hold our posts. We, the undersigned officers, request your leave to march on the capital at once.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1562536987</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.B67DA</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.B67DA</code></td></tr><tr><td><b>szText</b></td><td><code>Concerned. Respectful. Firm.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3425423944</code></td></tr></table>

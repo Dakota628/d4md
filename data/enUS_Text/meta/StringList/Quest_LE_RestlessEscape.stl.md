@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback318Header</code></td></tr><tr><td><b>szText</b></td><td><code>Talk to the Captured Villagers</code></td></tr><tr><td><b>hLabel</b></td><td><code>3146892402</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback296Header</code></td></tr><tr><td><b>szText</b></td><td><code>Survive the Cannibal assault</code></td></tr><tr><td><b>hLabel</b></td><td><code>254771447</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Survive the Cannibal assault</code></td></tr><tr><td><b>hLabel</b></td><td><code>254771447</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback296Header</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback270Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the remaining Cannibals</code></td></tr><tr><td><b>hLabel</b></td><td><code>1758358191</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Slay the remaining Cannibals</code></td></tr><tr><td><b>hLabel</b></td><td><code>1758358191</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback270Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback280Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat {CUSTOM_PARAM1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1427128208</code></td></tr></table>

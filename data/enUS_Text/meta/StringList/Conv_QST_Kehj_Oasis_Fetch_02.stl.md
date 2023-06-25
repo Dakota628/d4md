@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.FB4C3</code></td></tr><tr><td><b>szText</b></td><td><code>As for the smell... (sniff) Go to the tar pits. It won’t save your clothes, but maybe the odors will cancel each other out.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4151794491</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1719714152</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.FB4C3</code></td></tr><tr><td><b>szText</b></td><td><code>Amused and half joking. </code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.FB4C3</code></td></tr><tr><td><b>szText</b></td><td><code>Amused and half joking. </code></td></tr><tr><td><b>hLabel</b></td><td><code>1719714152</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

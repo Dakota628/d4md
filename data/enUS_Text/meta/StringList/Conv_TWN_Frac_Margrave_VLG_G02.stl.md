@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.E7247</code></td></tr><tr><td><b>szText</b></td><td><code>So you will simply run to Kyovashad, and forsake the rest of us?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1566123616</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>To Alina (5ft away.) Heated. Arguing. Feels betrayed.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3429010573</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.E7247</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.E7247</code></td></tr><tr><td><b>szText</b></td><td><code>To Alina (5ft away.) Heated. Arguing. Feels betrayed.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3429010573</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.1275E7</code></td></tr><tr><td><b>szText</b></td><td><code>My heart is sick with screams and smoke! I love the Father, you know I do, but I cannot serve him here.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734191412</code></td></tr></table>

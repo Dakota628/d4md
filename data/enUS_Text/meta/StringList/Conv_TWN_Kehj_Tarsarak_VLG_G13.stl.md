@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.10E796</code></td></tr><tr><td><b>szText</b></td><td><code>(scoff) Iron Wolves. Mercenaries with a silly name, sniffing after coin.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2395933363</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Contempt. Idle chit-chat.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3741660800</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.10E796</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.10E796</code></td></tr><tr><td><b>szText</b></td><td><code>Contempt. Idle chit-chat.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3741660800</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.10E799</code></td></tr><tr><td><b>szText</b></td><td><code>They saved my cousin's life, and she's worthless.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1733473400</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>They saved my cousin's life, and she's worthless.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1733473400</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.10E799</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.10E799</code></td></tr><tr><td><b>szText</b></td><td><code>Shrugging. Matter of fact.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3079200837</code></td></tr></table>

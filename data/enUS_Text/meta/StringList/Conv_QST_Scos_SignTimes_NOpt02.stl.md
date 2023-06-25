@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.B20CF</code></td></tr><tr><td><b>szText</b></td><td><code>Warmly remember the past</code></td></tr><tr><td><b>hLabel</b></td><td><code>1713241187</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2433290168</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.B20CF</code></td></tr><tr><td><b>szText</b></td><td><code>No task too daring. No embarrassment discouraged by pride. The greater the risk, the greater the drinks to follow.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.B20CF</code></td></tr><tr><td><b>szText</b></td><td><code>No task too daring. No embarrassment discouraged by pride. The greater the risk, the greater the drinks to follow.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2433290168</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -1,6 +1,6 @@
 <h1>data/base/meta/GameBalance/DungeonSpawningPools.gam</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/GameBalance/DungeonSpawningPools.gam</td></tr><tr><td><b>Type</b></td><td>GameBalanceDefinition</td></tr><tr><td><b>SNO ID</b></td><td>714439</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>bIgnoreOnLoad</b></td><td><code>0</code></td></tr><tr><td><b>ptData</b></td><td><table><tr><th colspan="100%">RechargeLua_Table</th></tr><tr><td><b>dwType</b></td><td><code>3471665578</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tEntries</b></td><td><table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vignettes_Global</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3170138089</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>eGameBalanceType</b></td><td><code>48</code></td></tr><tr><td><b>bIgnoreOnLoad</b></td><td><code>0</code></td></tr><tr><td><b>ptData</b></td><td><table><tr><th colspan="100%">RechargeLua_Table</th></tr><tr><td><b>dwType</b></td><td><code>3471665578</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tEntries</b></td><td><table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vignettes_Global</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3170138089</code></td></tr></table>
 
 </td></tr></table>
 
@@ -20,7 +20,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3130317978</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Global</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Global</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3130317978</code></td></tr></table>
 
 </td></tr></table>
 
@@ -30,12 +30,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Zombie</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>379219926</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>379219926</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Zombie</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>120111911</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Wildlife_Woodwraith</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Wildlife_Woodwraith</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>120111911</code></td></tr></table>
 
 </td></tr></table>
 
@@ -50,7 +50,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>649871392</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Wildlife_Serpent</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Wildlife_Serpent</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>649871392</code></td></tr></table>
 
 </td></tr></table>
 
@@ -80,7 +80,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2337215961</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Wildlife_Bear</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Wildlife_Bear</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2337215961</code></td></tr></table>
 
 </td></tr></table>
 
@@ -95,7 +95,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Cannibal</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3372475255</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3372475255</code></td></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Cannibal</code></td></tr></table>
 
 </td></tr></table>
 
@@ -105,7 +105,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Wildlife_Fly</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4204548121</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4204548121</code></td></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Wildlife_Fly</code></td></tr></table>
 
 </td></tr></table>
 
@@ -140,7 +140,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2940356054</code></td></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Wildlife_Woodwraith</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Wildlife_Woodwraith</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2940356054</code></td></tr></table>
 
 </td></tr></table>
 
@@ -150,7 +150,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1311733385</code></td></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Wildlife_Wasp</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Wildlife_Wasp</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1311733385</code></td></tr></table>
 
 </td></tr></table>
 
@@ -160,7 +160,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1389095461</code></td></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Zombie</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Zombie</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1389095461</code></td></tr></table>
 
 </td></tr></table>
 
@@ -180,7 +180,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Skeleton</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2042826564</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2042826564</code></td></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Skeleton</code></td></tr></table>
 
 </td></tr></table>
 
@@ -195,12 +195,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3300388316</code></td></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Demon_Fly</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Demon_Fly</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3300388316</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Snakes</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1113540228</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1113540228</code></td></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Snakes</code></td></tr></table>
 
 </td></tr></table>
 
@@ -210,27 +210,27 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1320817732</code></td></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Ghost</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Ghost</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1320817732</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Drowned</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>368523954</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>368523954</code></td></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Drowned</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Demon_Core</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1538527354</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1538527354</code></td></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Demon_Core</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Bandit</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>433281265</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>433281265</code></td></tr><tr><td><b>szName</b></td><td><code>Vignettes_Monster_Bandit</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>461276182</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Wildlife_Bat</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Wildlife_Bat</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>461276182</code></td></tr></table>
 
 </td></tr></table>
 
@@ -245,7 +245,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3876938221</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Demon_Fly</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Demon_Fly</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3876938221</code></td></tr></table>
 
 </td></tr></table>
 
@@ -255,7 +255,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Goatman</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>847688183</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>847688183</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Goatman</code></td></tr></table>
 
 </td></tr></table>
 
@@ -280,7 +280,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Skeleton</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1799996725</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1799996725</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Skeleton</code></td></tr></table>
 
 </td></tr></table>
 
@@ -290,7 +290,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Ghost</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3372623829</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3372623829</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Ghost</code></td></tr></table>
 
 </td></tr></table>
 
@@ -300,7 +300,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3384805035</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Demon_Core</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Monster_Demon_Core</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3384805035</code></td></tr></table>
 
 </td></tr></table>
 
@@ -315,17 +315,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3151844167</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_Ancients_Ruins</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_Ancients_Ruins</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3151844167</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_Ancients_Sand</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2438234172</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2438234172</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_Ancients_Sand</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3642386717</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_Cave_Flooded</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_Cave_Flooded</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3642386717</code></td></tr></table>
 
 </td></tr></table>
 
@@ -345,7 +345,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1342457414</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_Cave_Sand</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_Cave_Sand</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1342457414</code></td></tr></table>
 
 </td></tr></table>
 
@@ -360,7 +360,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_Kehj_Oasis</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3621034978</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3621034978</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_Kehj_Oasis</code></td></tr></table>
 
 </td></tr></table>
 
@@ -385,7 +385,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_ProtoDun_Flooded</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1577377785</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1577377785</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_ProtoDun_Flooded</code></td></tr></table>
 
 </td></tr></table>
 
@@ -400,12 +400,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4229593600</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_ProtoDun_Root</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_ProtoDun_Root</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4229593600</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_ProtoDun_South</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2138827887</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2138827887</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_ProtoDun_South</code></td></tr></table>
 
 </td></tr></table>
 
@@ -420,12 +420,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1862078364</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_Step_Grassland</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_Step_Grassland</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1862078364</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_Temple_Triune</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2733927327</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2733927327</code></td></tr><tr><td><b>szName</b></td><td><code>Traps_Tileset_Temple_Triune</code></td></tr></table>
 
 </td></tr></table>
 
@@ -455,7 +455,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3208407114</code></td></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Spider</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Spider</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3208407114</code></td></tr></table>
 
 </td></tr></table>
 
@@ -465,32 +465,32 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Shrines_Global</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3088188908</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3088188908</code></td></tr><tr><td><b>szName</b></td><td><code>Shrines_Global</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Shrines_Random</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3505599804</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3505599804</code></td></tr><tr><td><b>szName</b></td><td><code>Shrines_Random</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3519902159</code></td></tr><tr><td><b>szName</b></td><td><code>HealingWells_Global</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>HealingWells_Global</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3519902159</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3937313055</code></td></tr><tr><td><b>szName</b></td><td><code>HealingWells_Random</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>HealingWells_Random</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3937313055</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Drowned</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>692147894</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>692147894</code></td></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Drowned</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4132481992</code></td></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Skeleton</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Skeleton</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4132481992</code></td></tr></table>
 
 </td></tr></table>
 
@@ -505,7 +505,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vignettes_Tileset_Cave_Mine</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>765700600</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>765700600</code></td></tr><tr><td><b>szName</b></td><td><code>Vignettes_Tileset_Cave_Mine</code></td></tr></table>
 
 </td></tr></table>
 
@@ -520,7 +520,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vignettes_Tileset_ProtoDun_Root</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3203360111</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3203360111</code></td></tr><tr><td><b>szName</b></td><td><code>Vignettes_Tileset_ProtoDun_Root</code></td></tr></table>
 
 </td></tr></table>
 
@@ -530,12 +530,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>489325779</code></td></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Wildlife</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Wildlife</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>489325779</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Wildlife_Scos</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3280296970</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3280296970</code></td></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Wildlife_Scos</code></td></tr></table>
 
 </td></tr></table>
 
@@ -565,22 +565,22 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2955737666</code></td></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Maggot</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Maggot</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2955737666</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Fly</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>884955150</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>884955150</code></td></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Fly</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3870789273</code></td></tr><tr><td><b>szName</b></td><td><code>Vignettes_NPC</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vignettes_NPC</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3870789273</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Special</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2793443940</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2793443940</code></td></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Special</code></td></tr></table>
 
 </td></tr></table>
 
@@ -625,32 +625,32 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Cultist</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3809382859</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3809382859</code></td></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Cultist</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1640851350</code></td></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Demon</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Demon</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1640851350</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1167163387</code></td></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Cannibal</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Cannibal</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1167163387</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1658950389</code></td></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Snake</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Snake</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1658950389</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Knight</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2892955496</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2892955496</code></td></tr><tr><td><b>szName</b></td><td><code>OWC_RandomContent_Knight</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2395544650</code></td></tr><tr><td><b>szName</b></td><td><code>Chests_Random</code></td></tr></table>
+<table><tr><th colspan="100%">RechargeLua</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Chests_Random</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2395544650</code></td></tr></table>
 
 </td></tr></table>
 
@@ -668,5 +668,5 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>eGameBalanceType</b></td><td><code>48</code></td></tr></table>
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr></table>
 

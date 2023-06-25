@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>name</code></td></tr><tr><td><b>szText</b></td><td><code>Stealth</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff0_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Stealth</code></td></tr><tr><td><b>hLabel</b></td><td><code>231140723</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>231140723</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff0_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Stealth</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff0_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Cannot be targeted by enemies, removed by attacking or taking damage.</code></td></tr><tr><td><b>hLabel</b></td><td><code>673707030</code></td></tr></table>

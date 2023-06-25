@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.EED41</code></td></tr><tr><td><b>szText</b></td><td><code>I have been called to repentance. To this shrine in the center of an uncivilized swamp to make right what I have done wrong. But the swamp, like my past, is restless, angry, and full of whispers.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567831162</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.EED41</code></td></tr><tr><td><b>szText</b></td><td><code>I go to bed with its voice in my ear, reciting the litany of my sins. It says to me that my repentance means little. That in my heart I feel no remorse. That in the end there will be no absolution. Please...please...I must have absolution...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150767100</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I go to bed with its voice in my ear, reciting the litany of my sins. It says to me that my repentance means little. That in my heart I feel no remorse. That in the end there will be no absolution. Please...please...I must have absolution...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150767100</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.EED41</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

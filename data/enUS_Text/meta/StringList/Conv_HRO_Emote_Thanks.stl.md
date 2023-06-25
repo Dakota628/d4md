@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Said quickly, but sincerely, as if just handed a small gift.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3482789185</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line19.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>I appreciate that.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1932985372</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1932985372</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line19.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>I appreciate that.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Said quickly, but sincerely, as if you just bumped into someone.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3795872329</code></td></tr></table>

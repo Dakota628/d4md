@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Very winded from fighting, heavy breathing</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374887287</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4094993971</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Lorath, are you--</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Lorath, are you--</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094993971</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Concerned</code></td></tr><tr><td><b>hLabel</b></td><td><code>1662913632</code></td></tr></table>
@@ -24,7 +24,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>I see the spire up ahead. Come on.</code></td></tr><tr><td><b>hLabel</b></td><td><code>670873552</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Winded, but wants to push on. </code></td></tr><tr><td><b>hLabel</b></td><td><code>2533760509</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Winded, but wants to push on. </code></td></tr><tr><td><b>hLabel</b></td><td><code>2533760509</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.6D03F</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

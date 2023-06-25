@@ -1,30 +1,30 @@
 <h1>data/base/meta/AmbientSound/EMT_Stablemaster_Horses_Idle.ams</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/AmbientSound/EMT_Stablemaster_Horses_Idle.ams</td></tr><tr><td><b>Type</b></td><td>AmbientSoundDefinition</td></tr><tr><td><b>SNO ID</b></td><td>767387</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>tRandomSounds</b></td><td><table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_EMT_Horse_Vox_Calm.snd">[DT_SNO] Sound: "Play_EMT_Horse_Vox_Calm"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>tRandomSounds</b></td><td><table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_EMT_Horse_Vox_Calm.snd.md">[DT_SNO] Sound: "Play_EMT_Horse_Vox_Calm"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>8</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>12</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_EMT_Stable_Horse_Movements.snd.md">[DT_SNO] Sound: "Play_EMT_Stable_Horse_Movements"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>8</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>12</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>8</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>12</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_EMT_Stable_Horse_Movements.snd">[DT_SNO] Sound: "Play_EMT_Stable_Horse_Movements"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_EMT_Horse_Saddle_Movements.snd.md">[DT_SNO] Sound: "Play_EMT_Horse_Saddle_Movements"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
-
-
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>8</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>12</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_EMT_Horse_Saddle_Movements.snd">[DT_SNO] Sound: "Play_EMT_Horse_Saddle_Movements"</a></td></tr></table>
 
 
 </td></tr><tr><td><b>tDynamicGameParameter</b></td><td><table><tr><th colspan="100%">DynamicGameParameter</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>0</code></td></tr></table>

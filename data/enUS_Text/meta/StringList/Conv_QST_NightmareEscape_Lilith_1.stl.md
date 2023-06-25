@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DisembodiedVoice</code></td></tr><tr><td><b>szText</b></td><td><code>Lilith</code></td></tr><tr><td><b>hLabel</b></td><td><code>155764431</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>What did my father offer you?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1564184052</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.BD31C</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.BD31C</code></td></tr><tr><td><b>szText</b></td><td><code>What did my father offer you?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1564184052</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.BD31C</code></td></tr><tr><td><b>szText</b></td><td><code>Answer me.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4147119990</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4147119990</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.BD31C</code></td></tr><tr><td><b>szText</b></td><td><code>Answer me.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.BD31C</code></td></tr><tr><td><b>szText</b></td><td><code>The Player doesn't respond to her first line, so she says this one with simmering fury.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1715039651</code></td></tr></table>

@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BreadcrumbHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Return to Nevesk</code></td></tr><tr><td><b>hLabel</b></td><td><code>2596636736</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BreadcrumbDescription</code></td></tr><tr><td><b>szText</b></td><td><code>The ruins held evil creatures and demonic magic. At least tidings of their defeat should set the villagers at ease.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4222796379</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4222796379</code></td></tr><tr><td><b>szLabel</b></td><td><code>BreadcrumbDescription</code></td></tr><tr><td><b>szText</b></td><td><code>The ruins held evil creatures and demonic magic. At least tidings of their defeat should set the villagers at ease.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>The broken tower held evil creatures and demonic magic. At least tidings of their defeat should set the villagers at ease.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><code>The broken tower held evil creatures and demonic magic. At least tidings of their defeat should set the villagers at ease.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Return to Nevesk</code></td></tr><tr><td><b>hLabel</b></td><td><code>220322285</code></td></tr></table>

@@ -4,7 +4,7 @@
 
 </td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>3</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>3</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_EMT_Water_Lap_Boat_Large_OS.snd">[DT_SNO] Sound: "Play_EMT_Water_Lap_Boat_Large_OS"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>2</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>3</code></td></tr></table>
+</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_EMT_Water_Lap_Boat_Large_OS.snd.md">[DT_SNO] Sound: "Play_EMT_Water_Lap_Boat_Large_OS"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>3</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>2</code></td></tr></table>
 
 </td></tr></table>
 

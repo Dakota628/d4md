@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.FEC7D</code></td></tr><tr><td><b>szText</b></td><td><code>Subdued but troubled--she knows that an ill fate will befall the bandits who stole from her village.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3431903101</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.FEC7D</code></td></tr><tr><td><b>szText</b></td><td><code>We have lived peacefully in these swamps for as long as anyone can remember.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4151952082</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4151952082</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.FEC7D</code></td></tr><tr><td><b>szText</b></td><td><code>We have lived peacefully in these swamps for as long as anyone can remember.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.FEC7D</code></td></tr><tr><td><b>szText</b></td><td><code>But now violence comes into its heart and it means to rob our god.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2439920724</code></td></tr></table>

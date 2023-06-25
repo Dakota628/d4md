@@ -1,14 +1,14 @@
 <h1>data/enUS_Text/meta/StringList/Conv_Lorebook_DGN_Scos_37.stl</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/enUS_Text/meta/StringList/Conv_Lorebook_DGN_Scos_37.stl</td></tr><tr><td><b>Type</b></td><td>StringListDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1209206</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>155764431</code></td></tr><tr><td><b>szLabel</b></td><td><code>DisembodiedVoice</code></td></tr><tr><td><b>szText</b></td><td><code>Soot-stained Letter</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DisembodiedVoice</code></td></tr><tr><td><b>szText</b></td><td><code>Soot-stained Letter</code></td></tr><tr><td><b>hLabel</b></td><td><code>155764431</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.B79B1</code></td></tr><tr><td><b>szText</b></td><td><code>We managed to capture one of the abominations. The ugly brute laid waste to half the garrison before we got it in the cage. The next time the Cathedral visits, we’ll have something to welcome them.</code></td></tr><tr><td><b>hLabel</b></td><td><code>721448210</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>We managed to capture one of the abominations. The ugly brute laid waste to half the garrison before we got it in the cage. The next time the Cathedral visits, we’ll have something to welcome them.</code></td></tr><tr><td><b>hLabel</b></td><td><code>721448210</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.B79B1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.B79B1</code></td></tr><tr><td><b>szText</b></td><td><pre>I locked it in the main chamber, and when they arrive, we’ll see how their holiness protects them from the darkest parts of Sanctuary. 
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><pre>I locked it in the main chamber, and when they arrive, we’ll see how their holiness protects them from the darkest parts of Sanctuary. 
 
-- Garan</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3304384148</code></td></tr></table>
+- Garan</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3304384148</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line9.B79B1</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

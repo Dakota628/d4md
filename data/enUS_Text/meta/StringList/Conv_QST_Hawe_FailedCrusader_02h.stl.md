@@ -12,10 +12,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.121C9F</code></td></tr><tr><td><b>szText</b></td><td><code>I knew she couldn't have made it, but... Seeing her, like this...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734024479</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.121C9F</code></td></tr><tr><td><b>szText</b></td><td><code>Choked up in the beginning, but steels herself at the end.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3079751916</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3079751916</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.121C9F</code></td></tr><tr><td><b>szText</b></td><td><code>Choked up in the beginning, but steels herself at the end.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>We must find the armor.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1071564513</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.121C9F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.121C9F</code></td></tr><tr><td><b>szText</b></td><td><code>We must find the armor.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1071564513</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

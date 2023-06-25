@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Shop</code></td></tr><tr><td><b>szText</b></td><td><code>Shop</code></td></tr><tr><td><b>hLabel</b></td><td><code>4249786</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>121612112</code></td></tr><tr><td><b>szLabel</b></td><td><code>Craft</code></td></tr><tr><td><b>szText</b></td><td><code>Craft</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Craft</code></td></tr><tr><td><b>szText</b></td><td><code>Craft</code></td></tr><tr><td><b>hLabel</b></td><td><code>121612112</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3517378577</code></td></tr><tr><td><b>szLabel</b></td><td><code>DefaultRank</code></td></tr><tr><td><b>szText</b></td><td><code>Default Rank Name</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DefaultRank</code></td></tr><tr><td><b>szText</b></td><td><code>Default Rank Name</code></td></tr><tr><td><b>hLabel</b></td><td><code>3517378577</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>RepairItem</code></td></tr><tr><td><b>szText</b></td><td><code>Place item to see cost</code></td></tr><tr><td><b>hLabel</b></td><td><code>1185120210</code></td></tr></table>
@@ -21,7 +21,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SelectARecipe</code></td></tr><tr><td><b>szText</b></td><td><code>Select a recipe to learn more about it.</code></td></tr><tr><td><b>hLabel</b></td><td><code>688512441</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>RequiredMaterials</code></td></tr><tr><td><b>szText</b></td><td><code>Required Materials</code></td></tr><tr><td><b>hLabel</b></td><td><code>3693316995</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3693316995</code></td></tr><tr><td><b>szLabel</b></td><td><code>RequiredMaterials</code></td></tr><tr><td><b>szText</b></td><td><code>Required Materials</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>GoldCost</code></td></tr><tr><td><b>szText</b></td><td><code>Gold Cost: </code></td></tr><tr><td><b>hLabel</b></td><td><code>1916003711</code></td></tr></table>
@@ -33,7 +33,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ShopPage</code></td></tr><tr><td><b>szText</b></td><td><code>Shop</code></td></tr><tr><td><b>hLabel</b></td><td><code>1917958775</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TalkPage</code></td></tr><tr><td><b>szText</b></td><td><code>Talking</code></td></tr><tr><td><b>hLabel</b></td><td><code>1013051817</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1013051817</code></td></tr><tr><td><b>szLabel</b></td><td><code>TalkPage</code></td></tr><tr><td><b>szText</b></td><td><code>Talking</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ItemComplete</code></td></tr><tr><td><b>szText</b></td><td><pre>Item 
@@ -49,16 +49,16 @@ Complete</pre></td></tr><tr><td><b>hLabel</b></td><td><code>2002416456</code></t
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>UnsocketSpells</code></td></tr><tr><td><b>szText</b></td><td><code>Unsocket All Your Spell Runes</code></td></tr><tr><td><b>hLabel</b></td><td><code>1804667391</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TempPage</code></td></tr><tr><td><b>szText</b></td><td><code>TODO</code></td></tr><tr><td><b>hLabel</b></td><td><code>1929021395</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>TODO</code></td></tr><tr><td><b>hLabel</b></td><td><code>1929021395</code></td></tr><tr><td><b>szLabel</b></td><td><code>TempPage</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>454426831</code></td></tr><tr><td><b>szLabel</b></td><td><code>AddSocketPage</code></td></tr><tr><td><b>szText</b></td><td><code>Socket</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AddSocketPage</code></td></tr><tr><td><b>szText</b></td><td><code>Socket</code></td></tr><tr><td><b>hLabel</b></td><td><code>454426831</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AddSocketDescript</code></td></tr><tr><td><b>szText</b></td><td><code>Sockets can be added to</code></td></tr><tr><td><b>hLabel</b></td><td><code>27578384</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Sockets can be added to</code></td></tr><tr><td><b>hLabel</b></td><td><code>27578384</code></td></tr><tr><td><b>szLabel</b></td><td><code>AddSocketDescript</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>82663680</code></td></tr><tr><td><b>szLabel</b></td><td><code>RemoveGemCost</code></td></tr><tr><td><b>szText</b></td><td><code>Remove Gems: {s1}</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>RemoveGemCost</code></td></tr><tr><td><b>szText</b></td><td><code>Remove Gems: {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>82663680</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>RemoveGemPage</code></td></tr><tr><td><b>szText</b></td><td><code>Remove Gem</code></td></tr><tr><td><b>hLabel</b></td><td><code>83115204</code></td></tr></table>
@@ -72,7 +72,7 @@ Chest Armor
 Amulets</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3502903749</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Repair</code></td></tr><tr><td><b>hLabel</b></td><td><code>1185351136</code></td></tr><tr><td><b>szLabel</b></td><td><code>RepairPage</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>RepairPage</code></td></tr><tr><td><b>szText</b></td><td><code>Repair</code></td></tr><tr><td><b>hLabel</b></td><td><code>1185351136</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>RepairEquippedCost</code></td></tr><tr><td><b>szText</b></td><td><code>Equipped: {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2613406809</code></td></tr></table>
@@ -81,7 +81,7 @@ Amulets</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3502903749</code></td
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3017421493</code></td></tr><tr><td><b>szLabel</b></td><td><code>RepairAllCost</code></td></tr><tr><td><b>szText</b></td><td><code>All Items: {s1}</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>RepairItemCost</code></td></tr><tr><td><b>szText</b></td><td><code>Repair Item: {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3915073995</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Repair Item: {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3915073995</code></td></tr><tr><td><b>szLabel</b></td><td><code>RepairItemCost</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CraftingSortLabel</code></td></tr><tr><td><b>szText</b></td><td><code>Show</code></td></tr><tr><td><b>hLabel</b></td><td><code>3470618550</code></td></tr></table>
@@ -93,35 +93,35 @@ Amulets</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3502903749</code></td
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blacksmith_Old</code></td></tr><tr><td><b>szText</b></td><td><code>Blacksmith</code></td></tr><tr><td><b>hLabel</b></td><td><code>2397102848</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Jeweler</code></td></tr><tr><td><b>szText</b></td><td><code>Jeweler</code></td></tr><tr><td><b>hLabel</b></td><td><code>3554201230</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3554201230</code></td></tr><tr><td><b>szLabel</b></td><td><code>Jeweler</code></td></tr><tr><td><b>szText</b></td><td><code>Jeweler</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>RankLabel</code></td></tr><tr><td><b>szText</b></td><td><code>Level {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2035500908</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Rewards for Training</code></td></tr><tr><td><b>hLabel</b></td><td><code>3754525507</code></td></tr><tr><td><b>szLabel</b></td><td><code>NextRankRewards</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>NextRankRewards</code></td></tr><tr><td><b>szText</b></td><td><code>Rewards for Training</code></td></tr><tr><td><b>hLabel</b></td><td><code>3754525507</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>RankDetails</code></td></tr><tr><td><b>szText</b></td><td><pre>Train the {S1} to increase experience, 
 learn new recipes and level up.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3188267026</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AddSocketCost</code></td></tr><tr><td><b>szText</b></td><td><code>Add Socket: {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>453975307</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Add Socket: {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>453975307</code></td></tr><tr><td><b>szLabel</b></td><td><code>AddSocketCost</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>RemoveGemItem</code></td></tr><tr><td><b>szText</b></td><td><code>Place item to see cost</code></td></tr><tr><td><b>hLabel</b></td><td><code>82884278</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>RemoveGem</code></td></tr><tr><td><b>szText</b></td><td><code>Remove Gem</code></td></tr><tr><td><b>hLabel</b></td><td><code>3882630279</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Remove Gem</code></td></tr><tr><td><b>hLabel</b></td><td><code>3882630279</code></td></tr><tr><td><b>szLabel</b></td><td><code>RemoveGem</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3883531909</code></td></tr><tr><td><b>szLabel</b></td><td><code>RemoveGemDescript</code></td></tr><tr><td><b>szText</b></td><td><code>Removing gems from an item returns both the item and gems to you intact.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>RemoveGemDescript</code></td></tr><tr><td><b>szText</b></td><td><code>Removing gems from an item returns both the item and gems to you intact.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3883531909</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>843960636</code></td></tr><tr><td><b>szLabel</b></td><td><code>RunesmithPage</code></td></tr><tr><td><b>szText</b></td><td><code>Runesmithing</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>RunesmithPage</code></td></tr><tr><td><b>szText</b></td><td><code>Runesmithing</code></td></tr><tr><td><b>hLabel</b></td><td><code>843960636</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CombineCost</code></td></tr><tr><td><b>szText</b></td><td><code>Combine: {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>4164214070</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4164214070</code></td></tr><tr><td><b>szLabel</b></td><td><code>CombineCost</code></td></tr><tr><td><b>szText</b></td><td><code>Combine: {s1}</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CombineRequiresGems</code></td></tr><tr><td><b>szText</b></td><td><code>{c_red}Requires 3 Gems{/c}</code></td></tr><tr><td><b>hLabel</b></td><td><code>594543865</code></td></tr></table>
@@ -136,7 +136,7 @@ learn new recipes and level up.</pre></td></tr><tr><td><b>hLabel</b></td><td><co
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>NewRecipeFolder</code></td></tr><tr><td><b>szText</b></td><td><code>{c:FFFFFFFF}NEW!{/c} {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3771972574</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SalvagePage</code></td></tr><tr><td><b>szText</b></td><td><code>Salvage</code></td></tr><tr><td><b>hLabel</b></td><td><code>2650100576</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2650100576</code></td></tr><tr><td><b>szLabel</b></td><td><code>SalvagePage</code></td></tr><tr><td><b>szText</b></td><td><code>Salvage</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>PVP</code></td></tr><tr><td><b>szText</b></td><td><code>Redeem PvP Tokens</code></td></tr><tr><td><b>hLabel</b></td><td><code>125974</code></td></tr></table>
@@ -148,7 +148,7 @@ learn new recipes and level up.</pre></td></tr><tr><td><b>hLabel</b></td><td><co
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>PVPRedeemButtonLabel</code></td></tr><tr><td><b>szText</b></td><td><code>Redeem %d PvP Tokens for items!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2874307300</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AcceptReforge</code></td></tr><tr><td><b>szText</b></td><td><code>Accept</code></td></tr><tr><td><b>hLabel</b></td><td><code>1793564794</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1793564794</code></td></tr><tr><td><b>szLabel</b></td><td><code>AcceptReforge</code></td></tr><tr><td><b>szText</b></td><td><code>Accept</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4148043312</code></td></tr><tr><td><b>szLabel</b></td><td><code>CancelReforge</code></td></tr><tr><td><b>szText</b></td><td><code>Cancel</code></td></tr></table>
@@ -157,23 +157,23 @@ learn new recipes and level up.</pre></td></tr><tr><td><b>hLabel</b></td><td><co
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyUnlockConfirmation</code></td></tr><tr><td><b>szText</b></td><td><code>Do you wish to spend {s1} to unlock this item for Transmogrification?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3500156698</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Transmogrify</code></td></tr><tr><td><b>hLabel</b></td><td><code>429564040</code></td></tr><tr><td><b>szLabel</b></td><td><code>TransmogPage</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TransmogPage</code></td></tr><tr><td><b>szText</b></td><td><code>Transmogrify</code></td></tr><tr><td><b>hLabel</b></td><td><code>429564040</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Transmogrify</code></td></tr><tr><td><b>hLabel</b></td><td><code>429644613</code></td></tr><tr><td><b>szLabel</b></td><td><code>Transmogrify</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Transmogrify</code></td></tr><tr><td><b>szText</b></td><td><code>Transmogrify</code></td></tr><tr><td><b>hLabel</b></td><td><code>429644613</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyCost</code></td></tr><tr><td><b>szText</b></td><td><code>Transmogrify: {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>4012517054</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MadeToOrderAddAffix</code></td></tr><tr><td><b>szText</b></td><td><code>Add Affix</code></td></tr><tr><td><b>hLabel</b></td><td><code>2887170957</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Add Affix</code></td></tr><tr><td><b>hLabel</b></td><td><code>2887170957</code></td></tr><tr><td><b>szLabel</b></td><td><code>MadeToOrderAddAffix</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MadeToOrderAffixToolTip</code></td></tr><tr><td><b>szText</b></td><td><pre>{c_gold}{s1}{/c}
 {c_blue}{s2}{/c}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>2676974799</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyUnlockCost</code></td></tr><tr><td><b>szText</b></td><td><code>Unlock Transmogrify: {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>967877578</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>967877578</code></td></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyUnlockCost</code></td></tr><tr><td><b>szText</b></td><td><code>Unlock Transmogrify: {s1}</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>RemoveTransmogrify</code></td></tr><tr><td><b>szText</b></td><td><code>Remove Transmogrification</code></td></tr><tr><td><b>hLabel</b></td><td><code>2921349107</code></td></tr></table>
@@ -191,7 +191,7 @@ learn new recipes and level up.</pre></td></tr><tr><td><b>hLabel</b></td><td><co
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyTooltipUnlockable</code></td></tr><tr><td><b>szText</b></td><td><code>Add this inventory item's appearance to your collection</code></td></tr><tr><td><b>hLabel</b></td><td><code>3820285552</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>You do not own this item</code></td></tr><tr><td><b>hLabel</b></td><td><code>820920500</code></td></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyTooltipUnavailable</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyTooltipUnavailable</code></td></tr><tr><td><b>szText</b></td><td><code>You do not own this item</code></td></tr><tr><td><b>hLabel</b></td><td><code>820920500</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyTooltipInapplicable</code></td></tr><tr><td><b>szText</b></td><td><code>This cannot be applied to the current item</code></td></tr><tr><td><b>hLabel</b></td><td><code>5341588</code></td></tr></table>
@@ -212,13 +212,13 @@ learn new recipes and level up.</pre></td></tr><tr><td><b>hLabel</b></td><td><co
 {c_gold}Base Cost:{c_gold} {s3}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4017841480</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Preview</code></td></tr><tr><td><b>hLabel</b></td><td><code>2598548359</code></td></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyPreview</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyPreview</code></td></tr><tr><td><b>szText</b></td><td><code>Preview</code></td></tr><tr><td><b>hLabel</b></td><td><code>2598548359</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyComplete</code></td></tr><tr><td><b>szText</b></td><td><code>COMPLETE!</code></td></tr><tr><td><b>hLabel</b></td><td><code>590411230</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3822813668</code></td></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyNewLook</code></td></tr><tr><td><b>szText</b></td><td><code>New Look</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyNewLook</code></td></tr><tr><td><b>szText</b></td><td><code>New Look</code></td></tr><tr><td><b>hLabel</b></td><td><code>3822813668</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4231590786</code></td></tr><tr><td><b>szLabel</b></td><td><code>Blacksmith</code></td></tr><tr><td><b>szText</b></td><td><code>Blacksmith</code></td></tr></table>
@@ -227,7 +227,7 @@ learn new recipes and level up.</pre></td></tr><tr><td><b>hLabel</b></td><td><co
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>RemoveEnchantmentWarning</code></td></tr><tr><td><b>szText</b></td><td><code>This will restore the item to its original state.  Are you sure?</code></td></tr><tr><td><b>hLabel</b></td><td><code>4203272345</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>The Mystic can make one item look like another item. This process is called transmogrification.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3571124625</code></td></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyIntro</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyIntro</code></td></tr><tr><td><b>szText</b></td><td><code>The Mystic can make one item look like another item. This process is called transmogrification.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3571124625</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ValidItemAffixesTitle</code></td></tr><tr><td><b>szText</b></td><td><code>Possible Properties</code></td></tr><tr><td><b>hLabel</b></td><td><code>3318478055</code></td></tr></table>
@@ -246,7 +246,7 @@ learn new recipes and level up.</pre></td></tr><tr><td><b>hLabel</b></td><td><co
 {s1}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>1071872646</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>{s1}: {s2}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2529525221</code></td></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyLookTooltip</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyLookTooltip</code></td></tr><tr><td><b>szText</b></td><td><code>{s1}: {s2}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2529525221</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SelectTransmogLook</code></td></tr><tr><td><b>szText</b></td><td><code>Select a New Look</code></td></tr><tr><td><b>hLabel</b></td><td><code>1879116448</code></td></tr></table>
@@ -255,7 +255,7 @@ learn new recipes and level up.</pre></td></tr><tr><td><b>hLabel</b></td><td><co
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>HighestUsable</code></td></tr><tr><td><b>szText</b></td><td><code>Highest Usable</code></td></tr><tr><td><b>hLabel</b></td><td><code>2958507304</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1435800986</code></td></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyTooltipOriginalLook</code></td></tr><tr><td><b>szText</b></td><td><code>{c:FF696969}Original{/c}</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyTooltipOriginalLook</code></td></tr><tr><td><b>szText</b></td><td><code>{c:FF696969}Original{/c}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1435800986</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>SlotMachinePage</code></td></tr><tr><td><b>szText</b></td><td><code>Shard of Hatred</code></td></tr><tr><td><b>hLabel</b></td><td><code>3802105204</code></td></tr></table>
@@ -264,16 +264,16 @@ learn new recipes and level up.</pre></td></tr><tr><td><b>hLabel</b></td><td><co
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TransmogrifyCurrentLook</code></td></tr><tr><td><b>szText</b></td><td><code>Current Look</code></td></tr><tr><td><b>hLabel</b></td><td><code>1298159773</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>UpgradeJewel</code></td></tr><tr><td><b>szText</b></td><td><code>Upgrade Jewel</code></td></tr><tr><td><b>hLabel</b></td><td><code>3245714431</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3245714431</code></td></tr><tr><td><b>szLabel</b></td><td><code>UpgradeJewel</code></td></tr><tr><td><b>szText</b></td><td><code>Upgrade Jewel</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>JewelUpgrade</code></td></tr><tr><td><b>szText</b></td><td><code>Jewel Upgrade</code></td></tr><tr><td><b>hLabel</b></td><td><code>2672270111</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2672270111</code></td></tr><tr><td><b>szLabel</b></td><td><code>JewelUpgrade</code></td></tr><tr><td><b>szText</b></td><td><code>Jewel Upgrade</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VENDOR_TYPE_WEAPON</code></td></tr><tr><td><b>szText</b></td><td><code>Weapons</code></td></tr><tr><td><b>hLabel</b></td><td><code>429541240</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VENDOR_TYPE_ARMOR</code></td></tr><tr><td><b>szText</b></td><td><code>Armor Vendor</code></td></tr><tr><td><b>hLabel</b></td><td><code>117556879</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>117556879</code></td></tr><tr><td><b>szLabel</b></td><td><code>VENDOR_TYPE_ARMOR</code></td></tr><tr><td><b>szText</b></td><td><code>Armor Vendor</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VENDOR_TYPE_SILVERSMITH</code></td></tr><tr><td><b>szText</b></td><td><code>Rings & Amulets</code></td></tr><tr><td><b>hLabel</b></td><td><code>1972490888</code></td></tr></table>
@@ -282,10 +282,10 @@ learn new recipes and level up.</pre></td></tr><tr><td><b>hLabel</b></td><td><co
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VENDOR_TYPE_SCRIBE</code></td></tr><tr><td><b>szText</b></td><td><code>Scrolls</code></td></tr><tr><td><b>hLabel</b></td><td><code>271230694</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>205345160</code></td></tr><tr><td><b>szLabel</b></td><td><code>VENDOR_TYPE_ALCHEMIST</code></td></tr><tr><td><b>szText</b></td><td><code>Potions, Bubbles, & Brew</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VENDOR_TYPE_ALCHEMIST</code></td></tr><tr><td><b>szText</b></td><td><code>Potions, Bubbles, & Brew</code></td></tr><tr><td><b>hLabel</b></td><td><code>205345160</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VENDOR_TYPE_LEGENDARY</code></td></tr><tr><td><b>szText</b></td><td><code>Legendary Vendor</code></td></tr><tr><td><b>hLabel</b></td><td><code>3310395017</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Legendary Vendor</code></td></tr><tr><td><b>hLabel</b></td><td><code>3310395017</code></td></tr><tr><td><b>szLabel</b></td><td><code>VENDOR_TYPE_LEGENDARY</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>205695247</code></td></tr><tr><td><b>szLabel</b></td><td><code>VENDOR_TYPE_GAMBLING</code></td></tr><tr><td><b>szText</b></td><td><code>Purveyor of Curiosities</code></td></tr></table>
@@ -309,7 +309,7 @@ learn new recipes and level up.</pre></td></tr><tr><td><b>hLabel</b></td><td><co
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VENDOR_TYPE_PVP_SCROLL</code></td></tr><tr><td><b>szText</b></td><td><code>Cursed Scroll</code></td></tr><tr><td><b>hLabel</b></td><td><code>3353754546</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3698350803</code></td></tr><tr><td><b>szLabel</b></td><td><code>MysteryItemReceived</code></td></tr><tr><td><b>szText</b></td><td><code>You received a {s1}</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MysteryItemReceived</code></td></tr><tr><td><b>szText</b></td><td><code>You received a {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3698350803</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Healer</code></td></tr><tr><td><b>hLabel</b></td><td><code>4193465841</code></td></tr><tr><td><b>szLabel</b></td><td><code>Healer</code></td></tr></table>

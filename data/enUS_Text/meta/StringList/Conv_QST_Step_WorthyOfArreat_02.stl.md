@@ -6,13 +6,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.137EC4</code></td></tr><tr><td><b>szText</b></td><td><code>I am sorry, but I cannot accept--</code></td></tr><tr><td><b>hLabel</b></td><td><code>2397889502</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.137EC4</code></td></tr><tr><td><b>szText</b></td><td><code>Firm. Flat refusal, interrupted by seeing the gift.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3743616939</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3743616939</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.137EC4</code></td></tr><tr><td><b>szText</b></td><td><code>Firm. Flat refusal, interrupted by seeing the gift.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.137EC4</code></td></tr><tr><td><b>szText</b></td><td><code>This is Arreat steel...smithed in the forges of Harrogath before the mountain fell...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1735429536</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>This is Arreat steel...smithed in the forges of Harrogath before the mountain fell...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1735429536</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.137EC4</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Eyes widen, surprised to see the steel. Reverent.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3081156973</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.137EC4</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.137EC4</code></td></tr><tr><td><b>szText</b></td><td><code>Eyes widen, surprised to see the steel. Reverent.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3081156973</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.137EC4</code></td></tr><tr><td><b>szText</b></td><td><code>No gift can restore what Crane destroyed, but I must know where Ealda found this. Perhaps...I will ask her.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1072969570</code></td></tr></table>

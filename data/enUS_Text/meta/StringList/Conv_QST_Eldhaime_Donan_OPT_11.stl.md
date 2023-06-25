@@ -12,10 +12,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Yorin led me to the cairns. It seems Lilith is causing the unrest, but I have yet to find her or Airidah.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3718003623</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>672184560</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>I told him to stay with the other Knights Penitent…</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>I told him to stay with the other Knights Penitent…</code></td></tr><tr><td><b>hLabel</b></td><td><code>672184560</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Annoyed about Yorin going off on a dangerous adventure--spoken almost to himself</code></td></tr><tr><td><b>hLabel</b></td><td><code>2535071517</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Annoyed about Yorin going off on a dangerous adventure--spoken almost to himself</code></td></tr><tr><td><b>hLabel</b></td><td><code>2535071517</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.7FA05</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Continue your search for Lilith and Airidah. Inform me of anything you learn. And, please...keep Yorin safe.</code></td></tr><tr><td><b>hLabel</b></td><td><code>154315261</code></td></tr></table>

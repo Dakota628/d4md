@@ -5,7 +5,7 @@
 <code>0</code>
 <code>0</code>
 <code>0</code>
-</td></tr><tr><td><b>arAffixes</b></td><td><a href="..\ParagonGlyphAffix\VulnerableDamage_Strength_Magic_Side.gaf">[DT_SNO] ParagonGlyphAffix: "VulnerableDamage_Strength_Magic_Side"</a>
+</td></tr><tr><td><b>arAffixes</b></td><td><a href="..\ParagonGlyphAffix\VulnerableDamage_Strength_Magic_Side.gaf.md">[DT_SNO] ParagonGlyphAffix: "VulnerableDamage_Strength_Magic_Side"</a>
 </td></tr><tr><td><b>hIcon</b></td><td><code>1832772619</code></td></tr><tr><td><b>nStartingSize</b></td><td><code>2</code></td></tr><tr><td><b>unk_5bc7861</b></td><td><code>4</code>
 </td></tr><tr><td><b>nMaxLevel</b></td><td><code>11</code></td></tr><tr><td><b>eRarity</b></td><td><code>0</code></td></tr></table>
 

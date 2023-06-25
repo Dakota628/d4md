@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback253Header</code></td></tr><tr><td><b>szText</b></td><td><code>Dismantle the Tortured Effigies: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2000254768</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback239Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat the Helltide Commander</code></td></tr><tr><td><b>hLabel</b></td><td><code>1821587956</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1821587956</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback239Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat the Helltide Commander</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

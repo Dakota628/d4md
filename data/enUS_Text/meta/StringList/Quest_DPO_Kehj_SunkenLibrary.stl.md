@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback10Header</code></td></tr><tr><td><b>szText</b></td><td><code>Travel to {LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>950701463</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback13Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay all enemies in the Forbidden Archive {KAM_REVEALED_COUNT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>530138074</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>530138074</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback13Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay all enemies in the Forbidden Archive {KAM_REVEALED_COUNT}</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback24Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the Head Librarian and collect the {ITEM}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1490376060</code></td></tr></table>
@@ -21,7 +21,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback34Header</code></td></tr><tr><td><b>szText</b></td><td><code>Travel to the {LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1159146077</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback53Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the Herald of the Dead</code></td></tr><tr><td><b>hLabel</b></td><td><code>3500185438</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3500185438</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback53Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the Herald of the Dead</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

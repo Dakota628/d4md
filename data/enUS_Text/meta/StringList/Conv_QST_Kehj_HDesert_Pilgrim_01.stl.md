@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.EDC70</code></td></tr><tr><td><b>szText</b></td><td><code>Lo, my candle joins the s-sun, and...and I shall feel no pain...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567794234</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Praying to self while dying. Weak, in pain, frightened.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430681191</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.EDC70</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.EDC70</code></td></tr><tr><td><b>szText</b></td><td><code>Praying to self while dying. Weak, in pain, frightened.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430681191</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

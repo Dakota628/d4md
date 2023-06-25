@@ -1,6 +1,6 @@
 <h1>data/enUS_Text/meta/StringList/Power_Rogue_ShadowClone.stl</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/enUS_Text/meta/StringList/Power_Rogue_ShadowClone.stl</td></tr><tr><td><b>Type</b></td><td>StringListDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1118414</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>name</code></td></tr><tr><td><b>szText</b></td><td><code>Shadow Clone</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>name</code></td></tr><tr><td><b>szText</b></td><td><code>Shadow Clone</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr><tr><td><b>szText</b></td><td><pre>{c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
@@ -19,5 +19,5 @@ Your shadow mimicks your actions for {c_number}{buffduration:CLONE_MIMIC}{/c} se
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod1_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Supreme Shadow Clone</code></td></tr><tr><td><b>hLabel</b></td><td><code>2492006865</code></td></tr></table>
 
 
-</td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>
+</td></tr></table>
 

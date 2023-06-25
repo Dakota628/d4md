@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.F2027</code></td></tr><tr><td><b>szText</b></td><td><code>I'm old enough to remember when there were druids here before. Then Astaroth came, and the druids abandoned us.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567127608</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4150063546</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.F2027</code></td></tr><tr><td><b>szText</b></td><td><code>Eh, we've had to manage without them for this long. Not saying druids are bad or anything, but I don't think we need some young whelp telling us how to run things.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Eh, we've had to manage without them for this long. Not saying druids are bad or anything, but I don't think we need some young whelp telling us how to run things.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150063546</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.F2027</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.F2027</code></td></tr><tr><td><b>szText</b></td><td><code>dismissive</code></td></tr><tr><td><b>hLabel</b></td><td><code>1717983207</code></td></tr></table>

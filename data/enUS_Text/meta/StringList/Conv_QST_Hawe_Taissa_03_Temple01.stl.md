@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"This is where we found you."</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>Yes. I thought I’d been saved, but then...I heard her laughing. Not outside of me...from within me...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094552313</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4094552313</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>Yes. I thought I’d been saved, but then...I heard her laughing. Not outside of me...from within me...</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.8DD12</code></td></tr><tr><td><b>szText</b></td><td><code>Your fate was sealed from the first sigil I inked into your flesh.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2385333262</code></td></tr></table>

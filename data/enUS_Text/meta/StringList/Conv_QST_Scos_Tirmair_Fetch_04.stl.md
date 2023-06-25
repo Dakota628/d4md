@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.EECCF</code></td></tr><tr><td><b>szText</b></td><td><code>Bless ye and all yer descendants! Perhaps there’s hope after all. Maybe we’ll try plantin’ the fields again.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567831677</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3430718634</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.EECCF</code></td></tr><tr><td><b>szText</b></td><td><code>Thick Scos accent, Hopeful</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.EECCF</code></td></tr><tr><td><b>szText</b></td><td><code>Thick Scos accent, Hopeful</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430718634</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

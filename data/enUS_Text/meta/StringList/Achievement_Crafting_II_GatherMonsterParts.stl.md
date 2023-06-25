@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Dreadful Ingredients</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr><tr><td><b>szLabel</b></td><td><code>Desc</code></td></tr><tr><td><b>szText</b></td><td><code>Gather 100 of each Monster Part.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Desc</code></td></tr><tr><td><b>szText</b></td><td><code>Gather 100 of each Monster Part.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_234947</code></td></tr><tr><td><b>szText</b></td><td><code>Demon's Heart</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034183182</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1034183182</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_234947</code></td></tr><tr><td><b>szText</b></td><td><code>Demon's Heart</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_234948</code></td></tr><tr><td><b>szText</b></td><td><code>Paletongue</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034183183</code></td></tr></table>

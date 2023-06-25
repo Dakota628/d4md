@@ -1,11 +1,11 @@
 <h1>data/base/meta/GameBalance/QuestTags.gam</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/GameBalance/QuestTags.gam</td></tr><tr><td><b>Type</b></td><td>GameBalanceDefinition</td></tr><tr><td><b>SNO ID</b></td><td>281895</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>eGameBalanceType</b></td><td><code>27</code></td></tr><tr><td><b>bIgnoreOnLoad</b></td><td><code>0</code></td></tr><tr><td><b>ptData</b></td><td><table><tr><th colspan="100%">QuestTagsEntry_Table</th></tr><tr><td><b>dwType</b></td><td><code>3229621050</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tEntries</b></td><td><table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>TEST</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4282592</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>eGameBalanceType</b></td><td><code>27</code></td></tr><tr><td><b>bIgnoreOnLoad</b></td><td><code>0</code></td></tr><tr><td><b>ptData</b></td><td><table><tr><th colspan="100%">QuestTagsEntry_Table</th></tr><tr><td><b>tEntries</b></td><td><table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>TEST</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4282592</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>616859883</code></td></tr><tr><td><b>szName</b></td><td><code>jroberts</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>jroberts</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>616859883</code></td></tr></table>
 
 </td></tr></table>
 
@@ -15,7 +15,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>hpink</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>127478810</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>127478810</code></td></tr><tr><td><b>szName</b></td><td><code>hpink</code></td></tr></table>
 
 </td></tr></table>
 
@@ -25,7 +25,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1086650166</code></td></tr><tr><td><b>szName</b></td><td><code>bcollins</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>bcollins</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1086650166</code></td></tr></table>
 
 </td></tr></table>
 
@@ -45,17 +45,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4250501</code></td></tr><tr><td><b>szName</b></td><td><code>side</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>side</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4250501</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>219897293</code></td></tr><tr><td><b>szName</b></td><td><code>player</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>player</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>219897293</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4198308620</code></td></tr><tr><td><b>szName</b></td><td><code>hidden</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>hidden</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4198308620</code></td></tr></table>
 
 </td></tr></table>
 
@@ -80,12 +80,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>119029537</code></td></tr><tr><td><b>szName</b></td><td><code>alevy</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>alevy</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>119029537</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>49917285</code></td></tr><tr><td><b>szName</b></td><td><code>pvp_dungeon</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>pvp_dungeon</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>49917285</code></td></tr></table>
 
 </td></tr></table>
 
@@ -95,17 +95,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>prologue</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2936653901</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2936653901</code></td></tr><tr><td><b>szName</b></td><td><code>prologue</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>campaign_dungeon</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1318757775</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1318757775</code></td></tr><tr><td><b>szName</b></td><td><code>campaign_dungeon</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3580591798</code></td></tr><tr><td><b>szName</b></td><td><code>campaign_boss</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>campaign_boss</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3580591798</code></td></tr></table>
 
 </td></tr></table>
 
@@ -115,7 +115,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3207313003</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_obj_KAM</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_obj_KAM</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3207313003</code></td></tr></table>
 
 </td></tr></table>
 
@@ -155,12 +155,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3282069436</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_obj_Payload</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_obj_Payload</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3282069436</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1692347447</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_obj_WaveFight</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_obj_WaveFight</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1692347447</code></td></tr></table>
 
 </td></tr></table>
 
@@ -175,7 +175,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>814738834</code></td></tr><tr><td><b>szName</b></td><td><code>hawezar</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>hawezar</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>814738834</code></td></tr></table>
 
 </td></tr></table>
 
@@ -200,12 +200,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2460486215</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Protect</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Protect</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2460486215</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Raze</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2230608152</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2230608152</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Raze</code></td></tr></table>
 
 </td></tr></table>
 
@@ -220,7 +220,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1896145072</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Charge</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Charge</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1896145072</code></td></tr></table>
 
 </td></tr></table>
 
@@ -235,22 +235,22 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Arena</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>576052781</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>576052781</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Arena</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>199304801</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_evt_FreePlacement</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_evt_FreePlacement</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>199304801</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_evt_KAM</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3972102271</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3972102271</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_evt_KAM</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Bandit</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1849160248</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1849160248</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Bandit</code></td></tr></table>
 
 </td></tr></table>
 
@@ -260,7 +260,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Cultist</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2965125102</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2965125102</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Cultist</code></td></tr></table>
 
 </td></tr></table>
 
@@ -285,12 +285,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>582820011</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Ghost</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Ghost</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>582820011</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Goatman</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3588175949</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3588175949</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Goatman</code></td></tr></table>
 
 </td></tr></table>
 
@@ -300,17 +300,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2279401477</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Maggot</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Maggot</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2279401477</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2041779787</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Skeleton</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Skeleton</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2041779787</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>597251160</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Snake</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_evt_Snake</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>597251160</code></td></tr></table>
 
 </td></tr></table>
 
@@ -330,12 +330,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2693384882</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_evt_WildFrac</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_evt_WildFrac</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2693384882</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_evt_WildHawe</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2693438971</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2693438971</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_evt_WildHawe</code></td></tr></table>
 
 </td></tr></table>
 
@@ -345,12 +345,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2693836206</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_evt_WildScos</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_evt_WildScos</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2693836206</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_evt_WildStep</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2693854386</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2693854386</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_evt_WildStep</code></td></tr></table>
 
 </td></tr></table>
 
@@ -360,7 +360,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1928878076</code></td></tr><tr><td><b>szName</b></td><td><code>template</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>template</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1928878076</code></td></tr></table>
 
 </td></tr></table>
 
@@ -380,7 +380,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2273312973</code></td></tr><tr><td><b>szName</b></td><td><code>pdunstan</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>pdunstan</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2273312973</code></td></tr></table>
 
 </td></tr></table>
 
@@ -405,12 +405,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>133364991</code></td></tr><tr><td><b>szName</b></td><td><code>MoBro</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>MoBro</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>133364991</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>zharoutunian</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2668772744</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2668772744</code></td></tr><tr><td><b>szName</b></td><td><code>zharoutunian</code></td></tr></table>
 
 </td></tr></table>
 
@@ -440,22 +440,22 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>mjparker</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2214736604</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2214736604</code></td></tr><tr><td><b>szName</b></td><td><code>mjparker</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3762435418</code></td></tr><tr><td><b>szName</b></td><td><code>epilogue</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>epilogue</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3762435418</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>sroberts</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1930757332</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1930757332</code></td></tr><tr><td><b>szName</b></td><td><code>sroberts</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>bdawn</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>119923628</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>119923628</code></td></tr><tr><td><b>szName</b></td><td><code>bdawn</code></td></tr></table>
 
 </td></tr></table>
 
@@ -490,22 +490,22 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3799037608</code></td></tr><tr><td><b>szName</b></td><td><code>ClassQuest</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>ClassQuest</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3799037608</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3303504872</code></td></tr><tr><td><b>szName</b></td><td><code>mjamesk</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>mjamesk</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3303504872</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1900090057</code></td></tr><tr><td><b>szName</b></td><td><code>agentile</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>agentile</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1900090057</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3129436763</code></td></tr><tr><td><b>szName</b></td><td><code>mestone</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>mestone</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3129436763</code></td></tr></table>
 
 </td></tr></table>
 
@@ -515,7 +515,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>231198921</code></td></tr><tr><td><b>szName</b></td><td><code>pushed</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>pushed</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>231198921</code></td></tr></table>
 
 </td></tr></table>
 
@@ -560,7 +560,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>cfiner</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3999264471</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3999264471</code></td></tr><tr><td><b>szName</b></td><td><code>cfiner</code></td></tr></table>
 
 </td></tr></table>
 
@@ -600,23 +600,23 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3578734908</code></td></tr><tr><td><b>szName</b></td><td><code>BossReward</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>BossReward</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3578734908</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>bschneider</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2332474935</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2332474935</code></td></tr><tr><td><b>szName</b></td><td><code>bschneider</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>dgn_nightmare_Season00</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1510550687</code></td></tr></table>
+<table><tr><th colspan="100%">QuestTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1510550687</code></td></tr><tr><td><b>szName</b></td><td><code>dgn_nightmare_Season00</code></td></tr></table>
 
 </td></tr></table>
 
 
+</td></tr><tr><td><b>dwType</b></td><td><code>3229621050</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+
+
 </td></tr></table>
-
-
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr></table>
 

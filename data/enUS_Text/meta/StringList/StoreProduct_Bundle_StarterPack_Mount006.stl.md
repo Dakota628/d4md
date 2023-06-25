@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Description</code></td></tr><tr><td><b>szText</b></td><td><code>Once used to ferry bodies to their rest, this mottled colt carries with it the trinkets of heroes long dead and buried.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2789670820</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Series</code></td></tr><tr><td><b>szText</b></td><td><code>Crypt Hunter</code></td></tr><tr><td><b>hLabel</b></td><td><code>329595531</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>329595531</code></td></tr><tr><td><b>szLabel</b></td><td><code>Series</code></td></tr><tr><td><b>szText</b></td><td><code>Crypt Hunter</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

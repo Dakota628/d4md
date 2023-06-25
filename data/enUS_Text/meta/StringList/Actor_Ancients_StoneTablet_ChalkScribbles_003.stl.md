@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlavorText</code></td></tr><tr><td><b>szText</b></td><td><code>Chalk scribbling on stone slab</code></td></tr><tr><td><b>hLabel</b></td><td><code>3426486927</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>NoticeSignText</code></td></tr><tr><td><b>szText</b></td><td><code>How sweet this taste! Lilith asked me to aid in a ritual: sacrifice a priest from the escort. He had no fight. He just prayed as we made his blood useful. Forgive my hand, I'm still shaking. Power dances along my bones. I walk the path of our maker now.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4073325784</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4073325784</code></td></tr><tr><td><b>szLabel</b></td><td><code>NoticeSignText</code></td></tr><tr><td><b>szText</b></td><td><code>How sweet this taste! Lilith asked me to aid in a ritual: sacrifice a priest from the escort. He had no fight. He just prayed as we made his blood useful. Forgive my hand, I'm still shaking. Power dances along my bones. I walk the path of our maker now.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

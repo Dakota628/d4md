@@ -6,16 +6,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MountItemSlotHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Item slots</code></td></tr><tr><td><b>hLabel</b></td><td><code>2137284397</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ItemBonusValue</code></td></tr><tr><td><b>szText</b></td><td><code>{s1}%</code></td></tr><tr><td><b>hLabel</b></td><td><code>844912595</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>844912595</code></td></tr><tr><td><b>szLabel</b></td><td><code>ItemBonusValue</code></td></tr><tr><td><b>szText</b></td><td><code>{s1}%</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>371964681</code></td></tr><tr><td><b>szLabel</b></td><td><code>MountArmour</code></td></tr><tr><td><b>szText</b></td><td><code>Armor</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Speed</code></td></tr><tr><td><b>hLabel</b></td><td><code>1594343588</code></td></tr><tr><td><b>szLabel</b></td><td><code>MountSpeed</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MountSpeed</code></td></tr><tr><td><b>szText</b></td><td><code>Speed</code></td></tr><tr><td><b>hLabel</b></td><td><code>1594343588</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>384047814</code></td></tr><tr><td><b>szLabel</b></td><td><code>Trophy</code></td></tr><tr><td><b>szText</b></td><td><code>Trophy</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Trophy</code></td></tr><tr><td><b>szText</b></td><td><code>Trophy</code></td></tr><tr><td><b>hLabel</b></td><td><code>384047814</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TrophyName</code></td></tr><tr><td><b>szText</b></td><td><code>{s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3449686663</code></td></tr></table>
@@ -30,7 +30,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VisitStableMaster</code></td></tr><tr><td><b>szText</b></td><td><code>Visit the {icon:Marker_Vendor_Stable, 3} Stablemaster to purchase one</code></td></tr><tr><td><b>hLabel</b></td><td><code>3935350742</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>x {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1624270303</code></td></tr><tr><td><b>szLabel</b></td><td><code>MountItemValue</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MountItemValue</code></td></tr><tr><td><b>szText</b></td><td><code>x {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1624270303</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>NoTrophy</code></td></tr><tr><td><b>szText</b></td><td><code>No Trophy</code></td></tr><tr><td><b>hLabel</b></td><td><code>4222479139</code></td></tr></table>

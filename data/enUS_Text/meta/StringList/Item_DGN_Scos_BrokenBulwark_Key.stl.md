@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Description</code></td></tr><tr><td><b>szText</b></td><td><code>Bound to Broken Bulwark</code></td></tr><tr><td><b>hLabel</b></td><td><code>2789670820</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Flavor</code></td></tr><tr><td><b>szText</b></td><td><code>Key to the inner areas of the bulwark. It's passed between lieutenants at specific times of day to make it difficult for enemies to find it.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4123507722</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4123507722</code></td></tr><tr><td><b>szLabel</b></td><td><code>Flavor</code></td></tr><tr><td><b>szText</b></td><td><code>Key to the inner areas of the bulwark. It's passed between lieutenants at specific times of day to make it difficult for enemies to find it.</code></td></tr></table>
 
 
 </td></tr></table>

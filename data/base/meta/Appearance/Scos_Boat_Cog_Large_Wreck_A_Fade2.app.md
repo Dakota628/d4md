@@ -1,699 +1,691 @@
 <h1>data/base/meta/Appearance/Scos_Boat_Cog_Large_Wreck_A_Fade2.app</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/Appearance/Scos_Boat_Cog_Large_Wreck_A_Fade2.app</td></tr><tr><td><b>Type</b></td><td>AppearanceDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1093463</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arLookVariantMap</b></td><td></td></tr><tr><td><b>unk_4f51617</b></td><td></td></tr><tr><td><b>unk_6c10d1</b></td><td></td></tr><tr><td><b>tStructure</b></td><td><table><tr><th colspan="100%">Structure</th></tr><tr><td><b>dwFlags</b></td><td><code>2049</code></td></tr><tr><td><b>wsBounds</b></td><td><table><tr><th colspan="100%">Sphere</th></tr><tr><td><b>wdRadius</b></td><td><code>19.42999839782715</code></td></tr><tr><td><b>wpCenter</b></td><td>Vector(-18.469723, 1.021953, 5.869283)</td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arLookVariantMap</b></td><td></td></tr><tr><td><b>dwLookVariant</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_6c10d1</b></td><td></td></tr><tr><td><b>tStructure</b></td><td><table><tr><th colspan="100%">Structure</th></tr><tr><td><b>ptChunks</b></td><td><table><tr><th colspan="100%">GeoChunk</th></tr><tr><td><b>unk_8c8b576</b></td><td></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-16.636974, 1.001965, 8.118342)</td></tr><tr><td><b>wvExt</b></td><td>Vector(16.660069, 10.486956, 8.141437)</td></tr></table>
 
-</td></tr><tr><td><b>ptCollisionMeshes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionMesh</th></tr><tr><td><b>dataOffset</b></td><td><code>32</code></td></tr><tr><td><b>dataSize</b></td><td><code>128</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>ptChunks</b></td><td><table><tr><th colspan="100%">GeoChunk</th></tr><tr><td><b>unk_d9fe6f6</b></td><td><table><tr><th colspan="100%">GeoSet</th></tr><tr><td><b>ptSubObjects</b></td><td><table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>834717412</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_d9fe6f6</b></td><td><table><tr><th colspan="100%">GeoSet</th></tr><tr><td><b>ptSubObjects</b></td><td><table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-16.601152, 0.988158, 8.094808)</td></tr><tr><td><b>wvExt</b></td><td>Vector(16.624247, 10.418636, 8.117902)</td></tr></table>
-
-</td></tr><tr><td><b>unk_a758781</b></td><td><code>-1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>-1</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>834717412</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>-1</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>0</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>-1</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>0</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>-1</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-16.601152, 0.988158, 8.094808)</td></tr><tr><td><b>wvExt</b></td><td>Vector(16.624247, 10.418636, 8.117902)</td></tr></table>
 
-</td></tr><tr><td><b>unk_79283f</b></td><td><code>0</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nIndexOffset</b></td><td><code>0</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>2567</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>0</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>16305</code></td></tr></table>
+</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>2147418112</code></td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_79283f</b></td><td><code>0</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>-1</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>2567</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>0</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>16305</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>0</code></td></tr></table>
 
 
-</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>2147418112</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_334eb2d</b></td><td><code>2147418112</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>-1</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>-1</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3509083153</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>0</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>-1</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_79283f</b></td><td><code>5455</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-24.370966, -0.062679, 6.069592)</td></tr><tr><td><b>wvExt</b></td><td>Vector(8.673334, 8.886951, 2.622471)</td></tr></table>
+
+</td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nVertOffset</b></td><td><code>92412</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>11013</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>16305</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>5455</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>nMaterialIndex</b></td><td><code>2</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>-1</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>2147418112</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>8378</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>1064363244</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>-1</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>8378</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>288792</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>24252</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>27318</code></td></tr></table>
+
+
+</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wvExt</b></td><td>Vector(6.814741, 10.486956, 6.092821)</td></tr><tr><td><b>wp</b></td><td>Vector(-26.482304, 1.001965, 10.166958)</td></tr></table>
 
 </td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
+</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>0</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>0</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>-1</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wvExt</b></td><td>Vector(5.528387, 0.516589, 0.601878)</td></tr><tr><td><b>wp</b></td><td>Vector(-27.006084, 7.746599, 5.303662)</td></tr></table>
+
+</td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nVertCount</b></td><td><code>1216</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>590400</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>3864</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>51570</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_45c6981</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>2147418112</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>4198770230</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>1216</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>-1</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>-1</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>3</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
+
+</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nVertCount</b></td><td><code>5455</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>92412</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>11013</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>16305</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>2147418112</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
 
-</td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-24.370966, -0.062679, 6.069592)</td></tr><tr><td><b>wvExt</b></td><td>Vector(8.673334, 8.886951, 2.622471)</td></tr></table>
+</td></tr><tr><td><b>unk_a758781</b></td><td><code>-1</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
+
+</td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3105405244</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>7563</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>4</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-27.709019, 1.726394, 7.777181)</td></tr><tr><td><b>wvExt</b></td><td>Vector(5.085672, 8.426531, 3.234818)</td></tr></table>
 
 </td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3509083153</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>5455</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>0</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>-1</code></td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>7563</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>634176</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>35628</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>55434</code></td></tr></table>
 
-</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>-1</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>2147418112</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_a758781</b></td><td><code>-1</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
-
-</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>-1</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>8378</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>288792</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>24252</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>27318</code></td></tr></table>
-
-
-</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>2147418112</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>1064363244</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>8378</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-26.482304, 1.001965, 10.166958)</td></tr><tr><td><b>wvExt</b></td><td>Vector(6.814741, 10.486956, 6.092821)</td></tr></table>
-
-</td></tr><tr><td><b>unk_a758781</b></td><td><code>-1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>-1</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>2</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_45c6981</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>4198770230</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>1216</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>-1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>-1</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>2147418112</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-27.006084, 7.746599, 5.303662)</td></tr><tr><td><b>wvExt</b></td><td>Vector(5.528387, 0.516589, 0.601878)</td></tr></table>
-
-</td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>0</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nVertOffset</b></td><td><code>590400</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>3864</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>51570</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>1216</code></td></tr></table>
-
-
-</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>-1</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>3</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>4</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3105405244</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>0</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>-1</code></td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>2147418112</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>7563</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
-
-</td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nIndexOffset</b></td><td><code>55434</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>7563</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>634176</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>35628</code></td></tr></table>
-
-
-</td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-27.709019, 1.726394, 7.777181)</td></tr><tr><td><b>wvExt</b></td><td>Vector(5.085672, 8.426531, 3.234818)</td></tr></table>
-
-</td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>0</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>-1</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>-1</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>-1</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>-1</code></td></tr></table>
 
 
 </td></tr><tr><td><b>unk_9d1d596</b></td><td></td></tr><tr><td><b>unk_79283f</b></td><td><code>22612</code></td></tr><tr><td><b>unk_af1153d</b></td><td><code>0</code></td></tr><tr><td><b>unk_72aae9c</b></td><td><code>71.57798767089844</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">GeoSet</th></tr><tr><td><b>unk_9d1d596</b></td><td></td></tr><tr><td><b>unk_79283f</b></td><td><code>13450</code></td></tr><tr><td><b>unk_af1153d</b></td><td><code>22612</code></td></tr><tr><td><b>unk_72aae9c</b></td><td><code>113.09346008300781</code></td></tr><tr><td><b>ptSubObjects</b></td><td><table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">GeoSet</th></tr><tr><td><b>unk_72aae9c</b></td><td><code>113.09346008300781</code></td></tr><tr><td><b>ptSubObjects</b></td><td><table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>0</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-16.601152, 0.988158, 8.094808)</td></tr><tr><td><b>wvExt</b></td><td>Vector(16.624247, 10.418636, 8.117902)</td></tr></table>
 
-</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>0</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-16.601152, 0.988158, 8.094808)</td></tr><tr><td><b>wvExt</b></td><td>Vector(16.624247, 10.418636, 8.117902)</td></tr></table>
+</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>2192</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>0</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>13200</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nVertOffset</b></td><td><code>0</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>13200</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>0</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>2192</code></td></tr></table>
+</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>834717412</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>0</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
 
 
-</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>1</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3509083153</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>4268</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
+
+</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
 
-</td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>834717412</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>0</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
-
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_a758781</b></td><td><code>1</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>4268</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>4268</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>78912</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>7866</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>13200</code></td></tr></table>
-
-
-</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-24.370966, -0.062679, 6.069592)</td></tr><tr><td><b>wvExt</b></td><td>Vector(8.673334, 8.886951, 2.622471)</td></tr></table>
-
-</td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>1</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3509083153</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>2</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>2</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>1064363244</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nIndexCount</b></td><td><code>8694</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>21066</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>4435</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>232560</code></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
+</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-24.370966, -0.062679, 6.069592)</td></tr><tr><td><b>wvExt</b></td><td>Vector(8.673334, 8.886951, 2.622471)</td></tr></table>
 
 </td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_79283f</b></td><td><code>4435</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-26.482304, 1.001965, 10.166958)</td></tr><tr><td><b>wvExt</b></td><td>Vector(6.814741, 10.486956, 6.092821)</td></tr></table>
+</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
+
+</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nVertOffset</b></td><td><code>78912</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>7866</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>13200</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>4268</code></td></tr></table>
+
+
+</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>1064363244</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>4435</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-26.482304, 1.001965, 10.166958)</td></tr><tr><td><b>wvExt</b></td><td>Vector(6.814741, 10.486956, 6.092821)</td></tr></table>
+
+</td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>2</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>2</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nIndexCount</b></td><td><code>8694</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>21066</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>4435</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>232560</code></td></tr></table>
+
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_79283f</b></td><td><code>600</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>3</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>4198770230</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-27.006084, 7.746599, 5.303662)</td></tr><tr><td><b>wvExt</b></td><td>Vector(5.528387, 0.516589, 0.601878)</td></tr></table>
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>600</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
 </td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>600</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>392220</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>1134</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>29760</code></td></tr></table>
 
 
-</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>3</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>4198770230</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>3</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-27.006084, 7.746599, 5.303662)</td></tr><tr><td><b>wvExt</b></td><td>Vector(5.528387, 0.516589, 0.601878)</td></tr></table>
+
+</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
-
-</td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>3</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>nMaterialIndex</b></td><td><code>4</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>4147</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>4</code></td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3105405244</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-27.709019, 1.726394, 7.777181)</td></tr><tr><td><b>wvExt</b></td><td>Vector(5.085672, 8.426531, 3.234818)</td></tr></table>
-
-</td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
-
-</td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>4147</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>413820</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>14634</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>30894</code></td></tr></table>
-
 
 </td></tr></table>
 
 
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">GeoSet</th></tr><tr><td><b>ptSubObjects</b></td><td><table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>834717412</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-16.601152, 0.988158, 8.094808)</td></tr><tr><td><b>wvExt</b></td><td>Vector(16.624247, 10.418636, 8.117902)</td></tr></table>
+</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-27.709019, 1.726394, 7.777181)</td></tr><tr><td><b>wvExt</b></td><td>Vector(5.085672, 8.426531, 3.234818)</td></tr></table>
 
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>1623</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>563112</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>8169</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>45528</code></td></tr></table>
+</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>4</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nVertOffset</b></td><td><code>413820</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>14634</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>30894</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>4147</code></td></tr></table>
 
 
 </td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3105405244</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_79283f</b></td><td><code>0</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>0</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>4147</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>4</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
 
 
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-24.370966, -0.062679, 6.069592)</td></tr><tr><td><b>wvExt</b></td><td>Vector(8.673334, 8.886951, 2.622471)</td></tr></table>
-
-</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3509083153</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>1</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nIndexOffset</b></td><td><code>53697</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>2105</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>621540</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>3564</code></td></tr></table>
+</td></tr><tr><td><b>unk_9d1d596</b></td><td></td></tr><tr><td><b>unk_79283f</b></td><td><code>13450</code></td></tr><tr><td><b>unk_af1153d</b></td><td><code>22612</code></td></tr></table>
 
 
-</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">GeoSet</th></tr><tr><td><b>unk_af1153d</b></td><td><code>36062</code></td></tr><tr><td><b>unk_72aae9c</b></td><td><code>174.18385314941406</code></td></tr><tr><td><b>ptSubObjects</b></td><td><table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>2105</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
+</td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nIndexOffset</b></td><td><code>45528</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>1623</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>563112</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>8169</code></td></tr></table>
 
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_a758781</b></td><td><code>2</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>834717412</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wvExt</b></td><td>Vector(16.624247, 10.418636, 8.117902)</td></tr><tr><td><b>wp</b></td><td>Vector(-16.601152, 0.988158, 8.094808)</td></tr></table>
 
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
-
-</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>2161</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-26.482304, 1.001965, 10.166958)</td></tr><tr><td><b>wvExt</b></td><td>Vector(6.814741, 10.486956, 6.092821)</td></tr></table>
-
-</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>2</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>1064363244</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nIndexCount</b></td><td><code>3666</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>57261</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>2161</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>697320</code></td></tr></table>
+</td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>0</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>0</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr></table>
 
 
-</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3509083153</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>2105</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>2105</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>621540</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>3564</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>53697</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>3</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>244</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr></table>
 
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
+</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wvExt</b></td><td>Vector(8.673334, 8.886951, 2.622471)</td></tr><tr><td><b>wp</b></td><td>Vector(-24.370966, -0.062679, 6.069592)</td></tr></table>
 
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
+</td></tr></table>
 
-</td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
 
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
 
-</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>3</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>1064363244</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>2161</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_a758781</b></td><td><code>2</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nIndexOffset</b></td><td><code>57261</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>2161</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>697320</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>3666</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>2</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-26.482304, 1.001965, 10.166958)</td></tr><tr><td><b>wvExt</b></td><td>Vector(6.814741, 10.486956, 6.092821)</td></tr></table>
+
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-27.006084, 7.746599, 5.303662)</td></tr><tr><td><b>wvExt</b></td><td>Vector(5.528387, 0.516589, 0.601878)</td></tr></table>
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>4198770230</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>244</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
 </td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>244</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>775116</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>378</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>60927</code></td></tr></table>
 
 
-</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>4198770230</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-27.006084, 7.746599, 5.303662)</td></tr><tr><td><b>wvExt</b></td><td>Vector(5.528387, 0.516589, 0.601878)</td></tr></table>
+</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
+</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>3</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>3</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr></table>
 
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>4</code></td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>4</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3105405244</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>3087</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-27.709019, 1.726394, 7.777181)</td></tr><tr><td><b>wvExt</b></td><td>Vector(5.085672, 8.426531, 3.234818)</td></tr></table>
+
+</td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nVertCount</b></td><td><code>3087</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>783900</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>6984</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>61305</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_9d1d596</b></td><td></td></tr><tr><td><b>unk_79283f</b></td><td><code>7597</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">GeoSet</th></tr><tr><td><b>unk_af1153d</b></td><td><code>43659</code></td></tr><tr><td><b>unk_72aae9c</b></td><td><code>263.85711669921875</code></td></tr><tr><td><b>ptSubObjects</b></td><td><table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wvExt</b></td><td>Vector(16.624247, 10.418636, 8.117902)</td></tr><tr><td><b>wp</b></td><td>Vector(-16.601152, 0.988158, 8.094808)</td></tr></table>
+
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>1011</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>895032</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>4458</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>68289</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_79283f</b></td><td><code>0</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>0</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
 
 </td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>4</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-27.709019, 1.726394, 7.777181)</td></tr><tr><td><b>wvExt</b></td><td>Vector(5.085672, 8.426531, 3.234818)</td></tr></table>
-
-</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>3087</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>3087</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>783900</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>6984</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>61305</code></td></tr></table>
-
-
-</td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3105405244</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>4</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_9d1d596</b></td><td></td></tr><tr><td><b>unk_79283f</b></td><td><code>7597</code></td></tr><tr><td><b>unk_af1153d</b></td><td><code>36062</code></td></tr><tr><td><b>unk_72aae9c</b></td><td><code>174.18385314941406</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">GeoSet</th></tr><tr><td><b>ptSubObjects</b></td><td><table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nVertCount</b></td><td><code>1011</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>895032</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>4458</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>68289</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr></table>
-
-
-</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
-
-</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>834717412</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-16.601152, 0.988158, 8.094808)</td></tr><tr><td><b>wvExt</b></td><td>Vector(16.624247, 10.418636, 8.117902)</td></tr></table>
-
-</td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>0</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_79283f</b></td><td><code>1093</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
 
-</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3509083153</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>1</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nIndexOffset</b></td><td><code>72747</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>1093</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>931428</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>1614</code></td></tr></table>
+</td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>834717412</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr></table>
 
 
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-24.370966, -0.062679, 6.069592)</td></tr><tr><td><b>wvExt</b></td><td>Vector(8.673334, 8.886951, 2.622471)</td></tr></table>
-
-</td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-26.482304, 1.001965, 10.166958)</td></tr><tr><td><b>wvExt</b></td><td>Vector(6.814741, 10.486956, 6.092821)</td></tr></table>
-
-</td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>1064363244</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>1117</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>1117</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>970776</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>1782</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>74361</code></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
-
-</td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>2</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>2</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
 
-</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>105</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wvExt</b></td><td>Vector(5.528387, 0.516589, 0.601878)</td></tr><tr><td><b>wp</b></td><td>Vector(-27.006084, 7.746599, 5.303662)</td></tr></table>
-
-</td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>105</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>1010988</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>120</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>76143</code></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>4198770230</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>3</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>3</code></td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_79283f</b></td><td><code>1848</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-27.709019, 1.726394, 7.777181)</td></tr><tr><td><b>wvExt</b></td><td>Vector(5.085672, 8.426531, 3.234818)</td></tr></table>
-
-</td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>4</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3105405244</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nVertCount</b></td><td><code>1848</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>1014768</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>3402</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>76263</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>4</code></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_9d1d596</b></td><td></td></tr><tr><td><b>unk_79283f</b></td><td><code>4163</code></td></tr><tr><td><b>unk_af1153d</b></td><td><code>43659</code></td></tr><tr><td><b>unk_72aae9c</b></td><td><code>263.85711669921875</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">GeoSet</th></tr><tr><td><b>unk_9d1d596</b></td><td></td></tr><tr><td><b>unk_79283f</b></td><td><code>2339</code></td></tr><tr><td><b>unk_af1153d</b></td><td><code>47822</code></td></tr><tr><td><b>unk_72aae9c</b></td><td><code>338.3611755371094</code></td></tr><tr><td><b>ptSubObjects</b></td><td><table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_a758781</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>749</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>1081296</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>2448</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>79665</code></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-16.601152, 0.988158, 8.094808)</td></tr><tr><td><b>wvExt</b></td><td>Vector(16.624247, 10.418636, 8.117902)</td></tr></table>
-
-</td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>834717412</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_79283f</b></td><td><code>579</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-24.370966, -0.062679, 6.069592)</td></tr><tr><td><b>wvExt</b></td><td>Vector(8.673334, 8.886951, 2.622471)</td></tr></table>
+</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3509083153</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>1</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-24.370966, -0.062679, 6.069592)</td></tr><tr><td><b>wvExt</b></td><td>Vector(8.673334, 8.886951, 2.622471)</td></tr></table>
 
 </td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
 
-</td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>579</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>1108260</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>750</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>82113</code></td></tr></table>
+</td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>1093</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>931428</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>1614</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>72747</code></td></tr></table>
 
 
-</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
+</td></tr></table>
+
+</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_79283f</b></td><td><code>1093</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>2</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>1117</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>970776</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>1782</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>74361</code></td></tr></table>
+
+
+</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>2</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>1064363244</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>1117</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-26.482304, 1.001965, 10.166958)</td></tr><tr><td><b>wvExt</b></td><td>Vector(6.814741, 10.486956, 6.092821)</td></tr></table>
 
 </td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>1</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3509083153</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
-
-
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>2</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
 
-</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>2</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>1064363244</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nVertCount</b></td><td><code>482</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>1129104</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>558</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>82863</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr></table>
+</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
+
+</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
 
 
-</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-27.006084, 7.746599, 5.303662)</td></tr><tr><td><b>wvExt</b></td><td>Vector(5.528387, 0.516589, 0.601878)</td></tr></table>
 
-</td></tr><tr><td><b>unk_79283f</b></td><td><code>482</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-26.482304, 1.001965, 10.166958)</td></tr><tr><td><b>wvExt</b></td><td>Vector(6.814741, 10.486956, 6.092821)</td></tr></table>
+</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>4198770230</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>3</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>105</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>1010988</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>120</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>76143</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
+
+</td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>3</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_79283f</b></td><td><code>105</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>4</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>1848</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>4</code></td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3105405244</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wvExt</b></td><td>Vector(5.085672, 8.426531, 3.234818)</td></tr><tr><td><b>wp</b></td><td>Vector(-27.709019, 1.726394, 7.777181)</td></tr></table>
+
+</td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nIndexCount</b></td><td><code>3402</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>76263</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>1848</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>1014768</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
 
 </td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>4198770230</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>99</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
-
-</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-27.006084, 7.746599, 5.303662)</td></tr><tr><td><b>wvExt</b></td><td>Vector(5.528387, 0.516589, 0.601878)</td></tr></table>
-
-</td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>99</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>1146456</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>102</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>83421</code></td></tr></table>
+</td></tr><tr><td><b>unk_9d1d596</b></td><td></td></tr><tr><td><b>unk_79283f</b></td><td><code>4163</code></td></tr></table>
 
 
-</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">GeoSet</th></tr><tr><td><b>unk_72aae9c</b></td><td><code>338.3611755371094</code></td></tr><tr><td><b>ptSubObjects</b></td><td><table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_79283f</b></td><td><code>0</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-16.601152, 0.988158, 8.094808)</td></tr><tr><td><b>wvExt</b></td><td>Vector(16.624247, 10.418636, 8.117902)</td></tr></table>
 
-</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>3</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>3</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+</td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>834717412</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr></table>
 
+</td></tr><tr><td><b>unk_a758781</b></td><td><code>0</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
-<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>1179</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>4</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>4</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3105405244</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-27.709019, 1.726394, 7.777181)</td></tr><tr><td><b>wvExt</b></td><td>Vector(5.085672, 8.426531, 3.234818)</td></tr></table>
-
-</td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>1179</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>1150020</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>1830</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>83523</code></td></tr></table>
+</td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nIndexCount</b></td><td><code>2448</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>79665</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>749</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>1081296</code></td></tr></table>
 
 
-</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
+</td></tr></table>
 
-</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+</td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3509083153</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>579</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>1108260</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>750</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>82113</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_a758781</b></td><td><code>1</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>579</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-24.370966, -0.062679, 6.069592)</td></tr><tr><td><b>wvExt</b></td><td>Vector(8.673334, 8.886951, 2.622471)</td></tr></table>
+
+</td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>nMaterialIndex</b></td><td><code>2</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>2</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
+
+</td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>482</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>1129104</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>558</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>82863</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>1064363244</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-26.482304, 1.001965, 10.166958)</td></tr><tr><td><b>wvExt</b></td><td>Vector(6.814741, 10.486956, 6.092821)</td></tr></table>
+
+</td></tr><tr><td><b>unk_79283f</b></td><td><code>482</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
+
+</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>99</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>nIndexCount</b></td><td><code>102</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>83421</code></td></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>99</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>1146456</code></td></tr></table>
+
+
+</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>3</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>3</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-27.006084, 7.746599, 5.303662)</td></tr><tr><td><b>wvExt</b></td><td>Vector(5.528387, 0.516589, 0.601878)</td></tr></table>
+
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>4198770230</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>dwFlags</b></td><td><code>2097152</code></td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wvExt</b></td><td>Vector(5.085672, 8.426531, 3.234818)</td></tr><tr><td><b>wp</b></td><td>Vector(-27.709019, 1.726394, 7.777181)</td></tr></table>
+
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>3105405244</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>1</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>4</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>snoCampaignVisibilityCondition</b></td><td><a href="#UKNOWN">[DT_SNO] Condition: %!q(<nil>)</a></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_45c6981</b></td><td><code>1</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>0</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>nMaterialIndex</b></td><td><code>4</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>1179</code></td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_95f2e14</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>0</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>1179</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>1150020</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>1830</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>83523</code></td></tr></table>
 
 
 </td></tr></table>
 
 
-</td></tr><tr><td><b>unk_4137988</b></td><td><table><tr><th colspan="100%">Type_d95af7ec</th></tr><tr><td><b>unk_4c43adc</b></td><td><code>0</code></td></tr><tr><td><b>fOptional</b></td><td><code>1</code></td></tr><tr><td><b>dwVertStride</b></td><td><code>36</code></td></tr><tr><td><b>vbid</b></td><td><code>-1</code></td></tr><tr><td><b>baid</b></td><td><code>-1</code></td></tr><tr><td><b>wEid</b></td><td><code>-1</code></td></tr><tr><td><b>ptChunkVertices</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>4194305</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>154048</code></td></tr><tr><td><b>dataSize</b></td><td><code>906444</code></td></tr></table>
+</td></tr><tr><td><b>unk_9d1d596</b></td><td></td></tr><tr><td><b>unk_79283f</b></td><td><code>2339</code></td></tr><tr><td><b>unk_af1153d</b></td><td><code>47822</code></td></tr></table>
 
-</td></tr></table>
 
-</td></tr><tr><td><b>eVBFormat</b></td><td><code>4</code></td></tr><tr><td><b>ptVertexElems</b></td><td><table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eSemantic</b></td><td><code>0</code></td></tr><tr><td><b>eFormat</b></td><td><code>1</code></td></tr><tr><td><b>nOffset</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_4137988</b></td><td><table><tr><th colspan="100%">Type_d95af7ec</th></tr><tr><td><b>baid</b></td><td><code>-1</code></td></tr><tr><td><b>eVBFormat</b></td><td><code>4</code></td></tr><tr><td><b>dwVertStride</b></td><td><code>36</code></td></tr><tr><td><b>ptVertexElems</b></td><td><table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>nOffset</b></td><td><code>0</code></td></tr><tr><td><b>eSemantic</b></td><td><code>0</code></td></tr><tr><td><b>eFormat</b></td><td><code>1</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>nOffset</b></td><td><code>12</code></td></tr><tr><td><b>eSemantic</b></td><td><code>9</code></td></tr><tr><td><b>eFormat</b></td><td><code>8</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>nOffset</b></td><td><code>16</code></td></tr><tr><td><b>eSemantic</b></td><td><code>7</code></td></tr><tr><td><b>eFormat</b></td><td><code>5</code></td></tr></table>
+<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eSemantic</b></td><td><code>7</code></td></tr><tr><td><b>eFormat</b></td><td><code>5</code></td></tr><tr><td><b>nOffset</b></td><td><code>16</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>nOffset</b></td><td><code>20</code></td></tr><tr><td><b>eSemantic</b></td><td><code>8</code></td></tr><tr><td><b>eFormat</b></td><td><code>5</code></td></tr></table>
+<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eSemantic</b></td><td><code>8</code></td></tr><tr><td><b>eFormat</b></td><td><code>5</code></td></tr><tr><td><b>nOffset</b></td><td><code>20</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eSemantic</b></td><td><code>1</code></td></tr><tr><td><b>eFormat</b></td><td><code>7</code></td></tr><tr><td><b>nOffset</b></td><td><code>24</code></td></tr></table>
+<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eFormat</b></td><td><code>7</code></td></tr><tr><td><b>nOffset</b></td><td><code>24</code></td></tr><tr><td><b>eSemantic</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>nOffset</b></td><td><code>28</code></td></tr><tr><td><b>eSemantic</b></td><td><code>2</code></td></tr><tr><td><b>eFormat</b></td><td><code>7</code></td></tr></table>
+<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eSemantic</b></td><td><code>2</code></td></tr><tr><td><b>eFormat</b></td><td><code>7</code></td></tr><tr><td><b>nOffset</b></td><td><code>28</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>nOffset</b></td><td><code>32</code></td></tr><tr><td><b>eSemantic</b></td><td><code>10</code></td></tr><tr><td><b>eFormat</b></td><td><code>8</code></td></tr></table>
+<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eSemantic</b></td><td><code>10</code></td></tr><tr><td><b>eFormat</b></td><td><code>8</code></td></tr><tr><td><b>nOffset</b></td><td><code>32</code></td></tr></table>
 
 
 </td></tr><tr><td><b>unk_aea647a</b></td><td><code>0</code>
@@ -707,20 +699,31 @@
 <code>3</code>
 <code>1</code>
 <code>6</code>
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_d95af7ec</th></tr><tr><td><b>ptChunkVertices</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>4194305</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>1242624</code></td></tr><tr><td><b>dataSize</b></td><td><code>1192464</code></td></tr></table>
+</td></tr><tr><td><b>wEid</b></td><td><code>-1</code></td></tr><tr><td><b>ptChunkVertices</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>4194305</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>154048</code></td></tr><tr><td><b>dataSize</b></td><td><code>906444</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>vbid</b></td><td><code>-1</code></td></tr><tr><td><b>unk_4c43adc</b></td><td><code>0</code></td></tr><tr><td><b>fOptional</b></td><td><code>0</code></td></tr><tr><td><b>dwVertStride</b></td><td><code>36</code></td></tr><tr><td><b>ptVertexElems</b></td><td><table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eSemantic</b></td><td><code>0</code></td></tr><tr><td><b>eFormat</b></td><td><code>1</code></td></tr><tr><td><b>nOffset</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>vbid</b></td><td><code>-1</code></td></tr><tr><td><b>unk_4c43adc</b></td><td><code>0</code></td></tr><tr><td><b>fOptional</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_d95af7ec</th></tr><tr><td><b>unk_aea647a</b></td><td><code>0</code>
+<code>4</code>
+<code>5</code>
+<code>255</code>
+<code>255</code>
+<code>255</code>
+<code>255</code>
+<code>2</code>
+<code>3</code>
+<code>1</code>
+<code>6</code>
+</td></tr><tr><td><b>wEid</b></td><td><code>-1</code></td></tr><tr><td><b>vbid</b></td><td><code>-1</code></td></tr><tr><td><b>baid</b></td><td><code>-1</code></td></tr><tr><td><b>unk_4c43adc</b></td><td><code>0</code></td></tr><tr><td><b>eVBFormat</b></td><td><code>4</code></td></tr><tr><td><b>dwVertStride</b></td><td><code>36</code></td></tr><tr><td><b>ptVertexElems</b></td><td><table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eSemantic</b></td><td><code>0</code></td></tr><tr><td><b>eFormat</b></td><td><code>1</code></td></tr><tr><td><b>nOffset</b></td><td><code>0</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eSemantic</b></td><td><code>9</code></td></tr><tr><td><b>eFormat</b></td><td><code>8</code></td></tr><tr><td><b>nOffset</b></td><td><code>12</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eSemantic</b></td><td><code>7</code></td></tr><tr><td><b>eFormat</b></td><td><code>5</code></td></tr><tr><td><b>nOffset</b></td><td><code>16</code></td></tr></table>
+<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eFormat</b></td><td><code>5</code></td></tr><tr><td><b>nOffset</b></td><td><code>16</code></td></tr><tr><td><b>eSemantic</b></td><td><code>7</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eSemantic</b></td><td><code>8</code></td></tr><tr><td><b>eFormat</b></td><td><code>5</code></td></tr><tr><td><b>nOffset</b></td><td><code>20</code></td></tr></table>
@@ -732,51 +735,48 @@
 <table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>nOffset</b></td><td><code>28</code></td></tr><tr><td><b>eSemantic</b></td><td><code>2</code></td></tr><tr><td><b>eFormat</b></td><td><code>7</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eSemantic</b></td><td><code>10</code></td></tr><tr><td><b>eFormat</b></td><td><code>8</code></td></tr><tr><td><b>nOffset</b></td><td><code>32</code></td></tr></table>
+<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>nOffset</b></td><td><code>32</code></td></tr><tr><td><b>eSemantic</b></td><td><code>10</code></td></tr><tr><td><b>eFormat</b></td><td><code>8</code></td></tr></table>
 
 
-</td></tr><tr><td><b>wEid</b></td><td><code>-1</code></td></tr><tr><td><b>baid</b></td><td><code>-1</code></td></tr><tr><td><b>eVBFormat</b></td><td><code>4</code></td></tr><tr><td><b>unk_aea647a</b></td><td><code>0</code>
-<code>4</code>
-<code>5</code>
-<code>255</code>
-<code>255</code>
-<code>255</code>
-<code>255</code>
-<code>2</code>
-<code>3</code>
-<code>1</code>
-<code>6</code>
-</td></tr></table>
-
-
-</td></tr><tr><td><b>unk_457dee2</b></td><td><table><tr><th colspan="100%">Type_5ebc726</th></tr><tr><td><b>unk_7ef82a3</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>4194304</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_WORD</th></tr><tr><td><b>dataOffset</b></td><td><code>1060496</code></td></tr><tr><td><b>dataSize</b></td><td><code>182124</code></td></tr></table>
+</td></tr><tr><td><b>ptChunkVertices</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>4194305</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>1242624</code></td></tr><tr><td><b>dataSize</b></td><td><code>1192464</code></td></tr></table>
 
 </td></tr></table>
+
+</td></tr><tr><td><b>fOptional</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_457dee2</b></td><td><table><tr><th colspan="100%">Type_5ebc726</th></tr><tr><td><b>unk_7ef82a3</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_WORD</th></tr><tr><td><b>dataOffset</b></td><td><code>1060496</code></td></tr><tr><td><b>dataSize</b></td><td><code>182124</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>4194304</code></td></tr></table>
 
 </td></tr><tr><td><b>ibid</b></td><td><code>-1</code></td></tr><tr><td><b>fOptional</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_5ebc726</th></tr><tr><td><b>fOptional</b></td><td><code>0</code></td></tr><tr><td><b>unk_7ef82a3</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>4194304</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_WORD</th></tr><tr><td><b>dataOffset</b></td><td><code>2435088</code></td></tr><tr><td><b>dataSize</b></td><td><code>170706</code></td></tr></table>
+<table><tr><th colspan="100%">Type_5ebc726</th></tr><tr><td><b>unk_7ef82a3</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_WORD</th></tr><tr><td><b>dataOffset</b></td><td><code>2435088</code></td></tr><tr><td><b>dataSize</b></td><td><code>170706</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>4194304</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
+
+</td></tr><tr><td><b>ibid</b></td><td><code>-1</code></td></tr><tr><td><b>fOptional</b></td><td><code>0</code></td></tr></table>
+
 
 </td></tr></table>
 
-</td></tr><tr><td><b>ibid</b></td><td><code>-1</code></td></tr></table>
 
-
-</td></tr><tr><td><b>unk_8c8b576</b></td><td></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-16.636974, 1.001965, 8.118342)</td></tr><tr><td><b>wvExt</b></td><td>Vector(16.660069, 10.486956, 8.141437)</td></tr></table>
+</td></tr><tr><td><b>ptBoneData</b></td><td></td></tr><tr><td><b>unk_6bd8898</b></td><td><code>0</code></td></tr><tr><td><b>ptCollisionMeshes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionMesh</th></tr><tr><td><b>dataOffset</b></td><td><code>32</code></td></tr><tr><td><b>dataSize</b></td><td><code>128</code></td></tr></table>
 
 </td></tr></table>
 
+</td></tr><tr><td><b>ptCollisionCapsules</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionCapsule</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>ptSceneData</b></td><td></td></tr><tr><td><b>ptBoneData</b></td><td></td></tr><tr><td><b>unk_6bd8898</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-16.636974, 1.001965, 8.118342)</td></tr><tr><td><b>wvExt</b></td><td>Vector(16.660069, 10.486956, 8.141437)</td></tr></table>
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_d8c9b68</b></td><td><code>1</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptCollisionCapsules</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionCapsule</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>wsBounds</b></td><td><table><tr><th colspan="100%">Sphere</th></tr><tr><td><b>wpCenter</b></td><td>Vector(-18.469723, 1.021953, 5.869283)</td></tr><tr><td><b>wdRadius</b></td><td><code>19.42999839782715</code></td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-16.636974, 1.001965, 8.118342)</td></tr><tr><td><b>wvExt</b></td><td>Vector(16.660069, 10.486956, 8.141437)</td></tr></table>
 
-</td></tr></table>
+</td></tr><tr><td><b>unk_d8c9b68</b></td><td><code>1</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptSceneData</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>2049</code></td></tr></table>
 
-</td></tr><tr><td><b>ptAppearanceLooks</b></td><td><table><tr><th colspan="100%">AppearanceLook</th></tr><tr><td><b>szLookName</b></td><td><code>67399014</code></td></tr></table>
+</td></tr><tr><td><b>dwFlags</b></td><td><code>1310736</code></td></tr><tr><td><b>unk_4f51617</b></td><td></td></tr><tr><td><b>unk_9a6abe3</b></td><td><code>1</code></td></tr><tr><td><b>flDeformationScale</b></td><td><code>1</code></td></tr><tr><td><b>ptAppearanceLooks</b></td><td><table><tr><th colspan="100%">AppearanceLook</th></tr><tr><td><b>szLookName</b></td><td><code>67399014</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">AppearanceLook</th></tr><tr><td><b>szLookName</b></td><td><code>4370343</code></td></tr></table>
@@ -785,67 +785,67 @@
 <table><tr><th colspan="100%">AppearanceLook</th></tr><tr><td><b>szLookName</b></td><td><code>302403196</code></td></tr></table>
 
 
-</td></tr><tr><td><b>dwLookVariant</b></td><td><code>4294967295</code></td></tr><tr><td><b>tFoliageSettings</b></td><td><table><tr><th colspan="100%">FoliageSettings</th></tr><tr><td><b>flExplosionFactor</b></td><td><code>1</code></td></tr><tr><td><b>flDampingRatio</b></td><td><code>0.30000001192092896</code></td></tr><tr><td><b>flRadiusRatio</b></td><td><code>1</code></td></tr><tr><td><b>unk_bf229f9</b></td><td><code>5</code></td></tr><tr><td><b>flFrequency</b></td><td><code>1</code></td></tr><tr><td><b>unk_d7a231e</b></td><td><code>1</code></td></tr><tr><td><b>unk_620b5c3</b></td><td><code>-1</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_9a6abe3</b></td><td><code>1</code></td></tr><tr><td><b>flDeformationScale</b></td><td><code>1</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1310736</code></td></tr><tr><td><b>ptAppearanceMaterials</b></td><td><table><tr><th colspan="100%">AppearanceMaterial</th></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>ptSOAs</b></td><td><table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Global_Shadow_Proxy.mat">[DT_SNO] Material: "Global_Shadow_Proxy"</a></td></tr></table>
+</td></tr><tr><td><b>ptAppearanceMaterials</b></td><td><table><tr><th colspan="100%">AppearanceMaterial</th></tr><tr><td><b>dwMaterialHash</b></td><td><code>2511400759</code></td></tr><tr><td><b>unk_cf782ad</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>ptSOAs</b></td><td><table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Global_Shadow_Proxy.mat.md">[DT_SNO] Material: "Global_Shadow_Proxy"</a></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Global_Shadow_Proxy.mat">[DT_SNO] Material: "Global_Shadow_Proxy"</a></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Global_Shadow_Proxy.mat.md">[DT_SNO] Material: "Global_Shadow_Proxy"</a></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Global_Shadow_Proxy.mat">[DT_SNO] Material: "Global_Shadow_Proxy"</a></td></tr></table>
+<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Global_Shadow_Proxy.mat.md">[DT_SNO] Material: "Global_Shadow_Proxy"</a></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
 
 
-</td></tr><tr><td><b>dwMaterialHash</b></td><td><code>2511400759</code></td></tr><tr><td><b>unk_cf782ad</b></td><td><code>0</code></td></tr></table>
+</td></tr></table>
 
 
-<table><tr><th colspan="100%">AppearanceMaterial</th></tr><tr><td><b>ptSOAs</b></td><td><table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Set_Worn_Wood_Planks.mat">[DT_SNO] Material: "Scos_Boat_Set_Worn_Wood_Planks"</a></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
+<table><tr><th colspan="100%">AppearanceMaterial</th></tr><tr><td><b>ptSOAs</b></td><td><table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Set_Worn_Wood_Planks.mat.md">[DT_SNO] Material: "Scos_Boat_Set_Worn_Wood_Planks"</a></td></tr></table>
 
 
-<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Set_Worn_Wood_Planks_VTEX.mat">[DT_SNO] Material: "Scos_Boat_Set_Worn_Wood_Planks_VTEX"</a></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
+<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Set_Worn_Wood_Planks_VTEX.mat.md">[DT_SNO] Material: "Scos_Boat_Set_Worn_Wood_Planks_VTEX"</a></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Set_Worn_Wood_Planks_Rotten.mat">[DT_SNO] Material: "Scos_Boat_Set_Worn_Wood_Planks_Rotten"</a></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Set_Worn_Wood_Planks_Rotten.mat.md">[DT_SNO] Material: "Scos_Boat_Set_Worn_Wood_Planks_Rotten"</a></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr></table>
 
 
 </td></tr><tr><td><b>dwMaterialHash</b></td><td><code>2066623567</code></td></tr><tr><td><b>unk_cf782ad</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">AppearanceMaterial</th></tr><tr><td><b>dwMaterialHash</b></td><td><code>1848785562</code></td></tr><tr><td><b>unk_cf782ad</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>ptSOAs</b></td><td><table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Cog_Wood_Details.mat">[DT_SNO] Material: "Scos_Boat_Cog_Wood_Details"</a></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">AppearanceMaterial</th></tr><tr><td><b>dwMaterialHash</b></td><td><code>1848785562</code></td></tr><tr><td><b>unk_cf782ad</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>ptSOAs</b></td><td><table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Cog_Wood_Details.mat.md">[DT_SNO] Material: "Scos_Boat_Cog_Wood_Details"</a></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Cog_Worn_Wood_Details_VTEX.mat">[DT_SNO] Material: "Scos_Boat_Cog_Worn_Wood_Details_VTEX"</a></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Cog_Worn_Wood_Details_VTEX.mat.md">[DT_SNO] Material: "Scos_Boat_Cog_Worn_Wood_Details_VTEX"</a></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr></table>
 
 
-<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Cog_Worn_Wood_Details_Rotten.mat">[DT_SNO] Material: "Scos_Boat_Cog_Worn_Wood_Details_Rotten"</a></td></tr></table>
-
-
-</td></tr></table>
-
-
-<table><tr><th colspan="100%">AppearanceMaterial</th></tr><tr><td><b>dwMaterialHash</b></td><td><code>2188730392</code></td></tr><tr><td><b>unk_cf782ad</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>ptSOAs</b></td><td><table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Wreck.mat">[DT_SNO] Material: "Scos_Boat_Wreck"</a></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Wreck_VTEX.mat">[DT_SNO] Material: "Scos_Boat_Wreck_VTEX"</a></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr></table>
-
-
-<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Wreck_Rotten.mat">[DT_SNO] Material: "Scos_Boat_Wreck_Rotten"</a></td></tr></table>
+<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Cog_Worn_Wood_Details_Rotten.mat.md">[DT_SNO] Material: "Scos_Boat_Cog_Worn_Wood_Details_Rotten"</a></td></tr></table>
 
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">AppearanceMaterial</th></tr><tr><td><b>dwMaterialHash</b></td><td><code>1197157917</code></td></tr><tr><td><b>unk_cf782ad</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>ptSOAs</b></td><td><table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Cog_Sail.mat">[DT_SNO] Material: "Scos_Boat_Cog_Sail"</a></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">AppearanceMaterial</th></tr><tr><td><b>ptSOAs</b></td><td><table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Wreck.mat.md">[DT_SNO] Material: "Scos_Boat_Wreck"</a></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Cog_Sail_VTEX.mat">[DT_SNO] Material: "Scos_Boat_Cog_Sail_VTEX"</a></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr></table>
+<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Wreck_VTEX.mat.md">[DT_SNO] Material: "Scos_Boat_Wreck_VTEX"</a></td></tr></table>
 
 
-<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Cog_Sail_VTEX.mat">[DT_SNO] Material: "Scos_Boat_Cog_Sail_VTEX"</a></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
+<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Wreck_Rotten.mat.md">[DT_SNO] Material: "Scos_Boat_Wreck_Rotten"</a></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwMaterialHash</b></td><td><code>2188730392</code></td></tr><tr><td><b>unk_cf782ad</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AppearanceMaterial</th></tr><tr><td><b>dwMaterialHash</b></td><td><code>1197157917</code></td></tr><tr><td><b>unk_cf782ad</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>ptSOAs</b></td><td><table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Cog_Sail.mat.md">[DT_SNO] Material: "Scos_Boat_Cog_Sail"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Cog_Sail_VTEX.mat.md">[DT_SNO] Material: "Scos_Boat_Cog_Sail_VTEX"</a></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Boat_Cog_Sail_VTEX.mat.md">[DT_SNO] Material: "Scos_Boat_Cog_Sail_VTEX"</a></td></tr></table>
 
 
 </td></tr></table>
 
+
+</td></tr><tr><td><b>tFoliageSettings</b></td><td><table><tr><th colspan="100%">FoliageSettings</th></tr><tr><td><b>flDampingRatio</b></td><td><code>0.30000001192092896</code></td></tr><tr><td><b>unk_bf229f9</b></td><td><code>5</code></td></tr><tr><td><b>flExplosionFactor</b></td><td><code>1</code></td></tr><tr><td><b>flFrequency</b></td><td><code>1</code></td></tr><tr><td><b>unk_620b5c3</b></td><td><code>-1</code></td></tr><tr><td><b>unk_d7a231e</b></td><td><code>1</code></td></tr><tr><td><b>flRadiusRatio</b></td><td><code>1</code></td></tr></table>
 
 </td></tr></table>
 

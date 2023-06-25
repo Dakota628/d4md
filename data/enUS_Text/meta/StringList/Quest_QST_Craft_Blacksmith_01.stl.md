@@ -9,12 +9,12 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback15Header</code></td></tr><tr><td><b>szText</b></td><td><code>Upgrade an item at a Blacksmith</code></td></tr><tr><td><b>hLabel</b></td><td><code>3113074012</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1641010231</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase11Description</code></td></tr><tr><td><b>szText</b></td><td><pre>Blacksmiths can improve your weapons and armor, for a price. 
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><pre>Blacksmiths can improve your weapons and armor, for a price. 
 
-Seek out Zivek in Kyovashad to make your first item upgrade.</pre></td></tr></table>
+Seek out Zivek in Kyovashad to make your first item upgrade.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>1641010231</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase11Description</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Speak with Zivek</code></td></tr><tr><td><b>hLabel</b></td><td><code>2692510623</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback18Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2692510623</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback18Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Zivek</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

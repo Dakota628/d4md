@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.1275AC</code></td></tr><tr><td><b>szText</b></td><td><code>You murdered innocents for the coin in their pockets. Confess, and seek grace in the Light.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734191324</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.1275AC</code></td></tr><tr><td><b>szText</b></td><td><code>Responding to Bandit. Calm. Resolute. Authoritative.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3079918761</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Responding to Bandit. Calm. Resolute. Authoritative.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3079918761</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.1275AC</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -6,13 +6,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1734133212</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.124D4D</code></td></tr><tr><td><b>szText</b></td><td><code>He was already dead. Weren’t me that killed him. I just... just kept him dead.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3079860649</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.124D4D</code></td></tr><tr><td><b>szText</b></td><td><code>Shaky, haunted</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.124D4D</code></td></tr><tr><td><b>szText</b></td><td><code>Shaky, haunted</code></td></tr><tr><td><b>hLabel</b></td><td><code>3079860649</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2396593178</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.124D4D</code></td></tr><tr><td><b>szText</b></td><td><code>That thing wasn’t him. Think, think. Remember him afore he drowned. It wasn’t really him.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.124D4D</code></td></tr><tr><td><b>szText</b></td><td><code>That thing wasn’t him. Think, think. Remember him afore he drowned. It wasn’t really him.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2396593178</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Shaky, haunted</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742320615</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.124D4D</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.124D4D</code></td></tr><tr><td><b>szText</b></td><td><code>Shaky, haunted</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742320615</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

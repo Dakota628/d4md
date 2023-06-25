@@ -3,15 +3,15 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>name</code></td></tr><tr><td><b>szText</b></td><td><code>Spark</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr><tr><td><b>szText</b></td><td><pre>{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
-{/if}Launch a bolt of lightning that shocks an enemy {c_number}{SF_2}{/c} times, dealing {c_number}{payload:PAYLOAD_PROJECTILE}{/c} damage each hit.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr><tr><td><b>szText</b></td><td><pre>{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Launch a bolt of lightning that shocks an enemy {c_number}{SF_2}{/c} times, dealing {c_number}{payload:PAYLOAD_PROJECTILE}{/c} damage each hit.</pre></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><pre>
-{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:PAYLOAD_PROJECTILE}{/c}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr><tr><td><b>szText</b></td><td><pre>
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:PAYLOAD_PROJECTILE}{/c}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff4_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Spark - Crit Chance Bonus</code></td></tr><tr><td><b>hLabel</b></td><td><code>387682295</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>387682295</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff4_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Spark - Crit Chance Bonus</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff4_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Crit Chance Bonus</code></td></tr><tr><td><b>hLabel</b></td><td><code>1705253402</code></td></tr></table>
@@ -23,7 +23,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod1_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Enhanced Spark</code></td></tr><tr><td><b>hLabel</b></td><td><code>2492006865</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1960229941</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Each time {c_important}Spark{/c} hits an enemy it has a {c_number}[{SF_14} * 100|%|]{/c} chance to form a {c_important}{u}Crackling Energy{/u}{/c}.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Each time {c_important}Spark{/c} hits an enemy it has a {c_number}[{SF_14} * 100|%|]{/c} chance to form a {c_important}{u}Crackling Energy{/u}{/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1960229941</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Flickering Spark</code></td></tr><tr><td><b>hLabel</b></td><td><code>2531142258</code></td></tr></table>

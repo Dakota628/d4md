@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"Are you in a hurry to leave?"</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.10CA6C</code></td></tr><tr><td><b>szText</b></td><td><code>Nosey are we? I'm heading south to start training as a mason. My mentor says that we can be of great help to the people there.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2395907173</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2395907173</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.10CA6C</code></td></tr><tr><td><b>szText</b></td><td><code>Nosey are we? I'm heading south to start training as a mason. My mentor says that we can be of great help to the people there.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.10CA6C</code></td></tr><tr><td><b>szText</b></td><td><code>If you are interested in helping some people, find Lakren in Alzuuda.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1161169558</code></td></tr></table>

@@ -9,13 +9,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.A109C</code></td></tr><tr><td><b>szText</b></td><td><code>Perfunctory</code></td></tr><tr><td><b>hLabel</b></td><td><code>1712017940</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.A109C</code></td></tr><tr><td><b>szText</b></td><td><code>This is an old victim of hers. Must have floated out of her lair.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2432066921</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>This is an old victim of hers. Must have floated out of her lair.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2432066921</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.A109C</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.A109C</code></td></tr><tr><td><b>szText</b></td><td><code>We must act quickly. Cecil and his grandsons aren't the only ones the wight will hunt down.</code></td></tr><tr><td><b>hLabel</b></td><td><code>720035563</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>We’ll need the wight’s hair.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3302971501</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line9.A109C</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.A109C</code></td></tr><tr><td><b>szText</b></td><td><code>We’ll need the wight’s hair.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3302971501</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.A109C</code></td></tr><tr><td><b>szText</b></td><td><code>There should be plenty in the village. She damned near wiped us out the first time.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1914197622</code></td></tr></table>

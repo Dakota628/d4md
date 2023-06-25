@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlavorText</code></td></tr><tr><td><b>szText</b></td><td><code>A statue with a litany of Orbei Monastery.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3426486927</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>NoticeSignText</code></td></tr><tr><td><b>szText</b></td><td><code>Unto Evening, I shall keep it safe, and into the Night hereafter.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4073325784</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4073325784</code></td></tr><tr><td><b>szLabel</b></td><td><code>NoticeSignText</code></td></tr><tr><td><b>szText</b></td><td><code>Unto Evening, I shall keep it safe, and into the Night hereafter.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

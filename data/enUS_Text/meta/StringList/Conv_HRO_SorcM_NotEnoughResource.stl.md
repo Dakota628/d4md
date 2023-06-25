@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line18.BAE4.Sor.M</code></td></tr><tr><td><b>szText</b></td><td><code>I'm out of mana.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1468163064</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Out of mana, once again.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2289418585</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line19.BAE4.Sor.M</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line19.BAE4.Sor.M</code></td></tr><tr><td><b>szText</b></td><td><code>Out of mana, once again.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2289418585</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I'm low on precious mana.</code></td></tr><tr><td><b>hLabel</b></td><td><code>524714609</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line20.BAE4.Sor.M</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line20.BAE4.Sor.M</code></td></tr><tr><td><b>szText</b></td><td><code>I'm low on precious mana.</code></td></tr><tr><td><b>hLabel</b></td><td><code>524714609</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

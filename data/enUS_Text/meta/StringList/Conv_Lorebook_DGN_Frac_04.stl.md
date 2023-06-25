@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DisembodiedVoice</code></td></tr><tr><td><b>szText</b></td><td><code>Journal Entry</code></td></tr><tr><td><b>hLabel</b></td><td><code>155764431</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>This might very well be my last journal. The Knights Penitent have fallen. I hid and listened to the screams as they were torn and devoured by the creatures. I didn’t want to end up like the others, nothing but a blood splatter on the floor.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1562437461</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.B2A6C</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.B2A6C</code></td></tr><tr><td><b>szText</b></td><td><code>This might very well be my last journal. The Knights Penitent have fallen. I hid and listened to the screams as they were torn and devoured by the creatures. I didn’t want to end up like the others, nothing but a blood splatter on the floor.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1562437461</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.B2A6C</code></td></tr><tr><td><b>szText</b></td><td><code>The city walls that kept us safe have trapped us in with them. I pray the Cathedral sends reinforcements soon and will have mercy when they know of my cowardice.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145373399</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>The city walls that kept us safe have trapped us in with them. I pray the Cathedral sends reinforcements soon and will have mercy when they know of my cowardice.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145373399</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.B2A6C</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.B2A6C</code></td></tr><tr><td><b>szText</b></td><td><code>The sounds have stopped. I’m going to try to escape.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2433342041</code></td></tr></table>

@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>name</code></td></tr><tr><td><b>szText</b></td><td><code>Perfect Storm</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}Storm{/c} Skills that you cast grant {c_number}{SF_4}{/c} Spirit and deal {c_number}[{SF_1} * 100|%x|]{/c} increased damage when damaging a {c_important}{u}Vulnerable{/u}{/c}, Immobilized or Slowed enemy.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>{c_important}Storm{/c} Skills that you cast grant {c_number}{SF_4}{/c} Spirit and deal {c_number}[{SF_1} * 100|%x|]{/c} increased damage when damaging a {c_important}{u}Vulnerable{/u}{/c}, Immobilized or Slowed enemy.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

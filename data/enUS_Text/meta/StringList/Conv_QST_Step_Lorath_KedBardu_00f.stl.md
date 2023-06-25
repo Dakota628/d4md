@@ -6,16 +6,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line39.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>(scoff) "Is he insane?" you mean.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2944384805</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir39.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Humorless. Grieved.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4290112242</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4290112242</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir39.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Humorless. Grieved.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line41.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Elias was an exceptional mage. He would plunge through fire and shite in search of the truth...and very often found it.</code></td></tr><tr><td><b>hLabel</b></td><td><code>871345662</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Elias was an exceptional mage. He would plunge through fire and shite in search of the truth...and very often found it.</code></td></tr><tr><td><b>hLabel</b></td><td><code>871345662</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line41.6D03F</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir41.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Grieved, but intentionally vague. Hiding something.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2217073099</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Whatever "truth" he has found in Lilith, only he can say the why of it.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3454281600</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line43.6D03F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line43.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Whatever "truth" he has found in Lilith, only he can say the why of it.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3454281600</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir43.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Grieved. Grim. Slightly evasive on the end. (Not answering question.)</code></td></tr><tr><td><b>hLabel</b></td><td><code>505041741</code></td></tr></table>

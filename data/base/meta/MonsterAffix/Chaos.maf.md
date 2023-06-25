@@ -1,4 +1,4 @@
 <h1>data/base/meta/MonsterAffix/Chaos.maf</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/MonsterAffix/Chaos.maf</td></tr><tr><td><b>Type</b></td><td>MonsterAffixDefinition</td></tr><tr><td><b>SNO ID</b></td><td>674130</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>bShown</b></td><td><code>1</code></td></tr><tr><td><b>snoSpawnPower</b></td><td><a href="..\Power\MonsterAffix_Chaos.pow">[DT_SNO] Power: "MonsterAffix_Chaos"</a></td></tr><tr><td><b>hIcon</b></td><td><code>2553881315</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>bShown</b></td><td><code>1</code></td></tr><tr><td><b>snoSpawnPower</b></td><td><a href="..\Power\MonsterAffix_Chaos.pow.md">[DT_SNO] Power: "MonsterAffix_Chaos"</a></td></tr><tr><td><b>hIcon</b></td><td><code>2553881315</code></td></tr></table>
 

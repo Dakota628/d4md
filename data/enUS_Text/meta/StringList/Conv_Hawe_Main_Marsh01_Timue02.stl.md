@@ -30,22 +30,22 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.9118B</code></td></tr><tr><td><b>szText</b></td><td><code>Cryptic. Making up her mind for the last part of the line--she doesn't want to send a child to her death.</code></td></tr><tr><td><b>hLabel</b></td><td><code>823455377</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line33.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>I saw my mother possessed by Lilith. Driven so mad it killed her. I’m not a child anymore.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3785569286</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I saw my mother possessed by Lilith. Driven so mad it killed her. I’m not a child anymore.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3785569286</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line33.6DE47</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir33.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Firm, spitting it all out</code></td></tr><tr><td><b>hLabel</b></td><td><code>836329427</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line19.9118B</code></td></tr><tr><td><b>szText</b></td><td><code>(sigh) So be it.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3608570997</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>(sigh) So be it.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3608570997</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line19.9118B</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Considering this revelation from Neyrelle. Giving in, but not exactly happy about it. She's still concerned of putting a child in harm's way.</code></td></tr><tr><td><b>hLabel</b></td><td><code>659331138</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.9118B</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.9118B</code></td></tr><tr><td><b>szText</b></td><td><code>Considering this revelation from Neyrelle. Giving in, but not exactly happy about it. She's still concerned of putting a child in harm's way.</code></td></tr><tr><td><b>hLabel</b></td><td><code>659331138</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line45.9118B</code></td></tr><tr><td><b>szText</b></td><td><code>If this Elias made a pact, it was with the Tree of Whispers.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1743976468</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir45.9118B</code></td></tr><tr><td><b>szText</b></td><td><code>Considering this revelation from Neyrelle. Giving in, but not exactly happy about it. She's still concerned of putting a child in harm's way.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3089703905</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3089703905</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir45.9118B</code></td></tr><tr><td><b>szText</b></td><td><code>Considering this revelation from Neyrelle. Giving in, but not exactly happy about it. She's still concerned of putting a child in harm's way.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line31.9118B</code></td></tr><tr><td><b>szText</b></td><td><code>There are many paths to reach it, but the nearest is in Yngovani.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1204301871</code></td></tr></table>

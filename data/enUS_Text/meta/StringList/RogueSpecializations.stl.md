@@ -3,13 +3,13 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Specializations</code></td></tr><tr><td><b>hLabel</b></td><td><code>2820719067</code></td></tr><tr><td><b>szLabel</b></td><td><code>SpecializationsHeader</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Spec1_UnlockRequirement</code></td></tr><tr><td><b>szText</b></td><td><code>To unlock, reach {c_white}level {s1}{/c} and visit the trainer in{c_white}{icon:Quest_Priority_Progress, 2}Menestad{/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1476910232</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1476910232</code></td></tr><tr><td><b>szLabel</b></td><td><code>Spec1_UnlockRequirement</code></td></tr><tr><td><b>szText</b></td><td><code>To unlock, reach {c_white}level {s1}{/c} and visit the trainer in{c_white}{icon:Quest_Priority_Progress, 2}Menestad{/c}.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ClarityCountdownTimer</code></td></tr><tr><td><b>szText</b></td><td><code>{s1}s</code></td></tr><tr><td><b>hLabel</b></td><td><code>163744090</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Spec2_UnlockRequirement</code></td></tr><tr><td><b>szText</b></td><td><code>To unlock, reach {c_white}level {s1}{/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>149045977</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>To unlock, reach {c_white}level {s1}{/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>149045977</code></td></tr><tr><td><b>szLabel</b></td><td><code>Spec2_UnlockRequirement</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Spec3_UnlockRequirement</code></td></tr><tr><td><b>szText</b></td><td><code>To unlock, reach {c_white}level {s1}{/c}. </code></td></tr><tr><td><b>hLabel</b></td><td><code>3116149018</code></td></tr></table>

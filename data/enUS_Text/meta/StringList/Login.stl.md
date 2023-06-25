@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Password</code></td></tr><tr><td><b>szText</b></td><td><code>Password</code></td></tr><tr><td><b>hLabel</b></td><td><code>2621674035</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Login</code></td></tr><tr><td><b>szText</b></td><td><code>Login</code></td></tr><tr><td><b>hLabel</b></td><td><code>132184217</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>132184217</code></td></tr><tr><td><b>szLabel</b></td><td><code>Login</code></td></tr><tr><td><b>szText</b></td><td><code>Login</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>RememberAccount</code></td></tr><tr><td><b>szText</b></td><td><code>Remember Account</code></td></tr><tr><td><b>hLabel</b></td><td><code>3381440572</code></td></tr></table>
@@ -18,13 +18,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Submit</code></td></tr><tr><td><b>szText</b></td><td><code>Submit</code></td></tr><tr><td><b>hLabel</b></td><td><code>347999764</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3763898</code></td></tr><tr><td><b>szLabel</b></td><td><code>Exit</code></td></tr><tr><td><b>szText</b></td><td><code>Exit</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Exit</code></td></tr><tr><td><b>szText</b></td><td><code>Exit</code></td></tr><tr><td><b>hLabel</b></td><td><code>3763898</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Back</code></td></tr><tr><td><b>szText</b></td><td><code>Back</code></td></tr><tr><td><b>hLabel</b></td><td><code>3630833</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Back</code></td></tr><tr><td><b>hLabel</b></td><td><code>3630833</code></td></tr><tr><td><b>szLabel</b></td><td><code>Back</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Cancel</code></td></tr><tr><td><b>szText</b></td><td><code>Cancel</code></td></tr><tr><td><b>hLabel</b></td><td><code>3993502566</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3993502566</code></td></tr><tr><td><b>szLabel</b></td><td><code>Cancel</code></td></tr><tr><td><b>szText</b></td><td><code>Cancel</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>XB_SignedInAs</code></td></tr><tr><td><b>szText</b></td><td><code>Signed in as {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>466604542</code></td></tr></table>

@@ -3,9 +3,9 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>name</code></td></tr><tr><td><b>szText</b></td><td><code>Wind Shear</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><pre>{c_label}Generate Spirit:{/c_label} {c_resource}{SF_5}{/c_resource}
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr><tr><td><b>szText</b></td><td><pre>{c_label}Generate Spirit:{/c_label} {c_resource}{SF_5}{/c_resource}
 {if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
-{/if}Conjure a piercing blade of wind, dealing {c_number}{Payload:DAMAGE}{/c} damage.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr></table>
+{/if}Conjure a piercing blade of wind, dealing {c_number}{Payload:DAMAGE}{/c} damage.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr><tr><td><b>szText</b></td><td><pre>
@@ -24,10 +24,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod0_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Fierce Wind Shear</code></td></tr><tr><td><b>hLabel</b></td><td><code>2452871472</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod1_Description</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}Wind Shear{/c} grants {c_number}{SF_4}{/c} additional Spirit for each enemy hit beyond the first.</code></td></tr><tr><td><b>hLabel</b></td><td><code>628601524</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>{c_important}Wind Shear{/c} grants {c_number}{SF_4}{/c} additional Spirit for each enemy hit beyond the first.</code></td></tr><tr><td><b>hLabel</b></td><td><code>628601524</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod1_Description</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod1_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Wild Wind Shear</code></td></tr><tr><td><b>hLabel</b></td><td><code>2492006865</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Wild Wind Shear</code></td></tr><tr><td><b>hLabel</b></td><td><code>2492006865</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod1_Name</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

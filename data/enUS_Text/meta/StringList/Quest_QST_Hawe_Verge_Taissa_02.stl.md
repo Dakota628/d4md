@@ -1,12 +1,12 @@
 <h1>data/enUS_Text/meta/StringList/Quest_QST_Hawe_Verge_Taissa_02.stl</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/enUS_Text/meta/StringList/Quest_QST_Hawe_Verge_Taissa_02.stl</td></tr><tr><td><b>Type</b></td><td>StringListDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1202827</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Past Regrets</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Past Regrets</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>Taissa must summon aid in her attempts to rid herself of the whispers of Andariel.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Taissa must summon aid in her attempts to rid herself of the whispers of Andariel.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase18Description</code></td></tr><tr><td><b>szText</b></td><td><code>I have collected everything Taissa needs for her task. She has gone on ahead, but asked me to meet her near the Tree of Whispers.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3094831582</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I have collected everything Taissa needs for her task. She has gone on ahead, but asked me to meet her near the Tree of Whispers.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3094831582</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase18Description</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback69Header</code></td></tr><tr><td><b>szText</b></td><td><code>Bring the Oracle Eyes to Taissa</code></td></tr><tr><td><b>hLabel</b></td><td><code>2327828677</code></td></tr></table>
@@ -15,7 +15,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback104Header</code></td></tr><tr><td><b>szText</b></td><td><code>Bring the Oracle Eyes to Taissa</code></td></tr><tr><td><b>hLabel</b></td><td><code>2993560203</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase26Description</code></td></tr><tr><td><b>szText</b></td><td><code>Taissa will soon begin her ritual to summon the other witches of Hawezar to her. I can only hope they can give her whatever advice she needs to defeat the whispers of Andariel.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2783948957</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2783948957</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase26Description</code></td></tr><tr><td><b>szText</b></td><td><code>Taissa will soon begin her ritual to summon the other witches of Hawezar to her. I can only hope they can give her whatever advice she needs to defeat the whispers of Andariel.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback25Header</code></td></tr><tr><td><b>szText</b></td><td><code>Enter the Eldritch Conclave</code></td></tr><tr><td><b>hLabel</b></td><td><code>2781844029</code></td></tr></table>

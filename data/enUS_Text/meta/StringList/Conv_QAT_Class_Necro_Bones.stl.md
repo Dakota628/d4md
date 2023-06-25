@@ -3,13 +3,13 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DisembodiedVoice</code></td></tr><tr><td><b>szText</b></td><td><code>Maltorius</code></td></tr><tr><td><b>hLabel</b></td><td><code>155764431</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.146C80</code></td></tr><tr><td><b>szText</b></td><td><code>Very good, these will do. You’ll need the essence of life, a spirit, to transform your Golem.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2399035885</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2399035885</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.146C80</code></td></tr><tr><td><b>szText</b></td><td><code>Very good, these will do. You’ll need the essence of life, a spirit, to transform your Golem.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.146C80</code></td></tr><tr><td><b>szText</b></td><td><code>Pleased, happy</code></td></tr><tr><td><b>hLabel</b></td><td><code>3744763322</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1736575919</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.146C80</code></td></tr><tr><td><b>szText</b></td><td><code>There is a vile artifact buried in a hillside not far from here. Its purpose is to trap lost souls, leeching magic from them. Free those souls and perhaps they’ll help you in return.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.146C80</code></td></tr><tr><td><b>szText</b></td><td><code>There is a vile artifact buried in a hillside not far from here. Its purpose is to trap lost souls, leeching magic from them. Free those souls and perhaps they’ll help you in return.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1736575919</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.146C80</code></td></tr><tr><td><b>szText</b></td><td><code>annoyed at the artifact, but encouraging to the player</code></td></tr><tr><td><b>hLabel</b></td><td><code>3082303356</code></td></tr></table>

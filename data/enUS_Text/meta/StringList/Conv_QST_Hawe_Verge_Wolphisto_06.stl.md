@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.ACEF6</code></td></tr><tr><td><b>szText</b></td><td><code>The day of reckoning will come, and your true friends will be revealed.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145954286</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.ACEF6</code></td></tr><tr><td><b>szText</b></td><td><code>Disappointed, annoyed--but he expected the player to turn him down. Emphasis on "TRUE" here as a retort to what the Player says right before this.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1713873947</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1713873947</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.ACEF6</code></td></tr><tr><td><b>szText</b></td><td><code>Disappointed, annoyed--but he expected the player to turn him down. Emphasis on "TRUE" here as a retort to what the Player says right before this.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.ACEF6</code></td></tr><tr><td><b>szText</b></td><td><code>Now take the portal back to your allies.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2433922928</code></td></tr></table>

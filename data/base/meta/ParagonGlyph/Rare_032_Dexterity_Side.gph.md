@@ -5,8 +5,8 @@
 <code>1</code>
 <code>0</code>
 <code>0</code>
-</td></tr><tr><td><b>arAffixes</b></td><td><a href="..\ParagonGlyphAffix\WeaponSwapDamage_Dexterity_Side.gaf">[DT_SNO] ParagonGlyphAffix: "WeaponSwapDamage_Dexterity_Side"</a>
-<a href="..\ParagonGlyphAffix\Power_032_Dexterity_Side.gaf">[DT_SNO] ParagonGlyphAffix: "Power_032_Dexterity_Side"</a>
+</td></tr><tr><td><b>arAffixes</b></td><td><a href="..\ParagonGlyphAffix\WeaponSwapDamage_Dexterity_Side.gaf.md">[DT_SNO] ParagonGlyphAffix: "WeaponSwapDamage_Dexterity_Side"</a>
+<a href="..\ParagonGlyphAffix\Power_032_Dexterity_Side.gaf.md">[DT_SNO] ParagonGlyphAffix: "Power_032_Dexterity_Side"</a>
 </td></tr><tr><td><b>hIcon</b></td><td><code>1236117199</code></td></tr><tr><td><b>nStartingSize</b></td><td><code>3</code></td></tr><tr><td><b>unk_5bc7861</b></td><td><code>15</code>
 </td></tr></table>
 

@@ -3,22 +3,22 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"Why do you stay here?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1512616685</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.83542</code></td></tr><tr><td><b>szText</b></td><td><code>Much safer than stumbling through all this fog. These huts are more than just stone.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Much safer than stumbling through all this fog. These huts are more than just stone.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1512616685</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.83542</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4095552623</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.83542</code></td></tr><tr><td><b>szText</b></td><td><code>My ancestors blessed them to ward off storm and spirit alike.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.83542</code></td></tr><tr><td><b>szText</b></td><td><code>My ancestors blessed them to ward off storm and spirit alike.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4095552623</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.8354D</code></td></tr><tr><td><b>szText</b></td><td><code>When the wicked wind starts to moan, best to shelter in the safety of stone.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2383521315</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2383521315</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.8354D</code></td></tr><tr><td><b>szText</b></td><td><code>When the wicked wind starts to moan, best to shelter in the safety of stone.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4246408272</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.8354D</code></td></tr><tr><td><b>szText</b></td><td><code>Singing--a children's rhyme.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.8354D</code></td></tr><tr><td><b>szText</b></td><td><code>Singing--a children's rhyme.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4246408272</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.83542</code></td></tr><tr><td><b>szText</b></td><td><code>Right you are, lass.</code></td></tr><tr><td><b>hLabel</b></td><td><code>671489907</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.83542</code></td></tr><tr><td><b>szText</b></td><td><code>Proud</code></td></tr><tr><td><b>hLabel</b></td><td><code>2534376864</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2534376864</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.83542</code></td></tr><tr><td><b>szText</b></td><td><code>Proud</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

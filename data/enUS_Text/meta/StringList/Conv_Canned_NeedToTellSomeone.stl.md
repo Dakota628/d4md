@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Others should know about this.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3718003623</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>I must inform the others.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3796274409</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I must inform the others.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3796274409</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.BAE4</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>The others need to know about this.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3874545195</code></td></tr></table>

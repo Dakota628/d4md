@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback5Header</code></td></tr><tr><td><b>szText</b></td><td><code>Return the Mechanical Box to the Pedestal: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>94135467</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2242169432</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback11Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat {MONSTER}</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback11Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat {MONSTER}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2242169432</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback21Header</code></td></tr><tr><td><b>szText</b></td><td><code>Travel to the {LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1910939449</code></td></tr></table>

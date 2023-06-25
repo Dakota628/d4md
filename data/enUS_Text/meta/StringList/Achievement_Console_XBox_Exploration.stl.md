@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Desc</code></td></tr><tr><td><b>szText</b></td><td><code>Explore all of Estuar.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_236793</code></td></tr><tr><td><b>szText</b></td><td><code>Explore Fractured Peaks</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034253039</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Explore Fractured Peaks</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034253039</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_236793</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_236794</code></td></tr><tr><td><b>szText</b></td><td><code>Explore Scosglen</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034253040</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1034253040</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_236794</code></td></tr><tr><td><b>szText</b></td><td><code>Explore Scosglen</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_236795</code></td></tr><tr><td><b>szText</b></td><td><code>Explore Dry Steppes</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034253041</code></td></tr></table>

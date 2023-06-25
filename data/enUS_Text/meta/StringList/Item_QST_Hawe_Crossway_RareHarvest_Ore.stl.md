@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Gem-laden Geode</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Description</code></td></tr><tr><td><b>szText</b></td><td><code>A geode with several intact gems inside.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2789670820</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>A geode with several intact gems inside.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2789670820</code></td></tr><tr><td><b>szLabel</b></td><td><code>Description</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Flavor</code></td></tr><tr><td><b>szText</b></td><td><code>This is a rare, gem-laden geode. A local silversmith sells the necessary tools crack this open into several gems.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4123507722</code></td></tr></table>

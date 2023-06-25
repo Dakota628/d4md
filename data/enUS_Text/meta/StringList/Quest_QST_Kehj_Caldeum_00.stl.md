@@ -30,19 +30,19 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback17Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Prava</code></td></tr><tr><td><b>hLabel</b></td><td><code>1401042654</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>A group of Pale Knights led by Prava is under attack by demonic forces. Despite our differences in the past, we must aid her.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3483011544</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase30Description</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase30Description</code></td></tr><tr><td><b>szText</b></td><td><code>A group of Pale Knights led by Prava is under attack by demonic forces. Despite our differences in the past, we must aid her.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3483011544</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase30OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the demons attacking Prava in Caldeum</code></td></tr><tr><td><b>hLabel</b></td><td><code>2553365024</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3652748609</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback29Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the demons attacking Prava</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback29Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the demons attacking Prava</code></td></tr><tr><td><b>hLabel</b></td><td><code>3652748609</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3294321853</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase35Description</code></td></tr><tr><td><b>szText</b></td><td><code>We are too late. Lilith has opened the Gates to the Burning Hells, and now demons are pouring into Caldeum. We must fight our way through and reach our goal.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase35Description</code></td></tr><tr><td><b>szText</b></td><td><code>We are too late. Lilith has opened the Gates to the Burning Hells, and now demons are pouring into Caldeum. We must fight our way through and reach our goal.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3294321853</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Search for the Gates of Hell in Caldeum</code></td></tr><tr><td><b>hLabel</b></td><td><code>762455717</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase35OutsideSubzoneHeader</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase35OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Search for the Gates of Hell in Caldeum</code></td></tr><tr><td><b>hLabel</b></td><td><code>762455717</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback34Header</code></td></tr><tr><td><b>szText</b></td><td><code>Search for the Gates of Hell</code></td></tr><tr><td><b>hLabel</b></td><td><code>1159146077</code></td></tr></table>
@@ -60,19 +60,19 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase82Description</code></td></tr><tr><td><b>szText</b></td><td><code>The Angel Inarius has landed in Caldeum, we should go to him. </code></td></tr><tr><td><b>hLabel</b></td><td><code>3193730079</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase82OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Find Inarius in Caldeum</code></td></tr><tr><td><b>hLabel</b></td><td><code>2007542855</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2007542855</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase82OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Find Inarius in Caldeum</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback84Header</code></td></tr><tr><td><b>szText</b></td><td><code>Follow Inarius</code></td></tr><tr><td><b>hLabel</b></td><td><code>3797963458</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I should find out what the Horadrim are talking about. </code></td></tr><tr><td><b>hLabel</b></td><td><code>862957030</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase98Description</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase98Description</code></td></tr><tr><td><b>szText</b></td><td><code>I should find out what the Horadrim are talking about. </code></td></tr><tr><td><b>hLabel</b></td><td><code>862957030</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Speak with Lorath in Caldeum</code></td></tr><tr><td><b>hLabel</b></td><td><code>3500332526</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase98OutsideSubzoneHeader</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Speak with Lorath</code></td></tr><tr><td><b>hLabel</b></td><td><code>3046170086</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback97Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback97Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Lorath</code></td></tr><tr><td><b>hLabel</b></td><td><code>3046170086</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase110OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat cultists hiding in Caldeum</code></td></tr><tr><td><b>hLabel</b></td><td><code>258596335</code></td></tr></table>
@@ -81,25 +81,25 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase128OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Open the gate</code></td></tr><tr><td><b>hLabel</b></td><td><code>176028824</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Open the gate</code></td></tr><tr><td><b>hLabel</b></td><td><code>1910536848</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback127Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1910536848</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback127Header</code></td></tr><tr><td><b>szText</b></td><td><code>Open the gate</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase152Description</code></td></tr><tr><td><b>szText</b></td><td><code>We are too late. Lilith has opened the Gates to the Burning Hells, and now demons are pouring into Caldeum. We must fight our way through and reach our goal.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2683226509</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2083847541</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase152OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Open the alley gate in Caldeum</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase152OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Open the alley gate in Caldeum</code></td></tr><tr><td><b>hLabel</b></td><td><code>2083847541</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback156Header</code></td></tr><tr><td><b>szText</b></td><td><code>Open the alley gate</code></td></tr><tr><td><b>hLabel</b></td><td><code>3920346226</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Open the alley gate</code></td></tr><tr><td><b>hLabel</b></td><td><code>3920346226</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback156Header</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>The Angel Inarius has landed in Caldeum, we should go to him. </code></td></tr><tr><td><b>hLabel</b></td><td><code>4137047860</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase159Description</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase159Description</code></td></tr><tr><td><b>szText</b></td><td><code>The Angel Inarius has landed in Caldeum, we should go to him. </code></td></tr><tr><td><b>hLabel</b></td><td><code>4137047860</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase159OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Find Inarius in Caldeum</code></td></tr><tr><td><b>hLabel</b></td><td><code>3012548348</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Find Inarius in Caldeum</code></td></tr><tr><td><b>hLabel</b></td><td><code>3012548348</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase159OutsideSubzoneHeader</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Find Inarius with your allies</code></td></tr><tr><td><b>hLabel</b></td><td><code>3325174700</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback213Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback213Header</code></td></tr><tr><td><b>szText</b></td><td><code>Find Inarius with your allies</code></td></tr><tr><td><b>hLabel</b></td><td><code>3325174700</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

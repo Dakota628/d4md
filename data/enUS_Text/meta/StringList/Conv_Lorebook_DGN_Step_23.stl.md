@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.EECAC</code></td></tr><tr><td><b>szText</b></td><td><code>… blood is the ideal medium for inscribing the runes. The circle will remain dormant until activated, at which point all the energy stored in the blood ink will be channeled into the spell.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567831608</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.EECAC</code></td></tr><tr><td><b>szText</b></td><td><code>It is a crude means of transport, especially compared to stone waypoints which can be used time and time again. But for destinations across planes, no better solution has been configured. See the index for related magical studies...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150767546</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>It is a crude means of transport, especially compared to stone waypoints which can be used time and time again. But for destinations across planes, no better solution has been configured. See the index for related magical studies...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150767546</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.EECAC</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

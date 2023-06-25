@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>On edge. He's referring to a wall of fire that bars the way forward.</code></td></tr><tr><td><b>hLabel</b></td><td><code>823040159</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>We'll know soon. Stand back, and I'll dispel the flames.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2382962613</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>We'll know soon. Stand back, and I'll dispel the flames.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2382962613</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.6DE47</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Confident</code></td></tr><tr><td><b>hLabel</b></td><td><code>4245849570</code></td></tr></table>

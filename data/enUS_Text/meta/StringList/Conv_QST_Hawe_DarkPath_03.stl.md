@@ -18,7 +18,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir12.11F5B6</code></td></tr><tr><td><b>szText</b></td><td><code>muttering; trying to convince yourself and not quite succeeding</code></td></tr><tr><td><b>hLabel</b></td><td><code>2290519259</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4132464145</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line15.11F5B6</code></td></tr><tr><td><b>szText</b></td><td><code>Blessed Akarat protect me...</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.11F5B6</code></td></tr><tr><td><b>szText</b></td><td><code>Blessed Akarat protect me...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4132464145</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

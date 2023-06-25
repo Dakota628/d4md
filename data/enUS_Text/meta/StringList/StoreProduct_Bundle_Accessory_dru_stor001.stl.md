@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Description</code></td></tr><tr><td><b>szText</b></td><td><code>Bold druids who believe the seas are their birthright plumb its unfathomable depths. The successful return more powerful, while those who fail leave treasures for the next.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2789670820</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>What was lost to Sanctuary's vast seas is now yours.</code></td></tr><tr><td><b>hLabel</b></td><td><code>138338510</code></td></tr><tr><td><b>szLabel</b></td><td><code>Quote</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Quote</code></td></tr><tr><td><b>szText</b></td><td><code>What was lost to Sanctuary's vast seas is now yours.</code></td></tr><tr><td><b>hLabel</b></td><td><code>138338510</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Series</code></td></tr><tr><td><b>szText</b></td><td><code>"Heir to the Sea" Accessories</code></td></tr><tr><td><b>hLabel</b></td><td><code>329595531</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>329595531</code></td></tr><tr><td><b>szLabel</b></td><td><code>Series</code></td></tr><tr><td><b>szText</b></td><td><code>"Heir to the Sea" Accessories</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

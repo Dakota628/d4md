@@ -9,16 +9,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><code>Krystyna has asked for help finding her husband, Feodor. She saw him flee into the woods with another woman. </code></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>514698856</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback2Header</code></td></tr><tr><td><b>szText</b></td><td><code>Help Krystyna find her husband Feodor</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Help Krystyna find her husband Feodor</code></td></tr><tr><td><b>hLabel</b></td><td><code>514698856</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback2Header</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3388789226</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase5Description</code></td></tr><tr><td><b>szText</b></td><td><code>Krystyna has asked for help finding her husband, Feodor. Upon finding him, his mangled body was somehow still alive. </code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Krystyna has asked for help finding her husband, Feodor. Upon finding him, his mangled body was somehow still alive. </code></td></tr><tr><td><b>hLabel</b></td><td><code>3388789226</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase5Description</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Confront the mysterious woman</code></td></tr><tr><td><b>hLabel</b></td><td><code>3097634794</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback4Header</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase8Description</code></td></tr><tr><td><b>szText</b></td><td><code>I have slain the Succubus and should return to Krystyna. </code></td></tr><tr><td><b>hLabel</b></td><td><code>1557588493</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1557588493</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase8Description</code></td></tr><tr><td><b>szText</b></td><td><code>I have slain the Succubus and should return to Krystyna. </code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback7Header</code></td></tr><tr><td><b>szText</b></td><td><code>Return to Krystyna</code></td></tr><tr><td><b>hLabel</b></td><td><code>2677071405</code></td></tr></table>

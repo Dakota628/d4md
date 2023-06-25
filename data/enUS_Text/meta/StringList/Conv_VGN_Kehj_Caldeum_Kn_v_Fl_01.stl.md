@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.B67DA</code></td></tr><tr><td><b>szText</b></td><td><code>yelled, terrified, in battle</code></td></tr><tr><td><b>hLabel</b></td><td><code>3425423944</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Stand your ground, recruit!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4095772785</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.8998F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.8998F</code></td></tr><tr><td><b>szText</b></td><td><code>Stand your ground, recruit!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4095772785</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.8998F</code></td></tr><tr><td><b>szText</b></td><td><code>yelled, in battle</code></td></tr><tr><td><b>hLabel</b></td><td><code>1663692446</code></td></tr></table>

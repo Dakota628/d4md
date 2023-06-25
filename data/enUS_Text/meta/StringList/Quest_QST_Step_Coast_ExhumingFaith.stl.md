@@ -3,22 +3,22 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Exhuming Faith</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>Walk the Zakarum pilgrim path for great rewards.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>Walk the Zakarum pilgrim path for great rewards.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I've found a dead monk's journal along with a note giving cryptic clues to a scroll of great power hidden on the coast of Kotun's Reach. I should search for the first location in the note.</code></td></tr><tr><td><b>hLabel</b></td><td><code>819754710</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase10Description</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase10Description</code></td></tr><tr><td><b>szText</b></td><td><code>I've found a dead monk's journal along with a note giving cryptic clues to a scroll of great power hidden on the coast of Kotun's Reach. I should search for the first location in the note.</code></td></tr><tr><td><b>hLabel</b></td><td><code>819754710</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback9Header</code></td></tr><tr><td><b>szText</b></td><td><code>Find the Zakarum Trail Marker in Khotun's Reach</code></td></tr><tr><td><b>hLabel</b></td><td><code>965040047</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>965040047</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback9Header</code></td></tr><tr><td><b>szText</b></td><td><code>Find the Zakarum Trail Marker in Khotun's Reach</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase13Description</code></td></tr><tr><td><b>szText</b></td><td><code>I've found the great wreck listed in the note. Now I need to find the marker on an overlook.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3283521273</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback12Header</code></td></tr><tr><td><b>szText</b></td><td><code>Find the Zakarum Trail Marker on the overlook</code></td></tr><tr><td><b>hLabel</b></td><td><code>3533637401</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3533637401</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback12Header</code></td></tr><tr><td><b>szText</b></td><td><code>Find the Zakarum Trail Marker on the overlook</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Reading the scroll summoned a demon.  Perhaps this was the demon's way of tricking people into bringing it to Sanctuary.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3605204478</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase27Description</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase27Description</code></td></tr><tr><td><b>szText</b></td><td><code>Reading the scroll summoned a demon.  Perhaps this was the demon's way of tricking people into bringing it to Sanctuary.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3605204478</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback26Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the demon</code></td></tr><tr><td><b>hLabel</b></td><td><code>4073311998</code></td></tr></table>
@@ -33,10 +33,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback49Header</code></td></tr><tr><td><b>szText</b></td><td><code>Read the first Trail Marker</code></td></tr><tr><td><b>hLabel</b></td><td><code>2990288643</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Read the second Trail Marker</code></td></tr><tr><td><b>hLabel</b></td><td><code>2208717469</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback52Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback52Header</code></td></tr><tr><td><b>szText</b></td><td><code>Read the second Trail Marker</code></td></tr><tr><td><b>hLabel</b></td><td><code>2208717469</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>20100349</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase53Description</code></td></tr><tr><td><b>szText</b></td><td><code>I've found the lone tree. The monk's scroll must be nearby.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase53Description</code></td></tr><tr><td><b>szText</b></td><td><code>I've found the lone tree. The monk's scroll must be nearby.</code></td></tr><tr><td><b>hLabel</b></td><td><code>20100349</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback56Header</code></td></tr><tr><td><b>szText</b></td><td><code>Find the final location</code></td></tr><tr><td><b>hLabel</b></td><td><code>3079622049</code></td></tr></table>

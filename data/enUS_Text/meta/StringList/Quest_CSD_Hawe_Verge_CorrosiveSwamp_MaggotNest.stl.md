@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback14Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay Maggots to draw out the Maggot Queen</code></td></tr><tr><td><b>hLabel</b></td><td><code>1821606043</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback11Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the Maggot Queen</code></td></tr><tr><td><b>hLabel</b></td><td><code>2242169432</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2242169432</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback11Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the Maggot Queen</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback19Header</code></td></tr><tr><td><b>szText</b></td><td><code>Pick up the Swamp Ichor</code></td></tr><tr><td><b>hLabel</b></td><td><code>3983978592</code></td></tr></table>

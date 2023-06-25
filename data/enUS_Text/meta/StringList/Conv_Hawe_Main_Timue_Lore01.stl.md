@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.9118B</code></td></tr><tr><td><b>szText</b></td><td><code>Taissa came today and I asked why she was away for so long. Years...we argued years ago and she didn't come back.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1513726556</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.9118B</code></td></tr><tr><td><b>szText</b></td><td><code>She said she was here two weeks ago. I don't remember.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4096662494</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>She said she was here two weeks ago. I don't remember.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4096662494</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.9118B</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.9118B</code></td></tr><tr><td><b>szText</b></td><td><code>I remember the swamp men. They danced with me. Taissa says they didn't. She says--I must write it all down.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2384631136</code></td></tr></table>

@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.125E21</code></td></tr><tr><td><b>szText</b></td><td><code>You’re on our turf.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2396630087</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.125E25</code></td></tr><tr><td><b>szText</b></td><td><code>Funny. I was thinkin’ it could be ours if we killed the sad sots squattin’ in it.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734170125</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Funny. I was thinkin’ it could be ours if we killed the sad sots squattin’ in it.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734170125</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.125E25</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.125E21</code></td></tr><tr><td><b>szText</b></td><td><code>Last fool to try is still hanging by the docks. Now get the hell out of my face. Unless you’d care to join him?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1071710155</code></td></tr></table>

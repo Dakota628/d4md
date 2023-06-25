@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback84Header</code></td></tr><tr><td><b>szText</b></td><td><code>Stand on the pressure plates to satiate them: {DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3797963458</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Slay the remaining enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>2781844029</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback25Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback25Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the remaining enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>2781844029</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback207Header</code></td></tr><tr><td><b>szText</b></td><td><code>Satiate the plates before the time runs out</code></td></tr><tr><td><b>hLabel</b></td><td><code>232341967</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Satiate the plates before the time runs out</code></td></tr><tr><td><b>hLabel</b></td><td><code>232341967</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback207Header</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

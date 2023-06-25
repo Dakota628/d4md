@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.F738E</code></td></tr><tr><td><b>szText</b></td><td><code>Well enough, so long as Donan speaks for them. He knows the ‘Glen, and bled for it too.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567310804</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Shrugging. Respects Donan.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430197761</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F738E</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F738E</code></td></tr><tr><td><b>szText</b></td><td><code>Shrugging. Respects Donan.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430197761</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.F738E</code></td></tr><tr><td><b>szText</b></td><td><code>Cathedral’s lucky to have him. We’ll leave it at that.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150246742</code></td></tr></table>

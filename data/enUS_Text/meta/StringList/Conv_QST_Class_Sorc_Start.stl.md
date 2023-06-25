@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.14656B</code></td></tr><tr><td><b>szText</b></td><td><code>I’m looking for a book, known as the Forgotten Codex, said to be in the archives. According to legend, the Forgotten Codex is a compendium of enchantment techniques developed by the Ennead Mage Clan. Some say Zoltun Kulle himself was one of the authors!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1736525809</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.14656B</code></td></tr><tr><td><b>szText</b></td><td><code>Unfortunately, the place is overrun with demons beyond my skills. If you can retrieve the Codex, I can teach you the magic it contains. Could be an excellent outcome for both of us, eh?</code></td></tr><tr><td><b>hLabel</b></td><td><code>4044113207</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4044113207</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line9.14656B</code></td></tr><tr><td><b>szText</b></td><td><code>Unfortunately, the place is overrun with demons beyond my skills. If you can retrieve the Codex, I can teach you the magic it contains. Could be an excellent outcome for both of us, eh?</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I'll see what I can do.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1896128250</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line15.BAE4.Sor</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.BAE4.Sor</code></td></tr><tr><td><b>szText</b></td><td><code>I'll see what I can do.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1896128250</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

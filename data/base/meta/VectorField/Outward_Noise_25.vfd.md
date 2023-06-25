@@ -1,6 +1,6 @@
 <h1>data/base/meta/VectorField/Outward_Noise_25.vfd</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/VectorField/Outward_Noise_25.vfd</td></tr><tr><td><b>Type</b></td><td>VectorFieldDefinition</td></tr><tr><td><b>SNO ID</b></td><td>479286</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_7ed9e42</b></td><td><code>25</code></td></tr><tr><td><b>flMagMin</b></td><td><code>0.28331488370895386</code></td></tr><tr><td><b>flMagMax</b></td><td><code>35.63480758666992</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wvExt</b></td><td>Vector(510.000000, 510.000000, 510.000000)</td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>flMagMin</b></td><td><code>0.28331488370895386</code></td></tr><tr><td><b>flMagMax</b></td><td><code>35.63480758666992</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wvExt</b></td><td>Vector(510.000000, 510.000000, 510.000000)</td></tr></table>
 
 </td></tr><tr><td><b>ptSamples</b></td><td>Vector(-5.361158, -2.894683, -8.340128)
 Vector(-8.796046, -5.636337, -4.107578)
@@ -15627,5 +15627,5 @@ Vector(-12.609954, 5.737173, 2.759875)
 Vector(-6.739360, 4.470996, 3.092603)
 Vector(2.739379, 4.661794, -5.915116)
 Vector(8.452734, 8.736980, -13.357896)
-</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>25</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>25</code></td></tr></table>
+</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>25</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>25</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>25</code></td></tr></table>
 

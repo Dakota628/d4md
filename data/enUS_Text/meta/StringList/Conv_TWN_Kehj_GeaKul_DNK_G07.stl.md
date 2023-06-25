@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.125DFB</code></td></tr><tr><td><b>szText</b></td><td><code>Feels so soft... like a flower, almost? (giggle) Do you hear that?</code></td></tr><tr><td><b>hLabel</b></td><td><code>2396630763</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3742358200</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.125DFB</code></td></tr><tr><td><b>szText</b></td><td><code>drugged on opium, aloof</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.125DFB</code></td></tr><tr><td><b>szText</b></td><td><code>drugged on opium, aloof</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742358200</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>It’s better in here... (giggle) Soft and quiet.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734170797</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.125DFB</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.125DFB</code></td></tr><tr><td><b>szText</b></td><td><code>It’s better in here... (giggle) Soft and quiet.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734170797</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Who are you?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3639732837</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Suspicious, cautious</code></td></tr><tr><td><b>hLabel</b></td><td><code>572571378</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>572571378</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Suspicious, cautious</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.ACEF6</code></td></tr><tr><td><b>szText</b></td><td><code>I go by many names. You spoke one of them at the shrine.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2433922928</code></td></tr></table>
@@ -21,13 +21,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>shocked</code></td></tr><tr><td><b>hLabel</b></td><td><code>807383736</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.ACEF6</code></td></tr><tr><td><b>szText</b></td><td><code>Yes, but that doesn’t mean we can’t help each other.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1916053629</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Yes, but that doesn’t mean we can’t help each other.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1916053629</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.ACEF6</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>204022271</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line13.ACEF6</code></td></tr><tr><td><b>szText</b></td><td><code>That mortal Elias seeks to use the power of the Primes for his own ends. No one knows their place anymore, do they?</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>That mortal Elias seeks to use the power of the Primes for his own ends. No one knows their place anymore, do they?</code></td></tr><tr><td><b>hLabel</b></td><td><code>204022271</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line13.ACEF6</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2786958209</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line15.ACEF6</code></td></tr><tr><td><b>szText</b></td><td><code>His meddling has drawn echoes of the past to my refuge of Hatred. But you and I can put things back in order.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.ACEF6</code></td></tr><tr><td><b>szText</b></td><td><code>His meddling has drawn echoes of the past to my refuge of Hatred. But you and I can put things back in order.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2786958209</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line17.ACEF6</code></td></tr><tr><td><b>szText</b></td><td><code>Once you’ve brought peace to this realm, I will be able to give you my blessing.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1074926851</code></td></tr></table>

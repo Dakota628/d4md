@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.103C19</code></td></tr><tr><td><b>szText</b></td><td><code>To Georn. Exhausted. Grief. Close to tears.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3739911605</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I know, brother. But we stop when they’re all found and buried proper.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1731724244</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.103C1C</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.103C1C</code></td></tr><tr><td><b>szText</b></td><td><code>I know, brother. But we stop when they’re all found and buried proper.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1731724244</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.103C1C</code></td></tr><tr><td><b>szText</b></td><td><code>To Baird. Gentle. Heavy. Staying strong.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3077451681</code></td></tr></table>

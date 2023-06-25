@@ -6,6 +6,6 @@
 <code>0</code>
 <code>0</code>
 <code>0</code>
-</td></tr><tr><td><b>arAffixes</b></td><td><a href="..\ParagonGlyphAffix\CritDamage_Willpower_Magic_Side.gaf">[DT_SNO] ParagonGlyphAffix: "CritDamage_Willpower_Magic_Side"</a>
+</td></tr><tr><td><b>arAffixes</b></td><td><a href="..\ParagonGlyphAffix\CritDamage_Willpower_Magic_Side.gaf.md">[DT_SNO] ParagonGlyphAffix: "CritDamage_Willpower_Magic_Side"</a>
 </td></tr><tr><td><b>hIcon</b></td><td><code>1832772619</code></td></tr></table>
 

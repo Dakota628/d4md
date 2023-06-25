@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.EDC7B</code></td></tr><tr><td><b>szText</b></td><td><code>No treasure down this hallway.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567794284</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Beginning to think coming to Alcarnus was a waste of time.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150730222</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.EDC7B</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.EDC7B</code></td></tr><tr><td><b>szText</b></td><td><code>Beginning to think coming to Alcarnus was a waste of time.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150730222</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

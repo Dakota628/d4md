@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir17.7DD22</code></td></tr><tr><td><b>szText</b></td><td><code>A seasoned hunter. Confident. Inviting. Grinning.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2370878734</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line48.7DD23</code></td></tr><tr><td><b>szText</b></td><td><code>The beasts can't resist the scent of blood, even their own. I've enough here to lure out a few. Care to join the hunt?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1322929318</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1322929318</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line48.7DD23</code></td></tr><tr><td><b>szText</b></td><td><code>The beasts can't resist the scent of blood, even their own. I've enough here to lure out a few. Care to join the hunt?</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir48.7DD23</code></td></tr><tr><td><b>szText</b></td><td><code>A seasoned hunter. Confident. Inviting. Grinning.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2668656755</code></td></tr></table>

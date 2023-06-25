@@ -12,10 +12,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>On to business, then: I shall tell Orton to meet me in the storage cellar in Backwater. Give us the privacy to sort this whole thing out.</code></td></tr><tr><td><b>hLabel</b></td><td><code>406649905</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>Serious, slightly bitter. No joking here. Lyndon is in all business mode.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1752377342</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Serious, slightly bitter. No joking here. Lyndon is in all business mode.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1752377342</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.10088C</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4039157235</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line9.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>I’d like you there when that happens. I’m not much for gambling anymore.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>I’d like you there when that happens. I’m not much for gambling anymore.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4039157235</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>Bitterly.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1089917376</code></td></tr></table>

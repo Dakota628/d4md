@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Skins</code></td></tr><tr><td><b>szText</b></td><td><code>Skins</code></td></tr><tr><td><b>hLabel</b></td><td><code>140344264</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Monster Parts</code></td></tr><tr><td><b>hLabel</b></td><td><code>970906738</code></td></tr><tr><td><b>szLabel</b></td><td><code>MonsterParts</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MonsterParts</code></td></tr><tr><td><b>szText</b></td><td><code>Monster Parts</code></td></tr><tr><td><b>hLabel</b></td><td><code>970906738</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Salvage</code></td></tr><tr><td><b>szText</b></td><td><code>Salvage</code></td></tr><tr><td><b>hLabel</b></td><td><code>2123523363</code></td></tr></table>

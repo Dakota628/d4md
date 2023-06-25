@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3886894263</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback197Header</code></td></tr><tr><td><b>szText</b></td><td><code>Travel to {LEVELAREA}</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback200Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat {MONSTER}</code></td></tr><tr><td><b>hLabel</b></td><td><code>4076968072</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4076968072</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback200Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat {MONSTER}</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

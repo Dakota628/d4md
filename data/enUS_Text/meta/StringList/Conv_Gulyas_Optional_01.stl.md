@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>Sly, amused but not giving anything away about your relationship.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430127326</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I felt her absence from the swamps until only recently. She must have been sent a great distance to complete her task.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150176307</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.F53E7</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>I felt her absence from the swamps until only recently. She must have been sent a great distance to complete her task.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150176307</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>Sly. Perhaps you know more about this than you are letting on.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1718095968</code></td></tr></table>

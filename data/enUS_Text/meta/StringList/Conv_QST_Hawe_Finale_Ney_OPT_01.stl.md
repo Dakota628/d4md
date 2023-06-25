@@ -3,13 +3,13 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"How are you managing?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>The fever has broken, at least. Now it's just my ha-- my arm, throbbing.</code></td></tr><tr><td><b>hLabel</b></td><td><code>670931255</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>The fever has broken, at least. Now it's just my ha-- my arm, throbbing.</code></td></tr><tr><td><b>hLabel</b></td><td><code>670931255</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.6DE47</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Drained. Heavy with grief.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2533818212</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Lorath promises it will get better. Hard to believe at the moment.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3253867193</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line9.6DE47</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Lorath promises it will get better. Hard to believe at the moment.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3253867193</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Drained. Doubtful. Slightly anxious.</code></td></tr><tr><td><b>hLabel</b></td><td><code>821786854</code></td></tr></table>

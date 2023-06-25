@@ -9,13 +9,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>scornful</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430127326</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>The notion is ridiculous, of course. The Nangari care nothing for worship. But perhaps an alchemical process...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150176307</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>The notion is ridiculous, of course. The Nangari care nothing for worship. But perhaps an alchemical process...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150176307</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.F53E7</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>starts dismissive then trails off as she talks to herself</code></td></tr><tr><td><b>hLabel</b></td><td><code>1718095968</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>There is a powerful Nangari necromancer who lives in the Fens. Bring me the necrotic flesh of one of her minions and samples of snake poison.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2438144949</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.F53E7</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>There is a powerful Nangari necromancer who lives in the Fens. Bring me the necrotic flesh of one of her minions and samples of snake poison.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2438144949</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.F53E7</code></td></tr><tr><td><b>szText</b></td><td><code>directed at the player</code></td></tr><tr><td><b>hLabel</b></td><td><code>6064610</code></td></tr></table>

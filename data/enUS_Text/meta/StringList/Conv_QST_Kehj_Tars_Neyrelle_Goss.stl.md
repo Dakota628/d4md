@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>As ready as I can be, but I’m afraid of what we’ll find. The Cathedral’s out for blood. They’re not here to save anyone.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1512058033</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>weary</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374944990</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.6DE47</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>weary</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374944990</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>It makes you wonder if there’s some grain of truth to...never mind.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094993971</code></td></tr></table>

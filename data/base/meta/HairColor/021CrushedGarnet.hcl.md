@@ -8,7 +8,7 @@
 </td></tr><tr><td><b>rgbaColors</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>r</b></td><td><code>59</code></td></tr><tr><td><b>g</b></td><td><code>9</code></td></tr><tr><td><b>b</b></td><td><code>9</code></td></tr><tr><td><b>a</b></td><td><code>255</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>b</b></td><td><code>60</code></td></tr><tr><td><b>a</b></td><td><code>255</code></td></tr><tr><td><b>r</b></td><td><code>186</code></td></tr><tr><td><b>g</b></td><td><code>60</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>r</b></td><td><code>186</code></td></tr><tr><td><b>g</b></td><td><code>60</code></td></tr><tr><td><b>b</b></td><td><code>60</code></td></tr><tr><td><b>a</b></td><td><code>255</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>r</b></td><td><code>149</code></td></tr><tr><td><b>g</b></td><td><code>30</code></td></tr><tr><td><b>b</b></td><td><code>30</code></td></tr><tr><td><b>a</b></td><td><code>255</code></td></tr></table>

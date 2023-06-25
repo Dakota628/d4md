@@ -15,13 +15,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.B79B1</code></td></tr><tr><td><b>szText</b></td><td><code>We were ousted from Braestaig. We took hostages and retreated to a cave in the hills. But it’s all gone wrong.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145510926</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.B79B1</code></td></tr><tr><td><b>szText</b></td><td><code>Brey-stig</code></td></tr><tr><td><b>hLabel</b></td><td><code>1713430587</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Brey-stig</code></td></tr><tr><td><b>hLabel</b></td><td><code>1713430587</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.B79B1</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.B79B1</code></td></tr><tr><td><b>szText</b></td><td><code>The prisoners spoke their heathen tongue and invoked the savage spirits of the wood. All was chaos. We were swarmed. Everyone, the glenfolk too. They died first, tied down. The Knights soon after. I’m ashamed to say I hid.</code></td></tr><tr><td><b>hLabel</b></td><td><code>721448210</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.B79B1</code></td></tr><tr><td><b>szText</b></td><td><code>Tell our story. Let it be known we died in sacrifice to the Light.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2433479568</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Tell our story. Let it be known we died in sacrifice to the Light.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2433479568</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.B79B1</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

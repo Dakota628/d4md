@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.FA865</code></td></tr><tr><td><b>szText</b></td><td><code>No, no, no. You heard him, but you did not listen. His voice is music, a symphony of Light.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1568825489</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4151761427</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.FA865</code></td></tr><tr><td><b>szText</b></td><td><code>Look beyond the words themselves, and you will find truth.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.FA865</code></td></tr><tr><td><b>szText</b></td><td><code>Look beyond the words themselves, and you will find truth.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4151761427</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

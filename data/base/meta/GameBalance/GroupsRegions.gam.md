@@ -1,11 +1,11 @@
 <h1>data/base/meta/GameBalance/GroupsRegions.gam</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/GameBalance/GroupsRegions.gam</td></tr><tr><td><b>Type</b></td><td>GameBalanceDefinition</td></tr><tr><td><b>SNO ID</b></td><td>455591</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptData</b></td><td><table><tr><th colspan="100%">GroupRegionEntry_Table</th></tr><tr><td><b>dwType</b></td><td><code>2800636746</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tEntries</b></td><td><table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4282592</code></td></tr><tr><td><b>szName</b></td><td><code>TEST</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>bIgnoreOnLoad</b></td><td><code>0</code></td></tr><tr><td><b>ptData</b></td><td><table><tr><th colspan="100%">GroupRegionEntry_Table</th></tr><tr><td><b>dwType</b></td><td><code>2800636746</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tEntries</b></td><td><table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>TEST</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4282592</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Scosglen</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4053799774</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4053799774</code></td></tr><tr><td><b>szName</b></td><td><code>Scosglen</code></td></tr></table>
 
 </td></tr></table>
 
@@ -35,12 +35,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3489164498</code></td></tr><tr><td><b>szName</b></td><td><code>Corbach</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Corbach</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3489164498</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Fractured Peaks</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>854684884</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>854684884</code></td></tr><tr><td><b>szName</b></td><td><code>Fractured Peaks</code></td></tr></table>
 
 </td></tr></table>
 
@@ -70,12 +70,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>351317193</code></td></tr><tr><td><b>szName</b></td><td><code>Villagers</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Villagers</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>351317193</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1742249039</code></td></tr><tr><td><b>szName</b></td><td><code>Ked-Bardu</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Ked-Bardu</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1742249039</code></td></tr></table>
 
 </td></tr></table>
 
@@ -120,7 +120,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Cathedral of Light</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4243843605</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4243843605</code></td></tr><tr><td><b>szName</b></td><td><code>Cathedral of Light</code></td></tr></table>
 
 </td></tr></table>
 
@@ -130,17 +130,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>814738834</code></td></tr><tr><td><b>szName</b></td><td><code>Hawezar</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Hawezar</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>814738834</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>145027679</code></td></tr><tr><td><b>szName</b></td><td><code>Witch</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Witch</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>145027679</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2571942939</code></td></tr><tr><td><b>szName</b></td><td><code>Zakarum</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Zakarum</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2571942939</code></td></tr></table>
 
 </td></tr></table>
 
@@ -170,7 +170,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1309737086</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Step_Villager_M_02</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Step_Villager_M_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1309737086</code></td></tr></table>
 
 </td></tr></table>
 
@@ -180,7 +180,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1510630028</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Step_Elder_F_01</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Step_Elder_F_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1510630028</code></td></tr></table>
 
 </td></tr></table>
 
@@ -195,7 +195,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1510881587</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Step_Elder_M_01</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Step_Elder_M_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1510881587</code></td></tr></table>
 
 </td></tr></table>
 
@@ -205,7 +205,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1510881589</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Step_Elder_M_03</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Step_Elder_M_03</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1510881589</code></td></tr></table>
 
 </td></tr></table>
 
@@ -225,7 +225,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Step_Guard_M_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2110436059</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2110436059</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Step_Guard_M_02</code></td></tr></table>
 
 </td></tr></table>
 
@@ -235,22 +235,22 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2110184500</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Step_Guard_F_02</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Step_Guard_F_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2110184500</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Frac_Villager_F_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2512682966</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2512682966</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Frac_Villager_F_01</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2512682967</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Frac_Villager_F_02</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Frac_Villager_F_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2512682967</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Frac_Villager_F_03</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2512682968</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2512682968</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Frac_Villager_F_03</code></td></tr></table>
 
 </td></tr></table>
 
@@ -270,7 +270,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Frac_Elder_F_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3742464140</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3742464140</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Frac_Elder_F_01</code></td></tr></table>
 
 </td></tr></table>
 
@@ -290,7 +290,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Frac_Elder_M_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3742715700</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3742715700</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Frac_Elder_M_02</code></td></tr></table>
 
 </td></tr></table>
 
@@ -305,7 +305,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Frac_Child_M_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2626093515</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2626093515</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Frac_Child_M_01</code></td></tr></table>
 
 </td></tr></table>
 
@@ -320,12 +320,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Frac_Guard_F_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>47051315</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>47051315</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Frac_Guard_F_01</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>47051316</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Frac_Guard_F_02</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Frac_Guard_F_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>47051316</code></td></tr></table>
 
 </td></tr></table>
 
@@ -340,7 +340,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4051626964</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Scos_Villager_F_03</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Scos_Villager_F_03</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4051626964</code></td></tr></table>
 
 </td></tr></table>
 
@@ -370,7 +370,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Scos_Elder_F_03</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>391579146</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>391579146</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Scos_Elder_F_03</code></td></tr></table>
 
 </td></tr></table>
 
@@ -380,12 +380,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>391830704</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Scos_Elder_M_02</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Scos_Elder_M_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>391830704</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Scos_Elder_M_03</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>391830705</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>391830705</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Scos_Elder_M_03</code></td></tr></table>
 
 </td></tr></table>
 
@@ -415,7 +415,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Scos_Guard_M_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>991385175</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>991385175</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Scos_Guard_M_02</code></td></tr></table>
 
 </td></tr></table>
 
@@ -425,17 +425,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Kehj_Villager_F_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2475342301</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2475342301</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Kehj_Villager_F_02</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2475342302</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Kehj_Villager_F_03</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Kehj_Villager_F_03</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2475342302</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Kehj_Villager_M_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2475593859</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2475593859</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Kehj_Villager_M_01</code></td></tr></table>
 
 </td></tr></table>
 
@@ -480,7 +480,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Kehj_Child_F_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1290154730</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1290154730</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Kehj_Child_F_01</code></td></tr></table>
 
 </td></tr></table>
 
@@ -505,7 +505,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Kehj_Guard_F_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3006331386</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3006331386</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Kehj_Guard_F_02</code></td></tr></table>
 
 </td></tr></table>
 
@@ -535,7 +535,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1228399130</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Barb_Villager_M_03</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Barb_Villager_M_03</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1228399130</code></td></tr></table>
 
 </td></tr></table>
 
@@ -545,12 +545,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Barb_Elder_F_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1997287944</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1997287944</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Barb_Elder_F_02</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1997287945</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Barb_Elder_F_03</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Barb_Elder_F_03</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1997287945</code></td></tr></table>
 
 </td></tr></table>
 
@@ -565,7 +565,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1997539504</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Barb_Elder_M_03</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Barb_Elder_M_03</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1997539504</code></td></tr></table>
 
 </td></tr></table>
 
@@ -575,7 +575,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>437595833</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_CoL_Villager_F_02</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_CoL_Villager_F_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>437595833</code></td></tr></table>
 
 </td></tr></table>
 
@@ -585,12 +585,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>437847391</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_CoL_Villager_M_01</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_CoL_Villager_M_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>437847391</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_CoL_Villager_M_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>437847392</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>437847392</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_CoL_Villager_M_02</code></td></tr></table>
 
 </td></tr></table>
 
@@ -620,7 +620,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3405748566</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_CoL_Elder_M_02</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_CoL_Elder_M_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3405748566</code></td></tr></table>
 
 </td></tr></table>
 
@@ -645,7 +645,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1340822717</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Smug_Villager_M_01</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Smug_Villager_M_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1340822717</code></td></tr></table>
 
 </td></tr></table>
 
@@ -660,12 +660,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Smug_Elder_F_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4171964108</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4171964108</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Smug_Elder_F_01</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4171964109</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Smug_Elder_F_02</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Smug_Elder_F_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4171964109</code></td></tr></table>
 
 </td></tr></table>
 
@@ -675,7 +675,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Smug_Elder_M_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4172215667</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4172215667</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Smug_Elder_M_01</code></td></tr></table>
 
 </td></tr></table>
 
@@ -690,7 +690,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Smug_Child_F_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3055341924</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3055341924</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Smug_Child_F_01</code></td></tr></table>
 
 </td></tr></table>
 
@@ -720,7 +720,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1185088136</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Frac_Innkeeper_M_01</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Frac_Innkeeper_M_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1185088136</code></td></tr></table>
 
 </td></tr></table>
 
@@ -730,7 +730,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>430632452</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Scos_Innkeeper_M_01</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Scos_Innkeeper_M_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>430632452</code></td></tr></table>
 
 </td></tr></table>
 
@@ -745,7 +745,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Kehj_Innkeeper_F_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4247561895</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4247561895</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Kehj_Innkeeper_F_01</code></td></tr></table>
 
 </td></tr></table>
 
@@ -755,12 +755,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>134278280</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Step_Innkeeper_M_01</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Step_Innkeeper_M_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>134278280</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1159852577</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_Smug_Innkeeper_F_01</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_Smug_Innkeeper_F_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1159852577</code></td></tr></table>
 
 </td></tr></table>
 
@@ -770,7 +770,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4005303036</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_CoL_Guard_M_01</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_CoL_Guard_M_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4005303036</code></td></tr></table>
 
 </td></tr></table>
 
@@ -780,12 +780,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_CoL_Guard_F_01</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4005051477</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4005051477</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_CoL_Guard_F_01</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4005051478</code></td></tr><tr><td><b>szName</b></td><td><code>NPC_CoL_Guard_F_02</code></td></tr></table>
+<table><tr><th colspan="100%">GroupRegionEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>NPC_CoL_Guard_F_02</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4005051478</code></td></tr></table>
 
 </td></tr></table>
 
@@ -798,5 +798,5 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>eGameBalanceType</b></td><td><code>41</code></td></tr><tr><td><b>bIgnoreOnLoad</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>eGameBalanceType</b></td><td><code>41</code></td></tr></table>
 

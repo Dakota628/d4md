@@ -11,7 +11,7 @@
 He asked that I brave the Hallowed Ossuary and slay Lord Avitus.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Enter the Hollowed Ossuary</code></td></tr><tr><td><b>hLabel</b></td><td><code>94135467</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback5Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback5Header</code></td></tr><tr><td><b>szText</b></td><td><code>Enter the Hollowed Ossuary</code></td></tr><tr><td><b>hLabel</b></td><td><code>94135467</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback7Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay {MONSTER}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2677071405</code></td></tr></table>

@@ -12,19 +12,19 @@
 {icon:bullet,1.2} Damage {icon:arrow,1.2} {if:Mod.Miasma}{c_number}{dot:MIASMA_DOT_TOOLTIP}{/c}{else}{c_number}{payload:DAMAGE}{/c}{/if}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3591940403</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod0_Description</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}Corpse Explosion's{/c} radius is increased by {c_number}[{SF_1}*100|%|]{/c}.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>{c_important}Corpse Explosion's{/c} radius is increased by {c_number}[{SF_1}*100|%|]{/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3591940403</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod0_Description</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod0_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Enhanced Corpse Explosion</code></td></tr><tr><td><b>hLabel</b></td><td><code>2452871472</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Enhanced Corpse Explosion</code></td></tr><tr><td><b>hLabel</b></td><td><code>2452871472</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod0_Name</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod1_Description</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}Corpse Explosion{/c} becomes a {c_important}Darkness{/c} Skill and, instead of exploding, releases a vile miasma dealing {c_number}{dot:MIASMA_DOT_TOOLTIP}{/c} Shadow damage over {c_number}{SF_12}{/c} seconds.</code></td></tr><tr><td><b>hLabel</b></td><td><code>628601524</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2492006865</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod1_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Blighted Corpse Explosion</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod1_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Blighted Corpse Explosion</code></td></tr><tr><td><b>hLabel</b></td><td><code>2492006865</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1960229941</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}Corpse Explosion{/c} deals {c_number}[{SF_15}*100|%x|]{/c} increased damage to enemies that are Slowed, Stunned or {c_important}{u}Vulnerable{/u}{/c}. These damage bonuses can stack.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}Corpse Explosion{/c} deals {c_number}[{SF_15}*100|%x|]{/c} increased damage to enemies that are Slowed, Stunned or {c_important}{u}Vulnerable{/u}{/c}. These damage bonuses can stack.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1960229941</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Plagued Corpse Explosion</code></td></tr><tr><td><b>hLabel</b></td><td><code>2531142258</code></td></tr></table>

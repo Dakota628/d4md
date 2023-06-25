@@ -3,21 +3,21 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DungeonTab</code></td></tr><tr><td><b>szText</b></td><td><code>Dungeon</code></td></tr><tr><td><b>hLabel</b></td><td><code>1101542439</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>PVPTab</code></td></tr><tr><td><b>szText</b></td><td><code>Player vs. Player</code></td></tr><tr><td><b>hLabel</b></td><td><code>232289965</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>232289965</code></td></tr><tr><td><b>szLabel</b></td><td><code>PVPTab</code></td></tr><tr><td><b>szText</b></td><td><code>Player vs. Player</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Estimated Queue Time: {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>4032928884</code></td></tr><tr><td><b>szLabel</b></td><td><code>EstimatedQueueTime</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>EstimatedQueueTime</code></td></tr><tr><td><b>szText</b></td><td><code>Estimated Queue Time: {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>4032928884</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2083208515</code></td></tr><tr><td><b>szLabel</b></td><td><code>StartQueueDungeon</code></td></tr><tr><td><b>szText</b></td><td><pre>Start Queue:
-Dungeon</pre></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>StartQueueDungeon</code></td></tr><tr><td><b>szText</b></td><td><pre>Start Queue:
+Dungeon</pre></td></tr><tr><td><b>hLabel</b></td><td><code>2083208515</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>StartQueuePVP</code></td></tr><tr><td><b>szText</b></td><td><pre>Start Queue:
 Dungeon Invasion</pre></td></tr><tr><td><b>hLabel</b></td><td><code>1588878345</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1431550602</code></td></tr><tr><td><b>szLabel</b></td><td><code>LookingForParty</code></td></tr><tr><td><b>szText</b></td><td><code>Looking For Party</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>LookingForParty</code></td></tr><tr><td><b>szText</b></td><td><code>Looking For Party</code></td></tr><tr><td><b>hLabel</b></td><td><code>1431550602</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>PVPBonus</code></td></tr><tr><td><b>szText</b></td><td><code>BONUS: {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3834842301</code></td></tr></table>
@@ -36,7 +36,7 @@ They may queue for another PvP activity in {s1} hours.</pre></td></tr><tr><td><b
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Activities</code></td></tr><tr><td><b>szText</b></td><td><code>Activities</code></td></tr><tr><td><b>hLabel</b></td><td><code>1334198581</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Cancel active {s1} queue: {s2}s</code></td></tr><tr><td><b>hLabel</b></td><td><code>3903768971</code></td></tr><tr><td><b>szLabel</b></td><td><code>CancelQueue</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>CancelQueue</code></td></tr><tr><td><b>szText</b></td><td><code>Cancel active {s1} queue: {s2}s</code></td></tr><tr><td><b>hLabel</b></td><td><code>3903768971</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

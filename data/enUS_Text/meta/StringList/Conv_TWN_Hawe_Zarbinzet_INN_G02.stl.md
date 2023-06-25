@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>“What brought the Crusaders here?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.126500</code></td></tr><tr><td><b>szText</b></td><td><code>Akarat’s tomb. Fool’s errand, if you ask me. Poor sots have been lookin’ for decades with nothing to show.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734153719</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Akarat’s tomb. Fool’s errand, if you ask me. Poor sots have been lookin’ for decades with nothing to show.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734153719</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.126500</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.B79B1</code></td></tr><tr><td><b>szText</b></td><td><code>Sincere</code></td></tr><tr><td><b>hLabel</b></td><td><code>3425461945</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.B79B1</code></td></tr><tr><td><b>szText</b></td><td><code>Don't know how I'll ever repay him, but I'll find a way.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145510926</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4145510926</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.B79B1</code></td></tr><tr><td><b>szText</b></td><td><code>Don't know how I'll ever repay him, but I'll find a way.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.B79B1</code></td></tr><tr><td><b>szText</b></td><td><code>Sincere</code></td></tr><tr><td><b>hLabel</b></td><td><code>1713430587</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Sincere</code></td></tr><tr><td><b>hLabel</b></td><td><code>1713430587</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.B79B1</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

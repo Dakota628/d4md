@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.804AC</code></td></tr><tr><td><b>szText</b></td><td><code>Candid with facts of loss</code></td></tr><tr><td><b>hLabel</b></td><td><code>3375396276</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.804AC</code></td></tr><tr><td><b>szText</b></td><td><code>Now their bodies lay bare for scavenging. It’s wrong in all ways.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4095445257</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4095445257</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.804AC</code></td></tr><tr><td><b>szText</b></td><td><code>Now their bodies lay bare for scavenging. It’s wrong in all ways.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.804AC</code></td></tr><tr><td><b>szText</b></td><td><code>Frustrated. Angered by the irreverence of their death.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1663364918</code></td></tr></table>
@@ -21,10 +21,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.804AC</code></td></tr><tr><td><b>szText</b></td><td><code>Sincere, passionate toward necessary burial</code></td></tr><tr><td><b>hLabel</b></td><td><code>4246300856</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.804AC</code></td></tr><tr><td><b>szText</b></td><td><code>You’re well familiar with our lands, and as brave as those we lost. Could you see them to proper rest?</code></td></tr><tr><td><b>hLabel</b></td><td><code>671382541</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>671382541</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.804AC</code></td></tr><tr><td><b>szText</b></td><td><code>You’re well familiar with our lands, and as brave as those we lost. Could you see them to proper rest?</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Complimentary (towards player), sincere request</code></td></tr><tr><td><b>hLabel</b></td><td><code>2534269498</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.804AC</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.804AC</code></td></tr><tr><td><b>szText</b></td><td><code>Complimentary (towards player), sincere request</code></td></tr><tr><td><b>hLabel</b></td><td><code>2534269498</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

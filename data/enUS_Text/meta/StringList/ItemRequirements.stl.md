@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Ranged</code></td></tr><tr><td><b>szText</b></td><td><code>Ranged Weapons</code></td></tr><tr><td><b>hLabel</b></td><td><code>285570513</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AnyWeapon</code></td></tr><tr><td><b>szText</b></td><td><code>Any Weapon</code></td></tr><tr><td><b>hLabel</b></td><td><code>648522482</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>648522482</code></td></tr><tr><td><b>szLabel</b></td><td><code>AnyWeapon</code></td></tr><tr><td><b>szText</b></td><td><code>Any Weapon</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Bludgeoning</code></td></tr><tr><td><b>szText</b></td><td><code>Bludgeoning Weapons</code></td></tr><tr><td><b>hLabel</b></td><td><code>887595566</code></td></tr></table>
@@ -24,19 +24,19 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>TwoHandedSlashing</code></td></tr><tr><td><b>szText</b></td><td><code>Two-Handed Slashing Weapons</code></td></tr><tr><td><b>hLabel</b></td><td><code>3889590167</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AllDruidWeapons</code></td></tr><tr><td><b>szText</b></td><td><code>Any Weapon</code></td></tr><tr><td><b>hLabel</b></td><td><code>2151009806</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Any Weapon</code></td></tr><tr><td><b>hLabel</b></td><td><code>2151009806</code></td></tr><tr><td><b>szLabel</b></td><td><code>AllDruidWeapons</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2591566317</code></td></tr><tr><td><b>szLabel</b></td><td><code>AllNecroWeapons</code></td></tr><tr><td><b>szText</b></td><td><code>Any Weapon</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AllNecroWeapons</code></td></tr><tr><td><b>szText</b></td><td><code>Any Weapon</code></td></tr><tr><td><b>hLabel</b></td><td><code>2591566317</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AllSorcWeapons</code></td></tr><tr><td><b>szText</b></td><td><code>Any Weapon</code></td></tr><tr><td><b>hLabel</b></td><td><code>926489517</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>926489517</code></td></tr><tr><td><b>szLabel</b></td><td><code>AllSorcWeapons</code></td></tr><tr><td><b>szText</b></td><td><code>Any Weapon</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>OneHanded</code></td></tr><tr><td><b>szText</b></td><td><code>One-Handed Weapons</code></td></tr><tr><td><b>hLabel</b></td><td><code>1588216582</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>OneHandedSlashing</code></td></tr><tr><td><b>szText</b></td><td><code>One-Handed Slashing Weapons</code></td></tr><tr><td><b>hLabel</b></td><td><code>988571423</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>988571423</code></td></tr><tr><td><b>szLabel</b></td><td><code>OneHandedSlashing</code></td></tr><tr><td><b>szText</b></td><td><code>One-Handed Slashing Weapons</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Staff</code></td></tr><tr><td><b>szText</b></td><td><code>Staves</code></td></tr><tr><td><b>hLabel</b></td><td><code>140658708</code></td></tr></table>
@@ -48,10 +48,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Dagger</code></td></tr><tr><td><b>szText</b></td><td><code>Daggers</code></td></tr><tr><td><b>hLabel</b></td><td><code>4032390762</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Swords</code></td></tr><tr><td><b>hLabel</b></td><td><code>140782159</code></td></tr><tr><td><b>szLabel</b></td><td><code>Sword</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Sword</code></td></tr><tr><td><b>szText</b></td><td><code>Swords</code></td></tr><tr><td><b>hLabel</b></td><td><code>140782159</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Maces</code></td></tr><tr><td><b>hLabel</b></td><td><code>4026134</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mace</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mace</code></td></tr><tr><td><b>szText</b></td><td><code>Maces</code></td></tr><tr><td><b>hLabel</b></td><td><code>4026134</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Axe</code></td></tr><tr><td><b>szText</b></td><td><code>Axes</code></td></tr><tr><td><b>hLabel</b></td><td><code>109694</code></td></tr></table>
@@ -63,7 +63,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Bow</code></td></tr><tr><td><b>szText</b></td><td><code>Bows</code></td></tr><tr><td><b>hLabel</b></td><td><code>110504</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crossbow</code></td></tr><tr><td><b>szText</b></td><td><code>Crossbows</code></td></tr><tr><td><b>hLabel</b></td><td><code>2956115954</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Crossbows</code></td></tr><tr><td><b>hLabel</b></td><td><code>2956115954</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crossbow</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Scythe</code></td></tr><tr><td><b>szText</b></td><td><code>Scythes</code></td></tr><tr><td><b>hLabel</b></td><td><code>327487312</code></td></tr></table>

@@ -17,18 +17,18 @@ I recovered the bear's heart. Perhaps Shob'ha can get more useful information fr
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback5Header</code></td></tr><tr><td><b>szText</b></td><td><code>Return to Shob'ha</code></td></tr><tr><td><b>hLabel</b></td><td><code>94135467</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase23Description</code></td></tr><tr><td><b>szText</b></td><td><pre>Shob'ha sent her familiar, Barret, to investigate a dark presence in the forest, but the creature has not returned.
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>320182394</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase23Description</code></td></tr><tr><td><b>szText</b></td><td><pre>Shob'ha sent her familiar, Barret, to investigate a dark presence in the forest, but the creature has not returned.
 
-She has asked me to search for signs of Barret in the Dark Thicket.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>320182394</code></td></tr></table>
+She has asked me to search for signs of Barret in the Dark Thicket.</pre></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback22Header</code></td></tr><tr><td><b>szText</b></td><td><code>Search for Barret in the Dark Thicket</code></td></tr><tr><td><b>hLabel</b></td><td><code>3202407418</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase27Description</code></td></tr><tr><td><b>szText</b></td><td><code>I have found a site that pulses with an unsettling magic, but I have not found Shob'ha's familiar.  I should investigate further.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3605204478</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I have found a site that pulses with an unsettling magic, but I have not found Shob'ha's familiar.  I should investigate further.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3605204478</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase27Description</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback41Header</code></td></tr><tr><td><b>szText</b></td><td><code>Examine the area</code></td></tr><tr><td><b>hLabel</b></td><td><code>1248479483</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1248479483</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback41Header</code></td></tr><tr><td><b>szText</b></td><td><code>Examine the area</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

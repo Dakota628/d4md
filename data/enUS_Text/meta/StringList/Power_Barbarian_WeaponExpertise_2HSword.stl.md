@@ -8,7 +8,7 @@
 You deal {c_number}[{SF_5} * 100|%x|]{/c} increased Bleeding damage for {c_number}{SF_6}{/c} seconds after killing an enemy.{/if}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>simple_desc</code></td></tr><tr><td><b>szText</b></td><td><code>{c_number}[{SF_0} * 100|%+|]{/c} of direct damage you deal is inflicted as Bleeding damage over {c_number}{buffduration:BLEEDING}{/c} seconds.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4074669608</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4074669608</code></td></tr><tr><td><b>szLabel</b></td><td><code>simple_desc</code></td></tr><tr><td><b>szText</b></td><td><code>{c_number}[{SF_0} * 100|%+|]{/c} of direct damage you deal is inflicted as Bleeding damage over {c_number}{buffduration:BLEEDING}{/c} seconds.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr><tr><td><b>szText</b></td><td><code>Bleeding damage is increased to {c_number}[{SF_1} * 100|%+|]{/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr></table>

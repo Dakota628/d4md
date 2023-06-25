@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.E7610</code></td></tr><tr><td><b>szText</b></td><td><code>I am not sure if our prisoners should be praised or pitied. They will have the honor to mate with our lords. The virile offspring should allow us the power we need to take back the camp from these heretics.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1566127866</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.E7610</code></td></tr><tr><td><b>szText</b></td><td><code>However, I do not envy them the process that will surely be deadly. Service demands sacrifice.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4149063804</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4149063804</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.E7610</code></td></tr><tr><td><b>szText</b></td><td><code>However, I do not envy them the process that will surely be deadly. Service demands sacrifice.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

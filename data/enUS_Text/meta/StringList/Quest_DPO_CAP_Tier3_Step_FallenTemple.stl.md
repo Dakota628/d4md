@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback14Header</code></td></tr><tr><td><b>szText</b></td><td><code>Examine the {GIZMO}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1821606043</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1401042654</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback17Header</code></td></tr><tr><td><b>szText</b></td><td><code>Survive the Trial of the Weak</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback17Header</code></td></tr><tr><td><b>szText</b></td><td><code>Survive the Trial of the Weak</code></td></tr><tr><td><b>hLabel</b></td><td><code>1401042654</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Return the Bloodstone to the Pedestal: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1490376060</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback24Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback24Header</code></td></tr><tr><td><b>szText</b></td><td><code>Return the Bloodstone to the Pedestal: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1490376060</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback29Header</code></td></tr><tr><td><b>szText</b></td><td><code>Travel to the Cathedral of Flesh</code></td></tr><tr><td><b>hLabel</b></td><td><code>3652748609</code></td></tr></table>
@@ -21,16 +21,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback34Header</code></td></tr><tr><td><b>szText</b></td><td><code>Deposit Animus into the {GIZMO}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1159146077</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback36Header</code></td></tr><tr><td><b>szText</b></td><td><code>Collect {ITEM} from the Cannibals</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742082015</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Collect {ITEM} from the Cannibals</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742082015</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback36Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback45Header</code></td></tr><tr><td><b>szText</b></td><td><code>Destroy the {MONSTER}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2119384063</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback49Header</code></td></tr><tr><td><b>szText</b></td><td><code>Investigate The Cursed Halls</code></td></tr><tr><td><b>hLabel</b></td><td><code>2990288643</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Investigate The Cursed Halls</code></td></tr><tr><td><b>hLabel</b></td><td><code>2990288643</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback49Header</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback52Header</code></td></tr><tr><td><b>szText</b></td><td><code>Return the Stone Carving to the Pedestal: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2208717469</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Return the Stone Carving to the Pedestal: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2208717469</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback52Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback61Header</code></td></tr><tr><td><b>szText</b></td><td><code>Enter the Antechamber of the Damned and choose your path</code></td></tr><tr><td><b>hLabel</b></td><td><code>586019517</code></td></tr></table>

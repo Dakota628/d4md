@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.125DE2</code></td></tr><tr><td><b>szText</b></td><td><code>I think I know who you mean...she's been living here some years, one of those who barely made it out of Alcarnus, if, um, if memory serves.</code></td></tr><tr><td><b>hLabel</b></td><td><code>409250784</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.125DE2</code></td></tr><tr><td><b>szText</b></td><td><code>A dissipated local priest. Happy to help, but not much use</code></td></tr><tr><td><b>hLabel</b></td><td><code>1754978221</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>A dissipated local priest. Happy to help, but not much use</code></td></tr><tr><td><b>hLabel</b></td><td><code>1754978221</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.125DE2</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4041758114</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line9.125DE2</code></td></tr><tr><td><b>szText</b></td><td><code>Name's... Sophie or something. And doesn't come to church very often. Not that I blame her.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.125DE2</code></td></tr><tr><td><b>szText</b></td><td><code>Name's... Sophie or something. And doesn't come to church very often. Not that I blame her.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4041758114</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

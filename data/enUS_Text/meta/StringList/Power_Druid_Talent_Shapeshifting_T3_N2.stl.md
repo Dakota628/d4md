@@ -6,8 +6,8 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr><tr><td><b>szText</b></td><td><code>{c_number}[{SF_0}*100|%|]{/c} chance when struck to {c_important}{u}Fortify{/u}{/c} you for {c_number}[{SF_1}*100|%|]{/c} Base Life {c_number}([Max(1,{fortified:FORTIFY_HEALTH})|0|]){/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr><tr><td><b>szText</b></td><td><pre>
-{icon:bullet,1.2} {c_important}{u}Fortify{/u}{/c} Chance {icon:arrow,1.2} Up to {c_number}[{SF_0}*100]%{/c}</pre></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr><tr><td><b>szText</b></td><td><pre>
+{icon:bullet,1.2} {c_important}{u}Fortify{/u}{/c} Chance {icon:arrow,1.2} Up to {c_number}[{SF_0}*100]%{/c}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr></table>
 
 
 </td></tr></table>

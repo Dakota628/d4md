@@ -3,13 +3,13 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"Is that...?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Mother...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1561162341</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.A109C</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.A109C</code></td></tr><tr><td><b>szText</b></td><td><code>Mother...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1561162341</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.FA440</code></td></tr><tr><td><b>szText</b></td><td><code>(unintelligible whispers)</code></td></tr><tr><td><b>hLabel</b></td><td><code>4151757000</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Stop it! Stop it! I'm not--!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2432066921</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.A109C</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.A109C</code></td></tr><tr><td><b>szText</b></td><td><code>Stop it! Stop it! I'm not--!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2432066921</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.A109C</code></td></tr><tr><td><b>szText</b></td><td><code>Emphasis on second "stop it"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4294953878</code></td></tr></table>
@@ -27,13 +27,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.A109C</code></td></tr><tr><td><b>szText</b></td><td><code>Emphasis on "enough"</code></td></tr><tr><td><b>hLabel</b></td><td><code>870891162</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1914197622</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.A109C</code></td></tr><tr><td><b>szText</b></td><td><code>And I do not have the soft heart you did.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.A109C</code></td></tr><tr><td><b>szText</b></td><td><code>And I do not have the soft heart you did.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1914197622</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.FA440</code></td></tr><tr><td><b>szText</b></td><td><code>(unintelligible whispers)</code></td></tr><tr><td><b>hLabel</b></td><td><code>209824985</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>209824985</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line13.FA440</code></td></tr><tr><td><b>szText</b></td><td><code>(unintelligible whispers)</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir13.FA440</code></td></tr><tr><td><b>szText</b></td><td><code>Whispers get even louder</code></td></tr><tr><td><b>hLabel</b></td><td><code>1555552422</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Whispers get even louder</code></td></tr><tr><td><b>hLabel</b></td><td><code>1555552422</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir13.FA440</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.A109C</code></td></tr><tr><td><b>szText</b></td><td><code>This is the end!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2785102202</code></td></tr></table>

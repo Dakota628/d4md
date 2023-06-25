@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.131D49</code></td></tr><tr><td><b>szText</b></td><td><code>This is not over yet. I will draw out your suffering.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2397671245</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.131D49</code></td></tr><tr><td><b>szText</b></td><td><code>Venmous. She was losing the fight, so she has to fly away and recover (she will fight us later in the story). But she wants to save face and make it feel like she's still winning.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3743398682</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3743398682</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.131D49</code></td></tr><tr><td><b>szText</b></td><td><code>Venmous. She was losing the fight, so she has to fly away and recover (she will fight us later in the story). But she wants to save face and make it feel like she's still winning.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

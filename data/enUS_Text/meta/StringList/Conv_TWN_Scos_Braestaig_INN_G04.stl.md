@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>“How is the town faring?”</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1567318708</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.F79C4</code></td></tr><tr><td><b>szText</b></td><td><code>The shadow has passed, but the loss remains. We’ll make do as we always have...and grieve the missing in our own time.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.F79C4</code></td></tr><tr><td><b>szText</b></td><td><code>The shadow has passed, but the loss remains. We’ll make do as we always have...and grieve the missing in our own time.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567318708</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3430205665</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F79C4</code></td></tr><tr><td><b>szText</b></td><td><code>Solomn and earnest</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F79C4</code></td></tr><tr><td><b>szText</b></td><td><code>Solomn and earnest</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430205665</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

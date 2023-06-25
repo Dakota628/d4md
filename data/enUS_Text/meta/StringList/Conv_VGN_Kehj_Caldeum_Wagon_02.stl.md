@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.BC3FF</code></td></tr><tr><td><b>szText</b></td><td><code>The next Knight that threatens us won’t live to tell of it.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2435054447</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.BC3FE</code></td></tr><tr><td><b>szText</b></td><td><code>Hush, dear! Before someone hears.</code></td></tr><tr><td><b>hLabel</b></td><td><code>723023088</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Hush, dear! Before someone hears.</code></td></tr><tr><td><b>hLabel</b></td><td><code>723023088</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.BC3FE</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

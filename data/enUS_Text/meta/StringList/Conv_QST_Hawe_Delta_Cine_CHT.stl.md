@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>TBD</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Fear not this cradle...</code></td></tr><tr><td><b>hLabel</b></td><td><code>3304751290</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line9.AAAEC</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.AAAEC</code></td></tr><tr><td><b>szText</b></td><td><code>Fear not this cradle...</code></td></tr><tr><td><b>hLabel</b></td><td><code>3304751290</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.AAAEC</code></td></tr><tr><td><b>szText</b></td><td><code>Colder beds than this await you yet, traveler...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1915977411</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Colder beds than this await you yet, traveler...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1915977411</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.AAAEC</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>(heavy breathing)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1698173014</code></td></tr></table>
@@ -24,7 +24,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3639330757</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir15.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>rapid breathing, gasping, then gurgling as the coffin fills with water</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>721815352</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.AAAEC</code></td></tr><tr><td><b>szText</b></td><td><code>His debt must be paid.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>His debt must be paid.</code></td></tr><tr><td><b>hLabel</b></td><td><code>721815352</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.AAAEC</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

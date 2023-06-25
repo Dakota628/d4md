@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>BuffGained</code></td></tr><tr><td><b>szText</b></td><td><code>Gained {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2385793387</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DebuffGained</code></td></tr><tr><td><b>szText</b></td><td><code>Afflicted by {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1255689716</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1255689716</code></td></tr><tr><td><b>szLabel</b></td><td><code>DebuffGained</code></td></tr><tr><td><b>szText</b></td><td><code>Afflicted by {s1}</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DebuffDurability</code></td></tr><tr><td><b>szText</b></td><td><pre>Equipment has broken;

@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>Underworld</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>(gasp)</code></td></tr><tr><td><b>hLabel</b></td><td><code>2382962613</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.6DE47</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>(gasp)</code></td></tr><tr><td><b>hLabel</b></td><td><code>2382962613</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>No...!</code></td></tr><tr><td><b>hLabel</b></td><td><code>670931255</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>670931255</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>No...!</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>dawning horror</code></td></tr><tr><td><b>hLabel</b></td><td><code>2533818212</code></td></tr></table>

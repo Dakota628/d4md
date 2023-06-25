@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback5Header</code></td></tr><tr><td><b>szText</b></td><td><code>Protect Aria from the attacking werewolves</code></td></tr><tr><td><b>hLabel</b></td><td><code>94135467</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Survive the ambush</code></td></tr><tr><td><b>hLabel</b></td><td><code>1746278184</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase3Description</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1746278184</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase3Description</code></td></tr><tr><td><b>szText</b></td><td><code>Survive the ambush</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback2Header</code></td></tr><tr><td><b>szText</b></td><td><code>Protect Aria from the attacking werewolves</code></td></tr><tr><td><b>hLabel</b></td><td><code>514698856</code></td></tr></table>

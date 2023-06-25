@@ -9,19 +9,19 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>deep breath</code></td></tr><tr><td><b>hLabel</b></td><td><code>1664166937</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>(straining)</code></td></tr><tr><td><b>hLabel</b></td><td><code>2384215918</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.7FA05</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>(straining)</code></td></tr><tr><td><b>hLabel</b></td><td><code>2384215918</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4247102875</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>exertion from pulling out stone</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Yorin...</code></td></tr><tr><td><b>hLabel</b></td><td><code>3255120498</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3255120498</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line9.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Yorin...</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>gasp - then shaky, voice cracking</code></td></tr><tr><td><b>hLabel</b></td><td><code>823040159</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1866346619</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>I’m sorry, my son. I’m sorry...</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>I’m sorry, my son. I’m sorry...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1866346619</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>quiet, shaky, voice cracking</code></td></tr><tr><td><b>hLabel</b></td><td><code>3212074056</code></td></tr></table>

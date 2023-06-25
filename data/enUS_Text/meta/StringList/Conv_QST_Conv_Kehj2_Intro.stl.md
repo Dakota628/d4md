@@ -18,13 +18,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir37.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>(intense) </code></td></tr><tr><td><b>hLabel</b></td><td><code>1707176304</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3454281600</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line43.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>No, fighting her kind is always a last resort. Even if you could defeat her, she'd eventually come back.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line43.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>No, fighting her kind is always a last resort. Even if you could defeat her, she'd eventually come back.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3454281600</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line45.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>But a smarter weapon—the stone—would be up to the challenge.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1742250242</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4118052574</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line23.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Soulstones usually fail, given enough time. It might not work.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line23.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Soulstones usually fail, given enough time. It might not work.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4118052574</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir23.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>uncomfortable</code></td></tr><tr><td><b>hLabel</b></td><td><code>1168812715</code></td></tr></table>
@@ -36,7 +36,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir47.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>intense</code></td></tr><tr><td><b>hLabel</b></td><td><code>1375946321</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>The wind is picking up. I can’t...I can’t see her.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2404767911</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line25.6DE47</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line25.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>The wind is picking up. I can’t...I can’t see her.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2404767911</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir25.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>concerned</code></td></tr><tr><td><b>hLabel</b></td><td><code>3750495348</code></td></tr></table>
@@ -45,7 +45,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line35.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Taissa?</code></td></tr><tr><td><b>hLabel</b></td><td><code>2073537928</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>shouting over the wind</code></td></tr><tr><td><b>hLabel</b></td><td><code>3419265365</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir35.6DE47</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir35.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>shouting over the wind</code></td></tr><tr><td><b>hLabel</b></td><td><code>3419265365</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line33.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>I’ll find her.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4281108952</code></td></tr></table>

@@ -5,12 +5,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_3f7811d2</th></tr><tr><td><b>unk_589fc97</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
+<table><tr><th colspan="100%">Type_3f7811d2</th></tr><tr><td><b>unk_589fc97</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_3f7811d2</th></tr><tr><td><b>unk_589fc97</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">Type_3f7811d2</th></tr><tr><td><b>unk_589fc97</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
 
 </td></tr></table>
 
@@ -19,25 +19,25 @@
 
 </td></tr></table>
 
-</td></tr><tr><td><b>tDomainEpoch</b></td><td><table><tr><th colspan="100%">Type_27090ba7</th></tr><tr><td><b>unk_9fea26c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
+</td></tr><tr><td><b>tDomainEpoch</b></td><td><table><tr><th colspan="100%">Type_27090ba7</th></tr><tr><td><b>unk_9fea26c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_c68eb66</b></td><td><table><tr><th colspan="100%">Type_3a9f0d72</th></tr><tr><td><b>unk_efe84b7</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>2056</code></td></tr><tr><td><b>dataSize</b></td><td><code>752</code></td></tr></table>
+</td></tr><tr><td><b>unk_c68eb66</b></td><td><table><tr><th colspan="100%">Type_3a9f0d72</th></tr><tr><td><b>unk_efe84b7</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>2056</code></td></tr><tr><td><b>dataSize</b></td><td><code>752</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_319c94</b></td><td><table><tr><th colspan="100%">Type_ca1fcba0</th></tr><tr><td><b>unk_184e1e5</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
 </td></tr><tr><td><b>unk_dc54395</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>3192</code></td></tr><tr><td><b>dataSize</b></td><td><code>372</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
 
-</td></tr><tr><td><b>snoParentWeather</b></td><td><a href="weather_FracturedPeaks_Taiga.wth">[DT_SNO] Weather: "weather_FracturedPeaks_Taiga"</a></td></tr><tr><td><b>unk_45703df</b></td><td><code>0</code></td></tr><tr><td><b>tColorCorrection</b></td><td><table><tr><th colspan="100%">ColorCorrectionParams</th></tr><tr><td><b>unk_ba29200</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>dataOffset</b></td><td><code>1904</code></td></tr><tr><td><b>dataSize</b></td><td><code>96</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>snoParentWeather</b></td><td><a href="weather_FracturedPeaks_Taiga.wth.md">[DT_SNO] Weather: "weather_FracturedPeaks_Taiga"</a></td></tr><tr><td><b>unk_45703df</b></td><td><code>0</code></td></tr><tr><td><b>tColorCorrection</b></td><td><table><tr><th colspan="100%">ColorCorrectionParams</th></tr><tr><td><b>unk_ba29200</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>1904</code></td></tr><tr><td><b>dataSize</b></td><td><code>96</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>tStarsSettings</b></td><td><table><tr><th colspan="100%">StarsSettings</th></tr><tr><td><b>unk_1d0c343</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_319c94</b></td><td><table><tr><th colspan="100%">Type_ca1fcba0</th></tr><tr><td><b>unk_184e1e5</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>tStarsSettings</b></td><td><table><tr><th colspan="100%">StarsSettings</th></tr><tr><td><b>unk_1d0c343</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
 
 </td></tr></table>
 

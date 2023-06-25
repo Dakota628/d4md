@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line16.11F5B6</code></td></tr><tr><td><b>szText</b></td><td><code>(sobbing) Haunt us no more, we beg you!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3801234162</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>High energy, projected and terrified. You are running away from someone who has pummelled you mercilessly.</code></td></tr><tr><td><b>hLabel</b></td><td><code>965599327</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir16.11F5B6</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir16.11F5B6</code></td></tr><tr><td><b>szText</b></td><td><code>High energy, projected and terrified. You are running away from someone who has pummelled you mercilessly.</code></td></tr><tr><td><b>hLabel</b></td><td><code>965599327</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

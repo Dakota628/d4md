@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.371E1</code></td></tr><tr><td><b>szText</b></td><td><code>You are too late to stop their glorious transformation.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3248637248</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Superior. Confident.</code></td></tr><tr><td><b>hLabel</b></td><td><code>816556909</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.371E1</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.371E1</code></td></tr><tr><td><b>szText</b></td><td><code>Superior. Confident.</code></td></tr><tr><td><b>hLabel</b></td><td><code>816556909</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1866293455</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.7F064</code></td></tr><tr><td><b>szText</b></td><td><code>You are too late to stop their glorious transformation.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.7F064</code></td></tr><tr><td><b>szText</b></td><td><code>You are too late to stop their glorious transformation.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1866293455</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.7F064</code></td></tr><tr><td><b>szText</b></td><td><code>Superior. Confident.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3212020892</code></td></tr></table>

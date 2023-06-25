@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>Back to your post before the captain sees.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2788089065</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4133816502</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir15.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>A clear, direct order. Dismissive.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>A clear, direct order. Dismissive.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4133816502</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir15.BC41C</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line17.D5161</code></td></tr><tr><td><b>szText</b></td><td><code>(grunt)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1076773295</code></td></tr></table>

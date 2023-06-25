@@ -5,7 +5,7 @@
 </td></tr><tr><td><b>szValue</b></td><td><code>3630768</code></td></tr><tr><td><b>dwType</b></td><td><code>3227193627</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">QuestSubcondition</th></tr><tr><td><b>bNegate</b></td><td><code>1</code></td></tr><tr><td><b>snoQuest</b></td><td><a href="..\Quest\QST_Kehj_TriuneRitualMain.qst">[DT_SNO] Quest: "QST_Kehj_TriuneRitualMain"</a></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>eState</b></td><td><code>3</code></td></tr><tr><td><b>eStepComparison</b></td><td><code>0</code></td></tr><tr><td><b>nStepUID</b></td><td><code>-1</code></td></tr><tr><td><b>dwType</b></td><td><code>3938938339</code></td></tr></table>
+<table><tr><th colspan="100%">QuestSubcondition</th></tr><tr><td><b>nStepUID</b></td><td><code>-1</code></td></tr><tr><td><b>dwType</b></td><td><code>3938938339</code></td></tr><tr><td><b>bNegate</b></td><td><code>1</code></td></tr><tr><td><b>snoQuest</b></td><td><a href="..\Quest\QST_Kehj_TriuneRitualMain.qst.md">[DT_SNO] Quest: "QST_Kehj_TriuneRitualMain"</a></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>eState</b></td><td><code>3</code></td></tr><tr><td><b>eStepComparison</b></td><td><code>0</code></td></tr></table>
 
 
 </td></tr></table>

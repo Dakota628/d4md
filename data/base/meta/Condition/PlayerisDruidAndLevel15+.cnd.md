@@ -8,7 +8,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_35b56063</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>nMinLevel</b></td><td><code>15</code></td></tr><tr><td><b>nMaxLevel</b></td><td><code>100</code></td></tr><tr><td><b>dwType</b></td><td><code>901079139</code></td></tr><tr><td><b>bNegate</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">Type_35b56063</th></tr><tr><td><b>dwType</b></td><td><code>901079139</code></td></tr><tr><td><b>bNegate</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>nMinLevel</b></td><td><code>15</code></td></tr><tr><td><b>nMaxLevel</b></td><td><code>100</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">Type_87a7a74d</th></tr><tr><td><b>dwType</b></td><td><code>2275911501</code></td></tr><tr><td><b>bNegate</b></td><td><code>1</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>

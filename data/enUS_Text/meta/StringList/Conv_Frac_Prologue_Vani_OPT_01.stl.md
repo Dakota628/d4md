@@ -6,13 +6,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.6DF9E</code></td></tr><tr><td><b>szText</b></td><td><code>I'm sorry, it's a bit cramped.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1512059333</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3374946290</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.6DF9E</code></td></tr><tr><td><b>szText</b></td><td><code>Warm, being nice</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.6DF9E</code></td></tr><tr><td><b>szText</b></td><td><code>Warm, being nice</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374946290</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>It's still better than a cave.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3639732837</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3639732837</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>It's still better than a cave.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>572571378</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Wry--reference to cave Hero was sleeping in at beginning of game</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Wry--reference to cave Hero was sleeping in at beginning of game</code></td></tr><tr><td><b>hLabel</b></td><td><code>572571378</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.AA8C3</code></td></tr><tr><td><b>szText</b></td><td><code>Ahh, I...I am fine.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1562897367</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4145833305</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.AA8C3</code></td></tr><tr><td><b>szText</b></td><td><code>We've been so lax in patrolling our woods. I will not let this happen again. We owe the forest more than that.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.AA8C3</code></td></tr><tr><td><b>szText</b></td><td><code>We've been so lax in patrolling our woods. I will not let this happen again. We owe the forest more than that.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145833305</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

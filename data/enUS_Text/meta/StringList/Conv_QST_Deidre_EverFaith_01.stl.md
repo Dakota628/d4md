@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.1257C2</code></td></tr><tr><td><b>szText</b></td><td><code>Heavy. Exhausted. Yet determined.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742309048</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1734121645</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.1257C2</code></td></tr><tr><td><b>szText</b></td><td><code>He’s so scared, Ma, I can’t let him face it alone... Whatever happens, I hope you’ll understand.  - your Deirdre</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.1257C2</code></td></tr><tr><td><b>szText</b></td><td><code>He’s so scared, Ma, I can’t let him face it alone... Whatever happens, I hope you’ll understand.  - your Deirdre</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734121645</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.1257C2</code></td></tr><tr><td><b>szText</b></td><td><code>Heavy. Exhausted. Yet determined.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3079849082</code></td></tr></table>

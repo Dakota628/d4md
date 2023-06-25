@@ -27,7 +27,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase60Description</code></td></tr><tr><td><b>szText</b></td><td><code>We have been attacked by dangerous creatures while at Vasily's waterfall.  I must defeat them to protect Aria.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3182929499</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Survive the ambush</code></td></tr><tr><td><b>hLabel</b></td><td><code>2659058660</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback59Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback59Header</code></td></tr><tr><td><b>szText</b></td><td><code>Survive the ambush</code></td></tr><tr><td><b>hLabel</b></td><td><code>2659058660</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Speak to Aria</code></td></tr><tr><td><b>hLabel</b></td><td><code>4039860035</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback67Header</code></td></tr></table>

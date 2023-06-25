@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"I found a broken carving, could it be part of another totem?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.101CF8</code></td></tr><tr><td><b>szText</b></td><td><code>It's good that you brought this to me. It's hard to make out the animal's form from the bit that's here...but I see the clawed limbs of a large, predatory beast.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2394114042</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2394114042</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.101CF8</code></td></tr><tr><td><b>szText</b></td><td><code>It's good that you brought this to me. It's hard to make out the animal's form from the bit that's here...but I see the clawed limbs of a large, predatory beast.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.101CF8</code></td></tr><tr><td><b>szText</b></td><td><code>examining something, concerned</code></td></tr><tr><td><b>hLabel</b></td><td><code>3739841479</code></td></tr></table>

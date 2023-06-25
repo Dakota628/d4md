@@ -9,16 +9,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.54210</code></td></tr><tr><td><b>szText</b></td><td><code>After a month's voyage on the Twin Seas, our ship has run aground on the night of our return to Scosglen. The keepers of Hope's Light apparently failed to tend the beacon. Their singular duty.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1509091491</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3371978448</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.54210</code></td></tr><tr><td><b>szText</b></td><td><code>Officially angered.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.54210</code></td></tr><tr><td><b>szText</b></td><td><code>Officially angered.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3371978448</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.54210</code></td></tr><tr><td><b>szText</b></td><td><code>This incompetence has cost the Father a ship and endangered the lives of my knights.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4092027429</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Officially angered.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1659947090</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.54210</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.54210</code></td></tr><tr><td><b>szText</b></td><td><code>Officially angered.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1659947090</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2379996071</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.54210</code></td></tr><tr><td><b>szText</b></td><td><code>I will be leading a shore party to find those responsible, bind them to the beacon, and set them alight.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I will be leading a shore party to find those responsible, bind them to the beacon, and set them alight.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2379996071</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.54210</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.54210</code></td></tr><tr><td><b>szText</b></td><td><code>Heads will roll.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4242883028</code></td></tr></table>

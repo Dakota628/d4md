@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Earthstriker</code></td></tr><tr><td><b>hLabel</b></td><td><code>309411509</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Next attack will {c_important}{u}Overpower{/u}{/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3336963864</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Next attack will {c_important}{u}Overpower{/u}{/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3336963864</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff2_Description</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

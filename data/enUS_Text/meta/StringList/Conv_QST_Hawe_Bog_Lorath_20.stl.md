@@ -9,13 +9,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line10.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Clever thinking.</code></td></tr><tr><td><b>hLabel</b></td><td><code>573567642</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Groggy, under the effects of incense. Probably a slower read--not all there in the head.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1919295079</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir10.6D03F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir10.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Groggy, under the effects of incense. Probably a slower read--not all there in the head.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1919295079</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line14.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>So, who will stab at it to see if it will move?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1444472222</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir14.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Slightly slow delivery, as if this crazy thought is just coming to him</code></td></tr><tr><td><b>hLabel</b></td><td><code>2790199659</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Slightly slow delivery, as if this crazy thought is just coming to him</code></td></tr><tr><td><b>hLabel</b></td><td><code>2790199659</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir14.6D03F</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

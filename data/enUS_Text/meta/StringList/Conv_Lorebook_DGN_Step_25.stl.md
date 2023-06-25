@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.EDC7D</code></td></tr><tr><td><b>szText</b></td><td><code>We hid among the corpses. The rotten ones that even the Tyrant and his monsters deemed unworthy of eating. The herbs Khulun gave us helped. Dulled my mind. Put my stomach at ease.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567794286</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Worried, anxious, and exhausted. A sliver of hope at the end.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430681243</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.EDC7D</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.EDC7D</code></td></tr><tr><td><b>szText</b></td><td><code>Worried, anxious, and exhausted. A sliver of hope at the end.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430681243</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.EDC7D</code></td></tr><tr><td><b>szText</b></td><td><code>Mercifully, I can’t remember much. Only a thumping noise as the cannibals pulled the cart through the streets. Then the trickle of water when they dumped us into the old canals.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150730224</code></td></tr></table>

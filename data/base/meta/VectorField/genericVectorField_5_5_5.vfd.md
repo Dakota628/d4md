@@ -1,6 +1,8 @@
 <h1>data/base/meta/VectorField/genericVectorField_5_5_5.vfd</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/VectorField/genericVectorField_5_5_5.vfd</td></tr><tr><td><b>Type</b></td><td>VectorFieldDefinition</td></tr><tr><td><b>SNO ID</b></td><td>196230</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptSamples</b></td><td>Vector(0.039449, -0.087982, 0.254257)
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.261545, -0.167810, -0.068069)</td></tr><tr><td><b>wvExt</b></td><td>Vector(61.147224, 61.393692, 61.207783)</td></tr></table>
+
+</td></tr><tr><td><b>ptSamples</b></td><td>Vector(0.039449, -0.087982, 0.254257)
 Vector(0.008645, -0.099044, -0.264184)
 Vector(0.846613, 0.110684, -0.054102)
 Vector(0.313039, 0.035220, 0.316951)
@@ -125,7 +127,5 @@ Vector(0.092526, 0.368524, 0.394626)
 Vector(0.171942, -0.391785, 0.068071)
 Vector(0.029543, -0.199733, -0.812920)
 Vector(0.642349, 0.135982, -0.490385)
-</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>5</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>5</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>5</code></td></tr><tr><td><b>flMagMin</b></td><td><code>0.19804899394512177</code></td></tr><tr><td><b>flMagMax</b></td><td><code>0.9993097186088562</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.261545, -0.167810, -0.068069)</td></tr><tr><td><b>wvExt</b></td><td>Vector(61.147224, 61.393692, 61.207783)</td></tr></table>
-
-</td></tr></table>
+</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>5</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>5</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>5</code></td></tr><tr><td><b>flMagMin</b></td><td><code>0.19804899394512177</code></td></tr><tr><td><b>flMagMax</b></td><td><code>0.9993097186088562</code></td></tr></table>
 

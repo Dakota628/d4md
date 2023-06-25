@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.121FCA</code></td></tr><tr><td><b>szText</b></td><td><code>I. Followed. Him.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2396489093</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3742216530</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.121FCA</code></td></tr><tr><td><b>szText</b></td><td><code>Raspy zombie voice. Straining with every word</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.121FCA</code></td></tr><tr><td><b>szText</b></td><td><code>Raspy zombie voice. Straining with every word</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742216530</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.121FCA</code></td></tr><tr><td><b>szText</b></td><td><code>Hunted. Him. For Rathma.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734029127</code></td></tr></table>
@@ -33,7 +33,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.121FCA</code></td></tr><tr><td><b>szText</b></td><td><code>Raspy zombie voice. Straining with every word</code></td></tr><tr><td><b>hLabel</b></td><td><code>2621083939</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Will. Resist. Warned.</code></td></tr><tr><td><b>hLabel</b></td><td><code>775409080</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line31.121FCA</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line31.121FCA</code></td></tr><tr><td><b>szText</b></td><td><code>Will. Resist. Warned.</code></td></tr><tr><td><b>hLabel</b></td><td><code>775409080</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir31.121FCA</code></td></tr><tr><td><b>szText</b></td><td><code>Raspy zombie voice. Straining with every word</code></td></tr><tr><td><b>hLabel</b></td><td><code>2234741541</code></td></tr></table>

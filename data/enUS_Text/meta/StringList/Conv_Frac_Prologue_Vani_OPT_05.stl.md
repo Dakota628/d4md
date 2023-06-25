@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"What about the monk?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>We’ll do what we can for him. Might have to keep him in the shed for now though--he tried to bite off Oswen's fingers.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1512059333</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.6DF9E</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1512059333</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.6DF9E</code></td></tr><tr><td><b>szText</b></td><td><code>We’ll do what we can for him. Might have to keep him in the shed for now though--he tried to bite off Oswen's fingers.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.6DF9E</code></td></tr><tr><td><b>szText</b></td><td><code>Concerned</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374946290</code></td></tr></table>

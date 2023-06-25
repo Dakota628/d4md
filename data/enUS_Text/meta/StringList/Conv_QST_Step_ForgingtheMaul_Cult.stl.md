@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.7F064</code></td></tr><tr><td><b>szText</b></td><td><code>spirited, boasting; interrupted</code></td></tr><tr><td><b>hLabel</b></td><td><code>3376145131</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.7F064</code></td></tr><tr><td><b>szText</b></td><td><code>Aaagh! What’s happening to...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4096194112</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Aaagh! What’s happening to...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4096194112</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.7F064</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.7F064</code></td></tr><tr><td><b>szText</b></td><td><code>horrified; slowing, distorted (tranformation)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1664113773</code></td></tr></table>

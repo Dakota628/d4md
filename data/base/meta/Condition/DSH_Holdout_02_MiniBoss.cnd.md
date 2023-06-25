@@ -5,7 +5,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">WorldTierSubcondition</th></tr><tr><td><b>dwType</b></td><td><code>838073325</code></td></tr><tr><td><b>bNegate</b></td><td><code>0</code></td></tr><tr><td><b>eComparisonOp</b></td><td><code>5</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>eWorldTier</b></td><td><code>2</code></td></tr></table>
+<table><tr><th colspan="100%">WorldTierSubcondition</th></tr><tr><td><b>bNegate</b></td><td><code>0</code></td></tr><tr><td><b>eComparisonOp</b></td><td><code>5</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>eWorldTier</b></td><td><code>2</code></td></tr><tr><td><b>dwType</b></td><td><code>838073325</code></td></tr></table>
 
 
 </td></tr></table>

@@ -10,12 +10,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2968935598</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Goatman_Cold</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Goatman_Cold</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2968935598</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3459237090</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Serpent_Step</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Serpent_Step</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3459237090</code></td></tr></table>
 
 </td></tr></table>
 
@@ -35,12 +35,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Bloodhawk_Step</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>416504124</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>416504124</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Bloodhawk_Step</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Bloodhawk_Kehj</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>416200386</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>416200386</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Bloodhawk_Kehj</code></td></tr></table>
 
 </td></tr></table>
 
@@ -65,7 +65,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>5952851</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Cultist_Fire</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Cultist_Fire</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>5952851</code></td></tr></table>
 
 </td></tr></table>
 
@@ -95,7 +95,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2644193144</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Quillrat_Hawe</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Quillrat_Hawe</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2644193144</code></td></tr></table>
 
 </td></tr></table>
 
@@ -115,7 +115,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Drowned_Physical</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3691155829</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3691155829</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Drowned_Physical</code></td></tr></table>
 
 </td></tr></table>
 
@@ -125,17 +125,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Quillrat_Frac</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2644139055</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2644139055</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Quillrat_Frac</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Quillrat_Step</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2644608559</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2644608559</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Quillrat_Step</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>443602153</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Woodwraith_Frac</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Woodwraith_Frac</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>443602153</code></td></tr></table>
 
 </td></tr></table>
 
@@ -160,12 +160,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Ghost_Lightning</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1656749870</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1656749870</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Ghost_Lightning</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Warg_Hawe</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1627405403</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1627405403</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Warg_Hawe</code></td></tr></table>
 
 </td></tr></table>
 
@@ -175,7 +175,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1315851440</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Knight_Fire</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Knight_Fire</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1315851440</code></td></tr></table>
 
 </td></tr></table>
 
@@ -190,7 +190,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Skeleton_Lightning</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>10297550</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>10297550</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Skeleton_Lightning</code></td></tr></table>
 
 </td></tr></table>
 
@@ -220,7 +220,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2338374177</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Maggot_Physical</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Maggot_Physical</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2338374177</code></td></tr></table>
 
 </td></tr></table>
 
@@ -235,7 +235,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Snake_Poison</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1752048495</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1752048495</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Snake_Poison</code></td></tr></table>
 
 </td></tr></table>
 
@@ -245,7 +245,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Spider_Cold</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3507029614</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3507029614</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Spider_Cold</code></td></tr></table>
 
 </td></tr></table>
 
@@ -290,7 +290,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2654151016</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Zombie_Physical</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Zombie_Physical</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2654151016</code></td></tr></table>
 
 </td></tr></table>
 
@@ -305,7 +305,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Wasp_Step</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3271507324</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3271507324</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Wasp_Step</code></td></tr></table>
 
 </td></tr></table>
 
@@ -335,12 +335,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2161913243</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Bear_Frac</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Bear_Frac</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2161913243</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1263562495</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_FlySwarm_Hawe</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_FlySwarm_Hawe</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1263562495</code></td></tr></table>
 
 </td></tr></table>
 
@@ -355,12 +355,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Beast_Scos</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>433741388</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>433741388</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Beast_Scos</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2161967332</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Bear_Hawe</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Bear_Hawe</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2161967332</code></td></tr></table>
 
 </td></tr></table>
 
@@ -370,7 +370,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Wasp_Hawe</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3271091909</code></td></tr></table>
+<table><tr><th colspan="100%">LevelAreaTagsEntry</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3271091909</code></td></tr><tr><td><b>szName</b></td><td><code>WORLD_Spawner_Wasp_Hawe</code></td></tr></table>
 
 </td></tr></table>
 

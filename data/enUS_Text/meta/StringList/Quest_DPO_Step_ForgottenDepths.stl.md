@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Defeat the {MONSTER}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1877487486</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback62Header</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Free the Prisoners: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1665368711</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback89Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback89Header</code></td></tr><tr><td><b>szText</b></td><td><code>Free the Prisoners: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1665368711</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback92Header</code></td></tr><tr><td><b>szText</b></td><td><code>Travel to the {LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>883797537</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Travel to the {LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>883797537</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback92Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback96Header</code></td></tr><tr><td><b>szText</b></td><td><code>Return the Mechanical Box to the Pedestal: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1754702117</code></td></tr></table>

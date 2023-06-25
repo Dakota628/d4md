@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.9837B</code></td></tr><tr><td><b>szText</b></td><td><code>Clones create a personal copy of the actor that only you and your local co-op partner can see.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1513980260</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.9837B</code></td></tr><tr><td><b>szText</b></td><td><code>While a clone is present, other actors using the same actor sno are automatically hidden.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4096916198</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>While a clone is present, other actors using the same actor sno are automatically hidden.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4096916198</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.9837B</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

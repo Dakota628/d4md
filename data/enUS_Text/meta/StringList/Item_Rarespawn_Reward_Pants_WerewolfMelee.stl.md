@@ -1,6 +1,6 @@
 <h1>data/enUS_Text/meta/StringList/Item_Rarespawn_Reward_Pants_WerewolfMelee.stl</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/enUS_Text/meta/StringList/Item_Rarespawn_Reward_Pants_WerewolfMelee.stl</td></tr><tr><td><b>Type</b></td><td>StringListDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1098547</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Manhunter's Breeches</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Manhunter's Breeches</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Flavor</code></td></tr><tr><td><b>szText</b></td><td><code>Wearing these gore-drenched leggings fills your mind with a single overwhelming desire: to hunt.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4123507722</code></td></tr></table>

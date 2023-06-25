@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.AAE9B</code></td></tr><tr><td><b>szText</b></td><td><code>excited</code></td></tr><tr><td><b>hLabel</b></td><td><code>3425831990</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.AAE9B</code></td></tr><tr><td><b>szText</b></td><td><code>Let us not waste a moment. Help me wake up the runestone and restore Túr Dúlra.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145880971</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Let us not waste a moment. Help me wake up the runestone and restore Túr Dúlra.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145880971</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.AAE9B</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1713800632</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.AAE9B</code></td></tr><tr><td><b>szText</b></td><td><code>excited</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.AAE9B</code></td></tr><tr><td><b>szText</b></td><td><code>excited</code></td></tr><tr><td><b>hLabel</b></td><td><code>1713800632</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

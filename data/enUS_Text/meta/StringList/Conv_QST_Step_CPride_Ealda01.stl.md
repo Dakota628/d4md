@@ -12,10 +12,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>Seasons against the cannibals have left scars deeper than the flesh. There is no glory in torture. No reward in a slow death.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734191323</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>cold, sincere; some anger (at circumstances)</code></td></tr><tr><td><b>hLabel</b></td><td><code>3079918760</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3079918760</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>cold, sincere; some anger (at circumstances)</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>Now some of my most battle-scarred warriors have gone missing. Only blood marks their trail.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1071731357</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1071731357</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>Now some of my most battle-scarred warriors have gone missing. Only blood marks their trail.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>cold, sincere; some concern</code></td></tr><tr><td><b>hLabel</b></td><td><code>2417458794</code></td></tr></table>

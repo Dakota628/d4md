@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>The Knight said they found the Red Chalice in ancient ruins, far underground. It was covered in dust, yet still full of fresh blood.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2394167265</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.1041B2</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.1041B2</code></td></tr><tr><td><b>szText</b></td><td><code>He became... disoriented after that. I could only make out a few words. Blood Sermon. Sin. The man was petrified.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1731707299</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1731707299</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.1041B2</code></td></tr><tr><td><b>szText</b></td><td><code>He became... disoriented after that. I could only make out a few words. Blood Sermon. Sin. The man was petrified.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

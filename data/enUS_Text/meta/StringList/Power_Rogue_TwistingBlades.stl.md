@@ -13,9 +13,9 @@
 {icon:bullet,1.2} {c_label}3 Points:{/c} {c_number}{payload:DAMAGE_TOOLTIP_3CP}{/c} damage, {c_number}[{SF_11}*100*3*{SF_23}|%+|]{/c} bonus{/if}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr><tr><td><b>szText</b></td><td><pre>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr><tr><td><b>szText</b></td><td><pre>
 {icon:bullet,1.2} Impact damage {icon:arrow,1.2} {c_number}{payload:IMPACT}{/c}
-{icon:bullet,1.2} Piercing damage {icon:arrow,1.2} {c_number}{payload:RETURN_HIT}{/c}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr></table>
+{icon:bullet,1.2} Piercing damage {icon:arrow,1.2} {c_number}{payload:RETURN_HIT}{/c}</pre></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff9_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Twisting Blades Cooldown Bonus</code></td></tr><tr><td><b>hLabel</b></td><td><code>583359260</code></td></tr></table>
@@ -39,7 +39,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod4_Description</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}Twisting Blades{/c} deals {c_number}[{SF_16}*100|%x|]{/c} increased damage when returning.</code></td></tr><tr><td><b>hLabel</b></td><td><code>328519479</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Enhanced Twisting Blades</code></td></tr><tr><td><b>hLabel</b></td><td><code>2609413044</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod4_Name</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod4_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Enhanced Twisting Blades</code></td></tr><tr><td><b>hLabel</b></td><td><code>2609413044</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

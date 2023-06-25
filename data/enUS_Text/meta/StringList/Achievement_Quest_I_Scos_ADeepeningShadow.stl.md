@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>A Deepening Shadow</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr><tr><td><b>szLabel</b></td><td><code>Desc</code></td></tr><tr><td><b>szText</b></td><td><code>Complete the A Deepening Shadow questline in Scosglen.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Complete the A Deepening Shadow questline in Scosglen.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr><tr><td><b>szLabel</b></td><td><code>Desc</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>A Deepening Shadow</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034245290</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_236059</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_236059</code></td></tr><tr><td><b>szText</b></td><td><code>A Deepening Shadow</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034245290</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_236060</code></td></tr><tr><td><b>szText</b></td><td><code>The Old Ways</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034245314</code></td></tr></table>

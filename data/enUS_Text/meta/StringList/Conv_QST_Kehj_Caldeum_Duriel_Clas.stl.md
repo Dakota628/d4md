@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.BAE4.Rog</code></td></tr><tr><td><b>szText</b></td><td><code>Bitten, ripped, and riddled with holes. These bodies aren’t the Knights’ work.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1929420729</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.BAE4.Sor</code></td></tr><tr><td><b>szText</b></td><td><code>Foul magic hangs about these corpses. The source must be near.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1929421829</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1929421829</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.BAE4.Sor</code></td></tr><tr><td><b>szText</b></td><td><code>Foul magic hangs about these corpses. The source must be near.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

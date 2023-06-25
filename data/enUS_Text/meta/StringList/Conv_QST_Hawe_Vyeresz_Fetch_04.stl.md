@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.F1C75</code></td></tr><tr><td><b>szText</b></td><td><code>(groan) What was in that potion? My insides are on fire, but I think I can make it out.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2438051953</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.F1C75</code></td></tr><tr><td><b>szText</b></td><td><code>Wounded and pain. The potion the player gave him tasted bitter. </code></td></tr><tr><td><b>hLabel</b></td><td><code>5971614</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>5971614</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.F1C75</code></td></tr><tr><td><b>szText</b></td><td><code>Wounded and pain. The potion the player gave him tasted bitter. </code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

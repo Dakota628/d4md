@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Keep that beast quiet!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1512000330</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.6E261</code></td></tr><tr><td><b>szText</b></td><td><code>Shhhh, it's safe now... nothing will get you up here...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094974429</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4094974429</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.6E261</code></td></tr><tr><td><b>szText</b></td><td><code>Shhhh, it's safe now... nothing will get you up here...</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.6E261</code></td></tr><tr><td><b>szText</b></td><td><code>To the horse</code></td></tr><tr><td><b>hLabel</b></td><td><code>1662894090</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>To the horse</code></td></tr><tr><td><b>hLabel</b></td><td><code>1662894090</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.6E261</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line14.105308</code></td></tr><tr><td><b>szText</b></td><td><code>The garrison at Kor Dragan was once formidable. But it's been overrun by vampires, and so many of our best warriors have not returned. (sigh) It's a wicked place now.</code></td></tr><tr><td><b>hLabel</b></td><td><code>165776172</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir14.105308</code></td></tr><tr><td><b>szText</b></td><td><code>Lamenting what has been lost. </code></td></tr><tr><td><b>hLabel</b></td><td><code>1625108633</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Lamenting what has been lost. </code></td></tr><tr><td><b>hLabel</b></td><td><code>1625108633</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir14.105308</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

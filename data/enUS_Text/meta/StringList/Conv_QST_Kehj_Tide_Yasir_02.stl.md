@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.E6891</code></td></tr><tr><td><b>szText</b></td><td><code>(stretches) Much obliged. There’s just one other thing...some of my family is still alive, captured. If we don't help them, they're next in the sand.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1566094372</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.E6891</code></td></tr><tr><td><b>szText</b></td><td><code>Has been unburied. Shaking off the sand and stretching. Becoming sly, trying to drag the Player into a scheme</code></td></tr><tr><td><b>hLabel</b></td><td><code>3428981329</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3428981329</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.E6891</code></td></tr><tr><td><b>szText</b></td><td><code>Has been unburied. Shaking off the sand and stretching. Becoming sly, trying to drag the Player into a scheme</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.E6891</code></td></tr><tr><td><b>szText</b></td><td><code>Trust me, stranger. The gang that did this is bad news. For Gea Kul. For all of us. It's best for everyone that they're stopped. Plus, I'll throw in some extra coin.</code></td></tr><tr><td><b>hLabel</b></td><td><code>207098295</code></td></tr></table>

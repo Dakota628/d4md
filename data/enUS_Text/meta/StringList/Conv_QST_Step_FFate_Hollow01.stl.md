@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>Fury Against Fate</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>Crane Tribe knows well the price of cowardice.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2396651289</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Crane Tribe knows well the price of cowardice.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2396651289</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.1275AB</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>direct, strong, sincere</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742378726</code></td></tr></table>

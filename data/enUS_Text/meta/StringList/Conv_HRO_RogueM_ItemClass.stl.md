@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.BAE4.Rog.M</code></td></tr><tr><td><b>szText</b></td><td><code>Spoken to oneself.  Matter of fact.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1360244137</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line10.BAE4.Rog.M</code></td></tr><tr><td><b>szText</b></td><td><code>This isn't meant for me.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3486855588</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>This isn't meant for me.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3486855588</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line10.BAE4.Rog.M</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir10.BAE4.Rog.M</code></td></tr><tr><td><b>szText</b></td><td><code>Spoken to oneself.  Matter of fact.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3721381265</code></td></tr></table>

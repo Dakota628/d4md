@@ -15,7 +15,7 @@ Unearth a prison of bone with {c_number}{pet_health:BoneWall}{/c} Life that surr
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod1_Description</code></td></tr><tr><td><b>szText</b></td><td><code>If an enemy is trapped by {c_important}Bone Prison{/c}, gain {c_number}{SF_3}{/c} Essence, plus an additional {c_number}{SF_6}{/c} per enemy trapped.</code></td></tr><tr><td><b>hLabel</b></td><td><code>628601524</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod1_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Enhanced Bone Prison</code></td></tr><tr><td><b>hLabel</b></td><td><code>2492006865</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2492006865</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod1_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Enhanced Bone Prison</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Enemies inside of {c_important}Bone Prison{/c} are {c_important}{u}Vulnerable{/u}{/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1960229941</code></td></tr></table>
@@ -27,7 +27,7 @@ Unearth a prison of bone with {c_number}{pet_health:BoneWall}{/c} Life that surr
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod3_Description</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}{u}Fortify{/u}{/c} for {c_number}[{SF_7}*100|%|]{/c} Base Life {c_number}([Max(1,{fortified:MODB_FORTIFY})|0|]){/c} for each enemy trapped by {c_important}Bone Prison{/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3291858358</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Dreadful Bone Prison</code></td></tr><tr><td><b>hLabel</b></td><td><code>2570277651</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod3_Name</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2570277651</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod3_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Dreadful Bone Prison</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

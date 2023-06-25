@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Faith in Blood</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>A familiar-looking man furtively attempts to get your attention.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>A familiar-looking man furtively attempts to get your attention.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><pre>Petr, the father of the boy Sister Octavia saved, covertly slipped me a letter from Sister Octavia. It seems the demon from the sewers has taken her as its next victim. 
@@ -14,9 +14,9 @@ She is being hidden in Kvera's cellar. I must go to her quickly.</pre></td></tr>
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback5Header</code></td></tr><tr><td><b>szText</b></td><td><code>Enter the Ominous Cellar</code></td></tr><tr><td><b>hLabel</b></td><td><code>94135467</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase8Description</code></td></tr><tr><td><b>szText</b></td><td><pre>Petr, the father of the boy Sister Octavia saved, covertly slipped me a letter from Sister Octavia. It seems the demon from the sewers has taken her as its next victim. 
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1557588493</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase8Description</code></td></tr><tr><td><b>szText</b></td><td><pre>Petr, the father of the boy Sister Octavia saved, covertly slipped me a letter from Sister Octavia. It seems the demon from the sewers has taken her as its next victim. 
 
-She is being hidden in Kvera's cellar. I must go to her quickly.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>1557588493</code></td></tr></table>
+She is being hidden in Kvera's cellar. I must go to her quickly.</pre></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback7Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Sister Octavia</code></td></tr><tr><td><b>hLabel</b></td><td><code>2677071405</code></td></tr></table>
@@ -51,7 +51,7 @@ First I must head to the town of Margrave and retrieve a chalice, which may requ
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase58Description</code></td></tr><tr><td><b>szText</b></td><td><code>The exorcism was interrupted by the priest from Margrave, but it still succeeded in forcing the demon out of Sister Octavia. She wants to speak to me outside.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4126377954</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback57Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Sister Octavia</code></td></tr><tr><td><b>hLabel</b></td><td><code>76122722</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Speak with Sister Octavia</code></td></tr><tr><td><b>hLabel</b></td><td><code>76122722</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback57Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase18Description</code></td></tr><tr><td><b>szText</b></td><td><pre>The priest in Margrave has begrudgingly given me a chalice, but it must be "anointed with the blood of sinners".
@@ -68,13 +68,13 @@ He pointed me towards deserving bandits to the east of the town.</pre></td></tr>
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback81Header</code></td></tr><tr><td><b>szText</b></td><td><code>Return to Priest Matvey</code></td></tr><tr><td><b>hLabel</b></td><td><code>4218526847</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase86Description</code></td></tr><tr><td><b>szText</b></td><td><code>The blood-filled chalice ignited in a burst of flame, and left a dark stain on the inside of the bowl. It is ready for the exorcism ritual. I must return to Kyovashad quickly.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2183784867</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>The blood-filled chalice ignited in a burst of flame, and left a dark stain on the inside of the bowl. It is ready for the exorcism ritual. I must return to Kyovashad quickly.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2183784867</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase86Description</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Speak with Petr</code></td></tr><tr><td><b>hLabel</b></td><td><code>373900742</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback88Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback88Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Petr</code></td></tr><tr><td><b>hLabel</b></td><td><code>373900742</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1051646721</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase93Description</code></td></tr><tr><td><b>szText</b></td><td><code>The exorcism was interrupted by the priest from Margrave, but it still succeeded in forcing the demon out of Sister Octavia. She wants to speak to me outside.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase93Description</code></td></tr><tr><td><b>szText</b></td><td><code>The exorcism was interrupted by the priest from Margrave, but it still succeeded in forcing the demon out of Sister Octavia. She wants to speak to me outside.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1051646721</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback97Header</code></td></tr><tr><td><b>szText</b></td><td><code>Meet Sister Octavia outside</code></td></tr><tr><td><b>hLabel</b></td><td><code>3046170086</code></td></tr></table>
@@ -91,15 +91,15 @@ She is being hidden in Kvera's cellar. I must go to her quickly.</pre></td></tr>
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback108Header</code></td></tr><tr><td><b>szText</b></td><td><code>Pick up Sister Octavia's Prayer Book</code></td></tr><tr><td><b>hLabel</b></td><td><code>3864464783</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase109Description</code></td></tr><tr><td><b>szText</b></td><td><pre>Octavia is fighting the demon with all her strength, but it falls to me to perform a Cathedral of Light exorcism ritual. 
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1773873071</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase109Description</code></td></tr><tr><td><b>szText</b></td><td><pre>Octavia is fighting the demon with all her strength, but it falls to me to perform a Cathedral of Light exorcism ritual. 
 
-First I must head to the town of Margrave and retrieve a chalice, which may require some... subterfuge.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>1773873071</code></td></tr></table>
+First I must head to the town of Margrave and retrieve a chalice, which may require some... subterfuge.</pre></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback115Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Priest Matvey</code></td></tr><tr><td><b>hLabel</b></td><td><code>3953798189</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback111Header</code></td></tr><tr><td><b>szText</b></td><td><code>Pick up the Silver Chalice</code></td></tr><tr><td><b>hLabel</b></td><td><code>3082893609</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Pick up the Silver Chalice</code></td></tr><tr><td><b>hLabel</b></td><td><code>3082893609</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback111Header</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

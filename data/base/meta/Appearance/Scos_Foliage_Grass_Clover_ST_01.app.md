@@ -1,11 +1,27 @@
 <h1>data/base/meta/Appearance/Scos_Foliage_Grass_Clover_ST_01.app</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/Appearance/Scos_Foliage_Grass_Clover_ST_01.app</td></tr><tr><td><b>Type</b></td><td>AppearanceDefinition</td></tr><tr><td><b>SNO ID</b></td><td>129633</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptAppearanceLooks</b></td><td><table><tr><th colspan="100%">AppearanceLook</th></tr><tr><td><b>szLookName</b></td><td><code>67399014</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arLookVariantMap</b></td><td></td></tr><tr><td><b>dwLookVariant</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_6c10d1</b></td><td></td></tr><tr><td><b>flDeformationScale</b></td><td><code>1</code></td></tr><tr><td><b>ptAppearanceMaterials</b></td><td><table><tr><th colspan="100%">AppearanceMaterial</th></tr><tr><td><b>unk_cf782ad</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>ptSOAs</b></td><td><table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>3</code></td></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Foliage_Grass_Clover_ST_01 (LOD0-1 Atlas).mat.md">[DT_SNO] Material: "Scos_Foliage_Grass_Clover_ST_01 (LOD0-1 Atlas)"</a></td></tr></table>
 
 
-</td></tr><tr><td><b>arLookVariantMap</b></td><td></td></tr><tr><td><b>tFoliageSettings</b></td><td><table><tr><th colspan="100%">FoliageSettings</th></tr><tr><td><b>flRadiusRatio</b></td><td><code>1</code></td></tr><tr><td><b>flFrequency</b></td><td><code>1</code></td></tr><tr><td><b>flDampingRatio</b></td><td><code>1</code></td></tr><tr><td><b>unk_d7a231e</b></td><td><code>0.4000000059604645</code></td></tr><tr><td><b>unk_620b5c3</b></td><td><code>-1</code></td></tr><tr><td><b>unk_bf229f9</b></td><td><code>5</code></td></tr><tr><td><b>flExplosionFactor</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>dwMaterialHash</b></td><td><code>3580672796</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_4f51617</b></td><td><table><tr><th colspan="100%">Type_9c9af4b3</th></tr><tr><td><b>dwType</b></td><td><code>2627400883</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tParams</b></td><td><table><tr><th colspan="100%">Type_3eb29877</th></tr><tr><td><b>unk_a9640f2</b></td><td><code>0</code></td></tr><tr><td><b>unk_22c4571</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_9938ef6</b></td><td><code>0.0010000000474974513</code></td></tr><tr><td><b>unk_b06b705</b></td><td><code>0.5</code></td></tr><tr><td><b>unk_c08eb6c</b></td><td><code>3</code></td></tr><tr><td><b>unk_b3ec27e</b></td><td><code>0</code></td></tr><tr><td><b>unk_7f97996</b></td><td><code>4</code></td></tr><tr><td><b>unk_567053e</b></td><td><code>0.4000000059604645</code></td></tr><tr><td><b>unk_210514c</b></td><td><code>-0.5</code></td></tr><tr><td><b>unk_5c5414</b></td><td><code>0</code></td></tr><tr><td><b>unk_824f481</b></td><td><code>0</code>
+
+</td></tr><tr><td><b>ptAppearanceLooks</b></td><td><table><tr><th colspan="100%">AppearanceLook</th></tr><tr><td><b>szLookName</b></td><td><code>67399014</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tFoliageSettings</b></td><td><table><tr><th colspan="100%">FoliageSettings</th></tr><tr><td><b>unk_bf229f9</b></td><td><code>5</code></td></tr><tr><td><b>flFrequency</b></td><td><code>1</code></td></tr><tr><td><b>flDampingRatio</b></td><td><code>1</code></td></tr><tr><td><b>unk_d7a231e</b></td><td><code>0.4000000059604645</code></td></tr><tr><td><b>flExplosionFactor</b></td><td><code>1</code></td></tr><tr><td><b>flRadiusRatio</b></td><td><code>1</code></td></tr><tr><td><b>unk_620b5c3</b></td><td><code>-1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_4f51617</b></td><td><table><tr><th colspan="100%">Type_9c9af4b3</th></tr><tr><td><b>tParams</b></td><td><table><tr><th colspan="100%">Type_3eb29877</th></tr><tr><td><b>unk_f62de34</b></td><td><code>1.149999976158142</code></td></tr><tr><td><b>unk_3ee7b7</b></td><td><code>0</code>
+<code>0.0011152938241139054</code>
+<code>0.0036258092150092125</code>
+<code>0.006229868158698082</code>
+<code>0.007858719676733017</code>
+<code>0.008022396825253963</code>
+<code>0.0075167338363826275</code>
+<code>0.006726021878421307</code>
+<code>0.006108527537435293</code>
+<code>0.005924641620367765</code>
+</td></tr><tr><td><b>unk_ff313c4</b></td><td><code>4</code></td></tr><tr><td><b>unk_824f481</b></td><td><code>0</code>
 <code>0</code>
 <code>0</code>
 <code>0</code>
@@ -105,113 +121,7 @@
 <code>2.8435699939727783</code>
 <code>2.943930149078369</code>
 <code>3</code>
-</td></tr><tr><td><b>unk_d445d58</b></td><td><code>0</code>
-<code>0.004419930279254913</code>
-<code>0.02164890058338642</code>
-<code>0.054327502846717834</code>
-<code>0.08846529573202133</code>
-<code>0.11307699978351593</code>
-<code>0.12934400141239166</code>
-<code>0.1398720145225525</code>
-<code>0.14639200270175934</code>
-<code>0.15000000596046448</code>
-</td></tr><tr><td><b>unk_3c134fc</b></td><td><code>0</code></td></tr><tr><td><b>unk_3c133fe</b></td><td><code>0</code></td></tr><tr><td><b>unk_c871110</b></td><td><code>0.551953136920929</code></td></tr><tr><td><b>unk_233b257</b></td><td><code>0.199951171875</code></td></tr><tr><td><b>unk_2e7a7c5</b></td><td><code>0.498613178730011</code></td></tr><tr><td><b>unk_94608ec</b></td><td><code>1.6404199600219727</code></td></tr><tr><td><b>unk_9c2857b</b></td><td><code>0</code></td></tr><tr><td><b>unk_420899</b></td><td><code>1</code></td></tr><tr><td><b>unk_7c69197</b></td><td><code>2</code></td></tr><tr><td><b>unk_c1eed76</b></td><td><code>9</code></td></tr><tr><td><b>unk_8866055</b></td><td><code>0</code></td></tr><tr><td><b>unk_f62de34</b></td><td><code>1.149999976158142</code></td></tr><tr><td><b>unk_3ee7b7</b></td><td><code>0</code>
-<code>0.0011152938241139054</code>
-<code>0.0036258092150092125</code>
-<code>0.006229868158698082</code>
-<code>0.007858719676733017</code>
-<code>0.008022396825253963</code>
-<code>0.0075167338363826275</code>
-<code>0.006726021878421307</code>
-<code>0.006108527537435293</code>
-<code>0.005924641620367765</code>
-</td></tr><tr><td><b>unk_5cf80a3</b></td><td><code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_88fa583</b></td><td><table><tr><th colspan="100%">Type_c06b59d9</th></tr><tr><td><b>unk_a60e772</b></td><td><code>0</code>
-<code>0.010380756109952927</code>
-<code>0.022712871432304382</code>
-<code>0.03364809229969978</code>
-<code>0.04238457605242729</code>
-<code>0.04829037934541702</code>
-<code>0.05063093826174736</code>
-<code>0.0483967550098896</code>
-<code>0.04003792256116867</code>
-<code>0.02266974374651909</code>
-</td></tr><tr><td><b>unk_143d2e7</b></td><td><code>0</code>
-<code>0.013259799219667912</code>
-<code>0.06494680047035217</code>
-<code>0.1629820168018341</code>
-<code>0.26539599895477295</code>
-<code>0.33923104405403137</code>
-<code>0.3880320191383362</code>
-<code>0.41961702704429626</code>
-<code>0.439175009727478</code>
-<code>0.45000001788139343</code>
-</td></tr><tr><td><b>unk_9aba5bf</b></td><td><code>0.30000001192092896</code>
-<code>0.2958560287952423</code>
-<code>0.27914899587631226</code>
-<code>0.24830901622772217</code>
-<code>0.20539501309394836</code>
-<code>0.15861700475215912</code>
-<code>0.11847899854183197</code>
-<code>0.09075189381837845</code>
-<code>0.07586190104484558</code>
-<code>0.07199999690055847</code>
-</td></tr><tr><td><b>unk_92ab59f</b></td><td><code>0.699999988079071</code></td></tr><tr><td><b>fTwitch</b></td><td><code>0.75</code></td></tr><tr><td><b>unk_a9ca82f</b></td><td><code>0.30000001192092896</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_c06b59d9</th></tr><tr><td><b>unk_a60e772</b></td><td><code>0</code>
-<code>0.00850014016032219</code>
-<code>0.03650223836302757</code>
-<code>0.036325760185718536</code>
-<code>0.02813011407852173</code>
-<code>0.027000797912478447</code>
-<code>0.04180210456252098</code>
-<code>0.09323771297931671</code>
-<code>0.12170816957950592</code>
-<code>0.12751764059066772</code>
-</td></tr><tr><td><b>unk_143d2e7</b></td><td><code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_9aba5bf</b></td><td><code>0.4000000059604645</code>
-<code>0.3944740295410156</code>
-<code>0.37219899892807007</code>
-<code>0.3310779929161072</code>
-<code>0.27386000752449036</code>
-<code>0.2114890217781067</code>
-<code>0.15797200798988342</code>
-<code>0.12100300937891006</code>
-<code>0.10114900767803192</code>
-<code>0.09600000083446503</code>
-</td></tr><tr><td><b>unk_92ab59f</b></td><td><code>0.30000001192092896</code></td></tr><tr><td><b>fTwitch</b></td><td><code>0.75</code></td></tr><tr><td><b>unk_a9ca82f</b></td><td><code>0.30000001192092896</code></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_ba61ab4</b></td><td><code>32</code></td></tr><tr><td><b>unk_ddcd73</b></td><td><code>0.5</code></td></tr><tr><td><b>unk_f7ea482</b></td><td><code>0.5</code></td></tr><tr><td><b>unk_8866153</b></td><td><code>0</code></td></tr><tr><td><b>unk_5d3f708</b></td><td><code>0.5</code></td></tr><tr><td><b>unk_f327081</b></td><td><code>1.6500000953674316</code></td></tr><tr><td><b>unk_5c5413</b></td><td><code>0</code></td></tr><tr><td><b>unk_ff313c4</b></td><td><code>4</code></td></tr><tr><td><b>unk_aa2e6cd</b></td><td><table><tr><th colspan="100%">Type_5e641340</th></tr><tr><td><b>unk_c874a5e</b></td><td><code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>unk_289ce5b</b></td><td><code>0</code>
+</td></tr><tr><td><b>unk_aa2e6cd</b></td><td><table><tr><th colspan="100%">Type_5e641340</th></tr><tr><td><b>unk_289ce5b</b></td><td><code>0</code>
 <code>0.0025630202144384384</code>
 <code>0.006849330384284258</code>
 <code>0.011432699859142303</code>
@@ -231,7 +141,17 @@
 <code>0.10384999960660934</code>
 <code>0.07772079855203629</code>
 <code>0.06981319934129715</code>
-</td></tr><tr><td><b>unk_3167e4b</b></td><td><code>0</code></td></tr><tr><td><b>unk_d58a0e0</b></td><td><code>0.5</code></td></tr><tr><td><b>unk_4c6f9cb</b></td><td><code>0</code>
+</td></tr><tr><td><b>unk_2982e8d</b></td><td><code>0</code></td></tr><tr><td><b>unk_c874a5e</b></td><td><code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_4c6f9cb</b></td><td><code>0</code>
 <code>0.00512605020776391</code>
 <code>0.013698700815439224</code>
 <code>0.02286529913544655</code>
@@ -251,20 +171,10 @@
 <code>0.14946702122688293</code>
 <code>0.22736601531505585</code>
 <code>0.3500000238418579</code>
-</td></tr><tr><td><b>unk_adb2ad0</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>unk_2982e8d</b></td><td><code>0</code></td></tr><tr><td><b>fRollSpeed</b></td><td><code>0</code></td></tr><tr><td><b>unk_a31c055</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_adb2ad0</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>unk_3167e4b</b></td><td><code>0</code></td></tr><tr><td><b>fRollSpeed</b></td><td><code>0</code></td></tr><tr><td><b>unk_a31c055</b></td><td><code>0</code></td></tr><tr><td><b>unk_d58a0e0</b></td><td><code>0.5</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_5e641340</th></tr><tr><td><b>unk_9b6930e</b></td><td><code>0</code>
-<code>0.029510799795389175</code>
-<code>0.08139310032129288</code>
-<code>0.08662349730730057</code>
-<code>0.07536999881267548</code>
-<code>0.055902499705553055</code>
-<code>0.03807919844985008</code>
-<code>0.025962399318814278</code>
-<code>0.01943020150065422</code>
-<code>0.017453299835324287</code>
-</td></tr><tr><td><b>unk_adb2ad0</b></td><td><code>1</code></td></tr><tr><td><b>unk_3167e4b</b></td><td><code>0</code></td></tr><tr><td><b>unk_a31c055</b></td><td><code>0</code></td></tr><tr><td><b>unk_d58a0e0</b></td><td><code>0.5</code></td></tr><tr><td><b>unk_c874a5e</b></td><td><code>0</code>
+<table><tr><th colspan="100%">Type_5e641340</th></tr><tr><td><b>unk_adb2ad0</b></td><td><code>1</code></td></tr><tr><td><b>unk_3167e4b</b></td><td><code>0</code></td></tr><tr><td><b>fRollSpeed</b></td><td><code>0</code></td></tr><tr><td><b>unk_a31c055</b></td><td><code>0</code></td></tr><tr><td><b>unk_2982e8d</b></td><td><code>0</code></td></tr><tr><td><b>unk_d58a0e0</b></td><td><code>0.5</code></td></tr><tr><td><b>unk_c874a5e</b></td><td><code>0</code>
 <code>0</code>
 <code>0</code>
 <code>0</code>
@@ -304,19 +214,113 @@
 <code>0.451324999332428</code>
 <code>0.48443904519081116</code>
 <code>0.5</code>
-</td></tr><tr><td><b>unk_2982e8d</b></td><td><code>0</code></td></tr><tr><td><b>fRollSpeed</b></td><td><code>0</code></td></tr></table>
-
-
+</td></tr><tr><td><b>unk_9b6930e</b></td><td><code>0</code>
+<code>0.029510799795389175</code>
+<code>0.08139310032129288</code>
+<code>0.08662349730730057</code>
+<code>0.07536999881267548</code>
+<code>0.055902499705553055</code>
+<code>0.03807919844985008</code>
+<code>0.025962399318814278</code>
+<code>0.01943020150065422</code>
+<code>0.017453299835324287</code>
 </td></tr></table>
 
-</td></tr></table>
+
+</td></tr><tr><td><b>unk_210514c</b></td><td><code>-0.5</code></td></tr><tr><td><b>unk_5c5413</b></td><td><code>0</code></td></tr><tr><td><b>unk_3c133fe</b></td><td><code>0</code></td></tr><tr><td><b>unk_8866153</b></td><td><code>0</code></td></tr><tr><td><b>unk_5d3f708</b></td><td><code>0.5</code></td></tr><tr><td><b>unk_c871110</b></td><td><code>0.551953136920929</code></td></tr><tr><td><b>unk_233b257</b></td><td><code>0.199951171875</code></td></tr><tr><td><b>unk_94608ec</b></td><td><code>1.6404199600219727</code></td></tr><tr><td><b>unk_9c2857b</b></td><td><code>0</code></td></tr><tr><td><b>unk_3c134fc</b></td><td><code>0</code></td></tr><tr><td><b>unk_420899</b></td><td><code>1</code></td></tr><tr><td><b>unk_ba61ab4</b></td><td><code>32</code></td></tr><tr><td><b>unk_8866055</b></td><td><code>0</code></td></tr><tr><td><b>unk_d445d58</b></td><td><code>0</code>
+<code>0.004419930279254913</code>
+<code>0.02164890058338642</code>
+<code>0.054327502846717834</code>
+<code>0.08846529573202133</code>
+<code>0.11307699978351593</code>
+<code>0.12934400141239166</code>
+<code>0.1398720145225525</code>
+<code>0.14639200270175934</code>
+<code>0.15000000596046448</code>
+</td></tr><tr><td><b>unk_c08eb6c</b></td><td><code>3</code></td></tr><tr><td><b>unk_5c5414</b></td><td><code>0</code></td></tr><tr><td><b>unk_2e7a7c5</b></td><td><code>0.498613178730011</code></td></tr><tr><td><b>unk_88fa583</b></td><td><table><tr><th colspan="100%">Type_c06b59d9</th></tr><tr><td><b>unk_a60e772</b></td><td><code>0</code>
+<code>0.010380756109952927</code>
+<code>0.022712871432304382</code>
+<code>0.03364809229969978</code>
+<code>0.04238457605242729</code>
+<code>0.04829037934541702</code>
+<code>0.05063093826174736</code>
+<code>0.0483967550098896</code>
+<code>0.04003792256116867</code>
+<code>0.02266974374651909</code>
+</td></tr><tr><td><b>unk_143d2e7</b></td><td><code>0</code>
+<code>0.013259799219667912</code>
+<code>0.06494680047035217</code>
+<code>0.1629820168018341</code>
+<code>0.26539599895477295</code>
+<code>0.33923104405403137</code>
+<code>0.3880320191383362</code>
+<code>0.41961702704429626</code>
+<code>0.439175009727478</code>
+<code>0.45000001788139343</code>
+</td></tr><tr><td><b>unk_9aba5bf</b></td><td><code>0.30000001192092896</code>
+<code>0.2958560287952423</code>
+<code>0.27914899587631226</code>
+<code>0.24830901622772217</code>
+<code>0.20539501309394836</code>
+<code>0.15861700475215912</code>
+<code>0.11847899854183197</code>
+<code>0.09075189381837845</code>
+<code>0.07586190104484558</code>
+<code>0.07199999690055847</code>
+</td></tr><tr><td><b>unk_92ab59f</b></td><td><code>0.699999988079071</code></td></tr><tr><td><b>fTwitch</b></td><td><code>0.75</code></td></tr><tr><td><b>unk_a9ca82f</b></td><td><code>0.30000001192092896</code></td></tr></table>
 
 
-</td></tr><tr><td><b>unk_6c10d1</b></td><td></td></tr><tr><td><b>unk_9a6abe3</b></td><td><code>1</code></td></tr><tr><td><b>tStructure</b></td><td><table><tr><th colspan="100%">Structure</th></tr><tr><td><b>ptBoneData</b></td><td></td></tr><tr><td><b>unk_6bd8898</b></td><td><code>0</code></td></tr><tr><td><b>wsBounds</b></td><td><table><tr><th colspan="100%">Sphere</th></tr><tr><td><b>wpCenter</b></td><td>Vector(0.183949, 0.192800, 0.218795)</td></tr><tr><td><b>wdRadius</b></td><td><code>1.1500598192214966</code></td></tr></table>
+<table><tr><th colspan="100%">Type_c06b59d9</th></tr><tr><td><b>unk_a9ca82f</b></td><td><code>0.30000001192092896</code></td></tr><tr><td><b>unk_a60e772</b></td><td><code>0</code>
+<code>0.00850014016032219</code>
+<code>0.03650223836302757</code>
+<code>0.036325760185718536</code>
+<code>0.02813011407852173</code>
+<code>0.027000797912478447</code>
+<code>0.04180210456252098</code>
+<code>0.09323771297931671</code>
+<code>0.12170816957950592</code>
+<code>0.12751764059066772</code>
+</td></tr><tr><td><b>unk_143d2e7</b></td><td><code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_9aba5bf</b></td><td><code>0.4000000059604645</code>
+<code>0.3944740295410156</code>
+<code>0.37219899892807007</code>
+<code>0.3310779929161072</code>
+<code>0.27386000752449036</code>
+<code>0.2114890217781067</code>
+<code>0.15797200798988342</code>
+<code>0.12100300937891006</code>
+<code>0.10114900767803192</code>
+<code>0.09600000083446503</code>
+</td></tr><tr><td><b>unk_92ab59f</b></td><td><code>0.30000001192092896</code></td></tr><tr><td><b>fTwitch</b></td><td><code>0.75</code></td></tr></table>
 
-</td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-0.059903, -0.019532, 0.302647)</td></tr><tr><td><b>wvExt</b></td><td>Vector(0.856244, 0.813324, 0.249307)</td></tr></table>
 
-</td></tr><tr><td><b>ptCollisionMeshes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionMesh</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_567053e</b></td><td><code>0.4000000059604645</code></td></tr><tr><td><b>unk_ddcd73</b></td><td><code>0.5</code></td></tr><tr><td><b>unk_a9640f2</b></td><td><code>0</code></td></tr><tr><td><b>unk_b3ec27e</b></td><td><code>0</code></td></tr><tr><td><b>unk_22c4571</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_7f97996</b></td><td><code>4</code></td></tr><tr><td><b>unk_b06b705</b></td><td><code>0.5</code></td></tr><tr><td><b>unk_f7ea482</b></td><td><code>0.5</code></td></tr><tr><td><b>unk_f327081</b></td><td><code>1.6500000953674316</code></td></tr><tr><td><b>unk_5cf80a3</b></td><td><code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_7c69197</b></td><td><code>2</code></td></tr><tr><td><b>unk_9938ef6</b></td><td><code>0.0010000000474974513</code></td></tr><tr><td><b>unk_c1eed76</b></td><td><code>9</code></td></tr></table>
+
+</td></tr><tr><td><b>dwType</b></td><td><code>2627400883</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_9a6abe3</b></td><td><code>1</code></td></tr><tr><td><b>tStructure</b></td><td><table><tr><th colspan="100%">Structure</th></tr><tr><td><b>unk_6bd8898</b></td><td><code>0</code></td></tr><tr><td><b>wsBounds</b></td><td><table><tr><th colspan="100%">Sphere</th></tr><tr><td><b>wpCenter</b></td><td>Vector(0.183949, 0.192800, 0.218795)</td></tr><tr><td><b>wdRadius</b></td><td><code>1.1500598192214966</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_d8c9b68</b></td><td><code>1</code></td></tr><tr><td><b>ptCollisionMeshes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionMesh</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
@@ -324,38 +328,56 @@
 
 </td></tr></table>
 
-</td></tr><tr><td><b>ptChunks</b></td><td><table><tr><th colspan="100%">GeoChunk</th></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-0.059903, -0.019532, 0.302647)</td></tr><tr><td><b>wvExt</b></td><td>Vector(0.856244, 0.813324, 0.249307)</td></tr></table>
+</td></tr><tr><td><b>ptBoneData</b></td><td></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-0.059903, -0.019532, 0.302647)</td></tr><tr><td><b>wvExt</b></td><td>Vector(0.856244, 0.813324, 0.249307)</td></tr></table>
 
-</td></tr><tr><td><b>unk_d9fe6f6</b></td><td><table><tr><th colspan="100%">GeoSet</th></tr><tr><td><b>ptSubObjects</b></td><td><table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptChunks</b></td><td><table><tr><th colspan="100%">GeoChunk</th></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-0.059903, -0.019532, 0.302647)</td></tr><tr><td><b>wvExt</b></td><td>Vector(0.856244, 0.813324, 0.249307)</td></tr></table>
+
+</td></tr><tr><td><b>unk_d9fe6f6</b></td><td><table><tr><th colspan="100%">GeoSet</th></tr><tr><td><b>unk_79283f</b></td><td><code>0</code></td></tr><tr><td><b>unk_af1153d</b></td><td><code>0</code></td></tr><tr><td><b>unk_72aae9c</b></td><td><code>30.479999542236328</code></td></tr><tr><td><b>ptSubObjects</b></td><td><table><tr><th colspan="100%">SubObject</th></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>0</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>0</code></td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>ptClothData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">ClothData</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>-1</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-0.059903, -0.019532, 0.302647)</td></tr><tr><td><b>wvExt</b></td><td>Vector(0.856244, 0.813324, 0.249307)</td></tr></table>
+
+</td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>32</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>0</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>48</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>0</code></td></tr></table>
+
 
 </td></tr><tr><td><b>unk_26f39c1</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_72081710</th></tr><tr><td><b>dataOffset</b></td><td><code>32</code></td></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>tNameInfo</b></td><td><table><tr><th colspan="100%">SubObjectNameInfo</th></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwSlotHash</b></td><td><code>0</code></td></tr><tr><td><b>dwDetailHash</b></td><td><code>0</code></td></tr><tr><td><b>unk_c15f7d2</b></td><td><code>0</code></td></tr><tr><td><b>unk_92fdd14</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>dwState</b></td><td><code>0</code></td></tr><tr><td><b>dwStyle</b></td><td><code>0</code></td></tr><tr><td><b>unk_d9c73f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0b7d46</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_45c6981</b></td><td><code>0</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>0</code></td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>-1</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>2647028638</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_a1b71f5</b></td><td><code>-1</code></td></tr><tr><td><b>unk_eba16f</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_9d1d596</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_4137988</b></td><td><table><tr><th colspan="100%">Type_d95af7ec</th></tr><tr><td><b>ptChunkVertices</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>4194305</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>240</code></td></tr><tr><td><b>dataSize</b></td><td><code>768</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>wpFixedPointPosOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_d28c748</b></td><td><code>0</code></td></tr><tr><td><b>dwAbSize</b></td><td><code>0</code></td></tr><tr><td><b>dwSubObjectHash</b></td><td><code>2647028638</code></td></tr><tr><td><b>unk_45c6981</b></td><td><code>0</code></td></tr><tr><td><b>unk_a758781</b></td><td><code>0</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>ptSegments</b></td><td><table><tr><th colspan="100%">SubObjectSegment</th></tr><tr><td><b>pBoneIDs</b></td><td></td></tr><tr><td><b>nVertCount</b></td><td><code>32</code></td></tr><tr><td><b>nVertOffset</b></td><td><code>0</code></td></tr><tr><td><b>nIndexCount</b></td><td><code>48</code></td></tr><tr><td><b>nIndexOffset</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>vbid</b></td><td><code>-1</code></td></tr><tr><td><b>eVBFormat</b></td><td><code>15</code></td></tr><tr><td><b>dwVertStride</b></td><td><code>24</code></td></tr><tr><td><b>ptVertexElems</b></td><td><table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eSemantic</b></td><td><code>0</code></td></tr><tr><td><b>eFormat</b></td><td><code>1</code></td></tr><tr><td><b>nOffset</b></td><td><code>0</code></td></tr></table>
 
 
-</td></tr><tr><td><b>unk_334eb2d</b></td><td><code>0</code></td></tr><tr><td><b>uDyesObj</b></td><td><code>0</code></td></tr><tr><td><b>unk_87b4c64</b></td><td><code>0</code></td></tr><tr><td><b>unk_79283f</b></td><td><code>0</code></td></tr><tr><td><b>unk_95f2e14</b></td><td><code>-1</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-0.059903, -0.019532, 0.302647)</td></tr><tr><td><b>wvExt</b></td><td>Vector(0.856244, 0.813324, 0.249307)</td></tr></table>
-
-</td></tr><tr><td><b>ptShapes</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">CollisionShape</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
-
-</td></tr><tr><td><b>wpFixedPointPosScale</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>nMaterialIndex</b></td><td><code>0</code></td></tr><tr><td><b>nIndexBufferIndex</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr></table>
+<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eSemantic</b></td><td><code>1</code></td></tr><tr><td><b>eFormat</b></td><td><code>7</code></td></tr><tr><td><b>nOffset</b></td><td><code>12</code></td></tr></table>
 
 
-</td></tr><tr><td><b>unk_9d1d596</b></td><td></td></tr><tr><td><b>unk_79283f</b></td><td><code>0</code></td></tr><tr><td><b>unk_af1153d</b></td><td><code>0</code></td></tr><tr><td><b>unk_72aae9c</b></td><td><code>30.479999542236328</code></td></tr></table>
+<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eSemantic</b></td><td><code>9</code></td></tr><tr><td><b>eFormat</b></td><td><code>8</code></td></tr><tr><td><b>nOffset</b></td><td><code>16</code></td></tr></table>
 
 
-</td></tr><tr><td><b>unk_4137988</b></td><td><table><tr><th colspan="100%">Type_d95af7ec</th></tr><tr><td><b>fOptional</b></td><td><code>0</code></td></tr><tr><td><b>dwVertStride</b></td><td><code>24</code></td></tr><tr><td><b>unk_aea647a</b></td><td><code>0</code>
+<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eSemantic</b></td><td><code>10</code></td></tr><tr><td><b>eFormat</b></td><td><code>8</code></td></tr><tr><td><b>nOffset</b></td><td><code>20</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_4c43adc</b></td><td><code>0</code></td></tr><tr><td><b>fOptional</b></td><td><code>0</code></td></tr><tr><td><b>unk_aea647a</b></td><td><code>0</code>
 <code>1</code>
 <code>255</code>
 <code>255</code>
@@ -366,42 +388,20 @@
 <code>255</code>
 <code>2</code>
 <code>3</code>
-</td></tr><tr><td><b>wEid</b></td><td><code>-1</code></td></tr><tr><td><b>vbid</b></td><td><code>-1</code></td></tr><tr><td><b>baid</b></td><td><code>-1</code></td></tr><tr><td><b>eVBFormat</b></td><td><code>15</code></td></tr><tr><td><b>ptVertexElems</b></td><td><table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eSemantic</b></td><td><code>0</code></td></tr><tr><td><b>eFormat</b></td><td><code>1</code></td></tr><tr><td><b>nOffset</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>wEid</b></td><td><code>-1</code></td></tr><tr><td><b>baid</b></td><td><code>-1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eFormat</b></td><td><code>7</code></td></tr><tr><td><b>nOffset</b></td><td><code>12</code></td></tr><tr><td><b>eSemantic</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eSemantic</b></td><td><code>9</code></td></tr><tr><td><b>eFormat</b></td><td><code>8</code></td></tr><tr><td><b>nOffset</b></td><td><code>16</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">VertexElem</th></tr><tr><td><b>eSemantic</b></td><td><code>10</code></td></tr><tr><td><b>eFormat</b></td><td><code>8</code></td></tr><tr><td><b>nOffset</b></td><td><code>20</code></td></tr></table>
-
-
-</td></tr><tr><td><b>ptChunkVertices</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>4194305</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>240</code></td></tr><tr><td><b>dataSize</b></td><td><code>768</code></td></tr></table>
+</td></tr><tr><td><b>unk_457dee2</b></td><td><table><tr><th colspan="100%">Type_5ebc726</th></tr><tr><td><b>fOptional</b></td><td><code>0</code></td></tr><tr><td><b>unk_7ef82a3</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>4194304</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_WORD</th></tr><tr><td><b>dataOffset</b></td><td><code>1008</code></td></tr><tr><td><b>dataSize</b></td><td><code>96</code></td></tr></table>
 
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_4c43adc</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_457dee2</b></td><td><table><tr><th colspan="100%">Type_5ebc726</th></tr><tr><td><b>unk_7ef82a3</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>4194304</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_WORD</th></tr><tr><td><b>dataOffset</b></td><td><code>1008</code></td></tr><tr><td><b>dataSize</b></td><td><code>96</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>ibid</b></td><td><code>-1</code></td></tr><tr><td><b>fOptional</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>ibid</b></td><td><code>-1</code></td></tr></table>
 
 
 </td></tr><tr><td><b>unk_8c8b576</b></td><td></td></tr></table>
 
 
-</td></tr><tr><td><b>ptSceneData</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>unk_d8c9b68</b></td><td><code>1</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>ptSceneData</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr></table>
 
-</td></tr><tr><td><b>dwFlags</b></td><td><code>269440</code></td></tr><tr><td><b>ptAppearanceMaterials</b></td><td><table><tr><th colspan="100%">AppearanceMaterial</th></tr><tr><td><b>dwMaterialHash</b></td><td><code>3580672796</code></td></tr><tr><td><b>unk_cf782ad</b></td><td><code>0</code></td></tr><tr><td><b>unk_551fc93</b></td><td><code>0</code></td></tr><tr><td><b>ptSOAs</b></td><td><table><tr><th colspan="100%">SubObjectAppearance</th></tr><tr><td><b>snoMaterial</b></td><td><a href="..\Material\Scos_Foliage_Grass_Clover_ST_01 (LOD0-1 Atlas).mat">[DT_SNO] Material: "Scos_Foliage_Grass_Clover_ST_01 (LOD0-1 Atlas)"</a></td></tr><tr><td><b>unk_3f71565</b></td><td></td></tr><tr><td><b>arVariantMaterials</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>3</code></td></tr></table>
-
-
-</td></tr></table>
-
-
-</td></tr><tr><td><b>dwLookVariant</b></td><td><code>4294967295</code></td></tr><tr><td><b>flDeformationScale</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>dwFlags</b></td><td><code>269440</code></td></tr></table>
 

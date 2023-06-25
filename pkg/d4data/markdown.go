@@ -152,7 +152,7 @@ func ToMarkdown(v any, f *File, associations FilesById, g *markdown.Generator) e
 		case "DT_SNO":
 			if linkedFile, ok := associations.Get(x.Raw); ok {
 				baseDir, _ := filepath.Split(f.Name)
-				relPath, err := filepath.Rel(baseDir, linkedFile.Name)
+				relPath, err := filepath.Rel(baseDir, linkedFile.Name+".md")
 				if err != nil {
 					return err
 				}

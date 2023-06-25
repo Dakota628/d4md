@@ -15,13 +15,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.54237</code></td></tr><tr><td><b>szText</b></td><td><code>Amused, bullying.</code></td></tr><tr><td><b>hLabel</b></td><td><code>654696146</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3116689564</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line21.11E336</code></td></tr><tr><td><b>szText</b></td><td><code>Hey! That's mine. How--?</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Hey! That's mine. How--?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3116689564</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line21.11E336</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir21.11E336</code></td></tr><tr><td><b>szText</b></td><td><code>Indignant, almost childish</code></td></tr><tr><td><b>hLabel</b></td><td><code>281054729</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line23.54237</code></td></tr><tr><td><b>szText</b></td><td><code>Overheard you outside Guulrahn going on and on about some priceless ring. Me and my boys had to see it for ourselves.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4113832800</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Overheard you outside Guulrahn going on and on about some priceless ring. Me and my boys had to see it for ourselves.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4113832800</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line23.54237</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir23.54237</code></td></tr><tr><td><b>szText</b></td><td><code>Gloating.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1164592941</code></td></tr></table>
@@ -39,10 +39,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir25.11E336</code></td></tr><tr><td><b>szText</b></td><td><code>Entitled, matter-of-factly.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3251102093</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line27.54237</code></td></tr><tr><td><b>szText</b></td><td><code>Is that so? Well then, I suppose I'll have to kill you so it can pass to me, eh? Get him.</code></td></tr><tr><td><b>hLabel</b></td><td><code>689770084</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>689770084</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line27.54237</code></td></tr><tr><td><b>szText</b></td><td><code>Is that so? Well then, I suppose I'll have to kill you so it can pass to me, eh? Get him.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir27.54237</code></td></tr><tr><td><b>szText</b></td><td><code>Chuckling a bit to herself; she's made a little joke and is looking forward to the impending fight.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2035497521</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2035497521</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir27.54237</code></td></tr><tr><td><b>szText</b></td><td><code>Chuckling a bit to herself; she's made a little joke and is looking forward to the impending fight.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

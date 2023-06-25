@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Whispered. "Animals!" is louder</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430275890</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F9915</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4150324871</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.F9915</code></td></tr><tr><td><b>szText</b></td><td><code>They tore him apart. Why him, Ancestors? (sob)</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.F9915</code></td></tr><tr><td><b>szText</b></td><td><code>They tore him apart. Why him, Ancestors? (sob)</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150324871</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.F9915</code></td></tr><tr><td><b>szText</b></td><td><code>teary, ends in a sob</code></td></tr><tr><td><b>hLabel</b></td><td><code>1718244532</code></td></tr></table>

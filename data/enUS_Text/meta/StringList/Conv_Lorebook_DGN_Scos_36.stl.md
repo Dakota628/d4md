@@ -8,7 +8,7 @@
 Head of the house wants a hole in the cellar bricked up. Passage runs higher and wider than other hallways in the keep. Eh, must’ve been around much longer.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>1567794238</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4150730176</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.EDC74</code></td></tr><tr><td><b>szText</b></td><td><code>Limestone. Quarter shipment. Two hands should cover it. One good day’s work.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.EDC74</code></td></tr><tr><td><b>szText</b></td><td><code>Limestone. Quarter shipment. Two hands should cover it. One good day’s work.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150730176</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.EDC74</code></td></tr><tr><td><b>szText</b></td><td><pre>I, uh, should mention, you’re the second crew we’ve asked. First backed out after they saw the hole. I won’t deny, the damn thing raises the hackles. But Donan’s offering twice your rate to keep this quick and quiet. 

@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>“Inarius murdered Rathma, his own son.”</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Who are you to judge his divine will?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1511354967</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.710B6</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1511354967</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.710B6</code></td></tr><tr><td><b>szText</b></td><td><code>Who are you to judge his divine will?</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.710B6</code></td></tr><tr><td><b>szText</b></td><td><code>Defensive</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374241924</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Defensive</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374241924</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.710B6</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.710B6</code></td></tr><tr><td><b>szText</b></td><td><code>Murder is a sin committed by mortals, not by he who created this world and breathed life into our kind.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094290905</code></td></tr></table>

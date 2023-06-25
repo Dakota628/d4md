@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff5_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Resistances reduced by 8%.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3036881819</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Reduced Resistance</code></td></tr><tr><td><b>hLabel</b></td><td><code>505088474</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff7_Name</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff7_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Reduced Resistance</code></td></tr><tr><td><b>hLabel</b></td><td><code>505088474</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff7_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Resistances reduced by 10%.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1405171357</code></td></tr></table>

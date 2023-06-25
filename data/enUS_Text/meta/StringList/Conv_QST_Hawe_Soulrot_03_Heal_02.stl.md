@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"Yolanda, I've brought the remedy. Make sure to keep it down."</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2394331776</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.107ED8</code></td></tr><tr><td><b>szText</b></td><td><code>(gags) That was...what was in that? Light, don’t tell me.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.107ED8</code></td></tr><tr><td><b>szText</b></td><td><code>(gags) That was...what was in that? Light, don’t tell me.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2394331776</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.107ED8</code></td></tr><tr><td><b>szText</b></td><td><code>But...(gags) I can feel...they’re moving less. The pain subsiding.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1731871810</code></td></tr></table>

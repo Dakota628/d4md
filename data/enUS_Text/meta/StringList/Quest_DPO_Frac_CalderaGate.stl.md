@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>A frozen peril.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Slay all enemies in the Stilled Tunnels {KAM_REVEALED_COUNT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2242169432</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback11Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2242169432</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback11Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay all enemies in the Stilled Tunnels {KAM_REVEALED_COUNT}</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback32Header</code></td></tr><tr><td><b>szText</b></td><td><code>Destroy the Fallen Idols: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2871177435</code></td></tr></table>

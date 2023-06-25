@@ -15,7 +15,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>simmering anger</code></td></tr><tr><td><b>hLabel</b></td><td><code>821786854</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>So we need blessed blood. Go back to your Prava. Get that blessing. Beg if you need to. Whatever it takes.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1023966536</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line17.6DE47</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line17.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>So we need blessed blood. Go back to your Prava. Get that blessing. Beg if you need to. Whatever it takes.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1023966536</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>My mother started this damn ritual. I'm going to finish it. Meet me in the Mistral Woods.</code></td></tr><tr><td><b>hLabel</b></td><td><code>153061956</code></td></tr></table>
@@ -24,19 +24,19 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line31.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Why there?</code></td></tr><tr><td><b>hLabel</b></td><td><code>4202838166</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line23.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>The Horadrim hid a vault there. Finding it was her life’s work. So much for that.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4116799269</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>The Horadrim hid a vault there. Finding it was her life’s work. So much for that.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4116799269</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line23.6DE47</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line25.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Maybe it will help with the ritual. If not, at least I can bury her where she’d want.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2404767911</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>anger, on verge of tears</code></td></tr><tr><td><b>hLabel</b></td><td><code>3750495348</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir25.6DE47</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir25.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>anger, on verge of tears</code></td></tr><tr><td><b>hLabel</b></td><td><code>3750495348</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line29.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>I need time. I’m sorry. Just leave me.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3275672491</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>326432632</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir29.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>breaking</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir29.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>breaking</code></td></tr><tr><td><b>hLabel</b></td><td><code>326432632</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

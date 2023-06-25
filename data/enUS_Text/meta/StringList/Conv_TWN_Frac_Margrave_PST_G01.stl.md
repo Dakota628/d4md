@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.A9F43</code></td></tr><tr><td><b>szText</b></td><td><code>(sigh) Many were bandits, murderers...others, dear friends. Good, Light-tending folk, until they embraced evil.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1561508430</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.A9F43</code></td></tr><tr><td><b>szText</b></td><td><code>Heavy. Solemn. Weary.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3424395387</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Heavy. Solemn. Weary.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3424395387</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.A9F43</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.A9F43</code></td></tr><tr><td><b>szText</b></td><td><code>We must not share the fate of Nevesk. Examples must be made.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4144444368</code></td></tr></table>

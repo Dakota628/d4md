@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.123237</code></td></tr><tr><td><b>szText</b></td><td><code>Doing better, thanks to you. The healer says the worst has passed. He’ll be transferred to Zarbinzet once he's stable enough.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2396502713</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Relieved</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742230150</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.123237</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3742230150</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.123237</code></td></tr><tr><td><b>szText</b></td><td><code>Relieved</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

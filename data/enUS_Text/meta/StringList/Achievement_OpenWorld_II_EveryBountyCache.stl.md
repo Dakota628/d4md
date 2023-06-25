@@ -27,16 +27,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_235050</code></td></tr><tr><td><b>szText</b></td><td><code>Chest Armors</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034209344</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_235051</code></td></tr><tr><td><b>szText</b></td><td><code>Gloves</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034209345</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Gloves</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034209345</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_235051</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Helms</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034209346</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_235052</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_235052</code></td></tr><tr><td><b>szText</b></td><td><code>Helms</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034209346</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_235053</code></td></tr><tr><td><b>szText</b></td><td><code>Leg Armors</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034209347</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1034209347</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_235053</code></td></tr><tr><td><b>szText</b></td><td><code>Leg Armors</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1034209348</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_235054</code></td></tr><tr><td><b>szText</b></td><td><code>Rings</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Rings</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034209348</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_235054</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

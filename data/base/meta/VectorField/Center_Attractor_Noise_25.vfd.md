@@ -1,6 +1,6 @@
 <h1>data/base/meta/VectorField/Center_Attractor_Noise_25.vfd</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/VectorField/Center_Attractor_Noise_25.vfd</td></tr><tr><td><b>Type</b></td><td>VectorFieldDefinition</td></tr><tr><td><b>SNO ID</b></td><td>479283</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_7ed9e40</b></td><td><code>25</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>25</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>25</code></td></tr><tr><td><b>flMagMin</b></td><td><code>0.6985958218574524</code></td></tr><tr><td><b>flMagMax</b></td><td><code>52.38869094848633</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wvExt</b></td><td>Vector(510.000000, 510.000000, 510.000000)</td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>flMagMax</b></td><td><code>52.38869094848633</code></td></tr><tr><td><b>aabb</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>wvExt</b></td><td>Vector(510.000000, 510.000000, 510.000000)</td></tr></table>
 
 </td></tr><tr><td><b>ptSamples</b></td><td>Vector(19.371664, 19.914881, 18.556763)
 Vector(17.323929, 16.890118, 19.546747)
@@ -15627,5 +15627,5 @@ Vector(-10.128350, -15.049725, -22.477280)
 Vector(-14.219992, -22.515671, -19.060169)
 Vector(-18.206434, -28.672102, -13.244725)
 Vector(-21.707949, -32.471439, -6.998847)
-</td></tr></table>
+</td></tr><tr><td><b>unk_7ed9e40</b></td><td><code>25</code></td></tr><tr><td><b>unk_7ed9e41</b></td><td><code>25</code></td></tr><tr><td><b>unk_7ed9e42</b></td><td><code>25</code></td></tr><tr><td><b>flMagMin</b></td><td><code>0.6985958218574524</code></td></tr></table>
 

@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff5_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Next {c_important}Subterfuge{/c} Skill Cooldown Reduced</code></td></tr><tr><td><b>hLabel</b></td><td><code>3036881819</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Synergy Agility Bonus</code></td></tr><tr><td><b>hLabel</b></td><td><code>505088474</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff7_Name</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff7_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Synergy Agility Bonus</code></td></tr><tr><td><b>hLabel</b></td><td><code>505088474</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Next {c_important}Agility{/c} Skill Damage Increased</code></td></tr><tr><td><b>hLabel</b></td><td><code>1405171357</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff7_Description</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff7_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Next {c_important}Agility{/c} Skill Damage Increased</code></td></tr><tr><td><b>hLabel</b></td><td><code>1405171357</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback4Header</code></td></tr><tr><td><b>szText</b></td><td><code>Harvest venous motes from enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>3097634794</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback33Header</code></td></tr><tr><td><b>szText</b></td><td><code>Deposit venous motes into the Altar of Reaping</code></td></tr><tr><td><b>hLabel</b></td><td><code>4162645404</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Deposit venous motes into the Altar of Reaping</code></td></tr><tr><td><b>hLabel</b></td><td><code>4162645404</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback33Header</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

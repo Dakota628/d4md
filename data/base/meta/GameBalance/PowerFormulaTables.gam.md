@@ -1,6 +1,6 @@
 <h1>data/base/meta/GameBalance/PowerFormulaTables.gam</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/GameBalance/PowerFormulaTables.gam</td></tr><tr><td><b>Type</b></td><td>GameBalanceDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1342</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>eGameBalanceType</b></td><td><code>17</code></td></tr><tr><td><b>bIgnoreOnLoad</b></td><td><code>0</code></td></tr><tr><td><b>ptData</b></td><td><table><tr><th colspan="100%">PowerFormulaTableEntry_Table</th></tr><tr><td><b>tEntries</b></td><td><table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>szName</b></td><td><code>DmgTier1</code></td></tr><tr><td><b>flValue</b></td><td><code>1</code>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptData</b></td><td><table><tr><th colspan="100%">PowerFormulaTableEntry_Table</th></tr><tr><td><b>dwType</b></td><td><code>3874588324</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tEntries</b></td><td><table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>szName</b></td><td><code>DmgTier1</code></td></tr><tr><td><b>flValue</b></td><td><code>1</code>
 <code>2</code>
 <code>2</code>
 <code>2</code>
@@ -395,86 +395,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>flValue</b></td><td><code>1</code>
-<code>2</code>
-<code>2</code>
-<code>2</code>
-<code>2</code>
-<code>2</code>
-<code>2</code>
-<code>2</code>
-<code>2</code>
-<code>2</code>
-<code>2</code>
-<code>2</code>
-<code>2</code>
-<code>2</code>
-<code>2</code>
-<code>2</code>
-<code>2</code>
-<code>2</code>
-<code>2.799999952316284</code>
-<code>3.3399999141693115</code>
-<code>3.9600000381469727</code>
-<code>4.650000095367432</code>
-<code>5.389999866485596</code>
-<code>6.21999979019165</code>
-<code>7.150000095367432</code>
-<code>8.319999694824219</code>
-<code>9.630000114440918</code>
-<code>11.100000381469727</code>
-<code>12.739999771118164</code>
-<code>14.390000343322754</code>
-<code>17.600000381469727</code>
-<code>20.3700008392334</code>
-<code>23.010000228881836</code>
-<code>25.8700008392334</code>
-<code>28.979999542236328</code>
-<code>32.33000183105469</code>
-<code>36.290000915527344</code>
-<code>41.52000045776367</code>
-<code>47.2599983215332</code>
-<code>53.52000045776367</code>
-<code>60.349998474121094</code>
-<code>67.51000213623047</code>
-<code>75.25</code>
-<code>84.45999908447266</code>
-<code>94.41000366210938</code>
-<code>105.16000366210938</code>
-<code>118.02999877929688</code>
-<code>132.08999633789062</code>
-<code>150.72000122070312</code>
-<code>176.42999267578125</code>
-<code>204.36000061035156</code>
-<code>245.08999633789062</code>
-<code>292.3599853515625</code>
-<code>344.1499938964844</code>
-<code>400.75</code>
-<code>462.489990234375</code>
-<code>534.780029296875</code>
-<code>616.969970703125</code>
-<code>708.4099731445312</code>
-<code>807.9299926757812</code>
-<code>947.219970703125</code>
-<code>72.80960845947266</code>
-<code>74.62985229492188</code>
-<code>76.49559783935547</code>
-<code>78.40798950195312</code>
-<code>80.3681869506836</code>
-<code>82.37740325927734</code>
-<code>84.43682861328125</code>
-<code>86.5477523803711</code>
-<code>88.71144104003906</code>
-<code>90.92922973632812</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-<code>0</code>
-</td></tr><tr><td><b>szName</b></td><td><code>DmgTier6</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>szName</b></td><td><code>DmgTier7</code></td></tr><tr><td><b>flValue</b></td><td><code>1</code>
+<table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>szName</b></td><td><code>DmgTier6</code></td></tr><tr><td><b>flValue</b></td><td><code>1</code>
 <code>2</code>
 <code>2</code>
 <code>2</code>
@@ -551,6 +472,85 @@
 <code>0</code>
 <code>0</code>
 </td></tr></table>
+
+
+<table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>flValue</b></td><td><code>1</code>
+<code>2</code>
+<code>2</code>
+<code>2</code>
+<code>2</code>
+<code>2</code>
+<code>2</code>
+<code>2</code>
+<code>2</code>
+<code>2</code>
+<code>2</code>
+<code>2</code>
+<code>2</code>
+<code>2</code>
+<code>2</code>
+<code>2</code>
+<code>2</code>
+<code>2</code>
+<code>2.799999952316284</code>
+<code>3.3399999141693115</code>
+<code>3.9600000381469727</code>
+<code>4.650000095367432</code>
+<code>5.389999866485596</code>
+<code>6.21999979019165</code>
+<code>7.150000095367432</code>
+<code>8.319999694824219</code>
+<code>9.630000114440918</code>
+<code>11.100000381469727</code>
+<code>12.739999771118164</code>
+<code>14.390000343322754</code>
+<code>17.600000381469727</code>
+<code>20.3700008392334</code>
+<code>23.010000228881836</code>
+<code>25.8700008392334</code>
+<code>28.979999542236328</code>
+<code>32.33000183105469</code>
+<code>36.290000915527344</code>
+<code>41.52000045776367</code>
+<code>47.2599983215332</code>
+<code>53.52000045776367</code>
+<code>60.349998474121094</code>
+<code>67.51000213623047</code>
+<code>75.25</code>
+<code>84.45999908447266</code>
+<code>94.41000366210938</code>
+<code>105.16000366210938</code>
+<code>118.02999877929688</code>
+<code>132.08999633789062</code>
+<code>150.72000122070312</code>
+<code>176.42999267578125</code>
+<code>204.36000061035156</code>
+<code>245.08999633789062</code>
+<code>292.3599853515625</code>
+<code>344.1499938964844</code>
+<code>400.75</code>
+<code>462.489990234375</code>
+<code>534.780029296875</code>
+<code>616.969970703125</code>
+<code>708.4099731445312</code>
+<code>807.9299926757812</code>
+<code>947.219970703125</code>
+<code>72.80960845947266</code>
+<code>74.62985229492188</code>
+<code>76.49559783935547</code>
+<code>78.40798950195312</code>
+<code>80.3681869506836</code>
+<code>82.37740325927734</code>
+<code>84.43682861328125</code>
+<code>86.5477523803711</code>
+<code>88.71144104003906</code>
+<code>90.92922973632812</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+<code>0</code>
+</td></tr><tr><td><b>szName</b></td><td><code>DmgTier7</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>szName</b></td><td><code>Healing</code></td></tr><tr><td><b>flValue</b></td><td><code>1</code>
@@ -1027,7 +1027,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>szName</b></td><td><code>PvPAvgWeaponDPS</code></td></tr><tr><td><b>flValue</b></td><td><code>4</code>
+<table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>flValue</b></td><td><code>4</code>
 <code>4</code>
 <code>5.75</code>
 <code>6.900000095367432</code>
@@ -1103,7 +1103,7 @@
 <code>0</code>
 <code>0</code>
 <code>0</code>
-</td></tr></table>
+</td></tr><tr><td><b>szName</b></td><td><code>PvPAvgWeaponDPS</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>szName</b></td><td><code>LegendaryProcDmg</code></td></tr><tr><td><b>flValue</b></td><td><code>1</code>
@@ -2133,7 +2133,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>szName</b></td><td><code>Necro Skeleton Mage Base Count</code></td></tr><tr><td><b>flValue</b></td><td><code>0</code>
+<table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>flValue</b></td><td><code>0</code>
 <code>1</code>
 <code>1</code>
 <code>1</code>
@@ -2209,7 +2209,7 @@
 <code>0</code>
 <code>0</code>
 <code>0</code>
-</td></tr></table>
+</td></tr><tr><td><b>szName</b></td><td><code>Necro Skeleton Mage Base Count</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>szName</b></td><td><code>Necro Skeleton Priest Base Count</code></td></tr><tr><td><b>flValue</b></td><td><code>0</code>
@@ -2291,7 +2291,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>flValue</b></td><td><code>0</code>
+<table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>szName</b></td><td><code>Necro Warrior Damage %</code></td></tr><tr><td><b>flValue</b></td><td><code>0</code>
 <code>3</code>
 <code>2.700000047683716</code>
 <code>2.4000000953674316</code>
@@ -2367,10 +2367,10 @@
 <code>0</code>
 <code>0</code>
 <code>0</code>
-</td></tr><tr><td><b>szName</b></td><td><code>Necro Warrior Damage %</code></td></tr></table>
+</td></tr></table>
 
 
-<table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>flValue</b></td><td><code>0</code>
+<table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>szName</b></td><td><code>Necro Mage Damage %</code></td></tr><tr><td><b>flValue</b></td><td><code>0</code>
 <code>3</code>
 <code>2.5</code>
 <code>2.4000000953674316</code>
@@ -2446,7 +2446,7 @@
 <code>0</code>
 <code>0</code>
 <code>0</code>
-</td></tr><tr><td><b>szName</b></td><td><code>Necro Mage Damage %</code></td></tr></table>
+</td></tr></table>
 
 
 <table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>szName</b></td><td><code>Priest Damage %</code></td></tr><tr><td><b>flValue</b></td><td><code>0</code>
@@ -2607,7 +2607,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>szName</b></td><td><code>Druid Bonus Damage</code></td></tr><tr><td><b>flValue</b></td><td><code>0</code>
+<table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>flValue</b></td><td><code>0</code>
 <code>0</code>
 <code>0</code>
 <code>0</code>
@@ -2683,10 +2683,10 @@
 <code>0</code>
 <code>0</code>
 <code>0</code>
-</td></tr></table>
+</td></tr><tr><td><b>szName</b></td><td><code>Druid Bonus Damage</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>szName</b></td><td><code>SkillRankBonus</code></td></tr><tr><td><b>flValue</b></td><td><code>1</code>
+<table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>flValue</b></td><td><code>1</code>
 <code>1</code>
 <code>1.100000023841858</code>
 <code>1.2000000476837158</code>
@@ -2762,7 +2762,7 @@
 <code>0</code>
 <code>0</code>
 <code>0</code>
-</td></tr></table>
+</td></tr><tr><td><b>szName</b></td><td><code>SkillRankBonus</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">PowerFormulaTableEntry</th></tr><tr><td><b>szName</b></td><td><code>CDRSkillRankBonus</code></td></tr><tr><td><b>flValue</b></td><td><code>1</code>
@@ -2844,8 +2844,8 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>dwType</b></td><td><code>3874588324</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+</td></tr></table>
 
 
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>eGameBalanceType</b></td><td><code>17</code></td></tr><tr><td><b>bIgnoreOnLoad</b></td><td><code>0</code></td></tr></table>
 

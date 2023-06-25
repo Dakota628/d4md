@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>“The road to Braestaig should be a little quieter."</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.B79B1</code></td></tr><tr><td><b>szText</b></td><td><code>My thanks, wanderer. I cannot wait to visit my sister’s bairn.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1562574988</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>My thanks, wanderer. I cannot wait to visit my sister’s bairn.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1562574988</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.B79B1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.B79B1</code></td></tr><tr><td><b>szText</b></td><td><code>Slightly guarded but greatful and hopeful.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3425461945</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Slightly guarded but greatful and hopeful.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3425461945</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.B79B1</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

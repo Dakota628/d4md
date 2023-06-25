@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"Lyndon..."</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1731569837</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>He was right, you know. I was keeping things from him. Didn't think he could handle it. Still don't, heh. But if, if I knew he'd turn, I... Hmm. No. No, I would not have.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>He was right, you know. I was keeping things from him. Didn't think he could handle it. Still don't, heh. But if, if I knew he'd turn, I... Hmm. No. No, I would not have.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1731569837</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.10088C</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>As if in the middle of a long thought. Upset, but still sure of his leadership.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3077297274</code></td></tr></table>

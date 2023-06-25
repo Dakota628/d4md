@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.7DD22</code></td></tr><tr><td><b>szText</b></td><td><code>I’ve lost so many...it can’t have been for nothing. Wanderer, please, let me join you. Let me avenge the fallen.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3255051954</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.7DD22</code></td></tr><tr><td><b>szText</b></td><td><code>Tired but determined to press on.</code></td></tr><tr><td><b>hLabel</b></td><td><code>822971615</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>822971615</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.7DD22</code></td></tr><tr><td><b>szText</b></td><td><code>Tired but determined to press on.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.AF367</code></td></tr><tr><td><b>szText</b></td><td><code>I’ve lost so many...it can’t have been for nothing. Wanderer, please, let me join you. Let me avenge the fallen.</code></td></tr><tr><td><b>hLabel</b></td><td><code>204074049</code></td></tr></table>

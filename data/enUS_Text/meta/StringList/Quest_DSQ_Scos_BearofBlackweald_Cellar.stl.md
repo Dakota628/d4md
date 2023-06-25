@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback8Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Stana</code></td></tr><tr><td><b>hLabel</b></td><td><code>3968539374</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback12Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat Blackweald Company recruits</code></td></tr><tr><td><b>hLabel</b></td><td><code>3533637401</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3533637401</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback12Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat Blackweald Company recruits</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback52Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat Stana</code></td></tr><tr><td><b>hLabel</b></td><td><code>2208717469</code></td></tr></table>
@@ -18,7 +18,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback23Header</code></td></tr><tr><td><b>szText</b></td><td><code>Confront Stana</code></td></tr><tr><td><b>hLabel</b></td><td><code>198908091</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback47Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Torben</code></td></tr><tr><td><b>hLabel</b></td><td><code>407352705</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>407352705</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback47Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Torben</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

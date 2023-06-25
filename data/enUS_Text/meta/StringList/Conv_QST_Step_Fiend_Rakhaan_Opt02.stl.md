@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>“Why do you collect these relics?”</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Well, shouldn’t they be collected? Would you leave a host of curse-bearing relics to fester across your homeland?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567831610</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.EECAE</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.EECAE</code></td></tr><tr><td><b>szText</b></td><td><code>Well, shouldn’t they be collected? Would you leave a host of curse-bearing relics to fester across your homeland?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567831610</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4150767548</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.EECAE</code></td></tr><tr><td><b>szText</b></td><td><code>I thought not.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.EECAE</code></td></tr><tr><td><b>szText</b></td><td><code>I thought not.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150767548</code></td></tr></table>
 
 
 </td></tr></table>

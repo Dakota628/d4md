@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>“I bring dark tidings from the Fractured Peaks…”</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1513311338</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Rathma is dead? I brought the Prophecy to Inarius so he could unravel its true meaning. I never expected he would kill his son because of it.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Rathma is dead? I brought the Prophecy to Inarius so he could unravel its true meaning. I never expected he would kill his son because of it.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1513311338</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Shocked at the knowledge Rathma, something of a demigod, is dead.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3376198295</code></td></tr></table>

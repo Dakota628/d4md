@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"You seem concerned."</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.1025AB</code></td></tr><tr><td><b>szText</b></td><td><code>Yes, well, Bozan has yet to return from delivering our tithing demands to Menestad.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2394099762</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Yes, well, Bozan has yet to return from delivering our tithing demands to Menestad.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2394099762</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.1025AB</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.1025AB</code></td></tr><tr><td><b>szText</b></td><td><code>professional and strong</code></td></tr><tr><td><b>hLabel</b></td><td><code>3739827199</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>professional and strong</code></td></tr><tr><td><b>hLabel</b></td><td><code>3739827199</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.1025AB</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.1025AB</code></td></tr><tr><td><b>szText</b></td><td><code>Perhaps you could sweep the roads and see what's taking him so long? The Cathedral must receive its dues!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1069179830</code></td></tr></table>

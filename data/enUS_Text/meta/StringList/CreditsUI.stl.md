@@ -15,7 +15,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>PressHoldText_KBM</code></td></tr><tr><td><b>szText</b></td><td><code>Hold {icon:KeyPrompt_Escape,2} to exit</code></td></tr><tr><td><b>hLabel</b></td><td><code>3619395890</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>prompt_pause</code></td></tr><tr><td><b>szText</b></td><td><code>{icon:button1, 2} Pause</code></td></tr><tr><td><b>hLabel</b></td><td><code>1262437343</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1262437343</code></td></tr><tr><td><b>szLabel</b></td><td><code>prompt_pause</code></td></tr><tr><td><b>szText</b></td><td><code>{icon:button1, 2} Pause</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>prompt_fastforward</code></td></tr><tr><td><b>szText</b></td><td><code>{icon:right, 2} Fast forward</code></td></tr><tr><td><b>hLabel</b></td><td><code>809696836</code></td></tr></table>

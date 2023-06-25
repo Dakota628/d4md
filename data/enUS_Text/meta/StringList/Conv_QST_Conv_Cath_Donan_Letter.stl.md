@@ -3,13 +3,13 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>“I have a letter for you, Donan.” </code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Good news for once, I hope?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1513311338</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1513311338</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Good news for once, I hope?</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>tired</code></td></tr><tr><td><b>hLabel</b></td><td><code>3376198295</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.7FA05</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>tired</code></td></tr><tr><td><b>hLabel</b></td><td><code>3376198295</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1698173014</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line13.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>It’s from Lorath.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>It’s from Lorath.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1698173014</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Wonderful.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2384215918</code></td></tr></table>
@@ -18,19 +18,19 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>tired</code></td></tr><tr><td><b>hLabel</b></td><td><code>4247102875</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>(muttering, reading to himself)</code></td></tr><tr><td><b>hLabel</b></td><td><code>3255120498</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3255120498</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line9.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>(muttering, reading to himself)</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>What? Is he serious?</code></td></tr><tr><td><b>hLabel</b></td><td><code>2737251199</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2737251199</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line15.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>What? Is he serious?</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>quiet, to himself</code></td></tr><tr><td><b>hLabel</b></td><td><code>4082978636</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir15.7FA05</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir15.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>quiet, to himself</code></td></tr><tr><td><b>hLabel</b></td><td><code>4082978636</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>What does it say?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1619902228</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>He didn’t tell you? No. Of course not. That would require some basic degree of consideration.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3608155779</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line19.7FA05</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line19.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>He didn’t tell you? No. Of course not. That would require some basic degree of consideration.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3608155779</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line21.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>It’s written in our code. He sent a plan—though calling it that is generous. He wants to imprison Lilith with my soulstone—the one that held Astaroth.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1535116636</code></td></tr></table>

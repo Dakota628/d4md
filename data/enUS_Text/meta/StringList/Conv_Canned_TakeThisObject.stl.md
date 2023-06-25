@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line28.BAE4.Bar</code></td></tr><tr><td><b>szText</b></td><td><code>This is yours.</code></td></tr><tr><td><b>hLabel</b></td><td><code>41991551</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>This belongs to you.</code></td></tr><tr><td><b>hLabel</b></td><td><code>42004736</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line28.BAE4.Nec</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line28.BAE4.Nec</code></td></tr><tr><td><b>szText</b></td><td><code>This belongs to you.</code></td></tr><tr><td><b>hLabel</b></td><td><code>42004736</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line28.BAE4.Dru</code></td></tr><tr><td><b>szText</b></td><td><code>This is yours.</code></td></tr><tr><td><b>hLabel</b></td><td><code>41994293</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>This is yours.</code></td></tr><tr><td><b>hLabel</b></td><td><code>41994293</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line28.BAE4.Dru</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line28.BAE4.Sor</code></td></tr><tr><td><b>szText</b></td><td><code>This belongs to you.</code></td></tr><tr><td><b>hLabel</b></td><td><code>42010526</code></td></tr></table>
@@ -24,7 +24,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line34.BAE4.Dru</code></td></tr><tr><td><b>szText</b></td><td><code>I think this belongs to you.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2008234226</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line34.BAE4.Sor</code></td></tr><tr><td><b>szText</b></td><td><code>This is yours, I'm certain.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2008250459</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2008250459</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line34.BAE4.Sor</code></td></tr><tr><td><b>szText</b></td><td><code>This is yours, I'm certain.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line34.BAE4.Rog</code></td></tr><tr><td><b>szText</b></td><td><code>I believe this is yours.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2008249359</code></td></tr></table>
@@ -33,7 +33,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3974471417</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line40.BAE4.Bar</code></td></tr><tr><td><b>szText</b></td><td><code>This is yours, is it not?</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3974484602</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line40.BAE4.Nec</code></td></tr><tr><td><b>szText</b></td><td><code>This belongs to you, doesn't it?</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line40.BAE4.Nec</code></td></tr><tr><td><b>szText</b></td><td><code>This belongs to you, doesn't it?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3974484602</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line40.BAE4.Dru</code></td></tr><tr><td><b>szText</b></td><td><code>This is yours, is it not?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3974474159</code></td></tr></table>

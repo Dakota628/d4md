@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback77Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the channeler to disrupt the rites</code></td></tr><tr><td><b>hLabel</b></td><td><code>3708630052</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2506495489</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback83Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay The Unascended</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Slay The Unascended</code></td></tr><tr><td><b>hLabel</b></td><td><code>2506495489</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback83Header</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback107Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat {CUSTOM_PARAM2}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2572996814</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Defeat {CUSTOM_PARAM2}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2572996814</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback107Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback95Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay The Unascended before the rites are complete</code></td></tr><tr><td><b>hLabel</b></td><td><code>463234148</code></td></tr></table>

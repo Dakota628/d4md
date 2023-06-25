@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"What can you tell me of the Sanguine Chapel?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.1041B2</code></td></tr><tr><td><b>szText</b></td><td><code>Not much. I couldn't find any record of it. But the Knight said it was right under the Father's nose, through a side door beneath the Alabaster Monastery.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2394167265</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2394167265</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.1041B2</code></td></tr><tr><td><b>szText</b></td><td><code>Not much. I couldn't find any record of it. But the Knight said it was right under the Father's nose, through a side door beneath the Alabaster Monastery.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

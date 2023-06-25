@@ -9,13 +9,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback120Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the remaining enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>1460195657</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback247Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the enemies</code></td></tr><tr><td><b>hLabel</b></td><td><code>3202389331</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3202389331</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback247Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the enemies</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback296Header</code></td></tr><tr><td><b>szText</b></td><td><code>Keep all the survivors alive</code></td></tr><tr><td><b>hLabel</b></td><td><code>254771447</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3567455791</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback315Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak to the survivors</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Speak to the survivors</code></td></tr><tr><td><b>hLabel</b></td><td><code>3567455791</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback315Header</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.B2A28</code></td></tr><tr><td><b>szText</b></td><td><code>I have some extra materials we can use this time. If you want to improve your healing potion further or craft any elixirs, you'll need to source your own ingredients.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145373224</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.B2A28</code></td></tr><tr><td><b>szText</b></td><td><code>I'll not leave these walls... never again.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2433341866</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2433341866</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.B2A28</code></td></tr><tr><td><b>szText</b></td><td><code>I'll not leave these walls... never again.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.B2A28</code></td></tr><tr><td><b>szText</b></td><td><code>"I'll not leave these walls, never again." is Fearful</code></td></tr><tr><td><b>hLabel</b></td><td><code>1261527</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>"I'll not leave these walls, never again." is Fearful</code></td></tr><tr><td><b>hLabel</b></td><td><code>1261527</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.B2A28</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

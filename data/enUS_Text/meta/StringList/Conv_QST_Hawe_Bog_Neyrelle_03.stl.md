@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir10.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Slightly dreamy feel, under the effects of mystic incense.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1919352782</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1091436941</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line4.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Don't be ridiculous.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line4.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Don't be ridiculous.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1091436941</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir4.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Groggy, under the effects of incense. Probably a slower read--not all there in the head.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2954323898</code></td></tr></table>

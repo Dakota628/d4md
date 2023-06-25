@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.1264E4</code></td></tr><tr><td><b>szText</b></td><td><code>Doubt it even exists.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1071694417</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.1264ED</code></td></tr><tr><td><b>szText</b></td><td><code>Don’t talk like that. Our faith is our strength, always has been. And...it’s all we have left now.</code></td></tr><tr><td><b>hLabel</b></td><td><code>409234499</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>409234499</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.1264ED</code></td></tr><tr><td><b>szText</b></td><td><code>Don’t talk like that. Our faith is our strength, always has been. And...it’s all we have left now.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.1264ED</code></td></tr><tr><td><b>szText</b></td><td><code>Disappointed</code></td></tr><tr><td><b>hLabel</b></td><td><code>1754961936</code></td></tr></table>

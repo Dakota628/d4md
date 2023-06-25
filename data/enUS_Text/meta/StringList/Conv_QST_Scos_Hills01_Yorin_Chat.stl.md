@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>What’s holding you back?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3639732837</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2383413888</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.804B7</code></td></tr><tr><td><b>szText</b></td><td><code>(sigh) My father. You’ve seen how he is. I need to persuade him just to let me leave the bloody keep.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>(sigh) My father. You’ve seen how he is. I need to persuade him just to let me leave the bloody keep.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2383413888</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.804B7</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Last part muttered under his breath</code></td></tr><tr><td><b>hLabel</b></td><td><code>4246300845</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.804B7</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4246300845</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.804B7</code></td></tr><tr><td><b>szText</b></td><td><code>Last part muttered under his breath</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

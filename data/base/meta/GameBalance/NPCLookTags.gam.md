@@ -1,31 +1,31 @@
 <h1>data/base/meta/GameBalance/NPCLookTags.gam</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/GameBalance/NPCLookTags.gam</td></tr><tr><td><b>Type</b></td><td>GameBalanceDefinition</td></tr><tr><td><b>SNO ID</b></td><td>970140</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>eGameBalanceType</b></td><td><code>52</code></td></tr><tr><td><b>bIgnoreOnLoad</b></td><td><code>0</code></td></tr><tr><td><b>ptData</b></td><td><table><tr><th colspan="100%">Type_74c296ab</th></tr><tr><td><b>dwType</b></td><td><code>1958909611</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tEntries</b></td><td><table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Generic</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3964097981</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>eGameBalanceType</b></td><td><code>52</code></td></tr><tr><td><b>bIgnoreOnLoad</b></td><td><code>0</code></td></tr><tr><td><b>ptData</b></td><td><table><tr><th colspan="100%">Type_74c296ab</th></tr><tr><td><b>dwType</b></td><td><code>1958909611</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tEntries</b></td><td><table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3964097981</code></td></tr><tr><td><b>szName</b></td><td><code>Generic</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Barbarian</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1337532130</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1337532130</code></td></tr><tr><td><b>szName</b></td><td><code>Barbarian</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>78939846</code></td></tr><tr><td><b>szName</b></td><td><code>Mercenary</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Mercenary</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>78939846</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Merchant</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>132636722</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>132636722</code></td></tr><tr><td><b>szName</b></td><td><code>Merchant</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Child</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>121261636</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>121261636</code></td></tr><tr><td><b>szName</b></td><td><code>Child</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Innkeeper</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1607393121</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1607393121</code></td></tr><tr><td><b>szName</b></td><td><code>Innkeeper</code></td></tr></table>
 
 </td></tr></table>
 
@@ -35,12 +35,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Devmir</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4037680167</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4037680167</code></td></tr><tr><td><b>szName</b></td><td><code>Devmir</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3277286857</code></td></tr><tr><td><b>szName</b></td><td><code>Militia</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Militia</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3277286857</code></td></tr></table>
 
 </td></tr></table>
 
@@ -55,17 +55,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Yuein</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>147814634</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>147814634</code></td></tr><tr><td><b>szName</b></td><td><code>Yuein</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1043887615</code></td></tr><tr><td><b>szName</b></td><td><code>Sell Sword</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Sell Sword</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1043887615</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Chieftain</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2358324075</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2358324075</code></td></tr><tr><td><b>szName</b></td><td><code>Chieftain</code></td></tr></table>
 
 </td></tr></table>
 
@@ -80,7 +80,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>278117448</code></td></tr><tr><td><b>szName</b></td><td><code>Chieftain - Bear Tribe</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Chieftain - Bear Tribe</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>278117448</code></td></tr></table>
 
 </td></tr></table>
 
@@ -100,7 +100,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>136116992</code></td></tr><tr><td><b>szName</b></td><td><code>Oyuun</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Oyuun</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>136116992</code></td></tr></table>
 
 </td></tr></table>
 
@@ -115,7 +115,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>324532010</code></td></tr><tr><td><b>szName</b></td><td><code>Sailor</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Sailor</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>324532010</code></td></tr></table>
 
 </td></tr></table>
 
@@ -125,7 +125,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Traveling Merchant</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2682937054</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2682937054</code></td></tr><tr><td><b>szName</b></td><td><code>Traveling Merchant</code></td></tr></table>
 
 </td></tr></table>
 
@@ -135,12 +135,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>122819896</code></td></tr><tr><td><b>szName</b></td><td><code>Druid</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Druid</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>122819896</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>128735053</code></td></tr><tr><td><b>szName</b></td><td><code>Nafain</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Nafain</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>128735053</code></td></tr></table>
 
 </td></tr></table>
 
@@ -155,7 +155,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Prava</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>137029594</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>137029594</code></td></tr><tr><td><b>szName</b></td><td><code>Prava</code></td></tr></table>
 
 </td></tr></table>
 
@@ -165,17 +165,17 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1842530793</code></td></tr><tr><td><b>szName</b></td><td><code>Vigo - Penitent</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vigo - Penitent</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1842530793</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3733427018</code></td></tr><tr><td><b>szName</b></td><td><code>Vigo - Penitent Armor</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Vigo - Penitent Armor</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3733427018</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Airidah</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>671670962</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>671670962</code></td></tr><tr><td><b>szName</b></td><td><code>Airidah</code></td></tr></table>
 
 </td></tr></table>
 
@@ -190,12 +190,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Brol</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3649743</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>3649743</code></td></tr><tr><td><b>szName</b></td><td><code>Brol</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Hunter</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4212916470</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4212916470</code></td></tr><tr><td><b>szName</b></td><td><code>Hunter</code></td></tr></table>
 
 </td></tr></table>
 
@@ -220,7 +220,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Yorin</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>147613169</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>147613169</code></td></tr><tr><td><b>szName</b></td><td><code>Yorin</code></td></tr></table>
 
 </td></tr></table>
 
@@ -235,7 +235,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Donan</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>122704208</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>122704208</code></td></tr><tr><td><b>szName</b></td><td><code>Donan</code></td></tr></table>
 
 </td></tr></table>
 
@@ -245,12 +245,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Gulyas - Witch</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>204253665</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>204253665</code></td></tr><tr><td><b>szName</b></td><td><code>Gulyas - Witch</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Taissa - Witch</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1073398673</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1073398673</code></td></tr><tr><td><b>szName</b></td><td><code>Taissa - Witch</code></td></tr></table>
 
 </td></tr></table>
 
@@ -290,7 +290,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1610164784</code></td></tr><tr><td><b>szName</b></td><td><code>Iron Wolf</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Iron Wolf</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>1610164784</code></td></tr></table>
 
 </td></tr></table>
 
@@ -335,12 +335,12 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>261225295</code></td></tr><tr><td><b>szName</b></td><td><code>Rathma - Ghost</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Rathma - Ghost</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>261225295</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2394718095</code></td></tr><tr><td><b>szName</b></td><td><code>Neyrelle - Bracelet</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Neyrelle - Bracelet</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>2394718095</code></td></tr></table>
 
 </td></tr></table>
 
@@ -350,7 +350,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4048670857</code></td></tr><tr><td><b>szName</b></td><td><code>Priest - Ghost</code></td></tr></table>
+<table><tr><th colspan="100%">Type_cf74eda4</th></tr><tr><td><b>tHeader</b></td><td><table><tr><th colspan="100%">GBIDHeader</th></tr><tr><td><b>szName</b></td><td><code>Priest - Ghost</code></td></tr><tr><td><b>szNameGBIDHash</b></td><td><code>4048670857</code></td></tr></table>
 
 </td></tr></table>
 

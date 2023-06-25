@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line17.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Curse this place. I’m being followed.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1854714586</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3717601543</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir17.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Curious</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir17.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Curious</code></td></tr><tr><td><b>hLabel</b></td><td><code>3717601543</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

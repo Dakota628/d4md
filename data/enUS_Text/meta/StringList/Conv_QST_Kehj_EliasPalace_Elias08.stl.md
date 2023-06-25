@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.8DD12</code></td></tr><tr><td><b>szText</b></td><td><code>Oh, you can do better than this, can’t you?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3256237842</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>In the middle of fighting. Slight exertion is okay, but not too much. Elias isn't worried--he knows he will be resurrected when he dies.</code></td></tr><tr><td><b>hLabel</b></td><td><code>824157503</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.8DD12</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.8DD12</code></td></tr><tr><td><b>szText</b></td><td><code>In the middle of fighting. Slight exertion is okay, but not too much. Elias isn't worried--he knows he will be resurrected when he dies.</code></td></tr><tr><td><b>hLabel</b></td><td><code>824157503</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>1_desc</code></td></tr><tr><td><b>szText</b></td><td><code>We enter the blood-soaked streets of Guulrahn. Oyuun, a prisoner who holds secrets necessary to enter the palace, languishes in the depths of the city. We must brave the charnel alleys to reach the prison and rescue Oyuun.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2034004335</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2073139728</code></td></tr><tr><td><b>szLabel</b></td><td><code>2_desc</code></td></tr><tr><td><b>szText</b></td><td><code>We head to the outskirts of Guulrahn to reunite with Oyuun and find a path into the palace.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>2_desc</code></td></tr><tr><td><b>szText</b></td><td><code>We head to the outskirts of Guulrahn to reunite with Oyuun and find a path into the palace.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2073139728</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>3_desc</code></td></tr><tr><td><b>szText</b></td><td><code>The gore-ridden sewers of Guulrahn hold a hidden path into the palace. Using Oyuun's details, we hunt for the secret passage into the palace undercroft. With the palace breached, Magnus is within reach.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2112275121</code></td></tr></table>

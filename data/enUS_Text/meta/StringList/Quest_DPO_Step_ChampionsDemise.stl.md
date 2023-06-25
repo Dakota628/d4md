@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback2Header</code></td></tr><tr><td><b>szText</b></td><td><code>Return the Stone Carving to the Pedestal: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>514698856</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback131Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the {MONSTER}: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2420433643</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Slay the {MONSTER}: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2420433643</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback131Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback137Header</code></td></tr><tr><td><b>szText</b></td><td><code>Travel to {LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1579306865</code></td></tr></table>

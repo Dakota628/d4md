@@ -5,13 +5,13 @@
 <code>1</code>
 <code>1</code>
 <code>1</code>
-</td></tr><tr><td><b>rgbaColors</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>r</b></td><td><code>42</code></td></tr><tr><td><b>g</b></td><td><code>51</code></td></tr><tr><td><b>b</b></td><td><code>53</code></td></tr><tr><td><b>a</b></td><td><code>255</code></td></tr></table>
+</td></tr><tr><td><b>rgbaColors</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>g</b></td><td><code>51</code></td></tr><tr><td><b>b</b></td><td><code>53</code></td></tr><tr><td><b>a</b></td><td><code>255</code></td></tr><tr><td><b>r</b></td><td><code>42</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>a</b></td><td><code>255</code></td></tr><tr><td><b>r</b></td><td><code>255</code></td></tr><tr><td><b>g</b></td><td><code>255</code></td></tr><tr><td><b>b</b></td><td><code>255</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>r</b></td><td><code>255</code></td></tr><tr><td><b>g</b></td><td><code>255</code></td></tr><tr><td><b>b</b></td><td><code>255</code></td></tr><tr><td><b>a</b></td><td><code>255</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>r</b></td><td><code>61</code></td></tr><tr><td><b>g</b></td><td><code>130</code></td></tr><tr><td><b>b</b></td><td><code>141</code></td></tr><tr><td><b>a</b></td><td><code>255</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>g</b></td><td><code>130</code></td></tr><tr><td><b>b</b></td><td><code>141</code></td></tr><tr><td><b>a</b></td><td><code>255</code></td></tr><tr><td><b>r</b></td><td><code>61</code></td></tr></table>
 
 
 </td></tr><tr><td><b>unk_49f94ee</b></td><td><code>0.5</code></td></tr></table>

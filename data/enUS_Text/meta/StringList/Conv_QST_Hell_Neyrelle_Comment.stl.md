@@ -9,13 +9,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>I keep seeing myself standing over Lilith. Stabbing her.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2382962613</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>(hesitant)</code></td></tr><tr><td><b>hLabel</b></td><td><code>4245849570</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.6DE47</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>(hesitant)</code></td></tr><tr><td><b>hLabel</b></td><td><code>4245849570</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I can’t seem to push the thought away.</code></td></tr><tr><td><b>hLabel</b></td><td><code>670931255</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.6DE47</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>670931255</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>I can’t seem to push the thought away.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>That’s Hatred worming its way into your mind. Don’t let it rule you.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3255120498</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3255120498</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line9.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>That’s Hatred worming its way into your mind. Don’t let it rule you.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

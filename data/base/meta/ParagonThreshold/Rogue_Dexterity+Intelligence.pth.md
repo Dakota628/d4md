@@ -7,7 +7,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">ParagonThresholdEntry</th></tr><tr><td><b>unk_72f7a95</b></td><td><table><tr><th colspan="100%">ParagonGlyphAffixAttribute</th></tr><tr><td><b>eAttribute</b></td><td><code>17</code></td></tr><tr><td><b>nParam</b></td><td><code>-1</code></td></tr></table>
+<table><tr><th colspan="100%">ParagonThresholdEntry</th></tr><tr><td><b>unk_72f7a95</b></td><td><table><tr><th colspan="100%">ParagonGlyphAffixAttribute</th></tr><tr><td><b>nParam</b></td><td><code>-1</code></td></tr><tr><td><b>eAttribute</b></td><td><code>17</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_ba3334</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>value</b></td><td><code>170 + (90 * ParagonBoardEquipIndex)</code></td></tr><tr><td><b>compiled</b></td><td><code>BgAAAAAAKkMGAAAAAAC0QgUAAABcAAAAAAAAAAAAAAAAAAAADQAAAAsAAAAAAAAA</code></td></tr></table>
 

@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"Are we ready for this?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1513311338</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Speaking for myself, yes, I believe I am. Ready to attune the soulstone, at least.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Speaking for myself, yes, I believe I am. Ready to attune the soulstone, at least.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1513311338</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Bracing. Anxious about others in the group.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3376198295</code></td></tr></table>
@@ -15,7 +15,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Bracing. Speaking hard truth.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1664166937</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2384215918</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>I have to believe it is up to us now. Not to the Prophecy, Inarius, or anyone else.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>I have to believe it is up to us now. Not to the Prophecy, Inarius, or anyone else.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2384215918</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Bracing. Summoning courage.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4247102875</code></td></tr></table>

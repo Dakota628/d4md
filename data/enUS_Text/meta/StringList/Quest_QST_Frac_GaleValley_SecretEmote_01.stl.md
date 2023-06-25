@@ -6,13 +6,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>A note bearing a pilgrim's wisdom.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I found a pilgrim's account of giving thanks at a roadside shrine and receiving something in return. Would it work for me?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><code>I found a pilgrim's account of giving thanks at a roadside shrine and receiving something in return. Would it work for me?</code></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback2Header</code></td></tr><tr><td><b>szText</b></td><td><code>Give thanks at the shrine</code></td></tr><tr><td><b>hLabel</b></td><td><code>514698856</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase8Description</code></td></tr><tr><td><b>szText</b></td><td><code>I offered thanks at the roadside shrine mentioned by the pilgrim and a chest of old pilgrim's supplies appeared. I should see what's in it.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1557588493</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1557588493</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase8Description</code></td></tr><tr><td><b>szText</b></td><td><code>I offered thanks at the roadside shrine mentioned by the pilgrim and a chest of old pilgrim's supplies appeared. I should see what's in it.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Investigate the Pilgrim's Supplies</code></td></tr><tr><td><b>hLabel</b></td><td><code>1821606043</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback14Header</code></td></tr></table>

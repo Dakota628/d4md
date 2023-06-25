@@ -9,13 +9,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Implying it's safer here for Taissa, if she stays</code></td></tr><tr><td><b>hLabel</b></td><td><code>4245791867</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Every part of me wants to walk through that storm and draw Elias’s blood.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1023524878</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line17.789BF</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line17.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>Every part of me wants to walk through that storm and draw Elias’s blood.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1023524878</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir17.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>cold, determined</code></td></tr><tr><td><b>hLabel</b></td><td><code>2369252315</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>But... perhaps he is counting on my vengeance to lead me back to him. So he can finish what he started.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3606460816</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line19.789BF</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3606460816</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line19.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>But... perhaps he is counting on my vengeance to lead me back to him. So he can finish what he started.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir19.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>introspective</code></td></tr><tr><td><b>hLabel</b></td><td><code>657220957</code></td></tr></table>

@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback50Header</code></td></tr><tr><td><b>szText</b></td><td><code>Activate the {GIZMO}es: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3920748827</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback53Header</code></td></tr><tr><td><b>szText</b></td><td><code>Open the {GIZMO}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3500185438</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3500185438</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback53Header</code></td></tr><tr><td><b>szText</b></td><td><code>Open the {GIZMO}</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback58Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat The Undying</code></td></tr><tr><td><b>hLabel</b></td><td><code>1367590691</code></td></tr></table>

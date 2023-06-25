@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase26Description</code></td></tr><tr><td><b>szText</b></td><td><code>I have accomplished what the Triune Cult and Cathedral of Light could not – lighting the mysterious fires and opening an eerie portal. Where this portal leads is unknown. Considering the amount of work to unlock it, I hope challenge and reward is ahead… </code></td></tr><tr><td><b>hLabel</b></td><td><code>2783948957</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback14Header</code></td></tr><tr><td><b>szText</b></td><td><code>Enter the Mysterious Gateway</code></td></tr><tr><td><b>hLabel</b></td><td><code>1821606043</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Enter the Mysterious Gateway</code></td></tr><tr><td><b>hLabel</b></td><td><code>1821606043</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback14Header</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

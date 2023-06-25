@@ -6,13 +6,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.8C673</code></td></tr><tr><td><b>szText</b></td><td><code>I’m sorry, I can’t eat this meat. Looking at it makes me… (gags)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1514342850</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3377229807</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.8C673</code></td></tr><tr><td><b>szText</b></td><td><code>Anxious, on the verge of panic. </code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.8C673</code></td></tr><tr><td><b>szText</b></td><td><code>Anxious, on the verge of panic. </code></td></tr><tr><td><b>hLabel</b></td><td><code>3377229807</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>It’s ok, Khal. I understand. I’ll find you something else to eat.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4147085804</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.BC3FE</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.BC3FE</code></td></tr><tr><td><b>szText</b></td><td><code>It’s ok, Khal. I understand. I’ll find you something else to eat.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4147085804</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1715005465</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.BC3FE</code></td></tr><tr><td><b>szText</b></td><td><code>Comforting, Patient, Motherly </code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.BC3FE</code></td></tr><tr><td><b>szText</b></td><td><code>Comforting, Patient, Motherly </code></td></tr><tr><td><b>hLabel</b></td><td><code>1715005465</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

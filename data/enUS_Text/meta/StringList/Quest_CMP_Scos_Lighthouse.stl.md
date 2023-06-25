@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback414Header</code></td></tr><tr><td><b>szText</b></td><td><code>Find a way to the Lighthouse</code></td></tr><tr><td><b>hLabel</b></td><td><code>4230300271</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback318Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay Tidewitch Ne'gana</code></td></tr><tr><td><b>hLabel</b></td><td><code>3146892402</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3146892402</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback318Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay Tidewitch Ne'gana</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback116Header</code></td></tr><tr><td><b>szText</b></td><td><code>Rekindle the Wanderer's Shrine to conquer Hope's Light</code></td></tr><tr><td><b>hLabel</b></td><td><code>950298862</code></td></tr></table>

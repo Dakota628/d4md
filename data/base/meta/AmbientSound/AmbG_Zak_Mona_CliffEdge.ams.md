@@ -10,7 +10,7 @@
 
 </td></tr><tr><td><b>unk_ce3c7b4</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_AmbG_Zak_Mona_CliffEdge.snd">[DT_SNO] Sound: "Play_AmbG_Zak_Mona_CliffEdge"</a></td></tr><tr><td><b>tRandomSounds</b></td><td><table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Zak_Mona_CliffEdge_Huge_Wind.snd">[DT_SNO] Sound: "Play_AmbG_Zak_Mona_CliffEdge_Huge_Wind"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
+</td></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_AmbG_Zak_Mona_CliffEdge.snd.md">[DT_SNO] Sound: "Play_AmbG_Zak_Mona_CliffEdge"</a></td></tr><tr><td><b>tRandomSounds</b></td><td><table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Zak_Mona_CliffEdge_Huge_Wind.snd.md">[DT_SNO] Sound: "Play_AmbG_Zak_Mona_CliffEdge_Huge_Wind"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-10</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr></table>
 
@@ -19,38 +19,38 @@
 </td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>25</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Zak_Mona_CliffEdge_Medium_Wind.snd">[DT_SNO] Sound: "Play_AmbG_Zak_Mona_CliffEdge_Medium_Wind"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Zak_Mona_CliffEdge_Medium_Wind.snd.md">[DT_SNO] Sound: "Play_AmbG_Zak_Mona_CliffEdge_Medium_Wind"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-10</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>20</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>25</code></td></tr></table>
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-20</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>20</code></td></tr></table>
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-20</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>20</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>3</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>17</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Zak_Mona_Screams.snd">[DT_SNO] Sound: "Play_AmbG_Zak_Mona_Screams"</a></td></tr></table>
+</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Zak_Mona_Screams.snd.md">[DT_SNO] Sound: "Play_AmbG_Zak_Mona_Screams"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
+
+</td></tr></table>
 
 
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Zak_Mona_CliffEdge_RockFall.snd.md">[DT_SNO] Sound: "Play_AmbG_Zak_Mona_CliffEdge_RockFall"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-30</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>30</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>17</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>8</code></td></tr></table>
+</td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>8</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>17</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbG_Zak_Mona_CliffEdge_RockFall.snd">[DT_SNO] Sound: "Play_AmbG_Zak_Mona_CliffEdge_RockFall"</a></td></tr></table>
+</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr></table>
 
 
-</td></tr><tr><td><b>tDynamicGameParameter</b></td><td><table><tr><th colspan="100%">DynamicGameParameter</th></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>tDynamicGameParameter</b></td><td><table><tr><th colspan="100%">DynamicGameParameter</th></tr><tr><td><b>bInvert</b></td><td><code>0</code></td></tr><tr><td><b>tName</b></td><td><table><tr><th colspan="100%">Type_f18a2f0</th></tr><tr><td><b>uID</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>tRadius</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>bInvert</b></td><td><code>0</code></td></tr></table>
+</td></tr></table>
 
 </td></tr></table>
 

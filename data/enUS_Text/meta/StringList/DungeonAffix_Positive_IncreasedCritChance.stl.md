@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AffixDesc_Legendary</code></td></tr><tr><td><b>szText</b></td><td><code>Your Critical Strike chance is increased by 9%.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3122115623</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AffixDesc_Rare</code></td></tr><tr><td><b>szText</b></td><td><code>Your Critical Strike chance is increased by 6%.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1695128598</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1695128598</code></td></tr><tr><td><b>szLabel</b></td><td><code>AffixDesc_Rare</code></td></tr><tr><td><b>szText</b></td><td><code>Your Critical Strike chance is increased by 6%.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AffixDesc_Magic</code></td></tr><tr><td><b>szText</b></td><td><code>Your Critical Strike chance is increased by 3%.</code></td></tr><tr><td><b>hLabel</b></td><td><code>98727533</code></td></tr></table>

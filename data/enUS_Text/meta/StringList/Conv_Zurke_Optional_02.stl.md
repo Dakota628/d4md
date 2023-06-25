@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.1086F0</code></td></tr><tr><td><b>szText</b></td><td><code>Amused.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3740044025</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.1086F0</code></td></tr><tr><td><b>szText</b></td><td><code>I wasn't like that in my youth, I can promise you! No no no no no, I was never bright enough.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1731856622</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1731856622</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.1086F0</code></td></tr><tr><td><b>szText</b></td><td><code>I wasn't like that in my youth, I can promise you! No no no no no, I was never bright enough.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.1086F0</code></td></tr><tr><td><b>szText</b></td><td><code>Amused</code></td></tr><tr><td><b>hLabel</b></td><td><code>3077584059</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Amused</code></td></tr><tr><td><b>hLabel</b></td><td><code>3077584059</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.1086F0</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.1086F0</code></td></tr><tr><td><b>szText</b></td><td><code>Too busy trying to steal enough coin from Caldeum nobles to buy bread!</code></td></tr><tr><td><b>hLabel</b></td><td><code>406936690</code></td></tr></table>

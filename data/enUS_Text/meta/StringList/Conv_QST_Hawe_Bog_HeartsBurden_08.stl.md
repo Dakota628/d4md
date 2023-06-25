@@ -9,16 +9,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.F34FB</code></td></tr><tr><td><b>szText</b></td><td><code>The player has just returned your missing son's dagger, proving that he is in fact dead. Disbelief, a horrible realization.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3265932378</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>No...Luka...my son...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567169660</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.F34FB</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.F34FB</code></td></tr><tr><td><b>szText</b></td><td><code>No...Luka...my son...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567169660</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F34FB</code></td></tr><tr><td><b>szText</b></td><td><code>Absolute heartbreak. Your only son was killed while lost in the swamps.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430056617</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3430056617</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F34FB</code></td></tr><tr><td><b>szText</b></td><td><code>Absolute heartbreak. Your only son was killed while lost in the swamps.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.F34FB</code></td></tr><tr><td><b>szText</b></td><td><code>My poor boy. I...you're all I have left...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150105598</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.F34FB</code></td></tr><tr><td><b>szText</b></td><td><code>Absolute heartbreak. Your only son was killed while lost in the swamps.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1718025259</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Absolute heartbreak. Your only son was killed while lost in the swamps.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1718025259</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.F34FB</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.F34FB</code></td></tr><tr><td><b>szText</b></td><td><code>(sobs)</code></td></tr><tr><td><b>hLabel</b></td><td><code>726042882</code></td></tr></table>

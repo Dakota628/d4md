@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line6.BAE4.Nec.F</code></td></tr><tr><td><b>szText</b></td><td><code>My allies must be here to do that.</code></td></tr><tr><td><b>hLabel</b></td><td><code>706370656</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3170137219</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line9.BAE4.Nec.F</code></td></tr><tr><td><b>szText</b></td><td><code>I need my allies to do that.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.BAE4.Nec.F</code></td></tr><tr><td><b>szText</b></td><td><code>I need my allies to do that.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3170137219</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

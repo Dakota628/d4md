@@ -1,6 +1,18 @@
 <h1>data/base/meta/Texture/Cookie_FracturedPeaksHU_Pale_Brazier_01.tex</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/Texture/Cookie_FracturedPeaksHU_Pale_Brazier_01.tex</td></tr><tr><td><b>Type</b></td><td>TextureDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1042575</td></tr></table>
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>dwVolumeYSlices</b></td><td><code>1</code></td></tr><tr><td><b>dwWidth</b></td><td><code>128</code></td></tr><tr><td><b>unk_d27620</b></td><td><code>1</code></td></tr><tr><td><b>serTex</b></td><td><table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>0</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>8192</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_20823c1</b></td><td><table><tr><th colspan="100%">Type_835c1731</th></tr><tr><td><b>coeff</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>x</b></td><td><code>3.528043746948242</code></td></tr><tr><td><b>y</b></td><td><code>0.000000025145693527406365</code></td></tr><tr><td><b>z</b></td><td><code>0.02397075854241848</code></td></tr><tr><td><b>w</b></td><td><code>-0.0000000577419605463092</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>y</b></td><td><code>0.00000005122270962942821</code></td></tr><tr><td><b>z</b></td><td><code>0.05653269216418266</code></td></tr><tr><td><b>w</b></td><td><code>-0.00000006519253759051935</code></td></tr><tr><td><b>x</b></td><td><code>3.5051326751708984</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>z</b></td><td><code>0.07224113494157791</code></td></tr><tr><td><b>w</b></td><td><code>0.000000005587931894979192</code></td></tr><tr><td><b>x</b></td><td><code>3.494080066680908</code></td></tr><tr><td><b>y</b></td><td><code>0.00000007916236910432417</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>dwVolumeXSlices</b></td><td><code>1</code></td></tr><tr><td><b>dwVolumeYSlices</b></td><td><code>1</code></td></tr><tr><td><b>dwWidth</b></td><td><code>128</code></td></tr><tr><td><b>dwMipMapLevelMax</b></td><td><code>5</code></td></tr><tr><td><b>dwFaceCount</b></td><td><code>6</code></td></tr><tr><td><b>unk_d27620</b></td><td><code>1</code></td></tr><tr><td><b>dwImportFlags</b></td><td><code>33554433</code></td></tr><tr><td><b>pHotspot</b></td><td>Vector(0.000000, 0.000000)</td></tr><tr><td><b>serTex</b></td><td><table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>0</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>8192</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>8192</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>4096</code></td></tr></table>
@@ -9,7 +21,7 @@
 <table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>12288</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>2048</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>14336</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>1024</code></td></tr></table>
+<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>1024</code></td></tr><tr><td><b>dwOffset</b></td><td><code>14336</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>15360</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>512</code></td></tr></table>
@@ -39,16 +51,16 @@
 <table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>24576</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>4096</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>28672</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>2048</code></td></tr></table>
+<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>2048</code></td></tr><tr><td><b>dwOffset</b></td><td><code>28672</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>30720</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>1024</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>512</code></td></tr><tr><td><b>dwOffset</b></td><td><code>31744</code></td></tr></table>
+<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>31744</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>512</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>32256</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>512</code></td></tr></table>
+<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>512</code></td></tr><tr><td><b>dwOffset</b></td><td><code>32256</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>0</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>0</code></td></tr></table>
@@ -75,13 +87,13 @@
 <table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>45056</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>2048</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>47104</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>1024</code></td></tr></table>
+<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>1024</code></td></tr><tr><td><b>dwOffset</b></td><td><code>47104</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>48128</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>512</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>512</code></td></tr><tr><td><b>dwOffset</b></td><td><code>48640</code></td></tr></table>
+<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>48640</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>512</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>0</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>0</code></td></tr></table>
@@ -90,7 +102,7 @@
 <table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>0</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwOffset</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>0</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>0</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>0</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>0</code></td></tr></table>
@@ -120,7 +132,7 @@
 <table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>0</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwOffset</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>0</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>0</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>0</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>0</code></td></tr></table>
@@ -180,7 +192,10 @@
 <table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>97280</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>512</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>97792</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>256</code></td></tr></table>
+<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>256</code></td></tr><tr><td><b>dwOffset</b></td><td><code>97792</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>0</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>0</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>0</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>0</code></td></tr></table>
@@ -195,40 +210,25 @@
 <table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwOffset</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>0</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>ptFrame</b></td><td><table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>flU1</b></td><td><code>1</code></td></tr><tr><td><b>flV1</b></td><td><code>1</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0</code></td></tr><tr><td><b>unk_8082015</b></td><td><code>1</code></td></tr><tr><td><b>hImageHandle</b></td><td><code>0</code></td></tr><tr><td><b>flU0</b></td><td><code>0</code></td></tr><tr><td><b>flV0</b></td><td><code>0</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>1</code></td></tr></table>
 
 
-</td></tr><tr><td><b>unk_20823c1</b></td><td><table><tr><th colspan="100%">Type_835c1731</th></tr><tr><td><b>coeff</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>x</b></td><td><code>3.528043746948242</code></td></tr><tr><td><b>y</b></td><td><code>0.000000025145693527406365</code></td></tr><tr><td><b>z</b></td><td><code>0.02397075854241848</code></td></tr><tr><td><b>w</b></td><td><code>-0.0000000577419605463092</code></td></tr></table>
+<table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>unk_8082015</b></td><td><code>1</code></td></tr><tr><td><b>flV0</b></td><td><code>0</code></td></tr><tr><td><b>flU1</b></td><td><code>1</code></td></tr><tr><td><b>flV1</b></td><td><code>1</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>1</code></td></tr><tr><td><b>hImageHandle</b></td><td><code>0</code></td></tr><tr><td><b>flU0</b></td><td><code>0</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>x</b></td><td><code>3.5051326751708984</code></td></tr><tr><td><b>y</b></td><td><code>0.00000005122270962942821</code></td></tr><tr><td><b>z</b></td><td><code>0.05653269216418266</code></td></tr><tr><td><b>w</b></td><td><code>-0.00000006519253759051935</code></td></tr></table>
+<table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>unk_8081ff4</b></td><td><code>1</code></td></tr><tr><td><b>flU0</b></td><td><code>0</code></td></tr><tr><td><b>flV0</b></td><td><code>0</code></td></tr><tr><td><b>flU1</b></td><td><code>1</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0</code></td></tr><tr><td><b>hImageHandle</b></td><td><code>0</code></td></tr><tr><td><b>flV1</b></td><td><code>1</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0</code></td></tr><tr><td><b>unk_8082015</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>z</b></td><td><code>0.07224113494157791</code></td></tr><tr><td><b>w</b></td><td><code>0.000000005587931894979192</code></td></tr><tr><td><b>x</b></td><td><code>3.494080066680908</code></td></tr><tr><td><b>y</b></td><td><code>0.00000007916236910432417</code></td></tr></table>
+<table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>unk_8081ff3</b></td><td><code>0</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>1</code></td></tr><tr><td><b>unk_8082015</b></td><td><code>1</code></td></tr><tr><td><b>hImageHandle</b></td><td><code>0</code></td></tr><tr><td><b>flU0</b></td><td><code>0</code></td></tr><tr><td><b>flV0</b></td><td><code>0</code></td></tr><tr><td><b>flU1</b></td><td><code>1</code></td></tr><tr><td><b>flV1</b></td><td><code>1</code></td></tr></table>
 
 
-</td></tr></table>
+<table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>hImageHandle</b></td><td><code>0</code></td></tr><tr><td><b>flU0</b></td><td><code>0</code></td></tr><tr><td><b>flV0</b></td><td><code>0</code></td></tr><tr><td><b>flV1</b></td><td><code>1</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>1</code></td></tr><tr><td><b>unk_8082015</b></td><td><code>1</code></td></tr><tr><td><b>flU1</b></td><td><code>1</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0</code></td></tr></table>
 
 
-</td></tr><tr><td><b>dwVolumeXSlices</b></td><td><code>1</code></td></tr><tr><td><b>dwDepth</b></td><td><code>1</code></td></tr><tr><td><b>dwMipMapLevelMax</b></td><td><code>5</code></td></tr><tr><td><b>dwImportFlags</b></td><td><code>33554433</code></td></tr><tr><td><b>ptFrame</b></td><td><table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>flV0</b></td><td><code>0</code></td></tr><tr><td><b>flU1</b></td><td><code>1</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>1</code></td></tr><tr><td><b>unk_8082015</b></td><td><code>1</code></td></tr><tr><td><b>hImageHandle</b></td><td><code>0</code></td></tr><tr><td><b>flU0</b></td><td><code>0</code></td></tr><tr><td><b>flV1</b></td><td><code>1</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>unk_8082015</b></td><td><code>1</code></td></tr><tr><td><b>hImageHandle</b></td><td><code>0</code></td></tr><tr><td><b>flV0</b></td><td><code>0</code></td></tr><tr><td><b>flV1</b></td><td><code>1</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0</code></td></tr><tr><td><b>flU0</b></td><td><code>0</code></td></tr><tr><td><b>flU1</b></td><td><code>1</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>flV1</b></td><td><code>1</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0</code></td></tr><tr><td><b>unk_8082015</b></td><td><code>1</code></td></tr><tr><td><b>hImageHandle</b></td><td><code>0</code></td></tr><tr><td><b>flU0</b></td><td><code>0</code></td></tr><tr><td><b>flV0</b></td><td><code>0</code></td></tr><tr><td><b>flU1</b></td><td><code>1</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>1</code></td></tr></table>
+</td></tr><tr><td><b>unk_dc7d39c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>r</b></td><td><code>0.9765717387199402</code></td></tr><tr><td><b>g</b></td><td><code>0.9738907814025879</code></td></tr><tr><td><b>b</b></td><td><code>0.972597062587738</code></td></tr><tr><td><b>a</b></td><td><code>1.1666667461395264</code></td></tr></table>
 
-
-<table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>flU0</b></td><td><code>0</code></td></tr><tr><td><b>flU1</b></td><td><code>1</code></td></tr><tr><td><b>flV1</b></td><td><code>1</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0</code></td></tr><tr><td><b>unk_8082015</b></td><td><code>1</code></td></tr><tr><td><b>hImageHandle</b></td><td><code>0</code></td></tr><tr><td><b>flV0</b></td><td><code>0</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>1</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>flU0</b></td><td><code>0</code></td></tr><tr><td><b>flV0</b></td><td><code>0</code></td></tr><tr><td><b>flU1</b></td><td><code>1</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>1</code></td></tr><tr><td><b>unk_8082015</b></td><td><code>1</code></td></tr><tr><td><b>hImageHandle</b></td><td><code>0</code></td></tr><tr><td><b>flV1</b></td><td><code>1</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>flV1</b></td><td><code>1</code></td></tr><tr><td><b>unk_8082015</b></td><td><code>1</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>1</code></td></tr><tr><td><b>hImageHandle</b></td><td><code>0</code></td></tr><tr><td><b>flU0</b></td><td><code>0</code></td></tr><tr><td><b>flV0</b></td><td><code>0</code></td></tr><tr><td><b>flU1</b></td><td><code>1</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>hImageHandle</b></td><td><code>0</code></td></tr><tr><td><b>flV0</b></td><td><code>0</code></td></tr><tr><td><b>flU1</b></td><td><code>1</code></td></tr><tr><td><b>flV1</b></td><td><code>1</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>1</code></td></tr><tr><td><b>unk_8082015</b></td><td><code>1</code></td></tr><tr><td><b>flU0</b></td><td><code>0</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>dwMipMapLevelMin</b></td><td><code>0</code></td></tr><tr><td><b>pHotspot</b></td><td>Vector(0.000000, 0.000000)</td></tr><tr><td><b>eTexFormat</b></td><td><code>9</code></td></tr><tr><td><b>dwHeight</b></td><td><code>128</code></td></tr><tr><td><b>dwFaceCount</b></td><td><code>6</code></td></tr><tr><td><b>unk_dc7d39c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>r</b></td><td><code>0.9765717387199402</code></td></tr><tr><td><b>g</b></td><td><code>0.9738907814025879</code></td></tr><tr><td><b>b</b></td><td><code>0.972597062587738</code></td></tr><tr><td><b>a</b></td><td><code>1.1666667461395264</code></td></tr></table>
-
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>eTexFormat</b></td><td><code>9</code></td></tr><tr><td><b>dwHeight</b></td><td><code>128</code></td></tr><tr><td><b>dwDepth</b></td><td><code>1</code></td></tr><tr><td><b>dwMipMapLevelMin</b></td><td><code>0</code></td></tr></table>
 

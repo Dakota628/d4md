@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"What happened to Calv, the guard?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.107ED8</code></td></tr><tr><td><b>szText</b></td><td><code>He has children to feed, he says, and refused my advice to rest.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2394331776</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2394331776</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.107ED8</code></td></tr><tr><td><b>szText</b></td><td><code>He has children to feed, he says, and refused my advice to rest.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.107ED8</code></td></tr><tr><td><b>szText</b></td><td><code>Who will feed those children when their father dies of his own stupidity, I don’t know.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1731871810</code></td></tr></table>

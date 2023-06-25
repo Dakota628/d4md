@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.8DD12</code></td></tr><tr><td><b>szText</b></td><td><code>When the Mother of Sanctuary re-enters her world, it will change. But in the end, we will remain. We will survive.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2385333262</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Rathma writes that when Inarius discovered Lilith's plan to overthrow the so-called natural order, he sealed her away.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1514428682</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.8DD12</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1514428682</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.8DD12</code></td></tr><tr><td><b>szText</b></td><td><code>Rathma writes that when Inarius discovered Lilith's plan to overthrow the so-called natural order, he sealed her away.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.8DD12</code></td></tr><tr><td><b>szText</b></td><td><code>For thousands of years, Lilith has sought to elevate us out of this cycle. Has fought to secure us our birthright: Sanctuary.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4097364620</code></td></tr></table>

@@ -12,13 +12,13 @@
 {icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:IMPACT}{/c}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>When {c_important}Boulder{/c} reaches the end of its path, enemies hit are Slowed by {c_number}[{SF_22}*100|%|]{/c} for {c_number}{buffduration:BUFF_MOD_SLOW}{/c} seconds. If {c_important}Boulder{/c} {c_important}{u}Overpowered{/u}{/c}, enemies are Stunned for {c_number}{buffduration:BUFF_MOD_STUN}{/c} seconds instead.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1960229941</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1960229941</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>When {c_important}Boulder{/c} reaches the end of its path, enemies hit are Slowed by {c_number}[{SF_22}*100|%|]{/c} for {c_number}{buffduration:BUFF_MOD_SLOW}{/c} seconds. If {c_important}Boulder{/c} {c_important}{u}Overpowered{/u}{/c}, enemies are Stunned for {c_number}{buffduration:BUFF_MOD_STUN}{/c} seconds instead.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Enhanced Boulder</code></td></tr><tr><td><b>hLabel</b></td><td><code>2531142258</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod0_Description</code></td></tr><tr><td><b>szText</b></td><td><code>While you have any {c_important}{u}Fortify{/u}{/c}, {c_important}Boulder{/c} has {c_number}[{SF_11}*100|%+|]{/c} increased Critical Strike Chance.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3591940403</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>While you have any {c_important}{u}Fortify{/u}{/c}, {c_important}Boulder{/c} has {c_number}[{SF_11}*100|%+|]{/c} increased Critical Strike Chance.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3591940403</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod0_Description</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod0_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Natural Boulder</code></td></tr><tr><td><b>hLabel</b></td><td><code>2452871472</code></td></tr></table>

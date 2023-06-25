@@ -16,25 +16,25 @@
 
 </td></tr><tr><td><b>unk_ce3c7b4</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_WAmb_Dungeon_Hawe_TempleOfTheDeathSpeaker.snd">[DT_SNO] Sound: "Play_WAmb_Dungeon_Hawe_TempleOfTheDeathSpeaker"</a></td></tr><tr><td><b>tRandomSounds</b></td><td><table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
+</td></tr><tr><td><b>snoBackground</b></td><td><a href="..\Sound\Play_WAmb_Dungeon_Hawe_TempleOfTheDeathSpeaker.snd.md">[DT_SNO] Sound: "Play_WAmb_Dungeon_Hawe_TempleOfTheDeathSpeaker"</a></td></tr><tr><td><b>tRandomSounds</b></td><td><table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WaterDrips.snd.md">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WaterDrips"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>1</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WaterDrips.snd">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WaterDrips"</a></td></tr></table>
-
-
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WaterLaps.snd">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WaterLaps"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>2</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>4</code></td></tr></table>
-
 </td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WoodRopeStone.snd">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WoodRopeStone"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>20</code></td></tr></table>
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>2</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>4</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WaterLaps.snd.md">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WaterLaps"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WoodRopeStone.snd.md">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WoodRopeStone"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>20</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>15</code></td></tr></table>
 
@@ -43,7 +43,7 @@
 </td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WaterSquish.snd">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WaterSquish"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>10</code></td></tr></table>
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WaterSquish.snd.md">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WaterSquish"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
 
@@ -52,13 +52,13 @@
 </td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WaterWave.snd">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WaterWave"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr></table>
-
-</td></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">RandomAmbientSoundParams</th></tr><tr><td><b>unk_84d8f3a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>0</code></td></tr></table>
 
 </td></tr><tr><td><b>unk_99bfb44</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>2</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>2</code></td></tr></table>
 
-</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_ff43907</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WaterWave.snd.md">[DT_SNO] Sound: "Play_AmbS_EMT_Dungeon_Hawe_TempleOfTheDeathSpeaker_WaterWave"</a></td></tr><tr><td><b>tRadiusRange</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>10</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>5</code></td></tr></table>
+
+</td></tr></table>
 
 
 </td></tr></table>

@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><code>A priest named Parin has asked me to meet him at his study where we can  sunder the Woodsman's Axe. </code></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3968539374</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback8Header</code></td></tr><tr><td><b>szText</b></td><td><code>Meet the Parin in the Crags of Ill Wind</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback8Header</code></td></tr><tr><td><b>szText</b></td><td><code>Meet the Parin in the Crags of Ill Wind</code></td></tr><tr><td><b>hLabel</b></td><td><code>3968539374</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>A priest named Parin has asked me to meet him at his study where we can  sunder the Woodsman's Axe. </code></td></tr><tr><td><b>hLabel</b></td><td><code>4104776794</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase14Description</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase14Description</code></td></tr><tr><td><b>szText</b></td><td><code>A priest named Parin has asked me to meet him at his study where we can  sunder the Woodsman's Axe. </code></td></tr><tr><td><b>hLabel</b></td><td><code>4104776794</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback20Header</code></td></tr><tr><td><b>szText</b></td><td><code>Enter the Sanctified Study</code></td></tr><tr><td><b>hLabel</b></td><td><code>619471480</code></td></tr></table>
@@ -21,7 +21,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase28Description</code></td></tr><tr><td><b>szText</b></td><td><code>A priest named Parin has asked me to meet him at his study where we can  sunder the Woodsman's Axe. </code></td></tr><tr><td><b>hLabel</b></td><td><code>131492703</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback30Header</code></td></tr><tr><td><b>szText</b></td><td><code>Meet the Parin in the Crags of Ill Wind</code></td></tr><tr><td><b>hLabel</b></td><td><code>288241497</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>288241497</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback30Header</code></td></tr><tr><td><b>szText</b></td><td><code>Meet the Parin in the Crags of Ill Wind</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

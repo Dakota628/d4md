@@ -19,7 +19,7 @@ Roina believes Cecil, their father, is likely in danger as well. We should searc
 I should speak with Roina and see if she recognizes this fiend.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>1141437915</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback26Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Roina</code></td></tr><tr><td><b>hLabel</b></td><td><code>4073311998</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Speak with Roina</code></td></tr><tr><td><b>hLabel</b></td><td><code>4073311998</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback26Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase81Description</code></td></tr><tr><td><b>szText</b></td><td><pre>I met Roina, a local hunter, near a house east of Marowen. Beside her are the bodies of two young boys—each soaked with rot. 
@@ -27,7 +27,7 @@ I should speak with Roina and see if she recognizes this fiend.</pre></td></tr><
 Something is wrong here. I should investigate.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>2372474558</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Investigate the bodies of Callum and Devlin</code></td></tr><tr><td><b>hLabel</b></td><td><code>2506495489</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback83Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback83Header</code></td></tr><tr><td><b>szText</b></td><td><code>Investigate the bodies of Callum and Devlin</code></td></tr><tr><td><b>hLabel</b></td><td><code>2506495489</code></td></tr></table>
 
 
 </td></tr></table>

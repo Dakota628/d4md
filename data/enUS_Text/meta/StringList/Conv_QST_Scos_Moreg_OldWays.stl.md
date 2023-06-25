@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.B79B1.Bar</code></td></tr><tr><td><b>szText</b></td><td><code>Look at this, these stone tablets contain some of the earliest written works of my druidic ancestors. All destroyed...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1444291283</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.B79B1.Dru</code></td></tr><tr><td><b>szText</b></td><td><code>Look cousin, these stone tablets contain some of the earliest written works of our ancestors. All destroyed...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1444294025</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1444294025</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.B79B1.Dru</code></td></tr><tr><td><b>szText</b></td><td><code>Look cousin, these stone tablets contain some of the earliest written works of our ancestors. All destroyed...</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.B79B1.Nec</code></td></tr><tr><td><b>szText</b></td><td><code>Look at this, these stone tablets contain some of the earliest written works of my druidic ancestors. All destroyed...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1444304468</code></td></tr></table>
@@ -33,7 +33,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.B79B1.Nec</code></td></tr><tr><td><b>szText</b></td><td><code>I don't blame the creatures, but we must preserve our history. Surely you see the value in that. Please, retrieve whatever you can!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4100812899</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.B79B1.Rog</code></td></tr><tr><td><b>szText</b></td><td><code>I don't blame the creatures, but we must preserve our history. Surely you see the value in that. Please, retrieve whatever you can!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4100817589</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I don't blame the creatures, but we must preserve our history. Surely you see the value in that. Please, retrieve whatever you can!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4100817589</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line13.B79B1.Rog</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.B79B1.Sor</code></td></tr><tr><td><b>szText</b></td><td><code>I don't blame the creatures, but we must preserve our history. Surely you see the value in that. Please, retrieve whatever you can!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4100818689</code></td></tr></table>

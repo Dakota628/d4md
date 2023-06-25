@@ -12,10 +12,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Dagger004</code></td></tr><tr><td><b>szText</b></td><td><code>Shard</code></td></tr><tr><td><b>hLabel</b></td><td><code>4125268158</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Razor</code></td></tr><tr><td><b>hLabel</b></td><td><code>4125268159</code></td></tr><tr><td><b>szLabel</b></td><td><code>Dagger005</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Dagger005</code></td></tr><tr><td><b>szText</b></td><td><code>Razor</code></td></tr><tr><td><b>hLabel</b></td><td><code>4125268159</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4125268160</code></td></tr><tr><td><b>szLabel</b></td><td><code>Dagger006</code></td></tr><tr><td><b>szText</b></td><td><code>Quill</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Quill</code></td></tr><tr><td><b>hLabel</b></td><td><code>4125268160</code></td></tr><tr><td><b>szLabel</b></td><td><code>Dagger006</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Dagger007</code></td></tr><tr><td><b>szText</b></td><td><code>Spur</code></td></tr><tr><td><b>hLabel</b></td><td><code>4125268161</code></td></tr></table>

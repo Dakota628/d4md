@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Bad Blood</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>Test Gulyas' Nangari transformation potion.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Test Gulyas' Nangari transformation potion.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><code>The potion didn't work on either groups of test subjects. I should return to Gulyas and tell her the results.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr></table>
@@ -18,7 +18,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>530138074</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback13Header</code></td></tr><tr><td><b>szText</b></td><td><code>Add Gulyas' potion to the Cookpot</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Hide near the Cookpot</code></td></tr><tr><td><b>hLabel</b></td><td><code>109574685</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback16Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback16Header</code></td></tr><tr><td><b>szText</b></td><td><code>Hide near the Cookpot</code></td></tr><tr><td><b>hLabel</b></td><td><code>109574685</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback24Header</code></td></tr><tr><td><b>szText</b></td><td><code>Add Gulyas' potion to the Cookpot</code></td></tr><tr><td><b>hLabel</b></td><td><code>1490376060</code></td></tr></table>
@@ -27,13 +27,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback27Header</code></td></tr><tr><td><b>szText</b></td><td><code>Hide near the Cookpot</code></td></tr><tr><td><b>hLabel</b></td><td><code>1069812671</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Gulyas has made a potion that might turn a person into a Nangiri. She would like me to test it on both bandits and cultists.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1463121120</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase38Description</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase38Description</code></td></tr><tr><td><b>szText</b></td><td><code>Gulyas has made a potion that might turn a person into a Nangiri. She would like me to test it on both bandits and cultists.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1463121120</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>738582688</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback37Header</code></td></tr><tr><td><b>szText</b></td><td><code>Take Gulyas' potion</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback37Header</code></td></tr><tr><td><b>szText</b></td><td><code>Take Gulyas' potion</code></td></tr><tr><td><b>hLabel</b></td><td><code>738582688</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase43Description</code></td></tr><tr><td><b>szText</b></td><td><code>I tested the potion on some nearby bandits. It failed to turn them into Nangiri. I should find some cultists and try it on them.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2983439228</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2983439228</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase43Description</code></td></tr><tr><td><b>szText</b></td><td><code>I tested the potion on some nearby bandits. It failed to turn them into Nangiri. I should find some cultists and try it on them.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback42Header</code></td></tr><tr><td><b>szText</b></td><td><code>Find the cultist camp</code></td></tr><tr><td><b>hLabel</b></td><td><code>2539947452</code></td></tr></table>

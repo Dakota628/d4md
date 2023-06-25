@@ -11,10 +11,10 @@
 The Swarms seem to be concentrated in the Blood Vale.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4210044747</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback5Header</code></td></tr><tr><td><b>szText</b></td><td><code>Exterminate Stinging Swarms in the Shrouded Moors: {DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>94135467</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>94135467</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback5Header</code></td></tr><tr><td><b>szText</b></td><td><code>Exterminate Stinging Swarms in the Shrouded Moors: {DONE_OVER_NEEDED}</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase9Description</code></td></tr><tr><td><b>szText</b></td><td><code>I have lessened the plague of Stinging Swarms in the Moors. I should return to Meav in Tirmair for reward. </code></td></tr><tr><td><b>hLabel</b></td><td><code>2378844014</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I have lessened the plague of Stinging Swarms in the Moors. I should return to Meav in Tirmair for reward. </code></td></tr><tr><td><b>hLabel</b></td><td><code>2378844014</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase9Description</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback8Header</code></td></tr><tr><td><b>szText</b></td><td><code>Return to Meav</code></td></tr><tr><td><b>hLabel</b></td><td><code>3968539374</code></td></tr></table>

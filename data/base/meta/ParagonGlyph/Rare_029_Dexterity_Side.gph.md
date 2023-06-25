@@ -6,7 +6,7 @@
 <code>1</code>
 <code>0</code>
 <code>0</code>
-</td></tr><tr><td><b>arAffixes</b></td><td><a href="..\ParagonGlyphAffix\DamageToBleeding_Dexterity_Side.gaf">[DT_SNO] ParagonGlyphAffix: "DamageToBleeding_Dexterity_Side"</a>
-<a href="..\ParagonGlyphAffix\Power_029_Dexterity_Side.gaf">[DT_SNO] ParagonGlyphAffix: "Power_029_Dexterity_Side"</a>
+</td></tr><tr><td><b>arAffixes</b></td><td><a href="..\ParagonGlyphAffix\DamageToBleeding_Dexterity_Side.gaf.md">[DT_SNO] ParagonGlyphAffix: "DamageToBleeding_Dexterity_Side"</a>
+<a href="..\ParagonGlyphAffix\Power_029_Dexterity_Side.gaf.md">[DT_SNO] ParagonGlyphAffix: "Power_029_Dexterity_Side"</a>
 </td></tr></table>
 

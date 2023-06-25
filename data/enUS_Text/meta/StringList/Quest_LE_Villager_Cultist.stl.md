@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback317Header</code></td></tr><tr><td><b>szText</b></td><td><code>Stop the Channelers from completing their ritual sacrifice</code></td></tr><tr><td><b>hLabel</b></td><td><code>1855424433</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback352Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the Channelers to disrupt the ritual sacrifice</code></td></tr><tr><td><b>hLabel</b></td><td><code>2663099248</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Slay the Channelers to disrupt the ritual sacrifice</code></td></tr><tr><td><b>hLabel</b></td><td><code>2663099248</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback352Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback342Header</code></td></tr><tr><td><b>szText</b></td><td><code>Survive the Cultist assault</code></td></tr><tr><td><b>hLabel</b></td><td><code>2994329231</code></td></tr></table>

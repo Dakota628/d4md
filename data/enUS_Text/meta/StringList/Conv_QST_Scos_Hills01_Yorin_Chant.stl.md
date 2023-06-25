@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.804B7</code></td></tr><tr><td><b>szText</b></td><td><code>(speaking Druidic)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1512509308</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.804B7</code></td></tr><tr><td><b>szText</b></td><td><code>(confident, chanting, but low and under his breath) Phonetic: "mah dare le fah nah sah."</code></td></tr><tr><td><b>hLabel</b></td><td><code>3375396265</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>(confident, chanting, but low and under his breath) Phonetic: "mah dare le fah nah sah."</code></td></tr><tr><td><b>hLabel</b></td><td><code>3375396265</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.804B7</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -15,11 +15,11 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>simple_desc</code></td></tr><tr><td><b>szText</b></td><td><code>Weapon Mastery: A powerful strike that can be repeated if an enemy is slain.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4074669608</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><pre>
-{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:EXECUTE_IMPACT}{/c}</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr><tr><td><b>szText</b></td><td><pre>
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:EXECUTE_IMPACT}{/c}</pre></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>{c_important}Death Blow{/c} deals {c_number}[{SF_12} * 100|%x|]{/c} increased damage to Bosses.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3291858358</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod3_Description</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod3_Description</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}Death Blow{/c} deals {c_number}[{SF_12} * 100|%x|]{/c} increased damage to Bosses.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3291858358</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod3_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Enhanced Death Blow</code></td></tr><tr><td><b>hLabel</b></td><td><code>2570277651</code></td></tr></table>

@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_236112</code></td></tr><tr><td><b>szText</b></td><td><code>Discretionary Spending</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034246240</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_236113</code></td></tr><tr><td><b>szText</b></td><td><code>Bait the Trap</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034246241</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Bait the Trap</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034246241</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_236113</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_236114</code></td></tr><tr><td><b>szText</b></td><td><code>Red-Handed</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034246242</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1034246242</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_236114</code></td></tr><tr><td><b>szText</b></td><td><code>Red-Handed</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.BAE4.Rog.M</code></td></tr><tr><td><b>szText</b></td><td><code>I need to train a bit more.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1655654855</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2476910376</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line14.BAE4.Rog.M</code></td></tr><tr><td><b>szText</b></td><td><code>I'm not strong enough yet.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line14.BAE4.Rog.M</code></td></tr><tr><td><b>szText</b></td><td><code>I'm not strong enough yet.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2476910376</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.BAE4.Rog.M</code></td></tr><tr><td><b>szText</b></td><td><code>I can't use that yet.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3298165897</code></td></tr></table>

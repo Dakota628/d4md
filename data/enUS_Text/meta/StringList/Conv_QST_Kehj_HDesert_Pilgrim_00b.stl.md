@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.BCB66</code></td></tr><tr><td><b>szText</b></td><td><code>Feigning confidence. Hiding worry.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1715055017</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2435103998</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.BCB66</code></td></tr><tr><td><b>szText</b></td><td><code>I sent our Sister Naglaa to cleanse it. She will be back soon.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.BCB66</code></td></tr><tr><td><b>szText</b></td><td><code>I sent our Sister Naglaa to cleanse it. She will be back soon.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2435103998</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3023659</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.BCB66</code></td></tr><tr><td><b>szText</b></td><td><code>Feigning confidence. Hiding worry. Hopes Naglaa  (Nah-zh-lah)will be back soon...</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.BCB66</code></td></tr><tr><td><b>szText</b></td><td><code>Feigning confidence. Hiding worry. Hopes Naglaa  (Nah-zh-lah)will be back soon...</code></td></tr><tr><td><b>hLabel</b></td><td><code>3023659</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

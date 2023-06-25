@@ -3,13 +3,13 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>Vigo Mourns 1</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4094993971</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>The escort... they're all dead...?</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>The escort... they're all dead...?</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094993971</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>horrified</code></td></tr><tr><td><b>hLabel</b></td><td><code>1662913632</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>(groans)</code></td></tr><tr><td><b>hLabel</b></td><td><code>2439728849</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.FA726</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.FA726</code></td></tr><tr><td><b>szText</b></td><td><code>(groans)</code></td></tr><tr><td><b>hLabel</b></td><td><code>2439728849</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.FA726</code></td></tr><tr><td><b>szText</b></td><td><code>Quietly groans in pain</code></td></tr><tr><td><b>hLabel</b></td><td><code>7648510</code></td></tr></table>

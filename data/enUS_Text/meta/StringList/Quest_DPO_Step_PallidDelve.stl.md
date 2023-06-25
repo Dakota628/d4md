@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback3Header</code></td></tr><tr><td><b>szText</b></td><td><code>Destroy the {MONSTER}: {LEFT}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1806166825</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback41Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat the {MONSTER}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1248479483</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Defeat the {MONSTER}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1248479483</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback41Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback44Header</code></td></tr><tr><td><b>szText</b></td><td><code>Travel to the {LEVELAREA}</code></td></tr><tr><td><b>hLabel</b></td><td><code>827916094</code></td></tr></table>
@@ -18,7 +18,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3079622049</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback56Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay all enemies in the Salt Mines {KAM_REVEALED_COUNT}</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback59Header</code></td></tr><tr><td><b>szText</b></td><td><code>Slay the Headhunter and collect the {ITEM}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2659058660</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Slay the Headhunter and collect the {ITEM}</code></td></tr><tr><td><b>hLabel</b></td><td><code>2659058660</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback59Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback64Header</code></td></tr><tr><td><b>szText</b></td><td><code>Use the Salt Encrusted Key to open the {GIZMO}</code></td></tr><tr><td><b>hLabel</b></td><td><code>165456128</code></td></tr></table>

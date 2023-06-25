@@ -12,10 +12,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>At a loss. Lorath just killed Elias... and yet he has come back to life.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4245791867</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>673301904</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.8DD12</code></td></tr><tr><td><b>szText</b></td><td><code>You will never understand what I have done for this world.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.8DD12</code></td></tr><tr><td><b>szText</b></td><td><code>You will never understand what I have done for this world.</code></td></tr><tr><td><b>hLabel</b></td><td><code>673301904</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Disdain</code></td></tr><tr><td><b>hLabel</b></td><td><code>2536188861</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.8DD12</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.8DD12</code></td></tr><tr><td><b>szText</b></td><td><code>Disdain</code></td></tr><tr><td><b>hLabel</b></td><td><code>2536188861</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

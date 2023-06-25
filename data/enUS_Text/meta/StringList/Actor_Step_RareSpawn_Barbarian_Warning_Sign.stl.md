@@ -3,12 +3,12 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Travelers Beware!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3426486927</code></td></tr><tr><td><b>szLabel</b></td><td><code>FlavorText</code></td></tr><tr><td><b>szText</b></td><td><code>Deadly threat spotted nearby!</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>FlavorText</code></td></tr><tr><td><b>szText</b></td><td><code>Deadly threat spotted nearby!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3426486927</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4073325784</code></td></tr><tr><td><b>szLabel</b></td><td><code>NoticeSignText</code></td></tr><tr><td><b>szText</b></td><td><pre>ZAROZAR THE MIGHTY
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>NoticeSignText</code></td></tr><tr><td><b>szText</b></td><td><pre>ZAROZAR THE MIGHTY
 
-Legends speak of a barbarian warrior who's bloodthirst was so ferocious, he terrified even the cannibal tribes. Zarozar's spirit still haunts Desolation's Reach, searching for a worthy challenge.</pre></td></tr></table>
+Legends speak of a barbarian warrior who's bloodthirst was so ferocious, he terrified even the cannibal tribes. Zarozar's spirit still haunts Desolation's Reach, searching for a worthy challenge.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4073325784</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

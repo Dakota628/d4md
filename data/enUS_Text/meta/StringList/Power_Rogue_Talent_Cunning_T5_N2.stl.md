@@ -16,7 +16,7 @@ While at {c_number}{SF_2}{/c} stacks of {c_important}Momentum{/c} you gain:
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff1_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Momentum</code></td></tr><tr><td><b>hLabel</b></td><td><code>270276116</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2005335447</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff1_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Momentum stacking up to {c_number}{SF_2}{/c}.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff1_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Momentum stacking up to {c_number}{SF_2}{/c}.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2005335447</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Maximum Momentum Bonus</code></td></tr><tr><td><b>hLabel</b></td><td><code>309411509</code></td></tr></table>

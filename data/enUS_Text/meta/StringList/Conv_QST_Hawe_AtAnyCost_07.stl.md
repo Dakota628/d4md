@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.121FCA</code></td></tr><tr><td><b>szText</b></td><td><code>Raspy zombie voice. Straining with every word</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742216530</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Begin.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734029127</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.121FCA</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.121FCA</code></td></tr><tr><td><b>szText</b></td><td><code>Begin.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734029127</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.121FCA</code></td></tr><tr><td><b>szText</b></td><td><code>Raspy zombie voice. Straining with every word</code></td></tr><tr><td><b>hLabel</b></td><td><code>3079756564</code></td></tr></table>

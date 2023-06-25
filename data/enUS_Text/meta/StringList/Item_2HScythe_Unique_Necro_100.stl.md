@@ -3,8 +3,8 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Bloodless Scream</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><pre>"My companion swung her odd weapon in a wide arc, and our pursuer stopped short. The look of horror on his face as his body fell to pieces will haunt me forever."
-- The Ebon Pages, Canto II, Verse XI</pre></td></tr><tr><td><b>hLabel</b></td><td><code>4123507722</code></td></tr><tr><td><b>szLabel</b></td><td><code>Flavor</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4123507722</code></td></tr><tr><td><b>szLabel</b></td><td><code>Flavor</code></td></tr><tr><td><b>szText</b></td><td><pre>"My companion swung her odd weapon in a wide arc, and our pursuer stopped short. The look of horror on his face as his body fell to pieces will haunt me forever."
+- The Ebon Pages, Canto II, Verse XI</pre></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

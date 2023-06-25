@@ -15,7 +15,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1034215787</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_235628</code></td></tr><tr><td><b>szText</b></td><td><code>The Beast's Challenge</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1034245255</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_236047</code></td></tr><tr><td><b>szText</b></td><td><code>Call of the Ancients</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_236047</code></td></tr><tr><td><b>szText</b></td><td><code>Call of the Ancients</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034245255</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

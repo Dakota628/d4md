@@ -3,13 +3,13 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"I've met Valtha."</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1511616375</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>And how was my sister?</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>And how was my sister?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1511616375</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.789BF</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3639732837</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Valtha chose Lilith over your friendship. Elias convinced her to join him.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Valtha chose Lilith over your friendship. Elias convinced her to join him.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3639732837</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>That can't be. She would have known not to trust Elias.</code></td></tr><tr><td><b>hLabel</b></td><td><code>670489597</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.789BF</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.789BF</code></td></tr><tr><td><b>szText</b></td><td><code>That can't be. She would have known not to trust Elias.</code></td></tr><tr><td><b>hLabel</b></td><td><code>670489597</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>It wasn’t Elias that seduced her, but Lilith. She found her ideals...convincing.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1619902228</code></td></tr></table>

@@ -16,10 +16,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Critical Skill Damage Count</code></td></tr><tr><td><b>hLabel</b></td><td><code>3336963864</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff3_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Solid Bones</code></td></tr><tr><td><b>hLabel</b></td><td><code>348546902</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Solid Bones</code></td></tr><tr><td><b>hLabel</b></td><td><code>348546902</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff3_Name</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Dealing bonus damage with {c_important}Bone{/c} Skills.</code></td></tr><tr><td><b>hLabel</b></td><td><code>373624985</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff3_Description</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff3_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Dealing bonus damage with {c_important}Bone{/c} Skills.</code></td></tr><tr><td><b>hLabel</b></td><td><code>373624985</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

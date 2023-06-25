@@ -15,7 +15,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>I know that glow. It's the soulstone.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4096247276</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Nearby, Donan sees the glow of the soulstone from beneath a dead Knight Penitent. He knows what it is--he's familiar with the soulstone.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1664166937</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Nearby, Donan sees the glow of the soulstone from beneath a dead Knight Penitent. He knows what it is--he's familiar with the soulstone.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1664166937</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.7FA05</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

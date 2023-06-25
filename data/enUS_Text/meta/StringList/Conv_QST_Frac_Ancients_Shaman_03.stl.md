@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.1283AE</code></td></tr><tr><td><b>szText</b></td><td><code>wheezing throughout. sounds ancient</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742412488</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1734225085</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.1283AE</code></td></tr><tr><td><b>szText</b></td><td><code>Ancestors be praised, Chieftain of the Bear Tribe, you and your champion have done well. Tell me, what of our people?</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.1283AE</code></td></tr><tr><td><b>szText</b></td><td><code>Ancestors be praised, Chieftain of the Bear Tribe, you and your champion have done well. Tell me, what of our people?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734225085</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.1283AE</code></td></tr><tr><td><b>szText</b></td><td><code>wheezing throughout. sounds ancient.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3079952522</code></td></tr></table>
@@ -18,13 +18,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.8243F</code></td></tr><tr><td><b>szText</b></td><td><code>They have sacrificed much in our pursuit of the Ancient's Call, they have suffered... and they have learned loss.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2383484258</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.1283AE</code></td></tr><tr><td><b>szText</b></td><td><code>Strength alone failed us at Arreat... but you have forged new bonds of brotherhood... accomplished much. Take my blessing back to our people... find a new destiny... dwell on the past... no more.</code></td></tr><tr><td><b>hLabel</b></td><td><code>409305153</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>409305153</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.1283AE</code></td></tr><tr><td><b>szText</b></td><td><code>Strength alone failed us at Arreat... but you have forged new bonds of brotherhood... accomplished much. Take my blessing back to our people... find a new destiny... dwell on the past... no more.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>wheezing throughout. sounds ancient.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1755032590</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.1283AE</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1755032590</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.1283AE</code></td></tr><tr><td><b>szText</b></td><td><code>wheezing throughout. sounds ancient.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1865614959</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.8243F</code></td></tr><tr><td><b>szText</b></td><td><code>Rest well Kravett, Shaman of the Bear Tribe.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.8243F</code></td></tr><tr><td><b>szText</b></td><td><code>Rest well Kravett, Shaman of the Bear Tribe.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1865614959</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

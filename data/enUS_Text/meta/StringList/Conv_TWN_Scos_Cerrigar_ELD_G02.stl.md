@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F7381</code></td></tr><tr><td><b>szText</b></td><td><code>To the foreign knight. Furious. Chastising.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430197709</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>And what if I did?</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150246664</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.F7378</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.F7378</code></td></tr><tr><td><b>szText</b></td><td><code>And what if I did?</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150246664</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1718166325</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.F7378</code></td></tr><tr><td><b>szText</b></td><td><code>To the local. Flat. Uncaring. Intimidating.</code></td></tr></table>

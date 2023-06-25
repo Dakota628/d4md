@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.804B7</code></td></tr><tr><td><b>szText</b></td><td><code>I see the entrance to the Cairns below.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2383413888</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.804B7</code></td></tr><tr><td><b>szText</b></td><td><code>There should be a path to the east that will lead us there.</code></td></tr><tr><td><b>hLabel</b></td><td><code>671382530</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>There should be a path to the east that will lead us there.</code></td></tr><tr><td><b>hLabel</b></td><td><code>671382530</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.804B7</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

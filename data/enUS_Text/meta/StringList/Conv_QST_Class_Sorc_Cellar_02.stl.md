@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.14656B</code></td></tr><tr><td><b>szText</b></td><td><code>I... I don't know what to say! I'm certain my interpolations were correct... or at least in the spirit of the original.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2398985775</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1736525809</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.14656B</code></td></tr><tr><td><b>szText</b></td><td><code>All this wasted effort... perhaps my translation of the book was incorrect. I'm going back to Kurast to study my notes again.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.14656B</code></td></tr><tr><td><b>szText</b></td><td><code>All this wasted effort... perhaps my translation of the book was incorrect. I'm going back to Kurast to study my notes again.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1736525809</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.14656B</code></td></tr><tr><td><b>szText</b></td><td><code>I think it’s best if I leave the book with you. Consider it thanks for your help.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1074065843</code></td></tr></table>

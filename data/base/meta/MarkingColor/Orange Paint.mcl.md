@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>r</b></td><td><code>0.8671356439590454</code></td></tr><tr><td><b>g</b></td><td><code>0.275832861661911</code></td></tr><tr><td><b>b</b></td><td><code>0.09387587010860443</code></td></tr><tr><td><b>a</b></td><td><code>1</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>r</b></td><td><code>0.3021255135536194</code></td></tr><tr><td><b>g</b></td><td><code>0.11129941791296005</code></td></tr><tr><td><b>b</b></td><td><code>0.04614884406328201</code></td></tr><tr><td><b>a</b></td><td><code>1</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>g</b></td><td><code>0.11129941791296005</code></td></tr><tr><td><b>b</b></td><td><code>0.04614884406328201</code></td></tr><tr><td><b>a</b></td><td><code>1</code></td></tr><tr><td><b>r</b></td><td><code>0.3021255135536194</code></td></tr></table>
 
 
 </td></tr><tr><td><b>unk_37592cc</b></td><td><code>0.699999988079071</code></td></tr></table>

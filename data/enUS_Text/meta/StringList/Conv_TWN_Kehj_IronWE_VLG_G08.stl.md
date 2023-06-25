@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.12887A</code></td></tr><tr><td><b>szText</b></td><td><code>I came here looking for help, and found a dream.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734229140</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.12887B</code></td></tr><tr><td><b>szText</b></td><td><code>Yet we are together, so would you truly want to wake?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1071769175</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1071769175</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.12887B</code></td></tr><tr><td><b>szText</b></td><td><code>Yet we are together, so would you truly want to wake?</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.12887A</code></td></tr><tr><td><b>szText</b></td><td><code>Nay, my love. Though I fear the day we will.</code></td></tr><tr><td><b>hLabel</b></td><td><code>409309208</code></td></tr></table>

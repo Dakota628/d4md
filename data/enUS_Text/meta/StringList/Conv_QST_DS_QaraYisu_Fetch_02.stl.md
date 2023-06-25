@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.5421A</code></td></tr><tr><td><b>szText</b></td><td><code>Hope this helps. I would buy you an ale if we had anything decent around here. Your payment, as promised.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1509091540</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.5421A</code></td></tr><tr><td><b>szText</b></td><td><code>Doubtful the bones with actually help his problem, but thanks the player anyway. </code></td></tr><tr><td><b>hLabel</b></td><td><code>3371978497</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3371978497</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.5421A</code></td></tr><tr><td><b>szText</b></td><td><code>Doubtful the bones with actually help his problem, but thanks the player anyway. </code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

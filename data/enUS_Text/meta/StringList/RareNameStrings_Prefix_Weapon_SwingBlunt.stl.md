@@ -9,19 +9,19 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blunt003</code></td></tr><tr><td><b>szText</b></td><td><code>Smasher's</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367512</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blunt004</code></td></tr><tr><td><b>szText</b></td><td><code>Destruction</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367513</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>62367513</code></td></tr><tr><td><b>szLabel</b></td><td><code>Blunt004</code></td></tr><tr><td><b>szText</b></td><td><code>Destruction</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blunt005</code></td></tr><tr><td><b>szText</b></td><td><code>Slaughter</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367514</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blunt006</code></td></tr><tr><td><b>szText</b></td><td><code>Mangle</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367515</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>62367515</code></td></tr><tr><td><b>szLabel</b></td><td><code>Blunt006</code></td></tr><tr><td><b>szText</b></td><td><code>Mangle</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blunt007</code></td></tr><tr><td><b>szText</b></td><td><code>Rupture</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367516</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Rupture</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367516</code></td></tr><tr><td><b>szLabel</b></td><td><code>Blunt007</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blunt008</code></td></tr><tr><td><b>szText</b></td><td><code>Smite</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367517</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Smite</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367517</code></td></tr><tr><td><b>szLabel</b></td><td><code>Blunt008</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blunt009</code></td></tr><tr><td><b>szText</b></td><td><code>Devastator's</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367518</code></td></tr></table>
@@ -33,7 +33,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blunt011</code></td></tr><tr><td><b>szText</b></td><td><code>Combat</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367543</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>62367544</code></td></tr><tr><td><b>szLabel</b></td><td><code>Blunt012</code></td></tr><tr><td><b>szText</b></td><td><code>Grand</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Grand</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367544</code></td></tr><tr><td><b>szLabel</b></td><td><code>Blunt012</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blunt013</code></td></tr><tr><td><b>szText</b></td><td><code>Bulk</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367545</code></td></tr></table>
@@ -51,13 +51,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blunt017</code></td></tr><tr><td><b>szText</b></td><td><code>Conquest</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blunt018</code></td></tr><tr><td><b>szText</b></td><td><code>War</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367550</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>62367550</code></td></tr><tr><td><b>szLabel</b></td><td><code>Blunt018</code></td></tr><tr><td><b>szText</b></td><td><code>War</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Battle</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367551</code></td></tr><tr><td><b>szLabel</b></td><td><code>Blunt019</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>62367551</code></td></tr><tr><td><b>szLabel</b></td><td><code>Blunt019</code></td></tr><tr><td><b>szText</b></td><td><code>Battle</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Boulder</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367575</code></td></tr><tr><td><b>szLabel</b></td><td><code>Blunt020</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blunt020</code></td></tr><tr><td><b>szText</b></td><td><code>Boulder</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367575</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blunt021</code></td></tr><tr><td><b>szText</b></td><td><code>Stone</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367576</code></td></tr></table>
@@ -66,7 +66,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blunt022</code></td></tr><tr><td><b>szText</b></td><td><code>Iron</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367577</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blunt023</code></td></tr><tr><td><b>szText</b></td><td><code>Slam</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367578</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Slam</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367578</code></td></tr><tr><td><b>szLabel</b></td><td><code>Blunt023</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blunt024</code></td></tr><tr><td><b>szText</b></td><td><code>Ravage</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367579</code></td></tr></table>
@@ -84,13 +84,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blunt028</code></td></tr><tr><td><b>szText</b></td><td><code>Forge</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Anger</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367584</code></td></tr><tr><td><b>szLabel</b></td><td><code>Blunt029</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>62367584</code></td></tr><tr><td><b>szLabel</b></td><td><code>Blunt029</code></td></tr><tr><td><b>szText</b></td><td><code>Anger</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blunt030</code></td></tr><tr><td><b>szText</b></td><td><code>Doom</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367608</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Blunt031</code></td></tr><tr><td><b>szText</b></td><td><code>The</code></td></tr><tr><td><b>hLabel</b></td><td><code>62367609</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>62367609</code></td></tr><tr><td><b>szLabel</b></td><td><code>Blunt031</code></td></tr><tr><td><b>szText</b></td><td><code>The</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

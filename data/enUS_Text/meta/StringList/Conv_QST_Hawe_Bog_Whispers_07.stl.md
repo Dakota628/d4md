@@ -15,7 +15,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.C1CD0</code></td></tr><tr><td><b>szText</b></td><td><code>Not yet. They have another purpose first.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3305400250</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Reference to the heads thinking Player and team can help them track down Elias, the character who betrayed the Tree of Whispers.</code></td></tr><tr><td><b>hLabel</b></td><td><code>873319911</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.C1CD0</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.C1CD0</code></td></tr><tr><td><b>szText</b></td><td><code>Reference to the heads thinking Player and team can help them track down Elias, the character who betrayed the Tree of Whispers.</code></td></tr><tr><td><b>hLabel</b></td><td><code>873319911</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

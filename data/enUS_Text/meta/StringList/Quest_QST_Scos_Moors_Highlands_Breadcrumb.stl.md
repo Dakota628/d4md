@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><code>Go to the Under the Fat Goose Inn and speak to Torben the Innkeeper about Niall's tab.  </code></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback5Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Torben the Innkeeper</code></td></tr><tr><td><b>hLabel</b></td><td><code>94135467</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Speak with Torben the Innkeeper</code></td></tr><tr><td><b>hLabel</b></td><td><code>94135467</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback5Header</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

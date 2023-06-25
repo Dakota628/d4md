@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Desc</code></td></tr><tr><td><b>szText</b></td><td><code>Collect 250 Rawhide and 100 Superior Leather</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1034183179</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_234944</code></td></tr><tr><td><b>szText</b></td><td><code>Rawhide</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_234944</code></td></tr><tr><td><b>szText</b></td><td><code>Rawhide</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034183179</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_234945</code></td></tr><tr><td><b>szText</b></td><td><code>Superior Leather</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034183180</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Superior Leather</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034183180</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_234945</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

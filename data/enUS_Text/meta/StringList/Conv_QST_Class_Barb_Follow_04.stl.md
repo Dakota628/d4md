@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"Here is the beast's head."</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Huh, and what a great ugly thing it is. Glorious.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1509092124</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.541E6</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.541E6</code></td></tr><tr><td><b>szText</b></td><td><code>Huh, and what a great ugly thing it is. Glorious.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1509092124</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.541E6</code></td></tr><tr><td><b>szText</b></td><td><code>Admiring the gnarled beast's severed head. Smiling. Wolfish. </code></td></tr><tr><td><b>hLabel</b></td><td><code>3371979081</code></td></tr></table>
@@ -18,7 +18,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line10.541E6</code></td></tr><tr><td><b>szText</b></td><td><code>And congratulations, warrior of the Oxen Tribe.</code></td></tr><tr><td><b>hLabel</b></td><td><code>570659436</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir10.541E6</code></td></tr><tr><td><b>szText</b></td><td><code>Pleased. Reverent. Warm.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1916386873</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Pleased. Reverent. Warm.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1916386873</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir10.541E6</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

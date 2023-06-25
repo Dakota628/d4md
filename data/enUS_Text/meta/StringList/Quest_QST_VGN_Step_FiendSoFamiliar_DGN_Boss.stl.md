@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback40Header</code></td></tr><tr><td><b>szText</b></td><td><code>Dispel the illusionary veil to expose Overseer Kafan</code></td></tr><tr><td><b>hLabel</b></td><td><code>4251978810</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3097634794</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback4Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat Overseer Kafan</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback4Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat Overseer Kafan</code></td></tr><tr><td><b>hLabel</b></td><td><code>3097634794</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback44Header</code></td></tr><tr><td><b>szText</b></td><td><code>Perform the gesture spell on the relic</code></td></tr><tr><td><b>hLabel</b></td><td><code>827916094</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>827916094</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback44Header</code></td></tr><tr><td><b>szText</b></td><td><code>Perform the gesture spell on the relic</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback42Header</code></td></tr><tr><td><b>szText</b></td><td><code>Enter the Relic Chamber</code></td></tr><tr><td><b>hLabel</b></td><td><code>2539947452</code></td></tr></table>

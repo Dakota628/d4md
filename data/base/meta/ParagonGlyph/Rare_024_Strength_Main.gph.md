@@ -6,7 +6,7 @@
 <code>1</code>
 <code>0</code>
 <code>0</code>
-</td></tr><tr><td><b>arAffixes</b></td><td><a href="..\ParagonGlyphAffix\SwordDamage_Strength_Main.gaf">[DT_SNO] ParagonGlyphAffix: "SwordDamage_Strength_Main"</a>
-<a href="..\ParagonGlyphAffix\Power_024_Strength_Main.gaf">[DT_SNO] ParagonGlyphAffix: "Power_024_Strength_Main"</a>
+</td></tr><tr><td><b>arAffixes</b></td><td><a href="..\ParagonGlyphAffix\SwordDamage_Strength_Main.gaf.md">[DT_SNO] ParagonGlyphAffix: "SwordDamage_Strength_Main"</a>
+<a href="..\ParagonGlyphAffix\Power_024_Strength_Main.gaf.md">[DT_SNO] ParagonGlyphAffix: "Power_024_Strength_Main"</a>
 </td></tr></table>
 

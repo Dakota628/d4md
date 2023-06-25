@@ -24,7 +24,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>See? The power here is already agitating you.</code></td></tr><tr><td><b>hLabel</b></td><td><code>670873552</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Warning, taken aback by the Player snapping at him</code></td></tr><tr><td><b>hLabel</b></td><td><code>2533760509</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2533760509</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Warning, taken aback by the Player snapping at him</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>I told you I can handle it. Tell me what to say, and then go search for the temple.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3874545195</code></td></tr></table>
@@ -33,13 +33,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Agitated, clipped, snapping at Lorath</code></td></tr><tr><td><b>hLabel</b></td><td><code>807383736</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1865035611</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>(sigh) So be it. When you’re ready, speak the name Dul’Mephistos.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>(sigh) So be it. When you’re ready, speak the name Dul’Mephistos.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1865035611</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>But watch yourself.</code></td></tr><tr><td><b>hLabel</b></td><td><code>153004253</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>But watch yourself.</code></td></tr><tr><td><b>hLabel</b></td><td><code>153004253</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line13.6D03F</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir13.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>warning</code></td></tr><tr><td><b>hLabel</b></td><td><code>1498731690</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>warning</code></td></tr><tr><td><b>hLabel</b></td><td><code>1498731690</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir13.6D03F</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

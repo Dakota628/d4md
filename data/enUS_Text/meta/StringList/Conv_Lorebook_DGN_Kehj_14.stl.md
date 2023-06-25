@@ -8,10 +8,10 @@ Raised another undead today. Excellent specimen. Technique improving. Full mobil
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.EED6C</code></td></tr><tr><td><b>szText</b></td><td><code>Peers in the Clans might sniff at use of necromancy. But undead labor is cheap. (Free!) Library too valuable to let rot. But too expensive to hire mercenaries. If studies go well, who knows what gems I might discover here.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150767216</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DisembodiedVoice</code></td></tr><tr><td><b>szText</b></td><td><code>Experiment Log</code></td></tr><tr><td><b>hLabel</b></td><td><code>155764431</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Experiment Log</code></td></tr><tr><td><b>hLabel</b></td><td><code>155764431</code></td></tr><tr><td><b>szLabel</b></td><td><code>DisembodiedVoice</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>Experiment Log</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>Experiment Log</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
 </td></tr></table>

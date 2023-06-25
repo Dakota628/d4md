@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Rogues are well trained in tracking and surviving the wilds. But even they could not find their way out of this treacherous place...</code></td></tr><tr><td><b>hLabel</b></td><td><code>3253809490</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>puzzled, thinking it through in your head</code></td></tr><tr><td><b>hLabel</b></td><td><code>821729151</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>puzzled, thinking it through in your head</code></td></tr><tr><td><b>hLabel</b></td><td><code>821729151</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.6D03F</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.8CA44</code></td></tr><tr><td><b>szText</b></td><td><code>Then you should count your blessings you have me by your side, eh?! (cackles)</code></td></tr><tr><td><b>hLabel</b></td><td><code>4097325517</code></td></tr></table>

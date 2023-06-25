@@ -5,7 +5,7 @@
 </td></tr><tr><td><b>arChildControls</b></td><td><table><tr><th colspan="100%">Type_87385a6d</th></tr><tr><td><b>szTarget</b></td><td><code>Skill_Assignment_Panel</code></td></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_56dcc16f</th></tr><tr><td><b>dwType</b></td><td><code>1457308015</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>255</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>eEasing</b></td><td><code>17</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0.5</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>255</code></td></tr></table>
+<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0.5</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>255</code></td></tr><tr><td><b>eEasing</b></td><td><code>17</code></td></tr></table>
 
 
 </td></tr><tr><td><b>unk_36cc429</b></td><td><code>0</code>
@@ -15,26 +15,42 @@
 </td></tr><tr><td><b>unk_77ed19a</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_16e3cafe</th></tr><tr><td><b>dwType</b></td><td><code>384027390</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>unk_36cc429</b></td><td><code>0</code>
+<table><tr><th colspan="100%">Type_16e3cafe</th></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>30</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0.25</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>-275</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_36cc429</b></td><td><code>0</code>
 <code>1</code>
-</td></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>30</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>-275</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0.25</code></td></tr></table>
-
-
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_77ed19a</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_77ed19a</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>384027390</code></td></tr></table>
 
 
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_87385a6d</th></tr><tr><td><b>szTarget</b></td><td><code>Skills_Extend_Arrow_Up</code></td></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_56dcc16f</th></tr><tr><td><b>dwType</b></td><td><code>1457308015</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">Type_87385a6d</th></tr><tr><td><b>szTarget</b></td><td><code>Skills_Extend_Arrow_Up</code></td></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_56dcc16f</th></tr><tr><td><b>unk_77ed19a</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>1457308015</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>0</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>flTime</b></td><td><code>0.5</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>255</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr></table>
+<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>tValue</b></td><td><code>255</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0.5</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_36cc429</b></td><td><code>0</code>
+<code>1</code>
+</td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_87385a6d</th></tr><tr><td><b>szTarget</b></td><td><code>Skills_Extend_Arrow_Down</code></td></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_56dcc16f</th></tr><tr><td><b>dwType</b></td><td><code>1457308015</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>255</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0.5</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>0</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr></table>
 
 
 </td></tr><tr><td><b>unk_36cc429</b></td><td><code>0</code>
@@ -47,29 +63,13 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_87385a6d</th></tr><tr><td><b>arTracks</b></td><td><table><tr><th colspan="100%">Type_56dcc16f</th></tr><tr><td><b>dwType</b></td><td><code>1457308015</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_80554fed</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>255</code></td></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr></table>
-
-
-<table><tr><th colspan="100%">Type_38be9c1</th></tr><tr><td><b>eEasing</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>59500993</code></td></tr><tr><td><b>flTime</b></td><td><code>0.5</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>tValue</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>unk_1722198</b></td><td><table><tr><th colspan="100%">Type_4bf73bfd</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_642fc25a</th></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_2151baae</th></tr><tr><td><b>dwType</b></td><td><code>559004334</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_UI_Menu_Skill_Assignment_Slide_Out.snd.md">[DT_SNO] Sound: "Play_UI_Menu_Skill_Assignment_Slide_Out"</a></td></tr></table>
 
 
 </td></tr><tr><td><b>unk_36cc429</b></td><td><code>0</code>
-<code>1</code>
 </td></tr></table>
 
-</td></tr><tr><td><b>unk_77ed19a</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
-
-
-</td></tr><tr><td><b>szTarget</b></td><td><code>Skills_Extend_Arrow_Down</code></td></tr></table>
-
-
-</td></tr><tr><td><b>unk_1722198</b></td><td><table><tr><th colspan="100%">Type_4bf73bfd</th></tr><tr><td><b>dwType</b></td><td><code>1274493949</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_9b2bc26</b></td><td><table><tr><th colspan="100%">Type_642fc25a</th></tr><tr><td><b>unk_36cc429</b></td><td><code>0</code>
-</td></tr><tr><td><b>arNodes</b></td><td><table><tr><th colspan="100%">Type_2151baae</th></tr><tr><td><b>dwType</b></td><td><code>559004334</code></td></tr><tr><td><b>flTime</b></td><td><code>0</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_UI_Menu_Skill_Assignment_Slide_Out.snd">[DT_SNO] Sound: "Play_UI_Menu_Skill_Assignment_Slide_Out"</a></td></tr></table>
-
-
-</td></tr></table>
-
-</td></tr></table>
+</td></tr><tr><td><b>dwType</b></td><td><code>1274493949</code></td></tr></table>
 
 
 </td></tr></table>

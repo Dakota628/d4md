@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.AA8C3</code></td></tr><tr><td><b>szText</b></td><td><code>I'd like to prevail on you for one more thing, if I can.</code></td></tr><tr><td><b>hLabel</b></td><td><code>721770589</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3304706527</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line9.AA8C3</code></td></tr><tr><td><b>szText</b></td><td><code>Bearfa's injuries were made with a blade. Help me search where I found her, and maybe we can find the perpetrators and exact justice.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.AA8C3</code></td></tr><tr><td><b>szText</b></td><td><code>Bearfa's injuries were made with a blade. Help me search where I found her, and maybe we can find the perpetrators and exact justice.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3304706527</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

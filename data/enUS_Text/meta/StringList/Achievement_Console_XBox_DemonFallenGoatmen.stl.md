@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Desc</code></td></tr><tr><td><b>szText</b></td><td><code>Kill 666 Demons, Fallen, or Goatmen.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_236365</code></td></tr><tr><td><b>szText</b></td><td><code>Kill Demons</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034248586</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1034248586</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_236365</code></td></tr><tr><td><b>szText</b></td><td><code>Kill Demons</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_236366</code></td></tr><tr><td><b>szText</b></td><td><code>Kill Fallen</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034248587</code></td></tr></table>

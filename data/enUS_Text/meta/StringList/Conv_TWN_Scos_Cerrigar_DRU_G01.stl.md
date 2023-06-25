@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.F738D</code></td></tr><tr><td><b>szText</b></td><td><code>Reverent. Proud. </code></td></tr><tr><td><b>hLabel</b></td><td><code>3430197760</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>He planted scores of oaks just like her, all over the ‘Glen...only two remain.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150246741</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.F738D</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.F738D</code></td></tr><tr><td><b>szText</b></td><td><code>He planted scores of oaks just like her, all over the ‘Glen...only two remain.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4150246741</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.F738D</code></td></tr><tr><td><b>szText</b></td><td><code>Wistful. Sad.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1718166402</code></td></tr></table>

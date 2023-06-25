@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line6.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>I can find no source on the shore. The poison seems to flow in, from under the water...</code></td></tr><tr><td><b>hLabel</b></td><td><code>3726521753</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir6.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>Concerned. Thinking.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1294441414</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1294441414</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir6.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>Concerned. Thinking.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2014490395</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line8.BC41C</code></td></tr><tr><td><b>szText</b></td><td><code>Let's keep looking.</code></td></tr></table>

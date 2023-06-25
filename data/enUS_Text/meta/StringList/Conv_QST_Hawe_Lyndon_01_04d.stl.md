@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>Rat Race</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>Ha! Look at this. The Zakarum Belfry, or what's left of it. Fools tried building on the mud.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2394029803</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2394029803</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>Ha! Look at this. The Zakarum Belfry, or what's left of it. Fools tried building on the mud.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>You almost have to admire them. A faith so powerful that it can overcome even the most common of senses.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1731569837</code></td></tr></table>

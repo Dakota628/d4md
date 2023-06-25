@@ -8,7 +8,7 @@
 {/if}Shapeshift into a Werewolf and leap onto an enemy slashing them {c_number}3{/c} times for {c_number}{payload:SLASH}{/c} damage per slash.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4074669608</code></td></tr><tr><td><b>szLabel</b></td><td><code>simple_desc</code></td></tr><tr><td><b>szText</b></td><td><code>Leap onto an enemy and slash them.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Leap onto an enemy and slash them.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4074669608</code></td></tr><tr><td><b>szLabel</b></td><td><code>simple_desc</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr><tr><td><b>szText</b></td><td><code>Damage increased to {c_number}{payload:SLASH}{/c} per slash.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4074074671</code></td></tr></table>

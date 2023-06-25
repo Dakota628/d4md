@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback7Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat Wandering Death</code></td></tr><tr><td><b>hLabel</b></td><td><code>2677071405</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback48Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat {MONSTER}</code></td></tr><tr><td><b>hLabel</b></td><td><code>1698820674</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1698820674</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback48Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat {MONSTER}</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback121Header</code></td></tr><tr><td><b>szText</b></td><td><code>Wandering Death will escape soon</code></td></tr><tr><td><b>hLabel</b></td><td><code>2751663626</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Wandering Death will escape soon</code></td></tr><tr><td><b>hLabel</b></td><td><code>2751663626</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback121Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback118Header</code></td></tr><tr><td><b>szText</b></td><td><code>Defeat {MONSTER}</code></td></tr><tr><td><b>hLabel</b></td><td><code>3533234800</code></td></tr></table>

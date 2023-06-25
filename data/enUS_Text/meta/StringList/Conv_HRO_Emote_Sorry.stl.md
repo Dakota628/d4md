@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>I apologize.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1619902228</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Said quickly, but sincerely, as if you just bumped into someone.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3482789185</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.BAE4</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3482789185</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Said quickly, but sincerely, as if you just bumped into someone.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line19.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Sorry.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1932985372</code></td></tr></table>

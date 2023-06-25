@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.FEC7E</code></td></tr><tr><td><b>szText</b></td><td><code>Dismissive. Suspicious. Firmly in denial.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1719871744</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1569016145</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.FEC7E</code></td></tr><tr><td><b>szText</b></td><td><code>You can take that shite to Raldin, if he’s still alive. Last I saw, he was headed east toward the snakes. Best of luck.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.FEC7E</code></td></tr><tr><td><b>szText</b></td><td><code>You can take that shite to Raldin, if he’s still alive. Last I saw, he was headed east toward the snakes. Best of luck.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1569016145</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.FEC7E</code></td></tr><tr><td><b>szText</b></td><td><code>Dismissive. Contempt.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3431903102</code></td></tr></table>

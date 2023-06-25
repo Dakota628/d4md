@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP003</code></td></tr><tr><td><b>szText</b></td><td><code>Bitter</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657156</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Blood</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657157</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP004</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP004</code></td></tr><tr><td><b>szText</b></td><td><code>Blood</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657157</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>708657158</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP005</code></td></tr><tr><td><b>szText</b></td><td><code>Bone</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP005</code></td></tr><tr><td><b>szText</b></td><td><code>Bone</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657158</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP006</code></td></tr><tr><td><b>szText</b></td><td><code>Bramble</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657159</code></td></tr></table>
@@ -33,7 +33,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP011</code></td></tr><tr><td><b>szText</b></td><td><code>Corruption</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657187</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP012</code></td></tr><tr><td><b>szText</b></td><td><code>Cruel</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657188</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>708657188</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP012</code></td></tr><tr><td><b>szText</b></td><td><code>Cruel</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP013</code></td></tr><tr><td><b>szText</b></td><td><code>Death</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657189</code></td></tr></table>
@@ -45,7 +45,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP015</code></td></tr><tr><td><b>szText</b></td><td><code>Dire</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657191</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP016</code></td></tr><tr><td><b>szText</b></td><td><code>Dread</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657192</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>708657192</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP016</code></td></tr><tr><td><b>szText</b></td><td><code>Dread</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP017</code></td></tr><tr><td><b>szText</b></td><td><code>Doom</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657193</code></td></tr></table>
@@ -54,16 +54,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP018</code></td></tr><tr><td><b>szText</b></td><td><code>Master's</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657194</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP019</code></td></tr><tr><td><b>szText</b></td><td><code>Empyrian</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657195</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Empyrian</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657195</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP019</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>708657219</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP020</code></td></tr><tr><td><b>szText</b></td><td><code>Entropy</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP021</code></td></tr><tr><td><b>szText</b></td><td><code>Fiend</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657220</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Fiend</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657220</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP021</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP022</code></td></tr><tr><td><b>szText</b></td><td><code>Gale</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657221</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Gale</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657221</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP022</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP023</code></td></tr><tr><td><b>szText</b></td><td><code>Ghoul</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657222</code></td></tr></table>
@@ -78,31 +78,31 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP026</code></td></tr><tr><td><b>szText</b></td><td><code>Hailstone</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657225</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP027</code></td></tr><tr><td><b>szText</b></td><td><code>Havoc</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657226</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>708657226</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP027</code></td></tr><tr><td><b>szText</b></td><td><code>Havoc</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP028</code></td></tr><tr><td><b>szText</b></td><td><code>Imp</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657227</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP029</code></td></tr><tr><td><b>szText</b></td><td><code>Loath</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657228</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>708657228</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP029</code></td></tr><tr><td><b>szText</b></td><td><code>Loath</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP030</code></td></tr><tr><td><b>szText</b></td><td><code>Order</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657252</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP031</code></td></tr><tr><td><b>szText</b></td><td><code>Pain</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657253</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Pain</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657253</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP031</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP032</code></td></tr><tr><td><b>szText</b></td><td><code>Plague</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657254</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP033</code></td></tr><tr><td><b>szText</b></td><td><code>Raven</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657255</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>708657255</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP033</code></td></tr><tr><td><b>szText</b></td><td><code>Raven</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP034</code></td></tr><tr><td><b>szText</b></td><td><code>Rift</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657256</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP035</code></td></tr><tr><td><b>szText</b></td><td><code>Rune</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657257</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>708657257</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP035</code></td></tr><tr><td><b>szText</b></td><td><code>Rune</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP036</code></td></tr><tr><td><b>szText</b></td><td><code>Shadow</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657258</code></td></tr></table>
@@ -120,10 +120,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP040</code></td></tr><tr><td><b>szText</b></td><td><code>Stone</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657285</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP041</code></td></tr><tr><td><b>szText</b></td><td><code>Storm</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657286</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>708657286</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP041</code></td></tr><tr><td><b>szText</b></td><td><code>Storm</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP042</code></td></tr><tr><td><b>szText</b></td><td><code>Viper</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657287</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Viper</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657287</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP042</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP043</code></td></tr><tr><td><b>szText</b></td><td><code>Wraith</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657288</code></td></tr></table>
@@ -138,7 +138,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP046</code></td></tr><tr><td><b>szText</b></td><td><code>Lord's</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657291</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP047</code></td></tr><tr><td><b>szText</b></td><td><code>Heroic</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657292</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Heroic</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657292</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP047</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP048</code></td></tr><tr><td><b>szText</b></td><td><code>Agony</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657293</code></td></tr></table>
@@ -162,13 +162,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP054</code></td></tr><tr><td><b>szText</b></td><td><code>Stellar</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657322</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>708657323</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP055</code></td></tr><tr><td><b>szText</b></td><td><code>Obscure</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP055</code></td></tr><tr><td><b>szText</b></td><td><code>Obscure</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657323</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP056</code></td></tr><tr><td><b>szText</b></td><td><code>Odd</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657324</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Prism</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657325</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP057</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>708657325</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP057</code></td></tr><tr><td><b>szText</b></td><td><code>Prism</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP058</code></td></tr><tr><td><b>szText</b></td><td><code>Awful</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657326</code></td></tr></table>
@@ -186,16 +186,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP062</code></td></tr><tr><td><b>szText</b></td><td><code>Sinister</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657353</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>708657354</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP063</code></td></tr><tr><td><b>szText</b></td><td><code>Rumbling</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Rumbling</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657354</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP063</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP065</code></td></tr><tr><td><b>szText</b></td><td><code>Visceral</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657356</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP064</code></td></tr><tr><td><b>szText</b></td><td><code>Defiant</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657355</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>708657355</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP064</code></td></tr><tr><td><b>szText</b></td><td><code>Defiant</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP066</code></td></tr><tr><td><b>szText</b></td><td><code>Teeming</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657357</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>708657357</code></td></tr><tr><td><b>szLabel</b></td><td><code>ArmorP066</code></td></tr><tr><td><b>szText</b></td><td><code>Teeming</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ArmorP067</code></td></tr><tr><td><b>szText</b></td><td><code>Proven</code></td></tr><tr><td><b>hLabel</b></td><td><code>708657358</code></td></tr></table>

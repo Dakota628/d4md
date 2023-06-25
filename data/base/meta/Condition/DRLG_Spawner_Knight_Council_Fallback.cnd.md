@@ -10,14 +10,14 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">DungeonStateSubcondition</th></tr><tr><td><b>dwType</b></td><td><code>3964094914</code></td></tr><tr><td><b>bNegate</b></td><td><code>1</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_b23f628</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>1068280409</code></td></tr></table>
+<table><tr><th colspan="100%">DungeonStateSubcondition</th></tr><tr><td><b>unk_b23f628</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>1068280409</code></td></tr></table>
+
+</td></tr><tr><td><b>dwType</b></td><td><code>3964094914</code></td></tr><tr><td><b>bNegate</b></td><td><code>1</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">DungeonStateSubcondition</th></tr><tr><td><b>dwType</b></td><td><code>3964094914</code></td></tr><tr><td><b>bNegate</b></td><td><code>1</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_b23f628</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>3030718536</code></td></tr></table>
 
 </td></tr></table>
-
-
-<table><tr><th colspan="100%">DungeonStateSubcondition</th></tr><tr><td><b>bNegate</b></td><td><code>1</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_b23f628</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>3030718536</code></td></tr></table>
-
-</td></tr><tr><td><b>dwType</b></td><td><code>3964094914</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">DungeonStateSubcondition</th></tr><tr><td><b>dwType</b></td><td><code>3964094914</code></td></tr><tr><td><b>bNegate</b></td><td><code>1</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>unk_b23f628</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2431493616</code></td></tr></table>

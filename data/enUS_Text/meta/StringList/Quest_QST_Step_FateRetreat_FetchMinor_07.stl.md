@@ -21,7 +21,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase12Description</code></td></tr><tr><td><b>szText</b></td><td><code>Rakhaan's ring feels different. I can feel power emanating from it. I should return it to Rakhaan and see what he knows about it. </code></td></tr><tr><td><b>hLabel</b></td><td><code>2462265752</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback11Header</code></td></tr><tr><td><b>szText</b></td><td><code>Return to Rakhaan</code></td></tr><tr><td><b>hLabel</b></td><td><code>2242169432</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Return to Rakhaan</code></td></tr><tr><td><b>hLabel</b></td><td><code>2242169432</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback11Header</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Rakhaan has found an old ring with a broken enchantment. The use of this ring is unknown, only that it was discarded by the Triune. Rakhaan wants me to collect the ring from a chest in Fate’s Retreat. </code></td></tr><tr><td><b>hLabel</b></td><td><code>631065019</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase15Description</code></td></tr></table>

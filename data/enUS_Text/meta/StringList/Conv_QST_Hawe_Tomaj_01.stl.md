@@ -15,16 +15,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.1000C2</code></td></tr><tr><td><b>szText</b></td><td><code>Trying to get the attention of a man she's in the middle of reprimanding.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2414829966</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.101BAB</code></td></tr><tr><td><b>szText</b></td><td><code>I'm looking at you. You're... uh, as radiant as a ... Backwater sunset.</code></td></tr><tr><td><b>hLabel</b></td><td><code>406732932</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>I'm looking at you. You're... uh, as radiant as a ... Backwater sunset.</code></td></tr><tr><td><b>hLabel</b></td><td><code>406732932</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.101BAB</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.101BAB</code></td></tr><tr><td><b>szText</b></td><td><code>Sugary sweet, condescending. (Backwater - where they live - is a shithole; being compared to its sunset isn't much of a compliment.)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1752460369</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1159284846</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.1000C2</code></td></tr><tr><td><b>szText</b></td><td><code>This is serious shit, Tomaj. We both know there are more and more Drowned sightings every day.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>This is serious shit, Tomaj. We both know there are more and more Drowned sightings every day.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1159284846</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line11.1000C2</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Stern, exasperated, trying to get the man to whom she's speaking to talk her seriously, stop joking around.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2618617307</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.1000C2</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir11.1000C2</code></td></tr><tr><td><b>szText</b></td><td><code>Stern, exasperated, trying to get the man to whom she's speaking to talk her seriously, stop joking around.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2618617307</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.101BAB</code></td></tr><tr><td><b>szText</b></td><td><code>Look (hic) sweetheart, I'll do the work. Cross my heart.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4129422579</code></td></tr></table>
@@ -42,7 +42,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.101BAB</code></td></tr><tr><td><b>szText</b></td><td><code>Hey! You... you're not from around here, are you? Listen - you help me out, I can help you survive in this place.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4039240262</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>A bit sly, like "Heyyyy." He's in hot water and hoping this newcomer can help him get out of trouble.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1090000403</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.101BAB</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.101BAB</code></td></tr><tr><td><b>szText</b></td><td><code>A bit sly, like "Heyyyy." He's in hot water and hoping this newcomer can help him get out of trouble.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1090000403</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line26.101BAB</code></td></tr><tr><td><b>szText</b></td><td><code>Help me find any new bodies that have washed ashore. Check 'em for anything we could use, then I'll burn them.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1457537749</code></td></tr></table>
@@ -51,7 +51,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir26.101BAB</code></td></tr><tr><td><b>szText</b></td><td><code>Informative, with a light tone.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2916870210</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>And grab any extra salvage we find along the way (hic), got it?</code></td></tr><tr><td><b>hLabel</b></td><td><code>795077783</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line28.101BAB</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>795077783</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line28.101BAB</code></td></tr><tr><td><b>szText</b></td><td><code>And grab any extra salvage we find along the way (hic), got it?</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir28.101BAB</code></td></tr><tr><td><b>szText</b></td><td><code>Informative, with a light tone. (The "(hic)" is a drunken hiccup.)</code></td></tr><tr><td><b>hLabel</b></td><td><code>2254410244</code></td></tr></table>

@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"Thirsty?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.125DE2</code></td></tr><tr><td><b>szText</b></td><td><code>Don’t you look at me like that. If--if you seen what I seen, heard what I heard confessed to me... you’d be knockin’ these back too.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2396630682</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2396630682</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.125DE2</code></td></tr><tr><td><b>szText</b></td><td><code>Don’t you look at me like that. If--if you seen what I seen, heard what I heard confessed to me... you’d be knockin’ these back too.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.125DE2</code></td></tr><tr><td><b>szText</b></td><td><code>(drunken) </code></td></tr><tr><td><b>hLabel</b></td><td><code>3742358119</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>(drunken) </code></td></tr><tr><td><b>hLabel</b></td><td><code>3742358119</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.125DE2</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

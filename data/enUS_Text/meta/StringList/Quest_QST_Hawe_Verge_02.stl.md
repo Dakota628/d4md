@@ -24,13 +24,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase17Description</code></td></tr><tr><td><b>szText</b></td><td><code>The villager spoke of a witch living in a ruined tower just south of town. I should take Donan there. </code></td></tr><tr><td><b>hLabel</b></td><td><code>2273576061</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase17OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Accompany Donan to the Ruined Tower</code></td></tr><tr><td><b>hLabel</b></td><td><code>3929245285</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3929245285</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase17OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Accompany Donan to the Ruined Tower</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback16Header</code></td></tr><tr><td><b>szText</b></td><td><code>Accompany Donan to the tower</code></td></tr><tr><td><b>hLabel</b></td><td><code>109574685</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Accompany Donan to the tower</code></td></tr><tr><td><b>hLabel</b></td><td><code>109574685</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback16Header</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3094831582</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase18Description</code></td></tr><tr><td><b>szText</b></td><td><code>Donan and I arrived at the tower in Wejinhani, only to discover it was Taissa who had taken up residence there. I should speak with her. </code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase18Description</code></td></tr><tr><td><b>szText</b></td><td><code>Donan and I arrived at the tower in Wejinhani, only to discover it was Taissa who had taken up residence there. I should speak with her. </code></td></tr><tr><td><b>hLabel</b></td><td><code>3094831582</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase18OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Taissa at the Ruined Tower</code></td></tr><tr><td><b>hLabel</b></td><td><code>994083046</code></td></tr></table>

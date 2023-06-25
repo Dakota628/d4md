@@ -14,13 +14,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod0_Description</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}Frost Bolt{/c} has a {c_number}[{SF_7} * 100|%|]{/c} chance to explode on {c_important}{u}Chilled{/u}{/c} enemies, hitting surrounding enemies. Chance increased to {c_number}100%{/c} against {c_important}{u}Frozen{/u}{/c} enemies.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3591940403</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2452871472</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod0_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Enhanced Frost Bolt</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod0_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Enhanced Frost Bolt</code></td></tr><tr><td><b>hLabel</b></td><td><code>2452871472</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Description</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}Frost Bolt{/c} makes {c_important}{u}Frozen{/u}{/c} enemies {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_9}{/c} seconds.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1960229941</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2531142258</code></td></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Flickering Frost Bolt</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod2_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Flickering Frost Bolt</code></td></tr><tr><td><b>hLabel</b></td><td><code>2531142258</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Mod3_Description</code></td></tr><tr><td><b>szText</b></td><td><code>{c_important}Frost Bolt{/c} generates {c_number}{SF_10}{/c} Mana when hitting {c_important}{u}Chilled{/u}{/c} or {c_important}{u}Frozen{/u}{/c} enemies.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3291858358</code></td></tr></table>

@@ -6,16 +6,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>An old woman seeks mementos from those who have died of an ancient curse.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase6Description</code></td></tr><tr><td><b>szText</b></td><td><code>An ancient curse has long called unfortunate souls to their doom. Now, an elder named Chabi has asked me to seek the living dead in Khargai Crags and collect any personal effects to remember them by.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4210044747</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>An ancient curse has long called unfortunate souls to their doom. Now, an elder named Chabi has asked me to seek the living dead in Khargai Crags and collect any personal effects to remember them by.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4210044747</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase6Description</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback5Header</code></td></tr><tr><td><b>szText</b></td><td><code>Collect {ITEM} from Skeletons: {DONE_OVER_NEEDED}</code></td></tr><tr><td><b>hLabel</b></td><td><code>94135467</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase9Description</code></td></tr><tr><td><b>szText</b></td><td><code>I have collected various mementos from the living dead in the Khargai Crags. I should return them to Chabi at the Onyx Watchtower. </code></td></tr><tr><td><b>hLabel</b></td><td><code>2378844014</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2378844014</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase9Description</code></td></tr><tr><td><b>szText</b></td><td><code>I have collected various mementos from the living dead in the Khargai Crags. I should return them to Chabi at the Onyx Watchtower. </code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3968539374</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback8Header</code></td></tr><tr><td><b>szText</b></td><td><code>Return to Chabi</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Return to Chabi</code></td></tr><tr><td><b>hLabel</b></td><td><code>3968539374</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback8Header</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

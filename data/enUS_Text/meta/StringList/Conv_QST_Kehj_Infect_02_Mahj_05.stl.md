@@ -6,13 +6,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.8C8DF</code></td></tr><tr><td><b>szText</b></td><td><code>Bloody monsters! Where have they come from?</code></td></tr><tr><td><b>hLabel</b></td><td><code>673219786</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2536106743</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.8C8DF</code></td></tr><tr><td><b>szText</b></td><td><code>Cursing. Confused. Exhausted with pain/fever.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.8C8DF</code></td></tr><tr><td><b>szText</b></td><td><code>Cursing. Confused. Exhausted with pain/fever.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2536106743</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.8C8DF</code></td></tr><tr><td><b>szText</b></td><td><code>Quickly... the safehouse is in these ruins.</code></td></tr><tr><td><b>hLabel</b></td><td><code>155350487</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir13.8C8DF</code></td></tr><tr><td><b>szText</b></td><td><code>Exhausted with pain/fever. Pushing onward.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1501077924</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Exhausted with pain/fever. Pushing onward.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1501077924</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir13.8C8DF</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

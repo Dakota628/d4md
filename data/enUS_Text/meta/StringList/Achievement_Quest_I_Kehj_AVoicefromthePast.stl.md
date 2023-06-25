@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_236096</code></td></tr><tr><td><b>szText</b></td><td><code>A Voice from the Past</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034245419</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Izel of the Vizjerei</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034245420</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_236097</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_236097</code></td></tr><tr><td><b>szText</b></td><td><code>Izel of the Vizjerei</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034245420</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

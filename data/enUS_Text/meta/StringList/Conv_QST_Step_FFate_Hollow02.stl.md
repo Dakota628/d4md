@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>direct, proud</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742378726</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.1275AB</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>So many cannibals, but not a spine among them!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734191323</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1734191323</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>So many cannibals, but not a spine among them!</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>crying out, taunting</code></td></tr><tr><td><b>hLabel</b></td><td><code>3079918760</code></td></tr></table>

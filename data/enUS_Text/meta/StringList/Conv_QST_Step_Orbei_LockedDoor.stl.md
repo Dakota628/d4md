@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line36.B7A2D</code></td></tr><tr><td><b>szText</b></td><td><code>Open the doors!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3415564879</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir36.B7A2D</code></td></tr><tr><td><b>szText</b></td><td><code>Terrified. Desperate. Banging on a locked door.</code></td></tr><tr><td><b>hLabel</b></td><td><code>466325020</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Terrified. Desperate. Banging on a locked door.</code></td></tr><tr><td><b>hLabel</b></td><td><code>466325020</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir36.B7A2D</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line38.10263F</code></td></tr><tr><td><b>szText</b></td><td><code>Let us out!</code></td></tr><tr><td><b>hLabel</b></td><td><code>2749376739</code></td></tr></table>

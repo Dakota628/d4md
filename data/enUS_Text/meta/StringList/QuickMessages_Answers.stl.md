@@ -24,7 +24,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>08CantDo</code></td></tr><tr><td><b>szText</b></td><td><code>I can't do that.</code></td></tr><tr><td><b>hLabel</b></td><td><code>287145985</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>06Maybe</code></td></tr><tr><td><b>szText</b></td><td><code>Maybe.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4107117972</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4107117972</code></td></tr><tr><td><b>szLabel</b></td><td><code>06Maybe</code></td></tr><tr><td><b>szText</b></td><td><code>Maybe.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

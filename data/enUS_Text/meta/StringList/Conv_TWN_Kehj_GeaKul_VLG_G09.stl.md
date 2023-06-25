@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.125E08</code></td></tr><tr><td><b>szText</b></td><td><code>Have you coin for a drink? Wet these old lips one last time, wanderer.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2396630028</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.125E08</code></td></tr><tr><td><b>szText</b></td><td><code>(hoarse) </code></td></tr><tr><td><b>hLabel</b></td><td><code>3742357465</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3742357465</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.125E08</code></td></tr><tr><td><b>szText</b></td><td><code>(hoarse) </code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.125E08</code></td></tr><tr><td><b>szText</b></td><td><code>Death comes for me. Strong water eases the passin'.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734170062</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1734170062</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.125E08</code></td></tr><tr><td><b>szText</b></td><td><code>Death comes for me. Strong water eases the passin'.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

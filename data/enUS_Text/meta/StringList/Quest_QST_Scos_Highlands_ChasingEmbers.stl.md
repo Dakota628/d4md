@@ -6,9 +6,9 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Toast</code></td></tr><tr><td><b>szText</b></td><td><code>A trail of death rekindles the Days of Ash.</code></td></tr><tr><td><b>hLabel</b></td><td><code>141665387</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr><tr><td><b>szText</b></td><td><pre>Torben is the Bear of Blackweald. Or, he used to be. This pyre and the merchants were set by Blackweald Company to draw him away from the Goose. So much killing to capture one man.
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><pre>Torben is the Bear of Blackweald. Or, he used to be. This pyre and the merchants were set by Blackweald Company to draw him away from the Goose. So much killing to capture one man.
 
-Torben wants to speak with me at Under the Fat Goose Inn. I should speak with him to find how we can put a stop to Blackweald Company.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr></table>
+Torben wants to speak with me at Under the Fat Goose Inn. I should speak with him to find how we can put a stop to Blackweald Company.</pre></td></tr><tr><td><b>hLabel</b></td><td><code>3577478917</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase0Description</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback7Header</code></td></tr><tr><td><b>szText</b></td><td><code>Speak with Torben</code></td></tr><tr><td><b>hLabel</b></td><td><code>2677071405</code></td></tr></table>
@@ -22,10 +22,10 @@ Torben will join me at the Scar to hunt for clues to their location.</pre></td><
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback13Header</code></td></tr><tr><td><b>szText</b></td><td><code>Search the Scar for Blackweald Company with Torben</code></td></tr><tr><td><b>hLabel</b></td><td><code>530138074</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1452320540</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase16Description</code></td></tr><tr><td><b>szText</b></td><td><code>Torben and I found a surviving victim of Blackweald Company within the Scar. They were tethered and burned, now only clinging to life.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Torben and I found a surviving victim of Blackweald Company within the Scar. They were tethered and burned, now only clinging to life.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1452320540</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase16Description</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Rescue the Pyre Victim</code></td></tr><tr><td><b>hLabel</b></td><td><code>3113074012</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback15Header</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback15Header</code></td></tr><tr><td><b>szText</b></td><td><code>Rescue the Pyre Victim</code></td></tr><tr><td><b>hLabel</b></td><td><code>3113074012</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase19Description</code></td></tr><tr><td><b>szText</b></td><td><pre>Torben and I found a surviving victim of Blackweald Company within the Scar. They were tethered and burned, now only clinging to life.

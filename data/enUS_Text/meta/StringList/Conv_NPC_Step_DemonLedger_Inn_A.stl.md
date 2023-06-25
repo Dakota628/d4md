@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"Have you heard anyone speaking of this book?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2438287255</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.F938B</code></td></tr><tr><td><b>szText</b></td><td><code>Try Svea, down in the barbarian quarter. I think I saw her reading one time… didn’t even see her lips moving.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.F938B</code></td></tr><tr><td><b>szText</b></td><td><code>Try Svea, down in the barbarian quarter. I think I saw her reading one time… didn’t even see her lips moving.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2438287255</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

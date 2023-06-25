@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AffixName</code></td></tr><tr><td><b>szText</b></td><td><code>Resource Burn</code></td></tr><tr><td><b>hLabel</b></td><td><code>4005362479</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AffixDesc_Legendary</code></td></tr><tr><td><b>szText</b></td><td><code>Monster attacks from a distance burn 16% of your Primary Resource.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3122115623</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3122115623</code></td></tr><tr><td><b>szLabel</b></td><td><code>AffixDesc_Legendary</code></td></tr><tr><td><b>szText</b></td><td><code>Monster attacks from a distance burn 16% of your Primary Resource.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AffixDesc_Rare</code></td></tr><tr><td><b>szText</b></td><td><code>Monster attacks from a distance burn 12% of your Primary Resource.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1695128598</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Monster attacks from a distance burn 12% of your Primary Resource.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1695128598</code></td></tr><tr><td><b>szLabel</b></td><td><code>AffixDesc_Rare</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AffixDesc_Magic</code></td></tr><tr><td><b>szText</b></td><td><code>Monster attacks from a distance burn 8% of your Primary Resource.</code></td></tr><tr><td><b>hLabel</b></td><td><code>98727533</code></td></tr></table>

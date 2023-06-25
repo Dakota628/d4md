@@ -3,10 +3,10 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"What happened?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1569019363</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.FEF74</code></td></tr><tr><td><b>szText</b></td><td><code>Right after you left, the Sister, she...the demon inside her is speaking through her! She's in terrible pain!</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.FEF74</code></td></tr><tr><td><b>szText</b></td><td><code>Right after you left, the Sister, she...the demon inside her is speaking through her! She's in terrible pain!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1569019363</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3431906320</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.FEF74</code></td></tr><tr><td><b>szText</b></td><td><code>Frantic, panicked.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Frantic, panicked.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3431906320</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.FEF74</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.FEF74</code></td></tr><tr><td><b>szText</b></td><td><code>She told me about the chalice. Here, I'll place it while you prepare. We must hurry!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4151955301</code></td></tr></table>

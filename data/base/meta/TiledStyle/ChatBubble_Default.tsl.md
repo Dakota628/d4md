@@ -2,11 +2,11 @@
 
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_b66d648</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr></table>
 
-</td></tr><tr><td><b>ptWindowPiece</b></td><td><table><tr><th colspan="100%">TiledWindowPieces</th></tr><tr><td><b>hLeftBorder</b></td><td><code>782709706</code></td></tr><tr><td><b>hBottomBorder</b></td><td><code>4083229268</code></td></tr><tr><td><b>fTileBackground</b></td><td><code>1</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>hBackground</b></td><td><code>832722586</code></td></tr><tr><td><b>hTopBorder</b></td><td><code>2194323314</code></td></tr><tr><td><b>hCornerFrames</b></td><td><code>2194575944</code>
+</td></tr><tr><td><b>ptWindowPiece</b></td><td><table><tr><th colspan="100%">TiledWindowPieces</th></tr><tr><td><b>hCornerFrames</b></td><td><code>2194575944</code>
 <code>3708789499</code>
 <code>1618176541</code>
 <code>4083481898</code>
-</td></tr><tr><td><b>hRightBorder</b></td><td><code>1896323613</code></td></tr><tr><td><b>fInsetBackground</b></td><td><code>1</code></td></tr><tr><td><b>flImageScale</b></td><td><code>1</code></td></tr><tr><td><b>nPadding</b></td><td><code>0</code></td></tr><tr><td><b>unk_d661bef</b></td><td><code>1</code></td></tr><tr><td><b>unk_1ec53df</b></td><td><code>1</code></td></tr><tr><td><b>dwType</b></td><td><code>48522627</code></td></tr></table>
+</td></tr><tr><td><b>hBottomBorder</b></td><td><code>4083229268</code></td></tr><tr><td><b>unk_d661bef</b></td><td><code>1</code></td></tr><tr><td><b>dwType</b></td><td><code>48522627</code></td></tr><tr><td><b>nPadding</b></td><td><code>0</code></td></tr><tr><td><b>hRightBorder</b></td><td><code>1896323613</code></td></tr><tr><td><b>unk_1ec53df</b></td><td><code>1</code></td></tr><tr><td><b>flImageScale</b></td><td><code>1</code></td></tr><tr><td><b>hBackground</b></td><td><code>832722586</code></td></tr><tr><td><b>hTopBorder</b></td><td><code>2194323314</code></td></tr><tr><td><b>fInsetBackground</b></td><td><code>1</code></td></tr><tr><td><b>fTileBackground</b></td><td><code>1</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>hLeftBorder</b></td><td><code>782709706</code></td></tr></table>
 
 
 </td></tr></table>

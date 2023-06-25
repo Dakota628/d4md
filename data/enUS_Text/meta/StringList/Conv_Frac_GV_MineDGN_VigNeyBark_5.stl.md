@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Why would your mother leave you like that?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1865093314</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line23.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>She wouldn't. Or she shouldn’t have.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4116799269</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4116799269</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line23.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>She wouldn't. Or she shouldn’t have.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line29.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>I'm sure she had good reason.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3275672491</code></td></tr></table>

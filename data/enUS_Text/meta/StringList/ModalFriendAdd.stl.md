@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Cancel</code></td></tr><tr><td><b>szText</b></td><td><code>Cancel</code></td></tr><tr><td><b>hLabel</b></td><td><code>3993502566</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Close</code></td></tr><tr><td><b>hLabel</b></td><td><code>121412150</code></td></tr><tr><td><b>szLabel</b></td><td><code>Close</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Close</code></td></tr><tr><td><b>szText</b></td><td><code>Close</code></td></tr><tr><td><b>hLabel</b></td><td><code>121412150</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>PlayerBattletag</code></td></tr><tr><td><b>szText</b></td><td><code>Your BattleTag:  {c:FFbf6b31}{s1}{/c}</code></td></tr><tr><td><b>hLabel</b></td><td><code>588563333</code></td></tr></table>

@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Description</code></td></tr><tr><td><b>szText</b></td><td><code>Some necromancers explore beyond the body, blood, and bones of the dead. Skilled necromancers manipulate the spirit, putting that energy to use as well. </code></td></tr><tr><td><b>hLabel</b></td><td><code>2789670820</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Their souls answer my call.</code></td></tr><tr><td><b>hLabel</b></td><td><code>138338510</code></td></tr><tr><td><b>szLabel</b></td><td><code>Quote</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Quote</code></td></tr><tr><td><b>szText</b></td><td><code>Their souls answer my call.</code></td></tr><tr><td><b>hLabel</b></td><td><code>138338510</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Series</code></td></tr><tr><td><b>szText</b></td><td><code>Prestige Equipment Cosmetics</code></td></tr><tr><td><b>hLabel</b></td><td><code>329595531</code></td></tr></table>

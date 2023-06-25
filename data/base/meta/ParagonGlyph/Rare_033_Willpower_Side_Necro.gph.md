@@ -6,7 +6,7 @@
 <code>0</code>
 <code>0</code>
 <code>1</code>
-</td></tr><tr><td><b>arAffixes</b></td><td><a href="..\ParagonGlyphAffix\Nodes_BonusToRare.gaf">[DT_SNO] ParagonGlyphAffix: "Nodes_BonusToRare"</a>
-<a href="..\ParagonGlyphAffix\Power_033_Willpower_Side_Necro.gaf">[DT_SNO] ParagonGlyphAffix: "Power_033_Willpower_Side_Necro"</a>
+</td></tr><tr><td><b>arAffixes</b></td><td><a href="..\ParagonGlyphAffix\Nodes_BonusToRare.gaf.md">[DT_SNO] ParagonGlyphAffix: "Nodes_BonusToRare"</a>
+<a href="..\ParagonGlyphAffix\Power_033_Willpower_Side_Necro.gaf.md">[DT_SNO] ParagonGlyphAffix: "Power_033_Willpower_Side_Necro"</a>
 </td></tr><tr><td><b>hIcon</b></td><td><code>3933961978</code></td></tr></table>
 

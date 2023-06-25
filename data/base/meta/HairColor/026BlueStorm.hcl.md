@@ -11,7 +11,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>r</b></td><td><code>114</code></td></tr><tr><td><b>g</b></td><td><code>195</code></td></tr><tr><td><b>b</b></td><td><code>255</code></td></tr><tr><td><b>a</b></td><td><code>255</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>b</b></td><td><code>134</code></td></tr><tr><td><b>a</b></td><td><code>255</code></td></tr><tr><td><b>r</b></td><td><code>75</code></td></tr><tr><td><b>g</b></td><td><code>105</code></td></tr></table>
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>r</b></td><td><code>75</code></td></tr><tr><td><b>g</b></td><td><code>105</code></td></tr><tr><td><b>b</b></td><td><code>134</code></td></tr><tr><td><b>a</b></td><td><code>255</code></td></tr></table>
 
 
 </td></tr><tr><td><b>unk_49f94ee</b></td><td><code>0.5</code></td></tr></table>

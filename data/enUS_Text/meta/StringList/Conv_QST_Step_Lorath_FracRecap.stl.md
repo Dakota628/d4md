@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir31.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Grim. Salty.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2548303082</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line33.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Now, she has the Key to Hell. We can assume she’ll be looking for a door.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3785511583</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Now, she has the Key to Hell. We can assume she’ll be looking for a door.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3785511583</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line33.6D03F</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir33.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Grim. Salty. Weary.</code></td></tr><tr><td><b>hLabel</b></td><td><code>836271724</code></td></tr></table>

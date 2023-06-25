@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff5_Name</code></td></tr><tr><td><b>szText</b></td><td><code>Avalanche</code></td></tr><tr><td><b>hLabel</b></td><td><code>426817688</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3036881819</code></td></tr><tr><td><b>szLabel</b></td><td><code>Buff5_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Next Mana-spending {c_important}Cold{/c} Skill is free and deals more damage.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Buff5_Description</code></td></tr><tr><td><b>szText</b></td><td><code>Next Mana-spending {c_important}Cold{/c} Skill is free and deals more damage.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3036881819</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

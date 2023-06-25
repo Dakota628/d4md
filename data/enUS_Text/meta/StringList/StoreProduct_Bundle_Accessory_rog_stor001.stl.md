@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Description</code></td></tr><tr><td><b>szText</b></td><td><code>To be raised by wolves is to be part of the feral dynamic of Sanctuary. Both savage and nurturing, fleeting and eternal.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2789670820</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Quote</code></td></tr><tr><td><b>szText</b></td><td><code>The trappings of Sanctuary's feral protector.</code></td></tr><tr><td><b>hLabel</b></td><td><code>138338510</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>The trappings of Sanctuary's feral protector.</code></td></tr><tr><td><b>hLabel</b></td><td><code>138338510</code></td></tr><tr><td><b>szLabel</b></td><td><code>Quote</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Series</code></td></tr><tr><td><b>szText</b></td><td><code>"Raised by Wolves" Accessories</code></td></tr><tr><td><b>hLabel</b></td><td><code>329595531</code></td></tr></table>

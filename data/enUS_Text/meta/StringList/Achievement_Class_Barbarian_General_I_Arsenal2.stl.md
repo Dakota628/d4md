@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Desc</code></td></tr><tr><td><b>szText</b></td><td><code>Kill an Elite enemy with a 2 Hand Bludgeoning, a 2 Hand Slashing, and a 1 Hand Weapon in 10 seconds. </code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DescShort</code></td></tr><tr><td><b>szText</b></td><td><code>Kill Elites quickly with multiple weapon types.</code></td></tr><tr><td><b>hLabel</b></td><td><code>977867471</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Kill Elites quickly with multiple weapon types.</code></td></tr><tr><td><b>hLabel</b></td><td><code>977867471</code></td></tr><tr><td><b>szLabel</b></td><td><code>DescShort</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

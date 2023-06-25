@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>He was imprisoned here for millennia. He knows the terrain better than any of us.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1512000330</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Musing. "He" refers to Inarius. He's not proud or in awe of Inarius, he's just stating the facts.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374887287</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.6D03F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Musing. "He" refers to Inarius. He's not proud or in awe of Inarius, he's just stating the facts.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3374887287</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

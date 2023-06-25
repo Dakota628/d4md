@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Description</code></td></tr><tr><td><b>szText</b></td><td><code>A sack of wild red mushrooms.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2789670820</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Flavor</code></td></tr><tr><td><b>szText</b></td><td><code>A variety of wild red mushroom from Hawezar that causes nausea and vomiting. </code></td></tr><tr><td><b>hLabel</b></td><td><code>4123507722</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>A variety of wild red mushroom from Hawezar that causes nausea and vomiting. </code></td></tr><tr><td><b>hLabel</b></td><td><code>4123507722</code></td></tr><tr><td><b>szLabel</b></td><td><code>Flavor</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

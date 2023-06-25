@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AffixDesc_Rare</code></td></tr><tr><td><b>szText</b></td><td><code>You take 8% less Lightning damage.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1695128598</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>98727533</code></td></tr><tr><td><b>szLabel</b></td><td><code>AffixDesc_Magic</code></td></tr><tr><td><b>szText</b></td><td><code>You take 4% less Lightning damage.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>AffixDesc_Magic</code></td></tr><tr><td><b>szText</b></td><td><code>You take 4% less Lightning damage.</code></td></tr><tr><td><b>hLabel</b></td><td><code>98727533</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

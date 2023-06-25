@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.10E79B</code></td></tr><tr><td><b>szText</b></td><td><code>Annoyed. </code></td></tr><tr><td><b>hLabel</b></td><td><code>3741660844</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.10E79F</code></td></tr><tr><td><b>szText</b></td><td><code>He'll be out of our house soon, my flower.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1733473445</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1733473445</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.10E79F</code></td></tr><tr><td><b>szText</b></td><td><code>He'll be out of our house soon, my flower.</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Tired of his brother and this argument.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3079200882</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.10E79F</code></td></tr></table>

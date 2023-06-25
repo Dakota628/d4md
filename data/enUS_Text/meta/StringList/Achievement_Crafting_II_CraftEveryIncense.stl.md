@@ -9,10 +9,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Storm of the Wilds</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034140709</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_233345</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1034140737</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_233350</code></td></tr><tr><td><b>szText</b></td><td><code>Desert Escape</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Desert Escape</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034140737</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_233350</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Song of the Mountain</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034140738</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_233351</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_233351</code></td></tr><tr><td><b>szText</b></td><td><code>Song of the Mountain</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034140738</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_233352</code></td></tr><tr><td><b>szText</b></td><td><code>Spirit Dance</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034140739</code></td></tr></table>
@@ -24,10 +24,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_233354</code></td></tr><tr><td><b>szText</b></td><td><code>Sage's Whisper</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034140741</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_233355</code></td></tr><tr><td><b>szText</b></td><td><code>Queen's Supreme</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034140742</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Queen's Supreme</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034140742</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_233355</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Blessed Guide</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034140743</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_233356</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_233356</code></td></tr><tr><td><b>szText</b></td><td><code>Blessed Guide</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034140743</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_233357</code></td></tr><tr><td><b>szText</b></td><td><code>Reddamine Buzz</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034140744</code></td></tr></table>

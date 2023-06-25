@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.EDC79</code></td></tr><tr><td><b>szText</b></td><td><code>The coin...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1567794243</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.EDC79</code></td></tr><tr><td><b>szText</b></td><td><code>trying to think through a fog</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430681200</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>trying to think through a fog</code></td></tr><tr><td><b>hLabel</b></td><td><code>3430681200</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.EDC79</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.FBCF5</code></td></tr><tr><td><b>szText</b></td><td><code>Where is it, sister?</code></td></tr><tr><td><b>hLabel</b></td><td><code>4151845775</code></td></tr></table>

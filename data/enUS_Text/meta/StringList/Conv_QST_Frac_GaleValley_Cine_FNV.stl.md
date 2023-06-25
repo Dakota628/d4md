@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line22.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>Are you Vigo? I was sent--</code></td></tr><tr><td><b>hLabel</b></td><td><code>2950505590</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4027465863</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line16.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>(grunts in surprise)</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line16.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>(grunts in surprise)</code></td></tr><tr><td><b>hLabel</b></td><td><code>4027465863</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Hey!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1512058033</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Hey!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1512058033</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.6DE47</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line18.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>(grunt)</code></td></tr><tr><td><b>hLabel</b></td><td><code>2315434505</code></td></tr></table>
@@ -33,10 +33,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>But, we have soldiers stationed inside who--</code></td></tr><tr><td><b>hLabel</b></td><td><code>670931255</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line9.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>You should be worried about them, too!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3253867193</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>You should be worried about them, too!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3253867193</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line9.6DE47</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>(exclaims out of frustration)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1444529925</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line14.6DE47</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line14.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>(exclaims out of frustration)</code></td></tr><tr><td><b>hLabel</b></td><td><code>1444529925</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Maybe you can help me?</code></td></tr><tr><td><b>hLabel</b></td><td><code>1865093314</code></td></tr></table>

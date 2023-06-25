@@ -12,7 +12,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>But I wanted to wait for you.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4094993971</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2735997894</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line15.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Can I ask you something? Something personal.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Can I ask you something? Something personal.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2735997894</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>You know you can.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1698173014</code></td></tr></table>
@@ -24,16 +24,16 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir9.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>deep in thought</code></td></tr><tr><td><b>hLabel</b></td><td><code>821786854</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>More than I’d like to admit. They call me hero. But underneath, I’m still the same person I always was. Powerful, sure. But flawed, too.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3718003623</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.BAE4</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>More than I’d like to admit. They call me hero. But underneath, I’m still the same person I always was. Powerful, sure. But flawed, too.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3718003623</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line11.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>I try. Yet my best isn’t enough. Not for Yorin, nor your mother.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1619902228</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>670931255</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line7.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Does it get any easier?</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>Does it get any easier?</code></td></tr><tr><td><b>hLabel</b></td><td><code>670931255</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.6DE47</code></td></tr><tr><td><b>szText</b></td><td><code>quietly</code></td></tr><tr><td><b>hLabel</b></td><td><code>2533818212</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>quietly</code></td></tr><tr><td><b>hLabel</b></td><td><code>2533818212</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir7.6DE47</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line19.BAE4</code></td></tr><tr><td><b>szText</b></td><td><code>It can, with a good ally.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1932985372</code></td></tr></table>

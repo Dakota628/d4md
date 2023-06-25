@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.54239</code></td></tr><tr><td><b>szText</b></td><td><code>I'm not the one who's gonna roll their corpses into the river this time. (laugh) No chance.</code></td></tr><tr><td><b>hLabel</b></td><td><code>150095489</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir13.54239</code></td></tr><tr><td><b>szText</b></td><td><code>Said to yourself as you busy yourself with work. Looking over your shoulder at curious visitors to your bandit town.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1495822926</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1495822926</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir13.54239</code></td></tr><tr><td><b>szText</b></td><td><code>Said to yourself as you busy yourself with work. Looking over your shoulder at curious visitors to your bandit town.</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

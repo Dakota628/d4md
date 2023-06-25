@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DisembodiedVoice</code></td></tr><tr><td><b>szText</b></td><td><code>Vhenard</code></td></tr><tr><td><b>hLabel</b></td><td><code>155764431</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4145469248</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.B6582</code></td></tr><tr><td><b>szText</b></td><td><code>Not enough blood, never enough blood...</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Not enough blood, never enough blood...</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145469248</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.B6582</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2433437890</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.B6582</code></td></tr><tr><td><b>szText</b></td><td><code>I will follow you to the ends of Sanctuary, Mother...</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line5.B6582</code></td></tr><tr><td><b>szText</b></td><td><code>I will follow you to the ends of Sanctuary, Mother...</code></td></tr><tr><td><b>hLabel</b></td><td><code>2433437890</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

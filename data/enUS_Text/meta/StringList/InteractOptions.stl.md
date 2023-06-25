@@ -9,13 +9,13 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KeyedDungeon_Affixes</code></td></tr><tr><td><b>szText</b></td><td><code>Affixes: {s1}</code></td></tr><tr><td><b>hLabel</b></td><td><code>955991495</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KeyedDungeon_ResRemaining</code></td></tr><tr><td><b>szText</b></td><td><code>{s1} revives remaining</code></td></tr><tr><td><b>hLabel</b></td><td><code>2522036709</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2522036709</code></td></tr><tr><td><b>szLabel</b></td><td><code>KeyedDungeon_ResRemaining</code></td></tr><tr><td><b>szText</b></td><td><code>{s1} revives remaining</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KeyedDungeon_SelectKey</code></td></tr><tr><td><b>szText</b></td><td><code>Select Dungeon Key ({s1})</code></td></tr><tr><td><b>hLabel</b></td><td><code>1819729226</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>DungeonReset</code></td></tr><tr><td><b>szText</b></td><td><code>Reset Dungeon</code></td></tr><tr><td><b>hLabel</b></td><td><code>1281634355</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>1281634355</code></td></tr><tr><td><b>szLabel</b></td><td><code>DungeonReset</code></td></tr><tr><td><b>szText</b></td><td><code>Reset Dungeon</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>KeyedDungeon_ConfirmReset</code></td></tr><tr><td><b>szText</b></td><td><code>Consume Sigil to activate a Nightmare Dungeon at {s1}?</code></td></tr><tr><td><b>hLabel</b></td><td><code>2989241714</code></td></tr></table>
@@ -42,7 +42,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>P2</code></td></tr><tr><td><b>szText</b></td><td><code>P2</code></td></tr><tr><td><b>hLabel</b></td><td><code>3746</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>ConsumeSigil</code></td></tr><tr><td><b>szText</b></td><td><code>Consume Sigil </code></td></tr><tr><td><b>hLabel</b></td><td><code>2253938098</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2253938098</code></td></tr><tr><td><b>szLabel</b></td><td><code>ConsumeSigil</code></td></tr><tr><td><b>szText</b></td><td><code>Consume Sigil </code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

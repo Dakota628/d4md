@@ -6,10 +6,10 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line13.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>Depends who you ask. Last I saw them, I was pointing a crossbow at their mother as they sobbed, begging me not to do it, heh. Oh, the way Rea looked at me...</code></td></tr><tr><td><b>hLabel</b></td><td><code>496832222</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line17.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>That's when I knew they were mine. Hm. How I'd always wondered, but... then I knew. That's why she had to kill him. Why she had to kill my brother, you see. Because he knew too.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3466879586</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3466879586</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line17.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>That's when I knew they were mine. Hm. How I'd always wondered, but... then I knew. That's why she had to kill him. Why she had to kill my brother, you see. Because he knew too.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Voice cracking. Lump in his throat.</code></td></tr><tr><td><b>hLabel</b></td><td><code>631244751</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir17.10088C</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir17.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>Voice cracking. Lump in his throat.</code></td></tr><tr><td><b>hLabel</b></td><td><code>631244751</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line15.10088C</code></td></tr><tr><td><b>szText</b></td><td><code>The last news I got was that Thieves Guild medallion. Rea always knew how to twist the knife. My own children accepted as guild members. Humph.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4129339552</code></td></tr></table>

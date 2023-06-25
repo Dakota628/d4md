@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line8.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>It's taking too long!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1962341521</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Straining. Doubting. Anxious about Elias.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3825228478</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir8.6D03F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir8.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Straining. Doubting. Anxious about Elias.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3825228478</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line44.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>For once in your miserable life, stay with me!</code></td></tr><tr><td><b>hLabel</b></td><td><code>452093281</code></td></tr></table>
@@ -27,7 +27,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line12.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Fight, girl! Command it!</code></td></tr><tr><td><b>hLabel</b></td><td><code>3156503580</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Straining. Barking instruction at Neyrelle.</code></td></tr><tr><td><b>hLabel</b></td><td><code>207263721</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir12.6D03F</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir12.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Straining. Barking instruction at Neyrelle.</code></td></tr><tr><td><b>hLabel</b></td><td><code>207263721</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line14.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Burning bastard Hells!</code></td></tr><tr><td><b>hLabel</b></td><td><code>1444472222</code></td></tr></table>
@@ -36,7 +36,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir14.6D03F</code></td></tr><tr><td><b>szText</b></td><td><code>Straining. Cursing.</code></td></tr><tr><td><b>hLabel</b></td><td><code>2790199659</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line16.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>That's it, old man!</code></td></tr><tr><td><b>hLabel</b></td><td><code>4028719168</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4028719168</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line16.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>That's it, old man!</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir16.7FA05</code></td></tr><tr><td><b>szText</b></td><td><code>Straining. Encouraging Lorath.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1079479309</code></td></tr></table>

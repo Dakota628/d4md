@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase20Description</code></td></tr><tr><td><b>szText</b></td><td><code>PH Description Text</code></td></tr><tr><td><b>hLabel</b></td><td><code>2151383127</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>PH Description Text</code></td></tr><tr><td><b>hLabel</b></td><td><code>1141437915</code></td></tr><tr><td><b>szLabel</b></td><td><code>Phase24Description</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase24Description</code></td></tr><tr><td><b>szText</b></td><td><code>PH Description Text</code></td></tr><tr><td><b>hLabel</b></td><td><code>1141437915</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback75Header</code></td></tr><tr><td><b>szText</b></td><td><code>Wait out the severe winds</code></td></tr><tr><td><b>hLabel</b></td><td><code>1125694114</code></td></tr></table>

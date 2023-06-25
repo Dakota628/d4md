@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>name</code></td></tr><tr><td><b>szText</b></td><td><code>Concussion</code></td></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr><tr><td><b>szText</b></td><td><code>{c_label}Lucky Hit:{/c} Skills using Bludgeoning weapons have up to a {c_number}{SF_0}%{/c} chance to Stun enemies for {c_number}{buffduration:STUN}{/c} seconds, or up to a {c_number}{SF_1}%{/c} chance when using a Two-Handed Bludgeoning weapon.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>{c_label}Lucky Hit:{/c} Skills using Bludgeoning weapons have up to a {c_number}{SF_0}%{/c} chance to Stun enemies for {c_number}{buffduration:STUN}{/c} seconds, or up to a {c_number}{SF_1}%{/c} chance when using a Two-Handed Bludgeoning weapon.</code></td></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr><tr><td><b>szLabel</b></td><td><code>desc</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>rankup_desc</code></td></tr><tr><td><b>szText</b></td><td><pre>

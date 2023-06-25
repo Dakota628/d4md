@@ -5,7 +5,7 @@
 </td></tr></table>
 
 
-<table><tr><th colspan="100%">Type_3f7811d2</th></tr><tr><td><b>unk_589fc97</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr></table>
+<table><tr><th colspan="100%">Type_3f7811d2</th></tr><tr><td><b>unk_589fc97</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
@@ -15,7 +15,25 @@
 </td></tr></table>
 
 
-</td></tr><tr><td><b>tColorCorrection</b></td><td><table><tr><th colspan="100%">ColorCorrectionParams</th></tr><tr><td><b>unk_ba29200</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>600</code></td></tr><tr><td><b>dataSize</b></td><td><code>32</code></td></tr></table>
+</td></tr><tr><td><b>tParamsWhenRaining</b></td><td><table><tr><th colspan="100%">WeatherStateParams</th></tr><tr><td><b>unk_d6ca49a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>400</code></td></tr><tr><td><b>dataSize</b></td><td><code>72</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>tColorCorrection</b></td><td><table><tr><th colspan="100%">ColorCorrectionParams</th></tr><tr><td><b>unk_ba29200</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>600</code></td></tr><tr><td><b>dataSize</b></td><td><code>32</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_c68eb66</b></td><td><table><tr><th colspan="100%">Type_3a9f0d72</th></tr><tr><td><b>unk_efe84b7</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>dataOffset</b></td><td><code>632</code></td></tr><tr><td><b>dataSize</b></td><td><code>844</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_319c94</b></td><td><table><tr><th colspan="100%">Type_ca1fcba0</th></tr><tr><td><b>unk_184e1e5</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_dc54395</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>1912</code></td></tr><tr><td><b>dataSize</b></td><td><code>484</code></td></tr></table>
+
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>snoParentWeather</b></td><td><a href="weather_dungeon_Underworld_Black_Lake.wth.md">[DT_SNO] Weather: "weather_dungeon_Underworld_Black_Lake"</a></td></tr><tr><td><b>tParamsNotRaining</b></td><td><table><tr><th colspan="100%">WeatherStateParams</th></tr><tr><td><b>unk_d6ca49a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>dataOffset</b></td><td><code>200</code></td></tr><tr><td><b>dataSize</b></td><td><code>72</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr></table>
 
 </td></tr></table>
 
@@ -23,27 +41,9 @@
 
 </td></tr></table>
 
-</td></tr><tr><td><b>tStarsSettings</b></td><td><table><tr><th colspan="100%">StarsSettings</th></tr><tr><td><b>unk_1d0c343</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+</td></tr><tr><td><b>tStarsSettings</b></td><td><table><tr><th colspan="100%">StarsSettings</th></tr><tr><td><b>unk_1d0c343</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
 
 </td></tr></table>
-
-</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>snoParentWeather</b></td><td><a href="weather_dungeon_Underworld_Black_Lake.wth">[DT_SNO] Weather: "weather_dungeon_Underworld_Black_Lake"</a></td></tr><tr><td><b>tParamsNotRaining</b></td><td><table><tr><th colspan="100%">WeatherStateParams</th></tr><tr><td><b>unk_d6ca49a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>200</code></td></tr><tr><td><b>dataSize</b></td><td><code>72</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>tParamsWhenRaining</b></td><td><table><tr><th colspan="100%">WeatherStateParams</th></tr><tr><td><b>unk_d6ca49a</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>400</code></td></tr><tr><td><b>dataSize</b></td><td><code>72</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_c68eb66</b></td><td><table><tr><th colspan="100%">Type_3a9f0d72</th></tr><tr><td><b>unk_efe84b7</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>632</code></td></tr><tr><td><b>dataSize</b></td><td><code>844</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_319c94</b></td><td><table><tr><th colspan="100%">Type_ca1fcba0</th></tr><tr><td><b>unk_184e1e5</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
-
-</td></tr></table>
-
-</td></tr><tr><td><b>unk_dc54395</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>padding1</b></td><td><code>0</code></td></tr><tr><td><b>padding2</b></td><td><code>0</code></td></tr><tr><td><b>dataOffset</b></td><td><code>1912</code></td></tr><tr><td><b>dataSize</b></td><td><code>484</code></td></tr><tr><td><b>__message__</b></td><td><code>DT_TAGMAP not fully implemented yet</code></td></tr></table>
 
 </td></tr></table>
 

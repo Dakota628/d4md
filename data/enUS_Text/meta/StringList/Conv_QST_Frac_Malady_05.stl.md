@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.FEF74</code></td></tr><tr><td><b>szText</b></td><td><code>worried, probing</code></td></tr><tr><td><b>hLabel</b></td><td><code>3431906320</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4151955267</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.FEF63</code></td></tr><tr><td><b>szText</b></td><td><code>Some of the clergy can be...eager in their reading of the scriptures. That won't happen here.</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Some of the clergy can be...eager in their reading of the scriptures. That won't happen here.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4151955267</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.FEF63</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.FEF63</code></td></tr><tr><td><b>szText</b></td><td><code>You don't want to talk badly about co-workers, buuuut...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1719874928</code></td></tr></table>

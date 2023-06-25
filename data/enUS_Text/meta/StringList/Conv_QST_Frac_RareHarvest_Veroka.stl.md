@@ -3,7 +3,7 @@
 <table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>MenuLabel</code></td></tr><tr><td><b>szText</b></td><td><code>"Interested in this odd flower that I found?"</code></td></tr><tr><td><b>hLabel</b></td><td><code>4215274549</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.B2A28</code></td></tr><tr><td><b>szText</b></td><td><code>That's frostbloom! I could use it in a little project for one of my best clients...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1562437286</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>That's frostbloom! I could use it in a little project for one of my best clients...</code></td></tr><tr><td><b>hLabel</b></td><td><code>1562437286</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.B2A28</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.B2A28</code></td></tr><tr><td><b>szText</b></td><td><code>What that client ordered isn't useful to you, but I'll trade you something useful for the frostbloom.</code></td></tr><tr><td><b>hLabel</b></td><td><code>4145373224</code></td></tr></table>

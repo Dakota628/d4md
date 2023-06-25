@@ -27,7 +27,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Phase8OutsideSubzoneHeader</code></td></tr><tr><td><b>szText</b></td><td><code>Deliver Lorath's letter to Donan at Kyovashad</code></td></tr><tr><td><b>hLabel</b></td><td><code>2508828149</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2677071405</code></td></tr><tr><td><b>szLabel</b></td><td><code>Callback7Header</code></td></tr><tr><td><b>szText</b></td><td><code>Meet Donan at the Cathedral of Light</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Callback7Header</code></td></tr><tr><td><b>szText</b></td><td><code>Meet Donan at the Cathedral of Light</code></td></tr><tr><td><b>hLabel</b></td><td><code>2677071405</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>

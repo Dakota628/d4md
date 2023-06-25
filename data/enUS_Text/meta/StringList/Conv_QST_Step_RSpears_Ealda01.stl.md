@@ -9,7 +9,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>sincere, somewhat somber</code></td></tr><tr><td><b>hLabel</b></td><td><code>3742378726</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>We’ve forgotten who we are. Forgotten the sacrifices our ancestors made when faced with certain defeat. The pride of rising beyond yourself.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734191323</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line3.1275AB</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line3.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>We’ve forgotten who we are. Forgotten the sacrifices our ancestors made when faced with certain defeat. The pride of rising beyond yourself.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1734191323</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir3.1275AB</code></td></tr><tr><td><b>szText</b></td><td><code>sincere, strong, reflective</code></td></tr><tr><td><b>hLabel</b></td><td><code>3079918760</code></td></tr></table>

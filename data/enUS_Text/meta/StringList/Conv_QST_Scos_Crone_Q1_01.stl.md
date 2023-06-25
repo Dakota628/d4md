@@ -6,7 +6,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line7.2CDEB</code></td></tr><tr><td><b>szText</b></td><td><code>You may call me Shob'ha. I offer solutions, of a kind, to those in need. Yet it is now I who need aid...</code></td></tr><tr><td><b>hLabel</b></td><td><code>666152205</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>And here you are. Coincidence and opportunity are sisters, you know.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1507278983</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line1.2CDEB</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Line1.2CDEB</code></td></tr><tr><td><b>szText</b></td><td><code>And here you are. Coincidence and opportunity are sisters, you know.</code></td></tr><tr><td><b>hLabel</b></td><td><code>1507278983</code></td></tr></table>
 
 
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir1.2CDEB</code></td></tr><tr><td><b>szText</b></td><td><code>sly, thinking</code></td></tr><tr><td><b>hLabel</b></td><td><code>3370165940</code></td></tr></table>
@@ -21,7 +21,7 @@
 <table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>2378183563</code></td></tr><tr><td><b>szLabel</b></td><td><code>Line5.2CDEB</code></td></tr><tr><td><b>szText</b></td><td><code>If you can find her, I would be in your debt.</code></td></tr></table>
 
 
-<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>matter of fact</code></td></tr><tr><td><b>hLabel</b></td><td><code>4241070520</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.2CDEB</code></td></tr></table>
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4241070520</code></td></tr><tr><td><b>szLabel</b></td><td><code>VoiceDir5.2CDEB</code></td></tr><tr><td><b>szText</b></td><td><code>matter of fact</code></td></tr></table>
 
 
 </td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>
