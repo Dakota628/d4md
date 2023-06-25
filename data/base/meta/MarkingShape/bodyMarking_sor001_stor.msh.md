@@ -1,0 +1,4 @@
+<h1>data/base/meta/MarkingShape/bodyMarking_sor001_stor.msh</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/MarkingShape/bodyMarking_sor001_stor.msh</td></tr><tr><td><b>Type</b></td><td>MarkingShapeDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1181000</td></tr></table>
+
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>eClassRestriction</b></td><td><code>0</code></td></tr><tr><td><b>flEmissiveStrength</b></td><td><code>3</code></td></tr><tr><td><b>hIconImage</b></td><td><code>3690500089</code></td></tr><tr><td><b>snoMaskFace</b></td><td><a href="..\Texture\bodyMarking_sor001_HED_stor.tex">[DT_SNO] Texture: "bodyMarking_sor001_HED_stor"</a></td></tr><tr><td><b>snoMaskBody</b></td><td><a href="..\Texture\bodyMarking_sor001_BOD_stor.tex">[DT_SNO] Texture: "bodyMarking_sor001_BOD_stor"</a></td></tr></table>
+

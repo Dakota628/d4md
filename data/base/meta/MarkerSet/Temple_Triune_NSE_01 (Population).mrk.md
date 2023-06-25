@@ -1,0 +1,1182 @@
+<h1>data/base/meta/MarkerSet/Temple_Triune_NSE_01 (Population).mrk</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/MarkerSet/Temple_Triune_NSE_01 (Population).mrk</td></tr><tr><td><b>Type</b></td><td>MarkerSetDefinition</td></tr><tr><td><b>SNO ID</b></td><td>387797</td></tr></table>
+
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>unk_6d7f2e9</b></td><td></td></tr><tr><td><b>ptChunks</b></td><td></td></tr><tr><td><b>unk_6458d11</b></td><td></td></tr><tr><td><b>unk_2bbd1d</b></td><td><table><tr><th colspan="100%">Type_c8d78ce7</th></tr><tr><td><b>unk_aa0958e</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097153</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_WORD</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_dd3cf40</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097153</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_WORD</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>nWidth</b></td><td><code>0</code></td></tr><tr><td><b>nDepth</b></td><td><code>0</code></td></tr><tr><td><b>dwPitch</b></td><td><code>0</code></td></tr><tr><td><b>flGridSize</b></td><td><code>0</code></td></tr><tr><td><b>unk_4b236f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_aa09583</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097153</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_WORD</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_dd3cf4b</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097153</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_WORD</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_aa0957e</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097153</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_WORD</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>nHeight</b></td><td><code>0</code></td></tr><tr><td><b>dwSlicePitch</b></td><td><code>0</code></td></tr><tr><td><b>wpOrigin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_dd3cf3b</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097153</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_WORD</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_69b6741</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_2f217b0</b></td><td><code>-1</code></td></tr><tr><td><b>unk_d0a9662</b></td><td><code>0</code></td></tr><tr><td><b>tMarkerSet</b></td><td><table><tr><th colspan="100%">Marker</th></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>nID</b></td><td><code>9229</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(1.000000, 7.000000, 2.000000)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155239</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155240</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>nID</b></td><td><code>9230</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(4.000000, 7.000000, 2.041110)</td></tr></table>
+
+</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155241</code></td></tr><tr><td><b>nID</b></td><td><code>9231</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(28.000000, 7.000000, 2.198790)</td></tr></table>
+
+</td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>nID</b></td><td><code>9232</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(31.000000, 7.000000, 2.000000)</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>3604155242</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwHash</b></td><td><code>3604155243</code></td></tr><tr><td><b>nID</b></td><td><code>9233</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(1.000000, 10.000000, 2.041300)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155244</code></td></tr><tr><td><b>nID</b></td><td><code>9234</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(4.000000, 10.250000, 2.000000)</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>nID</b></td><td><code>9235</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>3604155245</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(7.000000, 10.000000, 2.066990)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155246</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(10.000000, 10.500000, 2.142980)</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>nID</b></td><td><code>9236</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155247</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(13.000000, 10.000000, 2.000000)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>nID</b></td><td><code>9237</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155248</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(16.000000, 10.000000, 2.000000)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>nID</b></td><td><code>9238</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>nID</b></td><td><code>9239</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>wp</b></td><td>Vector(19.000000, 10.000000, 2.000000)</td></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>3604155272</code></td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>wp</b></td><td>Vector(22.000000, 10.250000, 2.136750)</td></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155273</code></td></tr><tr><td><b>nID</b></td><td><code>9240</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwHash</b></td><td><code>3604155274</code></td></tr><tr><td><b>nID</b></td><td><code>9241</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>wp</b></td><td>Vector(25.000000, 10.000000, 2.208860)</td></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>nID</b></td><td><code>9242</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(28.500000, 10.500000, 2.020000)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155275</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155276</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(31.000000, 10.000000, 2.041470)</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>nID</b></td><td><code>9243</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155277</code></td></tr><tr><td><b>nID</b></td><td><code>9244</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(1.000000, 13.000000, 2.040520)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>nID</b></td><td><code>9245</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155278</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(4.000000, 13.000000, 1.560000)</td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>nID</b></td><td><code>9246</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(7.000000, 13.000000, 1.602830)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155279</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwHash</b></td><td><code>3604155280</code></td></tr><tr><td><b>nID</b></td><td><code>9247</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(10.000000, 13.000000, 1.872140)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwHash</b></td><td><code>3604155281</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>nID</b></td><td><code>9248</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(13.000000, 13.000000, 2.036810)</td></tr></table>
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155305</code></td></tr><tr><td><b>nID</b></td><td><code>9249</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(16.000000, 13.000000, 2.053580)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155306</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>nID</b></td><td><code>9250</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(19.000000, 13.000000, 2.052260)</td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>3604155307</code></td></tr><tr><td><b>nID</b></td><td><code>9251</code></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(22.000000, 13.000000, 2.049760)</td></tr></table>
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>3604155308</code></td></tr><tr><td><b>nID</b></td><td><code>9252</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr></table>
+
+</td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(25.000000, 13.000000, 1.779090)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155309</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(28.500000, 13.000000, 1.640000)</td></tr></table>
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr></table>
+
+</td></tr><tr><td><b>nID</b></td><td><code>9253</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155310</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(31.000000, 13.500000, 2.070380)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>nID</b></td><td><code>9254</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(1.000000, 16.000000, 1.386700)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>dwHash</b></td><td><code>3604155311</code></td></tr><tr><td><b>nID</b></td><td><code>9255</code></td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>nID</b></td><td><code>9256</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155312</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(4.000000, 16.250000, 1.018820)</td></tr></table>
+
+</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(7.000000, 16.000000, 0.861267)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155313</code></td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr></table>
+
+</td></tr><tr><td><b>nID</b></td><td><code>9257</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>nID</b></td><td><code>9258</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>wp</b></td><td>Vector(10.000000, 16.000000, 0.970279)</td></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155314</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(13.000000, 16.000000, 1.241380)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155338</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>nID</b></td><td><code>9259</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwHash</b></td><td><code>3604155339</code></td></tr><tr><td><b>nID</b></td><td><code>9260</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(16.000000, 16.000000, 1.295020)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr></table>
+
+</td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>wp</b></td><td>Vector(19.000000, 16.000000, 1.328600)</td></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>3604155340</code></td></tr><tr><td><b>nID</b></td><td><code>9261</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwHash</b></td><td><code>3604155341</code></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>nID</b></td><td><code>9262</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(22.000000, 16.000000, 1.148320)</td></tr></table>
+
+</td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwHash</b></td><td><code>3604155342</code></td></tr><tr><td><b>nID</b></td><td><code>9263</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(25.000000, 16.000000, 0.966993)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwHash</b></td><td><code>3604155343</code></td></tr><tr><td><b>nID</b></td><td><code>9264</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(28.500000, 16.500000, 1.190050)</td></tr></table>
+
+</td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwHash</b></td><td><code>3604155344</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>nID</b></td><td><code>9265</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(31.000000, 16.000000, 1.394290)</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>nID</b></td><td><code>9266</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(1.000000, 19.000000, 0.623728)</td></tr></table>
+
+</td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155345</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155346</code></td></tr><tr><td><b>nID</b></td><td><code>9267</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(4.000000, 19.000000, 0.370351)</td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>3604155347</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(7.000000, 19.000000, 0.135193)</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>nID</b></td><td><code>9268</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwHash</b></td><td><code>3604155371</code></td></tr><tr><td><b>nID</b></td><td><code>9269</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(10.000000, 19.000000, 0.344694)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155372</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(13.000000, 19.000000, 0.554195)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>nID</b></td><td><code>9270</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>3604155373</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>wp</b></td><td>Vector(16.000000, 19.000000, 0.602403)</td></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>nID</b></td><td><code>9271</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>nID</b></td><td><code>9272</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(19.000000, 19.000000, 0.634528)</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155374</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>nID</b></td><td><code>9273</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(22.000000, 19.000000, 0.461139)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155375</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(25.000000, 19.000000, 0.251638)</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155376</code></td></tr><tr><td><b>nID</b></td><td><code>9274</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155377</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(28.000000, 19.000000, 0.361158)</td></tr></table>
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>nID</b></td><td><code>9275</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155378</code></td></tr><tr><td><b>nID</b></td><td><code>9276</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(31.000000, 19.000000, 0.635135)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(1.000000, 22.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155379</code></td></tr><tr><td><b>nID</b></td><td><code>9277</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>nID</b></td><td><code>9278</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(4.000000, 22.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155380</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(7.000000, 22.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>3604155404</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>nID</b></td><td><code>9279</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155405</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(10.000000, 22.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr></table>
+
+</td></tr><tr><td><b>nID</b></td><td><code>9280</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(13.000000, 22.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>3604155406</code></td></tr><tr><td><b>nID</b></td><td><code>9281</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>nID</b></td><td><code>9282</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155407</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(16.000000, 22.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>nID</b></td><td><code>9283</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155408</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(19.000000, 22.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>nID</b></td><td><code>9284</code></td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155409</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(22.000000, 22.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(25.000000, 22.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>3604155410</code></td></tr><tr><td><b>nID</b></td><td><code>9285</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>nID</b></td><td><code>9286</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155411</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(28.000000, 22.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(31.000000, 22.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155412</code></td></tr><tr><td><b>nID</b></td><td><code>9287</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(1.000000, 25.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>nID</b></td><td><code>9288</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155413</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>nID</b></td><td><code>9289</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(4.000000, 25.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>dwHash</b></td><td><code>3604155437</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>nID</b></td><td><code>9290</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(7.000000, 25.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155438</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155439</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(10.000000, 25.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>nID</b></td><td><code>9291</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155440</code></td></tr><tr><td><b>nID</b></td><td><code>9292</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(13.000000, 25.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155441</code></td></tr><tr><td><b>nID</b></td><td><code>9293</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(19.000000, 25.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>nID</b></td><td><code>9294</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(22.000000, 25.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>dwHash</b></td><td><code>3604155442</code></td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwHash</b></td><td><code>3604155443</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr></table>
+
+</td></tr><tr><td><b>nID</b></td><td><code>9295</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(25.000000, 25.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr></table>
+
+</td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155444</code></td></tr><tr><td><b>nID</b></td><td><code>9296</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(28.000000, 25.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>nID</b></td><td><code>9297</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155445</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(31.000000, 25.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>wp</b></td><td>Vector(1.000000, 28.000000, 0.000000)</td></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155446</code></td></tr><tr><td><b>nID</b></td><td><code>9298</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>nID</b></td><td><code>9299</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155470</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(7.000000, 28.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>nID</b></td><td><code>9300</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(10.000000, 28.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155471</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155472</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(13.000000, 28.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>nID</b></td><td><code>9301</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(19.000000, 28.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>nID</b></td><td><code>9302</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155473</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>nID</b></td><td><code>9303</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>3604155474</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(22.000000, 28.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr></table>
+
+</td></tr><tr><td><b>nID</b></td><td><code>9304</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(25.000000, 28.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155475</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>3604155476</code></td></tr><tr><td><b>nID</b></td><td><code>9305</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(28.000000, 28.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>nID</b></td><td><code>9306</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(10.000000, 31.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155477</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155478</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(13.000000, 31.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>nID</b></td><td><code>9307</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>dwHash</b></td><td><code>3604155479</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>wp</b></td><td>Vector(16.000000, 31.000000, 0.000000)</td></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>nID</b></td><td><code>9308</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptGroupData</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>nID</b></td><td><code>9309</code></td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr></table>
+
+</td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(19.000000, 31.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>dwHash</b></td><td><code>3604155503</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">Marker</th></tr><tr><td><b>dwMarkerFlags</b></td><td><code>2</code></td></tr><tr><td><b>vecScale</b></td><td>Vector(1.000000, 1.000000, 1.000000)</td></tr><tr><td><b>ptBase</b></td><td><table><tr><th colspan="100%">MarkerSpawnLocData</th></tr><tr><td><b>arActorGroups</b></td><td></td></tr><tr><td><b>unk_b5b0f9a</b></td><td></td></tr><tr><td><b>arPrefabCustomizations</b></td><td></td></tr><tr><td><b>bIsChild</b></td><td><code>0</code></td></tr><tr><td><b>dwType</b></td><td><code>4133241699</code></td></tr><tr><td><b>dwPad</b></td><td><code>0</code></td></tr><tr><td><b>snoScript</b></td><td></td></tr><tr><td><b>gbidSpawnLocType</b></td><td><table><tr><th colspan="100%">DT_GBID</th></tr><tr><td><b>__raw__</b></td><td><code>2458970423</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>ptMarkerLinks</b></td><td></td></tr><tr><td><b>unk_c339f69</b></td><td><code>-1</code></td></tr><tr><td><b>dwHash</b></td><td><code>3604155504</code></td></tr><tr><td><b>transform</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>1</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(22.000000, 31.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>tPrefabData</b></td><td><table><tr><th colspan="100%">PrefabData</th></tr><tr><td><b>unk_d094b9a</b></td><td><code>0</code></td></tr><tr><td><b>eCullingLevel</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>unk_32bf9c6</b></td><td><code>0</code></td></tr><tr><td><b>eFadeMethod</b></td><td><code>0</code></td></tr><tr><td><b>nFadeGroup</b></td><td><code>0</code></td></tr><tr><td><b>unk_4bfd602</b></td><td><code>0</code></td></tr><tr><td><b>dwShaderMapOverride</b></td><td><code>4294967295</code></td></tr><tr><td><b>unk_b0425e7</b></td><td></td></tr></table>
+
+</td></tr><tr><td><b>dwSeed</b></td><td><code>0</code></td></tr><tr><td><b>nID</b></td><td><code>9310</code></td></tr><tr><td><b>eType</b></td><td><code>50</code></td></tr><tr><td><b>ptGroupData</b></td><td></td></tr></table>
+
+
+</td></tr><tr><td><b>dwMarkerSetFlags</b></td><td><code>257</code></td></tr><tr><td><b>unk_db67c2c</b></td><td><code>0</code></td></tr><tr><td><b>unk_a3613db</b></td><td></td></tr></table>
+

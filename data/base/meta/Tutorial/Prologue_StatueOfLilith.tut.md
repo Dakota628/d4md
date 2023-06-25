@@ -1,0 +1,4 @@
+<h1>data/base/meta/Tutorial/Prologue_StatueOfLilith.tut</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/Tutorial/Prologue_StatueOfLilith.tut</td></tr><tr><td><b>Type</b></td><td>TutorialDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1272566</td></tr></table>
+
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>dwNextID</b></td><td><code>0</code></td></tr><tr><td><b>eType</b></td><td><code>0</code></td></tr><tr><td><b>arSlides</b></td><td></td></tr><tr><td><b>unk_e34e19d</b></td><td><code>10</code></td></tr><tr><td><b>eAlignHorizontal</b></td><td><code>-1</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1</code></td></tr><tr><td><b>eVisibilityCondition</b></td><td><code>-1</code></td></tr><tr><td><b>eAlignVertical</b></td><td><code>-1</code></td></tr><tr><td><b>vecOffset</b></td><td>Vector(0.000000, 0.000000)</td></tr><tr><td><b>szAnchorControl</b></td><td><code></code></td></tr></table>
+

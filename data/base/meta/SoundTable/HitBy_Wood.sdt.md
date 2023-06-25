@@ -1,0 +1,48 @@
+<h1>data/base/meta/SoundTable/HitBy_Wood.sdt</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/SoundTable/HitBy_Wood.sdt</td></tr><tr><td><b>Type</b></td><td>SoundTableDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1367256</td></tr></table>
+
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>eType</b></td><td><code>1</code></td></tr><tr><td><b>tEntries</b></td><td><table><tr><th colspan="100%">SoundTableEntry</th></tr><tr><td><b>szTag</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_IMP_Wood_Arrow_1P.snd">[DT_SNO] Sound: "Play_IMP_Wood_Arrow_1P"</a></td></tr><tr><td><b>snoSoundFriendly</b></td><td><a href="..\Sound\Play_IMP_Wood_Arrow_3P_Friendly.snd">[DT_SNO] Sound: "Play_IMP_Wood_Arrow_3P_Friendly"</a></td></tr><tr><td><b>unk_48259c7</b></td><td><a href="..\Sound\Play_IMP_Wood_Arrow_3P_Enemy.snd">[DT_SNO] Sound: "Play_IMP_Wood_Arrow_3P_Enemy"</a></td></tr><tr><td><b>dwFlags</b></td><td><code>7</code></td></tr><tr><td><b>dwID</b></td><td><code>4</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">SoundTableEntry</th></tr><tr><td><b>unk_48259c7</b></td><td><a href="..\Sound\Play_IMP_Wood_Axe_3P_Enemy.snd">[DT_SNO] Sound: "Play_IMP_Wood_Axe_3P_Enemy"</a></td></tr><tr><td><b>dwFlags</b></td><td><code>7</code></td></tr><tr><td><b>dwID</b></td><td><code>12</code></td></tr><tr><td><b>szTag</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_IMP_Wood_Axe_1P.snd">[DT_SNO] Sound: "Play_IMP_Wood_Axe_1P"</a></td></tr><tr><td><b>snoSoundFriendly</b></td><td><a href="..\Sound\Play_IMP_Wood_Axe_3P_Friendly.snd">[DT_SNO] Sound: "Play_IMP_Wood_Axe_3P_Friendly"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">SoundTableEntry</th></tr><tr><td><b>unk_48259c7</b></td><td><a href="..\Sound\Play_IMP_Wood_Bite_3P_Enemy.snd">[DT_SNO] Sound: "Play_IMP_Wood_Bite_3P_Enemy"</a></td></tr><tr><td><b>dwFlags</b></td><td><code>7</code></td></tr><tr><td><b>dwID</b></td><td><code>10</code></td></tr><tr><td><b>szTag</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_IMP_Wood_Bite_1P.snd">[DT_SNO] Sound: "Play_IMP_Wood_Bite_1P"</a></td></tr><tr><td><b>snoSoundFriendly</b></td><td><a href="..\Sound\Play_IMP_Wood_Bite_3P_Friendly.snd">[DT_SNO] Sound: "Play_IMP_Wood_Bite_3P_Friendly"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">SoundTableEntry</th></tr><tr><td><b>snoSoundFriendly</b></td><td><a href="..\Sound\Play_IMP_Metal_Sword_3P_Friendly.snd">[DT_SNO] Sound: "Play_IMP_Metal_Sword_3P_Friendly"</a></td></tr><tr><td><b>unk_48259c7</b></td><td><a href="..\Sound\Play_IMP_Wood_Sword_3P_Enemy.snd">[DT_SNO] Sound: "Play_IMP_Wood_Sword_3P_Enemy"</a></td></tr><tr><td><b>dwFlags</b></td><td><code>7</code></td></tr><tr><td><b>dwID</b></td><td><code>1</code></td></tr><tr><td><b>szTag</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_IMP_Wood_Sword_1P.snd">[DT_SNO] Sound: "Play_IMP_Wood_Sword_1P"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">SoundTableEntry</th></tr><tr><td><b>dwID</b></td><td><code>2</code></td></tr><tr><td><b>szTag</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_IMP_Wood_Mace_1P.snd">[DT_SNO] Sound: "Play_IMP_Wood_Mace_1P"</a></td></tr><tr><td><b>snoSoundFriendly</b></td><td><a href="..\Sound\Play_IMP_Wood_Mace_3P_Friendly.snd">[DT_SNO] Sound: "Play_IMP_Wood_Mace_3P_Friendly"</a></td></tr><tr><td><b>unk_48259c7</b></td><td><a href="..\Sound\Play_IMP_Wood_Mace_3P_Enemy.snd">[DT_SNO] Sound: "Play_IMP_Wood_Mace_3P_Enemy"</a></td></tr><tr><td><b>dwFlags</b></td><td><code>7</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">SoundTableEntry</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_IMP_Wood_Dagger_1P.snd">[DT_SNO] Sound: "Play_IMP_Wood_Dagger_1P"</a></td></tr><tr><td><b>snoSoundFriendly</b></td><td><a href="..\Sound\Play_IMP_Wood_Dagger_3P_Friendly.snd">[DT_SNO] Sound: "Play_IMP_Wood_Dagger_3P_Friendly"</a></td></tr><tr><td><b>unk_48259c7</b></td><td><a href="..\Sound\Play_IMP_Wood_Dagger_3P_Enemy.snd">[DT_SNO] Sound: "Play_IMP_Wood_Dagger_3P_Enemy"</a></td></tr><tr><td><b>dwFlags</b></td><td><code>7</code></td></tr><tr><td><b>dwID</b></td><td><code>14</code></td></tr><tr><td><b>szTag</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">SoundTableEntry</th></tr><tr><td><b>unk_48259c7</b></td><td><a href="..\Sound\Play_IMP_Wood_Fire_3P_Enemy.snd">[DT_SNO] Sound: "Play_IMP_Wood_Fire_3P_Enemy"</a></td></tr><tr><td><b>dwFlags</b></td><td><code>7</code></td></tr><tr><td><b>dwID</b></td><td><code>5</code></td></tr><tr><td><b>szTag</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_IMP_Wood_Fire_1P.snd">[DT_SNO] Sound: "Play_IMP_Wood_Fire_1P"</a></td></tr><tr><td><b>snoSoundFriendly</b></td><td><a href="..\Sound\Play_IMP_Wood_Fire_3P_Friendly.snd">[DT_SNO] Sound: "Play_IMP_Wood_Fire_3P_Friendly"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">SoundTableEntry</th></tr><tr><td><b>szTag</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_IMP_Wood_HTH_1P.snd">[DT_SNO] Sound: "Play_IMP_Wood_HTH_1P"</a></td></tr><tr><td><b>snoSoundFriendly</b></td><td><a href="..\Sound\Play_IMP_Wood_HTH_3P_Friendly.snd">[DT_SNO] Sound: "Play_IMP_Wood_HTH_3P_Friendly"</a></td></tr><tr><td><b>unk_48259c7</b></td><td><a href="..\Sound\Play_IMP_Wood_HTH_3P_Enemy.snd">[DT_SNO] Sound: "Play_IMP_Wood_HTH_3P_Enemy"</a></td></tr><tr><td><b>dwFlags</b></td><td><code>7</code></td></tr><tr><td><b>dwID</b></td><td><code>3</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">SoundTableEntry</th></tr><tr><td><b>snoSoundFriendly</b></td><td><a href="..\Sound\Play_IMP_Wood_Ice_3P_Friendly.snd">[DT_SNO] Sound: "Play_IMP_Wood_Ice_3P_Friendly"</a></td></tr><tr><td><b>unk_48259c7</b></td><td><a href="..\Sound\Play_IMP_Wood_Ice_3P_Enemy.snd">[DT_SNO] Sound: "Play_IMP_Wood_Ice_3P_Enemy"</a></td></tr><tr><td><b>dwFlags</b></td><td><code>7</code></td></tr><tr><td><b>dwID</b></td><td><code>6</code></td></tr><tr><td><b>szTag</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_IMP_Wood_Ice_1P.snd">[DT_SNO] Sound: "Play_IMP_Wood_Ice_1P"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">SoundTableEntry</th></tr><tr><td><b>dwFlags</b></td><td><code>7</code></td></tr><tr><td><b>dwID</b></td><td><code>9</code></td></tr><tr><td><b>szTag</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">SoundTableEntry</th></tr><tr><td><b>unk_48259c7</b></td><td><a href="..\Sound\Play_IMP_Wood_Lightning_3P_Enemy.snd">[DT_SNO] Sound: "Play_IMP_Wood_Lightning_3P_Enemy"</a></td></tr><tr><td><b>dwFlags</b></td><td><code>7</code></td></tr><tr><td><b>dwID</b></td><td><code>7</code></td></tr><tr><td><b>szTag</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_IMP_Wood_Lightning_1P.snd">[DT_SNO] Sound: "Play_IMP_Wood_Lightning_1P"</a></td></tr><tr><td><b>snoSoundFriendly</b></td><td><a href="..\Sound\Play_IMP_Wood_Lightning_3P_Friendly.snd">[DT_SNO] Sound: "Play_IMP_Wood_Lightning_3P_Friendly"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">SoundTableEntry</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_IMP_Wood_Physical_1P.snd">[DT_SNO] Sound: "Play_IMP_Wood_Physical_1P"</a></td></tr><tr><td><b>snoSoundFriendly</b></td><td><a href="..\Sound\Play_IMP_Wood_Physical_3P_Friendly.snd">[DT_SNO] Sound: "Play_IMP_Wood_Physical_3P_Friendly"</a></td></tr><tr><td><b>unk_48259c7</b></td><td><a href="..\Sound\Play_IMP_Wood_Physical_3P_Enemy.snd">[DT_SNO] Sound: "Play_IMP_Wood_Physical_3P_Enemy"</a></td></tr><tr><td><b>dwFlags</b></td><td><code>7</code></td></tr><tr><td><b>dwID</b></td><td><code>11</code></td></tr><tr><td><b>szTag</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">SoundTableEntry</th></tr><tr><td><b>dwID</b></td><td><code>8</code></td></tr><tr><td><b>szTag</b></td><td><code>0</code></td></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_IMP_Wood_Poison_1P.snd">[DT_SNO] Sound: "Play_IMP_Wood_Poison_1P"</a></td></tr><tr><td><b>snoSoundFriendly</b></td><td><a href="..\Sound\Play_IMP_Wood_Poison_3P_Friendly.snd">[DT_SNO] Sound: "Play_IMP_Wood_Poison_3P_Friendly"</a></td></tr><tr><td><b>unk_48259c7</b></td><td><a href="..\Sound\Play_IMP_Wood_Poison_3P_Enemy.snd">[DT_SNO] Sound: "Play_IMP_Wood_Poison_3P_Enemy"</a></td></tr><tr><td><b>dwFlags</b></td><td><code>7</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">SoundTableEntry</th></tr><tr><td><b>snoSound</b></td><td><a href="..\Sound\Play_IMP_Wood_Polearm_1P.snd">[DT_SNO] Sound: "Play_IMP_Wood_Polearm_1P"</a></td></tr><tr><td><b>snoSoundFriendly</b></td><td><a href="..\Sound\Play_IMP_Wood_Polearm_3P_Friendly.snd">[DT_SNO] Sound: "Play_IMP_Wood_Polearm_3P_Friendly"</a></td></tr><tr><td><b>unk_48259c7</b></td><td><a href="..\Sound\Play_IMP_Wood_Polearm_3P_Enemy.snd">[DT_SNO] Sound: "Play_IMP_Wood_Polearm_3P_Enemy"</a></td></tr><tr><td><b>dwFlags</b></td><td><code>7</code></td></tr><tr><td><b>dwID</b></td><td><code>13</code></td></tr><tr><td><b>szTag</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr><tr><td><b>tDefaultEntry</b></td><td><table><tr><th colspan="100%">SoundTableEntry</th></tr><tr><td><b>dwFlags</b></td><td><code>0</code></td></tr><tr><td><b>dwID</b></td><td><code>0</code></td></tr><tr><td><b>szTag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr></table>
+

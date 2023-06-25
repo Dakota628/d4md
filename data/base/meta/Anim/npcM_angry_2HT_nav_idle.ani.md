@@ -1,0 +1,823 @@
+<h1>data/base/meta/Anim/npcM_angry_2HT_nav_idle.ani</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/Anim/npcM_angry_2HT_nav_idle.ani</td></tr><tr><td><b>Type</b></td><td>AnimationDefinition</td></tr><tr><td><b>SNO ID</b></td><td>735543</td></tr></table>
+
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>snoAppearance</b></td><td><a href="..\Appearance\npcM_base_invisible.app">[DT_SNO] Appearance: "npcM_base_invisible"</a></td></tr><tr><td><b>arPermutationIndices</b></td><td><code>0</code>
+<code>1</code>
+<code>2</code>
+<code>3</code>
+<code>4</code>
+<code>5</code>
+<code>6</code>
+<code>7</code>
+<code>8</code>
+<code>9</code>
+<code>10</code>
+<code>11</code>
+<code>12</code>
+<code>13</code>
+<code>14</code>
+<code>15</code>
+<code>16</code>
+<code>17</code>
+<code>18</code>
+<code>19</code>
+<code>20</code>
+</td></tr><tr><td><b>dwNextID</b></td><td><code>40</code></td></tr><tr><td><b>dwFlags</b></td><td><code>1024</code></td></tr><tr><td><b>ePlaybackMode</b></td><td><code>2</code></td></tr><tr><td><b>eSelectionOrder</b></td><td><code>0</code></td></tr><tr><td><b>ptRepeatablePermutations</b></td><td><code>0</code>
+<code>1</code>
+<code>2</code>
+<code>3</code>
+<code>4</code>
+<code>5</code>
+<code>6</code>
+<code>7</code>
+<code>8</code>
+<code>9</code>
+<code>10</code>
+<code>11</code>
+<code>12</code>
+<code>13</code>
+<code>14</code>
+<code>15</code>
+<code>16</code>
+<code>17</code>
+<code>18</code>
+<code>19</code>
+<code>20</code>
+</td></tr><tr><td><b>unk_88ce6d6</b></td><td><code>0</code></td></tr><tr><td><b>unk_5316586</b></td><td><code>1</code></td></tr><tr><td><b>unk_38fab0d</b></td><td><code>0</code></td></tr><tr><td><b>unk_ba85a8e</b></td><td><code>0</code></td></tr><tr><td><b>unk_847be4d</b></td><td><code>0</code></td></tr><tr><td><b>ptPermutations</b></td><td><table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataOffset</b></td><td><code>32</code></td></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>nKeyframeCount</b></td><td><code>51</code></td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>uID</b></td><td><code>1</code></td></tr><tr><td><b>dwFlags</b></td><td><code>135170</code></td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle"</a></td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>uID</b></td><td><code>17</code></td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr><tr><td><b>dataOffset</b></td><td><code>36792</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>nKeyframeCount</b></td><td><code>76</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_areYouKiddingMe.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_areYouKiddingMe"</a></td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>4128</code></td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_comeOn.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_comeOn"</a></td></tr><tr><td><b>uID</b></td><td><code>18</code></td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr></table>
+
+</td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>4128</code></td></tr><tr><td><b>nKeyframeCount</b></td><td><code>81</code></td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataOffset</b></td><td><code>103664</code></td></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(-0.000000, -0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>uID</b></td><td><code>19</code></td></tr><tr><td><b>dwFlags</b></td><td><code>528416</code></td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_disappointedBartering.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_disappointedBartering"</a></td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr><tr><td><b>dataOffset</b></td><td><code>174240</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>nKeyframeCount</b></td><td><code>119</code></td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>dwFlags</b></td><td><code>528416</code></td></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_disgruntleBarter.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_disgruntleBarter"</a></td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>nKeyframeCount</b></td><td><code>115</code></td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>uID</b></td><td><code>20</code></td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr><tr><td><b>dataOffset</b></td><td><code>252032</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_footStomp_01.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_footStomp_01"</a></td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataOffset</b></td><td><code>367264</code></td></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>uID</b></td><td><code>21</code></td></tr><tr><td><b>dwFlags</b></td><td><code>528416</code></td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>nKeyframeCount</b></td><td><code>88</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>528416</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>uID</b></td><td><code>22</code></td></tr><tr><td><b>nKeyframeCount</b></td><td><code>57</code></td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_footStomp_02.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_footStomp_02"</a></td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataOffset</b></td><td><code>410120</code></td></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>528416</code></td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_giveUp.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_giveUp"</a></td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>nKeyframeCount</b></td><td><code>69</code></td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>uID</b></td><td><code>23</code></td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataOffset</b></td><td><code>459200</code></td></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>uID</b></td><td><code>25</code></td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>nKeyframeCount</b></td><td><code>55</code></td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataOffset</b></td><td><code>523976</code></td></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_insult.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_insult"</a></td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>528416</code></td></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>dwFlags</b></td><td><code>528416</code></td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>uID</b></td><td><code>26</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>nKeyframeCount</b></td><td><code>86</code></td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr><tr><td><b>dataOffset</b></td><td><code>585192</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
+
+</td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_kickdirt.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_kickdirt"</a></td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataOffset</b></td><td><code>636544</code></td></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr><tr><td><b>uID</b></td><td><code>27</code></td></tr><tr><td><b>dwFlags</b></td><td><code>528416</code></td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>nKeyframeCount</b></td><td><code>85</code></td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_lookAround.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_lookAround"</a></td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>uID</b></td><td><code>28</code></td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataOffset</b></td><td><code>686656</code></td></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>nKeyframeCount</b></td><td><code>128</code></td></tr><tr><td><b>dwFlags</b></td><td><code>528416</code></td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_messedInTheHead.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_messedInTheHead"</a></td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>nKeyframeCount</b></td><td><code>81</code></td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataOffset</b></td><td><code>777320</code></td></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_noWay_01.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_noWay_01"</a></td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>528416</code></td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>uID</b></td><td><code>29</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>uID</b></td><td><code>30</code></td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>nKeyframeCount</b></td><td><code>81</code></td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>dwFlags</b></td><td><code>528416</code></td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataOffset</b></td><td><code>839968</code></td></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
+
+</td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_noWay_02.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_noWay_02"</a></td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>nKeyframeCount</b></td><td><code>87</code></td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>uID</b></td><td><code>31</code></td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_riot.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_riot"</a></td></tr><tr><td><b>dwFlags</b></td><td><code>528424</code></td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataOffset</b></td><td><code>906688</code></td></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
+
+</td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataOffset</b></td><td><code>985832</code></td></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_thisGuy.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_thisGuy"</a></td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>uID</b></td><td><code>32</code></td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>nKeyframeCount</b></td><td><code>209</code></td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>528416</code></td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>nKeyframeCount</b></td><td><code>59</code></td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataOffset</b></td><td><code>1092288</code></td></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_unacceptable.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_unacceptable"</a></td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>uID</b></td><td><code>33</code></td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>dwFlags</b></td><td><code>528416</code></td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>528416</code></td></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>nKeyframeCount</b></td><td><code>109</code></td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>uID</b></td><td><code>34</code></td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataOffset</b></td><td><code>1133632</code></td></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_wannaFight.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_wannaFight"</a></td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataOffset</b></td><td><code>1187944</code></td></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
+
+</td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_why.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_why"</a></td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr><tr><td><b>dwFlags</b></td><td><code>528416</code></td></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>nKeyframeCount</b></td><td><code>171</code></td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>uID</b></td><td><code>35</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>nKeyframeCount</b></td><td><code>56</code></td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>uID</b></td><td><code>37</code></td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataOffset</b></td><td><code>1280416</code></td></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_wth.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_wth"</a></td></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>dwFlags</b></td><td><code>528416</code></td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimPermutation</th></tr><tr><td><b>uID</b></td><td><code>39</code></td></tr><tr><td><b>unk_f2bdc14</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>nBoneCount</b></td><td><code>186</code></td></tr><tr><td><b>ePhasePlaybackMode</b></td><td><code>0</code></td></tr><tr><td><b>unk_f219e46</b></td><td><code>1</code></td></tr><tr><td><b>unk_b4c58a6</b></td><td><code>0</code></td></tr><tr><td><b>unk_57d4879</b></td><td><table><tr><th colspan="100%">PRTransform</th></tr><tr><td><b>q</b></td><td><table><tr><th colspan="100%">bcQuat</th></tr><tr><td><b>x</b></td><td><code>0</code></td></tr><tr><td><b>y</b></td><td><code>0</code></td></tr><tr><td><b>z</b></td><td><code>0</code></td></tr><tr><td><b>w</b></td><td><code>0.9999998807907104</code></td></tr></table>
+
+</td></tr><tr><td><b>wp</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+</td></tr><tr><td><b>unk_f14b63c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_41ae864</b></td><td><code>1</code></td></tr><tr><td><b>unk_4b39bee</b></td><td></td></tr><tr><td><b>wvAvgVel</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>pnAnimToStructure</b></td><td><code>0</code></td></tr><tr><td><b>flCompression</b></td><td><code>3</code></td></tr><tr><td><b>unk_fe5755e</b></td><td><code>0.12999999523162842</code></td></tr><tr><td><b>dwWeight</b></td><td><code>100</code></td></tr><tr><td><b>eAnimationScalingType</b></td><td><code>0</code></td></tr><tr><td><b>unk_bb41f8</b></td><td><code>1.2000000476837158</code></td></tr><tr><td><b>unk_779d247</b></td><td><code>-1</code></td></tr><tr><td><b>unk_a3acec8</b></td><td><code>0</code></td></tr><tr><td><b>arFacingWindows</b></td><td></td></tr><tr><td><b>unk_3068b27</b></td><td><code>1</code></td></tr><tr><td><b>unk_536659a</b></td><td><code>0</code></td></tr><tr><td><b>unk_bd4a157</b></td><td><code>1</code></td></tr><tr><td><b>unk_2e355dd</b></td><td><code>0</code></td></tr><tr><td><b>flFrameRate</b></td><td><code>30</code></td></tr><tr><td><b>ptPayloadData</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">AnimPayloadData</th></tr><tr><td><b>dataOffset</b></td><td><code>1345392</code></td></tr><tr><td><b>dataSize</b></td><td><code>208</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr></table>
+
+</td></tr><tr><td><b>arContactFrames</b></td><td><table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+<table><tr><th colspan="100%">AnimContactFrame</th></tr><tr><td><b>nFrameNumber</b></td><td><code>-1</code></td></tr><tr><td><b>vLocalOffset</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr></table>
+
+
+</td></tr><tr><td><b>arIKFrames</b></td><td></td></tr><tr><td><b>unk_c61b9d1</b></td><td><code>1</code></td></tr><tr><td><b>unk_4f89e54</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_e774a13</b></td><td><code>0</code></td></tr><tr><td><b>eBlendCurve</b></td><td><code>1</code></td></tr><tr><td><b>arInterruptFrames</b></td><td><code>-1</code>
+<code>-1</code>
+<code>-1</code>
+<code>0</code>
+</td></tr><tr><td><b>unk_ddce6df</b></td><td><code>-1</code></td></tr><tr><td><b>unk_40c83b5</b></td><td><code>0.20000000298023224</code></td></tr><tr><td><b>unk_acf4ed5</b></td><td><code>0</code></td></tr><tr><td><b>snoEffectGroup</b></td><td><a href="..\EffectGroup\npcM_Angry_2HT_nav_idle_fistSlam.efg">[DT_SNO] EffectGroup: "npcM_Angry_2HT_nav_idle_fistSlam"</a></td></tr><tr><td><b>unk_96cb676</b></td><td><code>0.10000000149011612</code></td></tr><tr><td><b>nKeyframeCount</b></td><td><code>83</code></td></tr><tr><td><b>tHardpointLink</b></td><td><table><tr><th colspan="100%">HardpointLink</th></tr><tr><td><b>tInfo</b></td><td><table><tr><th colspan="100%">HardpointInfo</th></tr><tr><td><b>dwHash</b></td><td><code>0</code></td></tr><tr><td><b>dwHashFlag</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwFlags</b></td><td><code>528416</code></td></tr><tr><td><b>dwBlendTime</b></td><td><code>0.13333334028720856</code></td></tr><tr><td><b>tPhaseName</b></td><td><code>0</code></td></tr><tr><td><b>unk_75e1ebe</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>rangeValue1</b></td><td><code>-1</code></td></tr><tr><td><b>rangeValue2</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr></table>
+

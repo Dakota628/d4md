@@ -1,0 +1,24 @@
+<h1>data/base/meta/Texture/2DUI_HorizontalDividerSpiked.tex</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/Texture/2DUI_HorizontalDividerSpiked.tex</td></tr><tr><td><b>Type</b></td><td>TextureDefinition</td></tr><tr><td><b>SNO ID</b></td><td>603803</td></tr></table>
+
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>dwVolumeXSlices</b></td><td><code>1</code></td></tr><tr><td><b>dwWidth</b></td><td><code>280</code></td></tr><tr><td><b>dwMipMapLevelMax</b></td><td><code>1</code></td></tr><tr><td><b>serTex</b></td><td><table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>0</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>87040</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>26112</code></td></tr><tr><td><b>dwOffset</b></td><td><code>87040</code></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_20823c1</b></td><td></td></tr><tr><td><b>eTexFormat</b></td><td><code>49</code></td></tr><tr><td><b>dwVolumeYSlices</b></td><td><code>1</code></td></tr><tr><td><b>dwFaceCount</b></td><td><code>1</code></td></tr><tr><td><b>dwMipMapLevelMin</b></td><td><code>0</code></td></tr><tr><td><b>pHotspot</b></td><td>Vector(0.000000, 0.000000)</td></tr><tr><td><b>ptFrame</b></td><td><table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>hImageHandle</b></td><td><code>1297252667</code></td></tr><tr><td><b>flU0</b></td><td><code>0.0035714285913854837</code></td></tr><tr><td><b>flV0</b></td><td><code>0.2867647111415863</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0.014285714365541935</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0.29411765933036804</code></td></tr><tr><td><b>flU1</b></td><td><code>0.9821428656578064</code></td></tr><tr><td><b>flV1</b></td><td><code>0.5625</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>0.9821428656578064</code></td></tr><tr><td><b>unk_8082015</b></td><td><code>0.5551470518112183</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>hImageHandle</b></td><td><code>4002674719</code></td></tr><tr><td><b>flU0</b></td><td><code>0.0035714285913854837</code></td></tr><tr><td><b>flV0</b></td><td><code>0.7205882668495178</code></td></tr><tr><td><b>flU1</b></td><td><code>0.4178571403026581</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0.7205882668495178</code></td></tr><tr><td><b>unk_8082015</b></td><td><code>0.9963235259056091</code></td></tr><tr><td><b>flV1</b></td><td><code>0.9963235259056091</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0.0035714285913854837</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>0.4178571403026581</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>flV0</b></td><td><code>0.0036764706019312143</code></td></tr><tr><td><b>flV1</b></td><td><code>0.27941176295280457</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0.011029412038624287</code></td></tr><tr><td><b>hImageHandle</b></td><td><code>4161892430</code></td></tr><tr><td><b>flU0</b></td><td><code>0.0035714285913854837</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>0.9750000238418579</code></td></tr><tr><td><b>unk_8082015</b></td><td><code>0.2720588147640228</code></td></tr><tr><td><b>flU1</b></td><td><code>0.985714316368103</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0.0035714285913854837</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>flU0</b></td><td><code>0.0035714285913854837</code></td></tr><tr><td><b>flU1</b></td><td><code>0.9750000238418579</code></td></tr><tr><td><b>flV1</b></td><td><code>0.7132353186607361</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0.0035714285913854837</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0.5698529481887817</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>0.9750000238418579</code></td></tr><tr><td><b>unk_8082015</b></td><td><code>0.7132353186607361</code></td></tr><tr><td><b>hImageHandle</b></td><td><code>1296965067</code></td></tr><tr><td><b>flV0</b></td><td><code>0.5698529481887817</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwHeight</b></td><td><code>272</code></td></tr><tr><td><b>dwDepth</b></td><td><code>1</code></td></tr><tr><td><b>dwImportFlags</b></td><td><code>67111425</code></td></tr><tr><td><b>unk_dc7d39c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>g</b></td><td><code>0.16930162906646729</code></td></tr><tr><td><b>b</b></td><td><code>0.16923660039901733</code></td></tr><tr><td><b>a</b></td><td><code>1.3742755651474</code></td></tr><tr><td><b>r</b></td><td><code>0.1682939976453781</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_d27620</b></td><td><code>0</code></td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr></table>
+

@@ -1,0 +1,12 @@
+<h1>data/base/meta/Texture/2DInventory_Bundle_Promo_Steel.tex</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/Texture/2DInventory_Bundle_Promo_Steel.tex</td></tr><tr><td><b>Type</b></td><td>TextureDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1449969</td></tr></table>
+
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>eTexFormat</b></td><td><code>49</code></td></tr><tr><td><b>dwWidth</b></td><td><code>152</code></td></tr><tr><td><b>dwImportFlags</b></td><td><code>2576</code></td></tr><tr><td><b>unk_dc7d39c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>a</b></td><td><code>1.2431443929672241</code></td></tr><tr><td><b>r</b></td><td><code>0.05828455463051796</code></td></tr><tr><td><b>g</b></td><td><code>0.043527405709028244</code></td></tr><tr><td><b>b</b></td><td><code>0.03688780590891838</code></td></tr></table>
+
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>unk_d27620</b></td><td><code>0</code></td></tr><tr><td><b>pHotspot</b></td><td>Vector(0.000000, 0.000000)</td></tr><tr><td><b>ptFrame</b></td><td><table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>flV0</b></td><td><code>0.004310344811528921</code></td></tr><tr><td><b>flV1</b></td><td><code>0.9741379022598267</code></td></tr><tr><td><b>unk_8082015</b></td><td><code>0.9655172228813171</code></td></tr><tr><td><b>flU0</b></td><td><code>0.00657894741743803</code></td></tr><tr><td><b>flU1</b></td><td><code>0.9934210777282715</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0.07236842066049576</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0.08620689809322357</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>0.9276315569877625</code></td></tr><tr><td><b>hImageHandle</b></td><td><code>776928724</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwVolumeXSlices</b></td><td><code>1</code></td></tr><tr><td><b>dwVolumeYSlices</b></td><td><code>1</code></td></tr><tr><td><b>dwDepth</b></td><td><code>1</code></td></tr><tr><td><b>dwFaceCount</b></td><td><code>1</code></td></tr><tr><td><b>dwMipMapLevelMax</b></td><td><code>0</code></td></tr><tr><td><b>unk_20823c1</b></td><td></td></tr><tr><td><b>dwHeight</b></td><td><code>232</code></td></tr><tr><td><b>dwMipMapLevelMin</b></td><td><code>0</code></td></tr><tr><td><b>serTex</b></td><td><table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>44544</code></td></tr><tr><td><b>dwOffset</b></td><td><code>0</code></td></tr></table>
+
+
+</td></tr></table>
+

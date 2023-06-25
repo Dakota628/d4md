@@ -1,0 +1,25 @@
+<h1>data/enUS_Text/meta/StringList/Achievement_OpenWorld_III_AllLostCaches.stl</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/enUS_Text/meta/StringList/Achievement_OpenWorld_III_AllLostCaches.stl</td></tr><tr><td><b>Type</b></td><td>StringListDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1104435</td></tr></table>
+
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>arStrings</b></td><td><table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>4062401</code></td></tr><tr><td><b>szLabel</b></td><td><code>Name</code></td></tr><tr><td><b>szText</b></td><td><code>Altar of Lilith Collector</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>hLabel</b></td><td><code>3707583</code></td></tr><tr><td><b>szLabel</b></td><td><code>Desc</code></td></tr><tr><td><b>szText</b></td><td><code>Claim all Altars of Lilith.</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_234416</code></td></tr><tr><td><b>szText</b></td><td><code>Dry Steppes</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034177637</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_1</code></td></tr><tr><td><b>szText</b></td><td><code>Fractured Peaks</code></td></tr><tr><td><b>hLabel</b></td><td><code>4013501794</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_234663</code></td></tr><tr><td><b>szText</b></td><td><code>Hawezar</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034179977</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szLabel</b></td><td><code>Crit_234664</code></td></tr><tr><td><b>szText</b></td><td><code>Kehjistan</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034179978</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">StringTableEntry</th></tr><tr><td><b>szText</b></td><td><code>Scosglen</code></td></tr><tr><td><b>hLabel</b></td><td><code>1034179979</code></td></tr><tr><td><b>szLabel</b></td><td><code>Crit_234665</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptMapStringTable</b></td><td><code>0</code></td></tr></table>
+

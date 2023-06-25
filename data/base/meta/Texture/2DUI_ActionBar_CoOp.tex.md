@@ -1,0 +1,24 @@
+<h1>data/base/meta/Texture/2DUI_ActionBar_CoOp.tex</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/Texture/2DUI_ActionBar_CoOp.tex</td></tr><tr><td><b>Type</b></td><td>TextureDefinition</td></tr><tr><td><b>SNO ID</b></td><td>356887</td></tr></table>
+
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>dwVolumeYSlices</b></td><td><code>1</code></td></tr><tr><td><b>dwMipMapLevelMax</b></td><td><code>1</code></td></tr><tr><td><b>pHotspot</b></td><td>Vector(0.000000, 0.000000)</td></tr><tr><td><b>serTex</b></td><td><table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>0</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>258048</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">SerializeData</th></tr><tr><td><b>dwOffset</b></td><td><code>258048</code></td></tr><tr><td><b>dwSizeAndFlags</b></td><td><code>64512</code></td></tr></table>
+
+
+</td></tr><tr><td><b>dwWidth</b></td><td><code>464</code></td></tr><tr><td><b>ptFrame</b></td><td><table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>flV0</b></td><td><code>0.6884921193122864</code></td></tr><tr><td><b>flV1</b></td><td><code>0.900793731212616</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0.5754310488700867</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0.6884921193122864</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>0.806034505367279</code></td></tr><tr><td><b>unk_8082015</b></td><td><code>0.900793731212616</code></td></tr><tr><td><b>hImageHandle</b></td><td><code>2243678070</code></td></tr><tr><td><b>flU0</b></td><td><code>0.5754310488700867</code></td></tr><tr><td><b>flU1</b></td><td><code>0.806034505367279</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>flU0</b></td><td><code>0.3405172526836395</code></td></tr><tr><td><b>flV1</b></td><td><code>0.900793731212616</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0.3405172526836395</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>0.5711206793785095</code></td></tr><tr><td><b>unk_8082015</b></td><td><code>0.900793731212616</code></td></tr><tr><td><b>hImageHandle</b></td><td><code>2652858106</code></td></tr><tr><td><b>flV0</b></td><td><code>0.6884921193122864</code></td></tr><tr><td><b>flU1</b></td><td><code>0.5711206793785095</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0.6884921193122864</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>hImageHandle</b></td><td><code>2459023165</code></td></tr><tr><td><b>flU0</b></td><td><code>0.0021551724057644606</code></td></tr><tr><td><b>flV0</b></td><td><code>0.6884921193122864</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0.0021551724057644606</code></td></tr><tr><td><b>flU1</b></td><td><code>0.3362068831920624</code></td></tr><tr><td><b>flV1</b></td><td><code>0.9861111640930176</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0.6884921193122864</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>0.3362068831920624</code></td></tr><tr><td><b>unk_8082015</b></td><td><code>0.9861111640930176</code></td></tr></table>
+
+
+<table><tr><th colspan="100%">TexFrame</th></tr><tr><td><b>unk_8082015</b></td><td><code>0.6845238208770752</code></td></tr><tr><td><b>flU0</b></td><td><code>0.0021551724057644606</code></td></tr><tr><td><b>flU1</b></td><td><code>0.993534505367279</code></td></tr><tr><td><b>flV1</b></td><td><code>0.6845238208770752</code></td></tr><tr><td><b>unk_8081ff3</b></td><td><code>0.0021551724057644606</code></td></tr><tr><td><b>unk_8081ff4</b></td><td><code>0.993534505367279</code></td></tr><tr><td><b>hImageHandle</b></td><td><code>836901572</code></td></tr><tr><td><b>flV0</b></td><td><code>0.0019841270986944437</code></td></tr><tr><td><b>unk_8082014</b></td><td><code>0.0019841270986944437</code></td></tr></table>
+
+
+</td></tr><tr><td><b>ptPostprocessed</b></td><td><code>0</code></td></tr><tr><td><b>dwVolumeXSlices</b></td><td><code>1</code></td></tr><tr><td><b>dwMipMapLevelMin</b></td><td><code>0</code></td></tr><tr><td><b>unk_d27620</b></td><td><code>0</code></td></tr><tr><td><b>unk_dc7d39c</b></td><td><table><tr><th colspan="100%">Fields</th></tr><tr><td><b>g</b></td><td><code>0.3395980894565582</code></td></tr><tr><td><b>b</b></td><td><code>0.36187314987182617</code></td></tr><tr><td><b>a</b></td><td><code>1.2053025960922241</code></td></tr><tr><td><b>r</b></td><td><code>0.4208654463291168</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_20823c1</b></td><td></td></tr><tr><td><b>eTexFormat</b></td><td><code>49</code></td></tr><tr><td><b>dwHeight</b></td><td><code>504</code></td></tr><tr><td><b>dwDepth</b></td><td><code>1</code></td></tr><tr><td><b>dwFaceCount</b></td><td><code>1</code></td></tr><tr><td><b>dwImportFlags</b></td><td><code>67111425</code></td></tr></table>
+

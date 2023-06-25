@@ -1,0 +1,4 @@
+<h1>data/base/meta/MarkingShape/Necromancer_bodyMarking_02.msh</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/MarkingShape/Necromancer_bodyMarking_02.msh</td></tr><tr><td><b>Type</b></td><td>MarkingShapeDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1023036</td></tr></table>
+
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>eClassRestriction</b></td><td><code>4</code></td></tr><tr><td><b>flEmissiveStrength</b></td><td><code>0</code></td></tr><tr><td><b>hIconImage</b></td><td><code>3921331705</code></td></tr><tr><td><b>snoMaskFace</b></td><td><a href="..\Texture\global_bodyMarking_HED_nec02.tex">[DT_SNO] Texture: "global_bodyMarking_HED_nec02"</a></td></tr><tr><td><b>snoMaskBody</b></td><td><a href="..\Texture\global_bodyMarking_BOD_nec02.tex">[DT_SNO] Texture: "global_bodyMarking_BOD_nec02"</a></td></tr></table>
+

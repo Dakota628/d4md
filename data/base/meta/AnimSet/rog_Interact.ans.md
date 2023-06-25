@@ -1,0 +1,89 @@
+<h1>data/base/meta/AnimSet/rog_Interact.ans</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/AnimSet/rog_Interact.ans</td></tr><tr><td><b>Type</b></td><td>AnimSetDefinition</td></tr><tr><td><b>SNO ID</b></td><td>514921</td></tr></table>
+
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptWeaponClasses</b></td><td><code>0</code>
+</td></tr><tr><td><b>eAnimsetType</b></td><td><code>0</code></td></tr><tr><td><b>unk_b2a975f</b></td><td><table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_hth_event_use_resurrect.ani">[DT_SNO] Animation: "rogF_hth_event_use_resurrect"</a></td></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Player_Operate_Gizmo.pow">[DT_SNO] Power: "Player_Operate_Gizmo"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_hth_event_use_resurrect.ani">[DT_SNO] Animation: "rogM_hth_event_use_resurrect"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\duriel_boss_devour_sync_player.pow">[DT_SNO] Power: "duriel_boss_devour_sync_player"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_HTH_sync_duriel_devour.ani">[DT_SNO] Animation: "rogM_HTH_sync_duriel_devour"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_HTH_sync_duriel_devour.ani">[DT_SNO] Animation: "rogF_HTH_sync_duriel_devour"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\duriel_boss_devour_sync_player_short.pow">[DT_SNO] Power: "duriel_boss_devour_sync_player_short"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_HTH_sync_duriel_devour_short.ani">[DT_SNO] Animation: "rogM_HTH_sync_duriel_devour_short"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_HTH_sync_duriel_devour_short.ani">[DT_SNO] Animation: "rogF_HTH_sync_duriel_devour_short"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\PvP_OpenWorld_TurnHostileAction.pow">[DT_SNO] Power: "PvP_OpenWorld_TurnHostileAction"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_HTH_emote_PVP_hostile_intro.ani">[DT_SNO] Animation: "rogM_HTH_emote_PVP_hostile_intro"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_hth_emote_PVP_hostile_intro.ani">[DT_SNO] Animation: "rogF_hth_emote_PVP_hostile_intro"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="#UKNOWN">[DT_SNO] Power: %!q(<nil>)</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_hth_event_use_scroll.ani">[DT_SNO] Animation: "rogM_hth_event_use_scroll"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_hth_event_use_scroll.ani">[DT_SNO] Animation: "rogF_hth_event_use_scroll"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_hth_event_use_scroll.ani">[DT_SNO] Animation: "rogF_hth_event_use_scroll"</a></td></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Player_ScrollOfSummoning.pow">[DT_SNO] Power: "Player_ScrollOfSummoning"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_hth_event_use_scroll.ani">[DT_SNO] Animation: "rogM_hth_event_use_scroll"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_hth_event_use_generic.ani">[DT_SNO] Animation: "rogM_hth_event_use_generic"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_hth_event_use_generic.ani">[DT_SNO] Animation: "rogF_hth_event_use_generic"</a></td></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Gizmo_Operate_Generic.pow">[DT_SNO] Power: "Gizmo_Operate_Generic"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Headstone_Res_Assist.pow">[DT_SNO] Power: "Headstone_Res_Assist"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_hth_event_use_resurrect_HipFix.ani">[DT_SNO] Animation: "rogM_hth_event_use_resurrect_HipFix"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_hth_event_use_resurrect.ani">[DT_SNO] Animation: "rogF_hth_event_use_resurrect"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\UseSkillPointTome.pow">[DT_SNO] Power: "UseSkillPointTome"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_hth_event_use_generic.ani">[DT_SNO] Animation: "rogM_hth_event_use_generic"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_hth_event_use_generic.ani">[DT_SNO] Animation: "rogF_hth_event_use_generic"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Player_TownPortal.pow">[DT_SNO] Power: "Player_TownPortal"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_hth_event_use_scroll_HipFix.ani">[DT_SNO] Animation: "rogM_hth_event_use_scroll_HipFix"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_hth_event_use_scroll.ani">[DT_SNO] Animation: "rogF_hth_event_use_scroll"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="#UKNOWN">[DT_SNO] Power: %!q(<nil>)</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_hth_event_use_scroll.ani">[DT_SNO] Animation: "rogM_hth_event_use_scroll"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_hth_event_use_scroll.ani">[DT_SNO] Animation: "rogF_hth_event_use_scroll"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_hth_event_use_generic.ani">[DT_SNO] Animation: "rogF_hth_event_use_generic"</a></td></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Player_ScrollOfReplenishment.pow">[DT_SNO] Power: "Player_ScrollOfReplenishment"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_hth_event_use_generic.ani">[DT_SNO] Animation: "rogM_hth_event_use_generic"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Player_Pray_Intro.pow">[DT_SNO] Power: "Player_Pray_Intro"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_HTH_evnt_pray_intro.ani">[DT_SNO] Animation: "rogM_HTH_evnt_pray_intro"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_HTH_evnt_pray_intro.ani">[DT_SNO] Animation: "rogF_HTH_evnt_pray_intro"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Player_Pray_Loop.pow">[DT_SNO] Power: "Player_Pray_Loop"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_HTH_evnt_pray_loop.ani">[DT_SNO] Animation: "rogM_HTH_evnt_pray_loop"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_HTH_evnt_pray_loop.ani">[DT_SNO] Animation: "rogF_HTH_evnt_pray_loop"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_HTH_evnt_pray_outro.ani">[DT_SNO] Animation: "rogF_HTH_evnt_pray_outro"</a></td></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Player_Pray_Outro.pow">[DT_SNO] Power: "Player_Pray_Outro"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_HTH_evnt_pray_outro.ani">[DT_SNO] Animation: "rogM_HTH_evnt_pray_outro"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_Interact_Faint.pow">[DT_SNO] Power: "AnimKey_Interact_Faint"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_hth_event_faint_HipFix.ani">[DT_SNO] Animation: "rogM_hth_event_faint_HipFix"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_hth_event_faint.ani">[DT_SNO] Animation: "rogF_hth_event_faint"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Player_Event_Knockdown_WakeUp.pow">[DT_SNO] Power: "Player_Event_Knockdown_WakeUp"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_hth_reac_knockDown_HipFix.ani">[DT_SNO] Animation: "rogM_hth_reac_knockDown_HipFix"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_hth_reac_knockDown.ani">[DT_SNO] Animation: "rogF_hth_reac_knockDown"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Player_Event_Faint_WakeUp.pow">[DT_SNO] Power: "Player_Event_Faint_WakeUp"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_hth_event_faint.ani">[DT_SNO] Animation: "rogM_hth_event_faint"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_hth_event_faint.ani">[DT_SNO] Animation: "rogF_hth_event_faint"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_Vomit.pow">[DT_SNO] Power: "AnimKey_Vomit"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_HTH_event_vomit.ani">[DT_SNO] Animation: "rogM_HTH_event_vomit"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_HTH_event_vomit.ani">[DT_SNO] Animation: "rogF_HTH_event_vomit"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_Talk_LipSync.pow">[DT_SNO] Power: "AnimKey_Talk_LipSync"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_HTH_event_LipSync.ani">[DT_SNO] Animation: "rogM_HTH_event_LipSync"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_HTH_event_LipSync.ani">[DT_SNO] Animation: "rogF_HTH_event_LipSync"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_Talk_ADD_BasePose.pow">[DT_SNO] Power: "AnimKey_Talk_ADD_BasePose"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_HTH_event_LipSync_ADD.ani">[DT_SNO] Animation: "rogM_HTH_event_LipSync_ADD"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_HTH_event_LipSync_ADD.ani">[DT_SNO] Animation: "rogF_HTH_event_LipSync_ADD"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_Talk_Player.pow">[DT_SNO] Power: "AnimKey_Talk_Player"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_HTH_event_use_talk.ani">[DT_SNO] Animation: "rogM_HTH_event_use_talk"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_HTH_event_use_talk.ani">[DT_SNO] Animation: "rogF_HTH_event_use_talk"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_itemGive_player.pow">[DT_SNO] Power: "AnimKey_itemGive_player"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_HTH_itemGive.ani">[DT_SNO] Animation: "rogM_HTH_itemGive"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_hth_itemTake.ani">[DT_SNO] Animation: "rogF_hth_itemTake"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_ItemTake_player.pow">[DT_SNO] Power: "AnimKey_ItemTake_player"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_HTH_itemTake.ani">[DT_SNO] Animation: "rogM_HTH_itemTake"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_hth_event_use_itemTake.ani">[DT_SNO] Animation: "rogF_hth_event_use_itemTake"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Chair_Gizmo_Sit.pow">[DT_SNO] Power: "Chair_Gizmo_Sit"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_hth_use_sitChair.ani">[DT_SNO] Animation: "rogM_hth_use_sitChair"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_hth_use_sitChair.ani">[DT_SNO] Animation: "rogF_hth_use_sitChair"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Player_CampFlip.pow">[DT_SNO] Power: "Player_CampFlip"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_HTH_evnt_pray_PHASED.ani">[DT_SNO] Animation: "rogM_HTH_evnt_pray_PHASED"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_HTH_evnt_pray_PHASED.ani">[DT_SNO] Animation: "rogF_HTH_evnt_pray_PHASED"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_HTH_evnt_pray_loop.ani">[DT_SNO] Animation: "rogF_HTH_evnt_pray_loop"</a></td></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Player_Kneel_With_Observer.pow">[DT_SNO] Power: "Player_Kneel_With_Observer"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_HTH_evnt_pray_loop.ani">[DT_SNO] Animation: "rogM_HTH_evnt_pray_loop"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_Vomit_RosePetals.pow">[DT_SNO] Power: "AnimKey_Vomit_RosePetals"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\rogM_HTH_event_vomit_rosepetals.ani">[DT_SNO] Animation: "rogM_HTH_event_vomit_rosepetals"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\rogF_HTH_event_vomit_rosepetals.ani">[DT_SNO] Animation: "rogF_HTH_event_vomit_rosepetals"</a></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_d9dcd40</b></td><td></td></tr><tr><td><b>unk_4ff6b8e</b></td><td></td></tr></table>
+

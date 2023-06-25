@@ -1,0 +1,139 @@
+<h1>data/base/meta/MarkerSet/Cave_Base_N_Entrance_01 (Shared).mrk</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/MarkerSet/Cave_Base_N_Entrance_01 (Shared).mrk</td></tr><tr><td><b>Type</b></td><td>MarkerSetDefinition</td></tr><tr><td><b>SNO ID</b></td><td>168161</td></tr></table>
+
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptChunks</b></td><td><table><tr><th colspan="100%">Type_79fa66b0</th></tr><tr><td><b>unk_eaeca19</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_7a482be4</th></tr><tr><td><b>dataOffset</b></td><td><code>32</code></td></tr><tr><td><b>dataSize</b></td><td><code>792</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_7934bc2</b></td><td><table><tr><th colspan="100%">Type_cd5b4347</th></tr><tr><td><b>unk_69b6741</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097153</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_2f217b0</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(9.894238, 8.278885, 4.332947)</td></tr><tr><td><b>wvExt</b></td><td>Vector(12.380930, 10.883457, 11.542280)</td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_79fa66b0</th></tr><tr><td><b>unk_eaeca19</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_7a482be4</th></tr><tr><td><b>dataOffset</b></td><td><code>6240</code></td></tr><tr><td><b>dataSize</b></td><td><code>1008</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_7934bc2</b></td><td><table><tr><th colspan="100%">Type_cd5b4347</th></tr><tr><td><b>unk_69b6741</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097153</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_2f217b0</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(23.586914, 8.799543, 2.715536)</td></tr><tr><td><b>wvExt</b></td><td>Vector(11.682404, 10.418724, 12.781845)</td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_79fa66b0</th></tr><tr><td><b>unk_2f217b0</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wvExt</b></td><td>Vector(3.690623, 5.408863, 5.408679)</td></tr><tr><td><b>wp</b></td><td>Vector(32.929962, 9.206026, 3.379813)</td></tr></table>
+
+</td></tr><tr><td><b>unk_eaeca19</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_7a482be4</th></tr><tr><td><b>dataOffset</b></td><td><code>12912</code></td></tr><tr><td><b>dataSize</b></td><td><code>72</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_7934bc2</b></td><td><table><tr><th colspan="100%">Type_cd5b4347</th></tr><tr><td><b>unk_69b6741</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097153</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_79fa66b0</th></tr><tr><td><b>unk_7934bc2</b></td><td><table><tr><th colspan="100%">Type_cd5b4347</th></tr><tr><td><b>unk_69b6741</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097153</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_2f217b0</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(-0.257515, 26.284483, 2.256032)</td></tr><tr><td><b>wvExt</b></td><td>Vector(3.132762, 5.230196, 4.172920)</td></tr></table>
+
+</td></tr><tr><td><b>unk_eaeca19</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_7a482be4</th></tr><tr><td><b>dataOffset</b></td><td><code>13064</code></td></tr><tr><td><b>dataSize</b></td><td><code>72</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_79fa66b0</th></tr><tr><td><b>unk_eaeca19</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_7a482be4</th></tr><tr><td><b>dataOffset</b></td><td><code>13216</code></td></tr><tr><td><b>dataSize</b></td><td><code>504</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_7934bc2</b></td><td><table><tr><th colspan="100%">Type_cd5b4347</th></tr><tr><td><b>unk_69b6741</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097153</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_2f217b0</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(10.099486, 23.789431, -0.909550)</td></tr><tr><td><b>wvExt</b></td><td>Vector(12.956071, 11.134867, 8.209879)</td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_79fa66b0</th></tr><tr><td><b>unk_7934bc2</b></td><td><table><tr><th colspan="100%">Type_cd5b4347</th></tr><tr><td><b>unk_69b6741</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097153</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_2f217b0</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(18.710526, 20.743401, -3.547720)</td></tr><tr><td><b>wvExt</b></td><td>Vector(3.880405, 4.729122, 1.376888)</td></tr></table>
+
+</td></tr><tr><td><b>unk_eaeca19</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_7a482be4</th></tr><tr><td><b>dataOffset</b></td><td><code>17080</code></td></tr><tr><td><b>dataSize</b></td><td><code>144</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_79fa66b0</th></tr><tr><td><b>unk_2f217b0</b></td><td><code>0</code></td></tr><tr><td><b>aabbBounds</b></td><td><table><tr><th colspan="100%">AABB</th></tr><tr><td><b>wp</b></td><td>Vector(33.460430, 15.484339, 1.479252)</td></tr><tr><td><b>wvExt</b></td><td>Vector(4.510205, 5.281693, 4.785753)</td></tr></table>
+
+</td></tr><tr><td><b>unk_eaeca19</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">Type_7a482be4</th></tr><tr><td><b>dataSize</b></td><td><code>72</code></td></tr><tr><td><b>dataOffset</b></td><td><code>17456</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_7934bc2</b></td><td><table><tr><th colspan="100%">Type_cd5b4347</th></tr><tr><td><b>unk_69b6741</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097153</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr></table>
+
+</td></tr></table>
+
+
+</td></tr><tr><td><b>unk_2bbd1d</b></td><td><table><tr><th colspan="100%">Type_c8d78ce7</th></tr><tr><td><b>nDepth</b></td><td><code>0</code></td></tr><tr><td><b>nWidth</b></td><td><code>0</code></td></tr><tr><td><b>nHeight</b></td><td><code>0</code></td></tr><tr><td><b>dwPitch</b></td><td><code>0</code></td></tr><tr><td><b>wpOrigin</b></td><td>Vector(0.000000, 0.000000, 0.000000)</td></tr><tr><td><b>unk_dd3cf40</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097153</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_WORD</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_dd3cf3b</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097153</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_WORD</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>flGridSize</b></td><td><code>0</code></td></tr><tr><td><b>unk_aa0958e</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097153</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_WORD</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_aa0957e</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097153</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_WORD</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_dd3cf4b</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097153</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_WORD</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>dwSlicePitch</b></td><td><code>0</code></td></tr><tr><td><b>unk_4b236f4</b></td><td><code>0</code></td></tr><tr><td><b>unk_aa09583</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>__flags__</b></td><td><code>2097153</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_WORD</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr></table>
+
+</td></tr></table>
+
+</td></tr><tr><td><b>unk_69b6741</b></td><td><table><tr><th colspan="100%">DT_VARIABLEARRAY</th></tr><tr><td><b>value</b></td><td><table><tr><th colspan="100%">DT_BYTE</th></tr><tr><td><b>dataOffset</b></td><td><code>0</code></td></tr><tr><td><b>dataSize</b></td><td><code>0</code></td></tr></table>
+
+</td></tr><tr><td><b>__flags__</b></td><td><code>2097152</code></td></tr><tr><td><b>__external__</b></td><td><code>true</code></td></tr></table>
+
+</td></tr><tr><td><b>unk_2f217b0</b></td><td><code>-1</code></td></tr><tr><td><b>tMarkerSet</b></td><td></td></tr><tr><td><b>dwMarkerSetFlags</b></td><td><code>196869</code></td></tr><tr><td><b>unk_6458d11</b></td><td></td></tr><tr><td><b>unk_d0a9662</b></td><td><code>0</code></td></tr><tr><td><b>unk_6d7f2e9</b></td><td></td></tr><tr><td><b>unk_db67c2c</b></td><td><code>0</code></td></tr><tr><td><b>unk_a3613db</b></td><td></td></tr></table>
+

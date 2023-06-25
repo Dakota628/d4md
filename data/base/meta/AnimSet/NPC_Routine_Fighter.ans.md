@@ -1,0 +1,17 @@
+<h1>data/base/meta/AnimSet/NPC_Routine_Fighter.ans</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/AnimSet/NPC_Routine_Fighter.ans</td></tr><tr><td><b>Type</b></td><td>AnimSetDefinition</td></tr><tr><td><b>SNO ID</b></td><td>965417</td></tr></table>
+
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>ptWeaponClasses</b></td><td><code>0</code>
+</td></tr><tr><td><b>eAnimsetType</b></td><td><code>0</code></td></tr><tr><td><b>unk_b2a975f</b></td><td><table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_Ground_Sit_Crosslegged.pow">[DT_SNO] Power: "AnimKey_Ground_Sit_Crosslegged"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\npcM_base_HTH_evnt_ground_sit_crosslegged.ani">[DT_SNO] Animation: "npcM_base_HTH_evnt_ground_sit_crosslegged"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_Idle_Lean.pow">[DT_SNO] Power: "AnimKey_Idle_Lean"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\npcM_base_HTH_stand_listening.ani">[DT_SNO] Animation: "npcM_base_HTH_stand_listening"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Fighter_NPC_Attack.pow">[DT_SNO] Power: "Fighter_NPC_Attack"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\npcM_combat_HTH_attk_basic.ani">[DT_SNO] Animation: "npcM_combat_HTH_attk_basic"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\npcM_base_HTH_event_taunt.ani">[DT_SNO] Animation: "npcM_base_HTH_event_taunt"</a></td></tr><tr><td><b>snoFemaleOverrideAnim</b></td><td><a href="..\Anim\npcF_base_HTH_event_taunt.ani">[DT_SNO] Animation: "npcF_base_HTH_event_taunt"</a></td></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Generic_Taunt.pow">[DT_SNO] Power: "Generic_Taunt"</a></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_d9dcd40</b></td><td></td></tr><tr><td><b>unk_4ff6b8e</b></td><td></td></tr></table>
+

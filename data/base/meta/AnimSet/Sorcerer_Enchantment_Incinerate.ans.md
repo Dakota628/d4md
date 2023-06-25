@@ -1,0 +1,16 @@
+<h1>data/base/meta/AnimSet/Sorcerer_Enchantment_Incinerate.ans</h1><table><tr><th colspan="100%">Metadata</th></tr><tr><td><b>Name</b></td><td>data/base/meta/AnimSet/Sorcerer_Enchantment_Incinerate.ans</td></tr><tr><td><b>Type</b></td><td>AnimSetDefinition</td></tr><tr><td><b>SNO ID</b></td><td>1307022</td></tr></table>
+
+<table><tr><th colspan="100%">Fields</th></tr><tr><td><b>eAnimsetType</b></td><td><code>0</code></td></tr><tr><td><b>unk_b2a975f</b></td><td><table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Sorcerer_Enchantment_Incinerate_Focus_Target.pow">[DT_SNO] Power: "Sorcerer_Enchantment_Incinerate_Focus_Target"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\Sorcerer_Enchantment_Incinerate_Focus_Target.ani">[DT_SNO] Animation: "Sorcerer_Enchantment_Incinerate_Focus_Target"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_Neutral.pow">[DT_SNO] Power: "AnimKey_Neutral"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\Sorcerer_Enchantment_Incinerate_Focus_Target.ani">[DT_SNO] Animation: "Sorcerer_Enchantment_Incinerate_Focus_Target"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\hydra_incinerate_death.ani">[DT_SNO] Animation: "hydra_incinerate_death"</a></td></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\Death.pow">[DT_SNO] Power: "Death"</a></td></tr></table>
+
+
+<table><tr><th colspan="100%">Type_3a448b70</th></tr><tr><td><b>snoPower</b></td><td><a href="..\Power\AnimKey_Dead.pow">[DT_SNO] Power: "AnimKey_Dead"</a></td></tr><tr><td><b>snoAnim</b></td><td><a href="..\Anim\hydra_incinerate_death.ani">[DT_SNO] Animation: "hydra_incinerate_death"</a></td></tr></table>
+
+
+</td></tr><tr><td><b>unk_d9dcd40</b></td><td></td></tr><tr><td><b>unk_4ff6b8e</b></td><td></td></tr><tr><td><b>ptWeaponClasses</b></td><td></td></tr></table>
+
