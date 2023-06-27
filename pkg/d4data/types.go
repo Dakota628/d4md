@@ -269,6 +269,7 @@ type File struct {
 	Object
 	Name  string
 	SnoId int64
+	Raw__ gjson.Result
 }
 
 func IsFile(result gjson.Result) bool {
@@ -293,5 +294,6 @@ func NewFile(result gjson.Result) (*File, error) {
 		Object: obj,
 		Name:   result.Get(keyFileName).String(),
 		SnoId:  result.Get(keySnoId).Int(),
+		Raw__:  result,
 	}, nil
 }

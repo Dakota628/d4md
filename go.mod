@@ -10,6 +10,10 @@ require (
 )
 
 require (
+	github.com/awalterschulze/gographviz v2.0.3+incompatible // indirect
+	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.1 // indirect
+	github.com/windler/dotgraph v0.0.0-20181029120057-04e185ef91e0 // indirect
+	github.com/yourbasic/graph v0.0.0-20210606180040-8ecfec1c2869 // indirect
 )

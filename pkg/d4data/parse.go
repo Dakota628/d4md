@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	dataFilePattern = "*.json"
+	dataFilePattern = "*SecretCellar*.json" // TODO: back to *.json
 )
 
 type FilesById = *haxmap.Map[int64, *File]

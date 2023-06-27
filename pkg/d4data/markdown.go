@@ -1,9 +1,12 @@
 package d4data
 
 import (
+	"d4md/pkg/d4data/exp"
 	"d4md/pkg/markdown"
 	"errors"
 	"fmt"
+	"github.com/davecgh/go-spew/spew"
+	"github.com/windler/dotgraph/renderer"
 	"golang.org/x/exp/slog"
 	"io"
 	"os"
@@ -144,7 +147,18 @@ func ToMarkdown(v any, f *File, associations FilesById, g *markdown.Generator) e
 		}
 
 		// Fields
-		return fieldsToMarkdown(x.Fields, f, associations, g, "Fields")
+		if err := fieldsToMarkdown(x.Fields, f, associations, g, "Fields"); err != nil {
+			return err
+		}
+
+		// Quest phases
+		if x.Type.Name == fileTypeQuestDef {
+			if err := questToMarkdown(x.Fields, f, associations, g); err != nil {
+				return err
+			}
+		}
+
+		return nil
 	case Object:
 		return fieldsToMarkdown(x.Fields, f, associations, g, x.Type.String()) // TODO: add special cases for phases
 	case Ref:
@@ -238,4 +252,104 @@ func fieldsToMarkdown(
 	}
 
 	return nil
+}
+
+const (
+	fileTypeQuestDef = "QuestDefinition"
+
+	qdStartPhase      = "unk_942bcdb" // Maybe
+	qdPhases          = "arQuestPhases"
+	phaseCallbackSets = "arCallbackSets"
+	qdLink            = "ptLink"
+	linkNextPhase     = "unk_d17aff0"
+	qdPhaseId         = "dwUID"
+)
+
+func questToMarkdown(fields map[string]any, f *File, associations FilesById, g *markdown.Generator) error {
+	if err := g.H2("Quest Details (WIP)"); err != nil {
+		return err
+	}
+
+	if err := g.H3("Phase Order"); err != nil {
+		return err
+	}
+
+	qd, err := exp.ParseQuestDef(f.Raw__.Raw)
+	if err != nil {
+		return err
+	}
+
+	r := &renderer.PNGRenderer{
+		OutputFile: "graph.png",
+	}
+	r.Render(qd.Graph().String())
+
+	spew.Dump(qd)
+	return nil
+
+	//// Map all quest phases
+	//questPhaseById := make(map[int64]Object, 0)
+	//phaseGraph := graph.New("Phase Order")
+	//
+	//phases, ok := fields[qdPhases].([]any)
+	//if !ok {
+	//	return fmt.Errorf("failed to parse quest details (a): %#v", phases)
+	//}
+	//
+	//for _, phase := range phases {
+	//	phaseObj, ok := phase.(Object)
+	//	if !ok {
+	//		return errors.New("failed to parse quest details (b)")
+	//	}
+	//
+	//	currentPhase, ok := phaseObj.Fields[qdPhaseId].(float64)
+	//	if !ok {
+	//		return errors.New("failed to parse quest details (c)")
+	//	}
+	//
+	//	for _, callbackSet := range phaseObj.Fields[phaseCallbackSets].([]any) {
+	//		callbackSetObj := callbackSet.(Object)
+	//
+	//		links, ok := callbackSetObj.Fields[qdLink].([]any)
+	//		if !ok {
+	//			return errors.New("failed to parse quest details (d)")
+	//		}
+	//
+	//		for _, link := range links {
+	//			nextPhase, ok := link.(Object).Fields[linkNextPhase].(float64)
+	//			if !ok {
+	//				return errors.New("failed to parse quest details (e)")
+	//			}
+	//
+	//			questPhaseById[int64(currentPhase)] = phaseObj
+	//			phaseGraph.AddDirectedEdge(
+	//				strconv.FormatFloat(currentPhase, 'f', -1, 64),
+	//				strconv.FormatFloat(nextPhase, 'f', -1, 64),
+	//				"", // TODO: add attributes
+	//			)
+	//		}
+	//	}
+	//}
+	//
+	//r := &renderer.PNGRenderer{
+	//	OutputFile: "graph.png",
+	//}
+	//r.Render(phaseGraph.String())
+	//
+	////// Follow quest phase graph
+	////curr := fields[qdStartPhase].(int64)
+	////for {
+	////	// Print current
+	////	if err := ToMarkdown(questPhaseById[curr], f, associations, g); err != nil {
+	////		return err
+	////	}
+	////
+	////	// Get next
+	////	curr, ok = edges[curr]
+	////	if !ok {
+	////		break
+	////	}
+	////}
+	//
+	//return nil
 }
