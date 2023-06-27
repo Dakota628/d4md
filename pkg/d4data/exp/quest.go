@@ -52,7 +52,7 @@ type QuestObjectiveSet struct {
 }
 
 type Link struct {
-	DestinationPhaseUID int `json:"unk_d17aff0"` // dwDestinationPhaseUID
+	DestinationPhaseUID int `json:"dwDestinationPhaseUID"`
 }
 
 type QuestCallback struct {
